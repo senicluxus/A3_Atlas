@@ -175,6 +175,30 @@ class arifle_SPAR_02_blk_LRCO_Pointer_Bipod_Snds_F: arifle_SPAR_02_blk_F
 		};
 	};
 };
+//SPAR16 Khaki MRCO slcr
+class arifle_SPAR_01_khk_F;
+class arifle_SPAR_01_khk_mrco_snds_F: arifle_SPAR_01_khk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_MRCO;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+		class LinkedItemsMuzzle
+		{
+			slot = MuzzleSlot;
+			item = muzzle_snds_M;
+		};
+	};
+};
 // Mk14 7.62 mm (Classic) + Kahlia (Old) + Bipod (Black) [AAF]
 class srifle_DMR_06_hunter_khs_bipod_F: srifle_DMR_06_hunter_F
 {
@@ -977,6 +1001,117 @@ class arifle_AUG_GL_black_slcr_arco_F: arifle_AUG_GL_black_F
 		{
 			slot = MuzzleSlot;
 			item = muzzle_snds_M;
+		};
+	};
+};
+class arifle_Mk20_plain_F;
+class arifle_mk20_plain_arco_pointer_F: arifle_Mk20_plain_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_arco_blk_F;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+	};
+};
+class arifle_mk20_plain_holo_pointer_F: arifle_Mk20_plain_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_holosight;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+	};
+};
+class arifle_Mk20_gl_plain_F;
+class arifle_mk20_gl_plain_arco_pointer_F: arifle_Mk20_gl_plain_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_arco_blk_F;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+	};
+};
+class arifle_mk20_gl_plain_holo_pointer_F: arifle_Mk20_gl_plain_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_holosight;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+	};
+};
+class lmg_03_snd_F;
+class lmg_03_snd_holo: lmg_03_snd_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_holosight;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+	};
+};
+class arifle_scar_F;
+class arifle_scar_SV_F: arifle_scar_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_AMS;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+		class LinkedItemsUnder
+		{
+			slot = UnderBarrelSlot;
+			item = bipod_01_F_blk;
 		};
 	};
 };
