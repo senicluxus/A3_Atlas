@@ -2973,7 +2973,7 @@ class Atlas_I_I_Fighter_Pilot_F: Atlas_I_I_Soldier_Base_F
     role = Crewman;
 };
 
-/* BLUFOR IDF */
+/* BLUFOR IDF 
 class Atlas_B_I_Soldier_Base_F: Atlas_I_I_Soldier_Base_F
 {
 	faction = Atlas_BLU_I_F;
@@ -3259,3 +3259,4 @@ class Atlas_B_I_Fighter_Pilot_F: Atlas_I_I_Fighter_Pilot_F
 	faction = Atlas_BLU_I_F;
     side = TWest;
 };
+*/
