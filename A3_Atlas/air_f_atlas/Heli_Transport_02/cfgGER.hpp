@@ -194,7 +194,7 @@ class Atlas_B_G_Heli_Transport_02_F: Heli_Transport_02_base_F
 	};
 };
 
-/* Bundeswehr (Arid) */
+/* Bundeswehr (Arid) 
 class Atlas_B_G_Heli_Transport_02_ard_F: Atlas_B_G_Heli_Transport_02_F
 {
 	author = $STR_A3_A_AveryTheKitty;
@@ -363,3 +363,4 @@ class Atlas_B_G_Heli_Transport_02_ard_F: Atlas_B_G_Heli_Transport_02_F
 	typicalCargo[] = {Atlas_B_G_Helicrew_ard_F};
 	faction = Atlas_BLU_G_ard_F;
 };
+*/
