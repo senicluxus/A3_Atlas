@@ -73,14 +73,6 @@ class CfgFactionClasses
 		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\icon_ACR_CA.paa";
 		flag = "\A3_Atlas\Data_F_Atlas\Flags\flag_CZ_CO.paa";
 	};
-	class Atlas_BLU_I_F
-	{
-		displayName = $STR_A3_A_CfgFactionClasses_BLU_I_F0;
-		priority = 3;
-		side = TWest;
-		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\CfgFactionClasses_BLU_I_CA.paa";
-		flag = "\A3_Atlas\Data_F_Atlas\Flags\flag_Italy_CO.paa";
-	};
     */
 	class Atlas_OPF_T_F
 	{
@@ -120,6 +112,14 @@ class CfgFactionClasses
 		displayName = $STR_A3_A_CfgFactionClasses_IND_I_F0;
 		priority = 3;
 		side = TGuerrila;
+		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\icon_IDF_CA.paa";
+		flag = "\A3_Atlas\Data_F_Atlas\Flags\flag_IDF_CO.paa";
+	};
+	class Atlas_BLU_I_F
+	{
+		displayName = $STR_A3_A_CfgFactionClasses_IND_I_F0;
+		priority = 3;
+		side = TWest;
 		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\icon_IDF_CA.paa";
 		flag = "\A3_Atlas\Data_F_Atlas\Flags\flag_IDF_CO.paa";
 	};
