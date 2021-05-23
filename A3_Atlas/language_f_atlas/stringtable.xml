@@ -3528,6 +3528,23 @@
 					<Japanese>無線機パック（ジャングル）[HIMF]</Japanese>
 					<Turkish>Telsiz Paketi (Orman) [HIMF]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_commandos_F0">
+					<Original>Radio Pack (Jungle) [Commandos]</Original>
+					<Chinese>無線電背包（叢林）（Commandos）</Chinese>
+					<French>Sac à dos radio (jungle) [Commandos]</French>
+					<Spanish>Mochila para radio (jungla) [Commandos]</Spanish>
+					<Italian>Zaino per radio (giungla) [Commandos]</Italian>
+					<Polish>Plecak z radiostacją (dżungla) [Commandos]</Polish>
+					<Russian>Ранец радиста (джунгли) [Commandos]</Russian>
+					<German>Funkrucksack (Urwald) [Commandos]</German>
+					<Czech>Batoh s vysílačkou (džungle) [Commandos]</Czech>
+					<English>Radio Pack (Jungle) [Commandos]</English>
+					<Portuguese>Pacote de rádio (selva) [Commandos]</Portuguese>
+					<Korean>무전 팩 (정글) [Commandos]</Korean>
+					<Chinesesimp>无线电包（丛林）[Commandos]</Chinesesimp>
+					<Japanese>無線機パック（ジャングル）[Commandos]</Japanese>
+					<Turkish>Telsiz Paketi (Orman) [Commandos]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_Marar_F0">
 					<Original>Radio Pack [Marar]</Original>
 					<Chinese>無線電背包 [Marar]</Chinese>

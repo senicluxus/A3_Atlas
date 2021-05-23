@@ -879,19 +879,21 @@ class Atlas_B_H_Soldier_commando_F: Atlas_B_H_Soldier_Base_F
 	editorsubcategory = EdSubcat_Personnel_commandos;
 	weapons[] =
 	{
-		arifle_SPAR_01_khk_mrco_snds_F,
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
         DefaultManWeapons,
 		Binocular
 	};
 	respawnWeapons[] =
 	{
-		arifle_SPAR_01_khk_mrco_snds_F,
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
         DefaultManWeapons,
 		Binocular
 	};
 	magazines[] =
 	{
-        mag_10(30Rnd_556x45_Stanag_red),
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
         mag_2(16Rnd_9x21_Mag),
         mag_2(MiniGrenade),
         mag_2(SmokeShell),
@@ -899,7 +901,7 @@ class Atlas_B_H_Soldier_commando_F: Atlas_B_H_Soldier_Base_F
 	};
 	respawnMagazines[] =
 	{
-        mag_10(30Rnd_556x45_Stanag_red),
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
         mag_2(16Rnd_9x21_Mag),
         mag_2(MiniGrenade),
         mag_2(SmokeShell),
@@ -916,6 +918,470 @@ class Atlas_B_H_Soldier_commando_F: Atlas_B_H_Soldier_Base_F
 	{
 		V_PlateCarrier2_oli,
 		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+};
+class Atlas_B_H_Soldier_commando_AR_F: Atlas_B_H_Soldier_Base_F
+{
+	author = "BranFlakes";
+	displayName = $STR_A3_C_O_R_recon_AR_F0;
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
+    scope = public;
+    scopeCurator = public;
+	cost = 100000;
+	uniformClass = Atlas_U_B_H_Soldier_commando_F;
+	editorsubcategory = EdSubcat_Personnel_commandos;
+	weapons[] =
+	{
+		LMG_MK200_black_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	respawnWeapons[] =
+	{
+		LMG_MK200_black_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	magazines[] =
+	{
+        mag_3(200Rnd_65x39_cased_Box_Red),
+        mag_2(16Rnd_9x21_Mag),
+        MiniGrenade,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_red)
+	};
+	respawnMagazines[] =
+	{
+        mag_3(200Rnd_65x39_cased_Box_Red),
+        mag_2(16Rnd_9x21_Mag),
+        MiniGrenade,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_red)
+	};
+	linkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+};
+class Atlas_B_H_Soldier_commando_exp_F: Atlas_B_H_Soldier_Base_F
+{
+	author = "BranFlakes";
+	displayName = $STR_B_Recon_exp_F0;
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
+    scope = public;
+    scopeCurator = public;
+	cost = 100000;
+	uniformClass = Atlas_U_B_H_Soldier_commando_F;
+	editorsubcategory = EdSubcat_Personnel_commandos;
+	backpack = B_Kitbag_rgr_Exp;
+	weapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	respawnWeapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	magazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_3(APERSMine_Range_Mag),
+        mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_3(APERSMine_Range_Mag),
+        mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	linkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+};
+class Atlas_B_H_Soldier_commando_gl_F: Atlas_B_H_Soldier_Base_F
+{
+	author = "BranFlakes";
+	displayName = $STR_A3_C_O_R_recon_GL_F0;
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
+    scope = public;
+    scopeCurator = public;
+	cost = 100000;
+	uniformClass = Atlas_U_B_H_Soldier_commando_F;
+	editorsubcategory = EdSubcat_Personnel_commandos;
+	weapons[] =
+	{
+		arifle_G36_GL_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	respawnWeapons[] =
+	{
+		arifle_G36_GL_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	magazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        mag_6(1Rnd_HE_Grenade_shell),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green),
+        mag_2(1Rnd_Smoke_Grenade_shell)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        mag_6(1Rnd_HE_Grenade_shell),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green),
+        mag_2(1Rnd_Smoke_Grenade_shell)
+	};
+	linkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+};
+class Atlas_B_H_Soldier_commando_jtac_F: Atlas_B_H_Soldier_Base_F
+{
+	author = "BranFlakes";
+	displayName = $STR_B_recon_JTAC_F0;
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
+    scope = public;
+    scopeCurator = public;
+	cost = 100000;
+	uniformClass = Atlas_U_B_H_Soldier_commando_F;
+	editorsubcategory = EdSubcat_Personnel_commandos;
+	backpack = B_RadioBag_01_commando_F;
+	weapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Laserdesignator_01_khk_F
+	};
+	respawnWeapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Laserdesignator_01_khk_F
+	};
+	magazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        mag_2(B_IR_Grenade),
+        Laserbatteries,
+        SmokeShell,
+		SMOKESHELLS_BLUFOR,
+        mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        mag_2(B_IR_Grenade),
+        Laserbatteries,
+        SmokeShell,
+		SMOKESHELLS_BLUFOR,
+        mag_2(Chemlight_green)
+    };
+	linkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+};
+class Atlas_B_H_Soldier_commando_M_F: Atlas_B_H_Soldier_Base_F
+{
+	author = "BranFlakes";
+	displayName = $STR_B_recon_M_F0;
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
+    scope = public;
+    scopeCurator = public;
+	cost = 100000;
+	uniformClass = Atlas_U_B_H_Soldier_commando_F;
+	editorsubcategory = EdSubcat_Personnel_commandos;
+	weapons[] =
+	{
+		arifle_SPAR_03_blk_ams_Pointer_Snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	respawnWeapons[] =
+	{
+		arifle_SPAR_03_blk_ams_Pointer_Snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	magazines[] =
+	{
+        mag_8(20Rnd_762x51_Mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_8(20Rnd_762x51_Mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	linkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+};
+class Atlas_B_H_Soldier_commando_medic_F: Atlas_B_H_Soldier_Base_F
+{
+	author = "BranFlakes";
+	displayName = $STR_B_recon_medic_F0;
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
+    scope = public;
+    scopeCurator = public;
+	cost = 100000;
+	uniformClass = Atlas_U_B_H_Soldier_commando_F;
+	editorsubcategory = EdSubcat_Personnel_commandos;
+	backpack = B_TacticalPack_rgr_BAReconMedic_F;
+	weapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	respawnWeapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	magazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        SmokeShell,
+        SMOKESHELLS_MEDIC,
+        mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        SmokeShell,
+        SMOKESHELLS_MEDIC,
+        mag_2(Chemlight_green)
+	};
+	linkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+};
+class Atlas_B_H_Soldier_commando_LAT_F: Atlas_B_H_Soldier_Base_F
+{
+	author = $STR_A3_A_BranFlakes;
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
+	displayName = $STR_B_recon_LAT_F0;
+    scope = public;
+    scopeCurator = public;
+	cost = 100000;
+	uniformClass = Atlas_U_B_H_Soldier_commando_F;
+	editorsubcategory = EdSubcat_Personnel_commandos;
+	backpack = B_TacticalPack_rgr_BALAT_F;
+	weapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		launch_NLAW_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	respawnWeapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		launch_NLAW_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Binocular
+	};
+	magazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        NLAW_F,
+        mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+        NLAW_F,
+        mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	linkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_headset_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_headset_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+};
+class Atlas_B_H_Soldier_commando_TL_F: Atlas_B_H_Soldier_Base_F
+{
+	author = $STR_A3_A_BranFlakes;
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
+	displayName = $STR_B_Recon_TL_F0;
+    scope = public;
+    scopeCurator = public;
+	cost = 100000;
+	uniformClass = Atlas_U_B_H_Soldier_commando_F;
+	editorsubcategory = EdSubcat_Personnel_commandos;
+	weapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Rangefinder
+	};
+	respawnWeapons[] =
+	{
+		arifle_G36C_mrco_snds_F,
+		hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+		Rangefinder
+	};
+	magazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+		mag_2(MiniGrenade),
+		SmokeShell,
+        SMOKESHELLS_BLUFOR,
+		mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(30Rnd_65x39_caseless_msbs_mag),
+        mag_2(16Rnd_9x21_Mag),
+		mag_2(MiniGrenade),
+		SmokeShell,
+        SMOKESHELLS_BLUFOR,
+		mag_2(Chemlight_green)
+	};
+	linkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_headset_F,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_PlateCarrier2_oli,
+		H_HelmetHBK_commando_headset_F,
 		DefaultManLeaderLinkedItems,
 		NVGoggles_INDEP
 	};
