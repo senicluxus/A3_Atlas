@@ -1457,6 +1457,40 @@
 					<Japanese>戦闘服 (Rolled-up) [Marar]</Japanese>
 					<Turkish>Savaş Asker Kıyafeti (Rolled-up) [Marar]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_commando0">
+					<Original>Combat Fatigues [Commandos]</Original>
+					<Chinese>作戰戰鬥服 [Commandos]</Chinese>
+					<French>Treillis [Commandos]</French>
+					<Spanish>Traje de combate [Commandos]</Spanish>
+					<Italian>Uniforme da combattimento [Commandos]</Italian>
+					<Polish>Mundur bojowy [Commandos]</Polish>
+					<Russian>Боевая форма [Commandos]</Russian>
+					<German>Kampfanzug [Commandos]</German>
+					<Czech>Bojová uniforma [Commandos]</Czech>
+					<English>Combat Fatigues [Commandos]</English>
+					<Portuguese>Uniforme de combate [Commandos]</Portuguese>
+					<Korean>전투병 전투복 [Commandos]</Korean>
+					<Chinesesimp>作战服 [Commandos]</Chinesesimp>
+					<Japanese>戦闘服 [Commandos]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [Commandos]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_commando_vest0">
+					<Original>Combat Fatigues (Rolled-up) [Commandos]</Original>
+					<Chinese>作戰戰鬥服 (Rolled-up) [Commandos]</Chinese>
+					<French>Treillis de combat (Rolled-up) [Commandos]</French>
+					<Spanish>Traje de combate (Rolled-up) [Commandos]</Spanish>
+					<Italian>Uniforme da combattimento (Rolled-up) [Commandos]</Italian>
+					<Polish>Mundur bojowy (Rolled-up) [Commandos]</Polish>
+					<Russian>Полевая форма (Rolled-up) [Commandos]</Russian>
+					<German>Kampfanzug (Rolled-up) [Commandos]</German>
+					<Czech>Bojová uniforma (Rolled-up) [Commandos]</Czech>
+					<English>Combat Fatigues (Rolled-up) [Commandos]</English>
+					<Portuguese>Trajes de combate (Rolled-up) [Commandos]</Portuguese>
+					<Korean>전투병 전투복 (Rolled-up) [Commandos]</Korean>
+					<Chinesesimp>战斗迷彩服 (Rolled-up) [Commandos]</Chinesesimp>
+					<Japanese>戦闘服 (Rolled-up) [Commandos]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (Rolled-up) [Commandos]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_CombatUniform_semiarid0">
 					<Original>Fatigues (Semi-Arid) [CSAT]</Original>
 					<Chinese>戰鬥服（半乾燥氣候）（CSAT）</Chinese>
