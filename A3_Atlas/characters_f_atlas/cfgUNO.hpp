@@ -1271,7 +1271,7 @@ class Atlas_B_UNO_Soldier_commando_medic_F: Atlas_B_UNO_Soldier_Base_F
 };
 class Atlas_B_UNO_Soldier_commando_LAT_F: Atlas_B_UNO_Soldier_Base_F
 {
-	author = $STR_A3_A_BranFlakes;
+	author = $STR_A3_A_Heliotrope;
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
 	displayName = $STR_B_recon_LAT_F0;
     scope = public;
@@ -1331,7 +1331,7 @@ class Atlas_B_UNO_Soldier_commando_LAT_F: Atlas_B_UNO_Soldier_Base_F
 };
 class Atlas_B_UNO_Soldier_commando_TL_F: Atlas_B_UNO_Soldier_Base_F
 {
-	author = $STR_A3_A_BranFlakes;
+	author = $STR_A3_A_Heliotrope;
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Soldier_F.jpg";
 	displayName = $STR_B_Recon_TL_F0;
     scope = public;
