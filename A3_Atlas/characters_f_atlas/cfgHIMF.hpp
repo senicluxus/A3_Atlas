@@ -122,7 +122,7 @@ class Atlas_B_H_Soldier_AR_F: Atlas_B_H_Soldier_Base_F
 class Atlas_B_H_Crew_F: Atlas_B_H_Soldier_Base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
-	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_H_Crew_F.jpg";
+	// editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_H_Crew_F.jpg";
     scope = protected;
     scopeCurator = private;
 	displayName = $STR_B_crew_F0;
