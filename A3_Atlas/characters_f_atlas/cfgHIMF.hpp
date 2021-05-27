@@ -876,7 +876,7 @@ class Atlas_B_H_Soldier_commando_F: Atlas_B_H_Soldier_Base_F
     scopeCurator = public;
 	cost = 100000;
 	uniformClass = Atlas_U_B_H_Soldier_commando_F;
-	editorsubcategory = EdSubcat_Personnel_commandos;
+	editorsubcategory = EdSubcat_Personnel_SpecialForces;
 	weapons[] =
 	{
 		arifle_G36C_mrco_snds_F,
@@ -931,7 +931,7 @@ class Atlas_B_H_Soldier_commando_AR_F: Atlas_B_H_Soldier_Base_F
     scopeCurator = public;
 	cost = 100000;
 	uniformClass = Atlas_U_B_H_Soldier_commando_F;
-	editorsubcategory = EdSubcat_Personnel_commandos;
+	editorsubcategory = EdSubcat_Personnel_SpecialForces;
 	weapons[] =
 	{
 		LMG_MK200_black_snds_F,
@@ -986,7 +986,7 @@ class Atlas_B_H_Soldier_commando_exp_F: Atlas_B_H_Soldier_Base_F
     scopeCurator = public;
 	cost = 100000;
 	uniformClass = Atlas_U_B_H_Soldier_commando_F;
-	editorsubcategory = EdSubcat_Personnel_commandos;
+	editorsubcategory = EdSubcat_Personnel_SpecialForces;
 	backpack = B_Kitbag_rgr_Exp;
 	weapons[] =
 	{
@@ -1044,7 +1044,7 @@ class Atlas_B_H_Soldier_commando_gl_F: Atlas_B_H_Soldier_Base_F
     scopeCurator = public;
 	cost = 100000;
 	uniformClass = Atlas_U_B_H_Soldier_commando_F;
-	editorsubcategory = EdSubcat_Personnel_commandos;
+	editorsubcategory = EdSubcat_Personnel_SpecialForces;
 	weapons[] =
 	{
 		arifle_G36_GL_mrco_snds_F,
@@ -1103,7 +1103,7 @@ class Atlas_B_H_Soldier_commando_jtac_F: Atlas_B_H_Soldier_Base_F
     scopeCurator = public;
 	cost = 100000;
 	uniformClass = Atlas_U_B_H_Soldier_commando_F;
-	editorsubcategory = EdSubcat_Personnel_commandos;
+	editorsubcategory = EdSubcat_Personnel_SpecialForces;
 	backpack = B_RadioBag_01_commando_F;
 	weapons[] =
 	{
@@ -1165,7 +1165,7 @@ class Atlas_B_H_Soldier_commando_M_F: Atlas_B_H_Soldier_Base_F
     scopeCurator = public;
 	cost = 100000;
 	uniformClass = Atlas_U_B_H_Soldier_commando_F;
-	editorsubcategory = EdSubcat_Personnel_commandos;
+	editorsubcategory = EdSubcat_Personnel_SpecialForces;
 	weapons[] =
 	{
 		arifle_SPAR_03_blk_ams_Pointer_Snds_F,
@@ -1220,7 +1220,7 @@ class Atlas_B_H_Soldier_commando_medic_F: Atlas_B_H_Soldier_Base_F
     scopeCurator = public;
 	cost = 100000;
 	uniformClass = Atlas_U_B_H_Soldier_commando_F;
-	editorsubcategory = EdSubcat_Personnel_commandos;
+	editorsubcategory = EdSubcat_Personnel_SpecialForces;
 	backpack = B_TacticalPack_rgr_BAReconMedic_F;
 	weapons[] =
 	{
@@ -1278,7 +1278,7 @@ class Atlas_B_H_Soldier_commando_LAT_F: Atlas_B_H_Soldier_Base_F
     scopeCurator = public;
 	cost = 100000;
 	uniformClass = Atlas_U_B_H_Soldier_commando_F;
-	editorsubcategory = EdSubcat_Personnel_commandos;
+	editorsubcategory = EdSubcat_Personnel_SpecialForces;
 	backpack = B_TacticalPack_rgr_BALAT_F;
 	weapons[] =
 	{
@@ -1338,7 +1338,7 @@ class Atlas_B_H_Soldier_commando_TL_F: Atlas_B_H_Soldier_Base_F
     scopeCurator = public;
 	cost = 100000;
 	uniformClass = Atlas_U_B_H_Soldier_commando_F;
-	editorsubcategory = EdSubcat_Personnel_commandos;
+	editorsubcategory = EdSubcat_Personnel_SpecialForces;
 	weapons[] =
 	{
 		arifle_G36C_mrco_snds_F,
