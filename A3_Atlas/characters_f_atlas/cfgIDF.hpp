@@ -463,7 +463,7 @@ class Atlas_I_I_medic_F: Atlas_I_I_Soldier_Base_F
 		mag_2(9Rnd_45ACP_Mag),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC
+        SMOKESHELLS_MEDIC
 	};
 	respawnMagazines[] =
 	{
@@ -471,7 +471,7 @@ class Atlas_I_I_medic_F: Atlas_I_I_Soldier_Base_F
 		mag_2(9Rnd_45ACP_Mag),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC
+        SMOKESHELLS_MEDIC
 	};
 	attendant = true;
 	camouflage = 1.6;
@@ -573,7 +573,7 @@ class Atlas_I_I_engineer_F: Atlas_I_I_Soldier_Base_F
 		mag_2(9Rnd_45ACP_Mag),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	respawnMagazines[] =
 	{
@@ -581,7 +581,7 @@ class Atlas_I_I_engineer_F: Atlas_I_I_Soldier_Base_F
 		mag_2(9Rnd_45ACP_Mag),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	camouflage = 1.6;
 	canDeactivateMines = true;
@@ -929,12 +929,12 @@ class Atlas_I_I_helipilot_F: Atlas_I_I_Soldier_Base_F
 	magazines[] =
 	{
 		mag_4(30Rnd_9x21_Mag_SMG_02_Tracer_Yellow),
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_9x21_Mag_SMG_02_Tracer_Yellow),
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	camouflage = 2;
 	cost = 160000;
@@ -992,12 +992,12 @@ class Atlas_I_I_helicrew_F: Atlas_I_I_Soldier_Base_F
 	magazines[] =
 	{
 		mag_4(30Rnd_556x45_Stanag),
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_556x45_Stanag),
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	camouflage = 2;
 	cost = 80000;
@@ -1251,13 +1251,13 @@ class Atlas_I_I_officer_F: Atlas_I_I_Soldier_Base_F
 	{
 		mag_4(30Rnd_556x45_Stanag),
 		mag_2(7Rnd_127x33_Mag),
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_556x45_Stanag),
 		mag_2(7Rnd_127x33_Mag),
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	camouflage = 1.6;
     cost = 600000;
@@ -1590,7 +1590,7 @@ class Atlas_I_I_Soldier_SL_F: Atlas_I_I_Soldier_Base_F
         mag_2(HandGrenade),
         mag_2(I_IR_Grenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	respawnMagazines[] =
 	{
@@ -1600,7 +1600,7 @@ class Atlas_I_I_Soldier_SL_F: Atlas_I_I_Soldier_Base_F
         mag_2(HandGrenade),
         mag_2(I_IR_Grenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	camouflage = 1.4;
     cost = 500000;
@@ -1653,7 +1653,7 @@ class Atlas_I_I_Soldier_TL_F: Atlas_I_I_Soldier_Base_F
 		mag_6(1Rnd_HE_Grenade_shell),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP,
+        SMOKESHELLS_INDEP,
         1Rnd_Smoke_Grenade_shell,
 		SOLDIER_SMOKE_GRENADES_INDEP
 	};
@@ -1665,7 +1665,7 @@ class Atlas_I_I_Soldier_TL_F: Atlas_I_I_Soldier_Base_F
 		mag_6(1Rnd_HE_Grenade_shell),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP,
+        SMOKESHELLS_INDEP,
         1Rnd_Smoke_Grenade_shell,
 		SOLDIER_SMOKE_GRENADES_INDEP
 	};
@@ -2031,7 +2031,7 @@ class Atlas_I_I_diver_TL_F: Atlas_I_I_Soldier_diver_base
         mag_3(20Rnd_556x45_UW_mag),
         mag_2(9Rnd_45ACP_Mag),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP,
+        SMOKESHELLS_INDEP,
         mag_2(Chemlight_green)
     };
     respawnMagazines[] =
@@ -2040,7 +2040,7 @@ class Atlas_I_I_diver_TL_F: Atlas_I_I_Soldier_diver_base
         mag_3(20Rnd_556x45_UW_mag),
         mag_2(9Rnd_45ACP_Mag),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP,
+        SMOKESHELLS_INDEP,
         mag_2(Chemlight_green)
     };
     cost = 430000;
@@ -2318,7 +2318,7 @@ class Atlas_I_I_recon_JTAC_F: Atlas_I_I_Soldier_recon_base
         mag_2(I_IR_Grenade),
         Laserbatteries,
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP,
+        SMOKESHELLS_INDEP,
         mag_2(Chemlight_green)
     };
     respawnMagazines[] =
@@ -2329,7 +2329,7 @@ class Atlas_I_I_recon_JTAC_F: Atlas_I_I_Soldier_recon_base
         mag_2(I_IR_Grenade),
         Laserbatteries,
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP,
+        SMOKESHELLS_INDEP,
         mag_2(Chemlight_green)
     };
 	role = SpecialOperative;
@@ -2460,7 +2460,7 @@ class Atlas_I_I_recon_medic_F: Atlas_I_I_Soldier_recon_base
         mag_2(9Rnd_45ACP_Mag),
         mag_2(MiniGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC,
+        SMOKESHELLS_MEDIC,
         mag_2(Chemlight_green)
     };
     respawnMagazines[] =
@@ -2469,7 +2469,7 @@ class Atlas_I_I_recon_medic_F: Atlas_I_I_Soldier_recon_base
         mag_2(9Rnd_45ACP_Mag),
         mag_2(MiniGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC,
+        SMOKESHELLS_MEDIC,
         mag_2(Chemlight_green)
     };
 	attendant = true;
@@ -2640,7 +2640,7 @@ class Atlas_I_I_recon_TL_F: Atlas_I_I_Soldier_recon_base
         mag_2(9Rnd_45ACP_Mag),
         mag_2(MiniGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP,
+        SMOKESHELLS_INDEP,
         mag_2(Chemlight_green)
     };
     respawnMagazines[] =
@@ -2650,7 +2650,7 @@ class Atlas_I_I_recon_TL_F: Atlas_I_I_Soldier_recon_base
         mag_2(9Rnd_45ACP_Mag),
         mag_2(MiniGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_INDEP,
+        SMOKESHELLS_INDEP,
         mag_2(Chemlight_green)
     };
 	cost = 250000;
@@ -2961,12 +2961,12 @@ class Atlas_I_I_Fighter_Pilot_F: Atlas_I_I_Soldier_Base_F
 	magazines[] =
 	{
 		mag_2(9Rnd_45ACP_Mag),
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	respawnMagazines[] =
 	{
 		mag_2(9Rnd_45ACP_Mag),
-        SOLDIER_SMOKE_SHELLS_INDEP
+        SMOKESHELLS_INDEP
 	};
 	camouflage = 2;
     cost = 165000;

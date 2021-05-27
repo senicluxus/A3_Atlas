@@ -25,8 +25,9 @@ class CfgVehicles
 	#include "cfgTKA.hpp"		// Takistani Army
     #include "cfgHIMF.hpp"      // HIMF
     #include "cfgIDF.hpp"       // IDF
-    #include "cfgUNO.hpp"       // UNO
+    //#include "cfgUNO.hpp"       // UNO
     #include "cfgVenezuela.hpp" // Venezuela
+    #include "cfgMarar.hpp"		//Marar
 
     /* Uniforms */
     #include "cfgUniforms.hpp"
