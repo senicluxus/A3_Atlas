@@ -18,7 +18,7 @@ class Atlas_B_M_Soldier_base_F: Atlas_B_M_Man_Base_F
 class Atlas_B_M_Soldier_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Soldier_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_A3_CfgVehicles_B_Soldier_F0;
@@ -67,7 +67,7 @@ class Atlas_B_M_Soldier_F: Atlas_B_M_Soldier_Base_F
 };
 class Atlas_B_M_TL_F: Atlas_B_M_Soldier_Base_F
 {
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_TL_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_TL_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_Soldier_TL_F0;
@@ -126,7 +126,7 @@ class Atlas_B_M_TL_F: Atlas_B_M_Soldier_Base_F
 };
 class Atlas_B_M_GL_F: Atlas_B_M_Soldier_Base_F
 {
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_TL_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_GL_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_Soldier_GL_F0;
@@ -185,7 +185,7 @@ class Atlas_B_M_GL_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_AR_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_AR_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_Soldier_AR_F0;
@@ -239,7 +239,7 @@ class Atlas_B_M_AR_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_M_F: Atlas_B_M_Soldier_Base_F
 {
     author = $STR_A3_A_BranFlakes;
-    //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_M_F.jpg";
     scope = public;
     scopeCurator = public;
     displayName = $STR_B_Soldier_M_F0;
@@ -289,7 +289,7 @@ class Atlas_B_M_M_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_medic_F: Atlas_B_M_Soldier_Base_F
 {
     author = $STR_A3_A_BranFlakes;
-    //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_medic_F.jpg";
     scope = public;
     scopeCurator = public;
     displayName = $STR_B_medic_F0;
@@ -347,7 +347,7 @@ class Atlas_B_M_medic_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_Soldier_LAT_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Soldier_LAT_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_Soldier_lat_F0;
@@ -402,7 +402,7 @@ class Atlas_B_M_Soldier_LAT_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_A_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_A_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_Soldier_A_F0;
@@ -453,7 +453,7 @@ class Atlas_B_M_A_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_Helipilot_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Helipilot_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_Helipilot_F0;
@@ -499,7 +499,7 @@ class Atlas_B_M_Helipilot_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_Helicrew_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Helicrew_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_helicrew_F0;
@@ -551,7 +551,7 @@ class Atlas_B_M_Helicrew_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_Crew_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Crew_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_crew_F0;
@@ -603,7 +603,7 @@ class Atlas_B_M_Crew_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_SL_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_SL_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_Soldier_SL_F0;
@@ -657,7 +657,7 @@ class Atlas_B_M_SL_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_Officer_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Officer_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_B_officer_F0;
@@ -703,7 +703,7 @@ class Atlas_B_M_Officer_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_RadioOperator_F: Atlas_B_M_Soldier_Base_F
 {
     author = $STR_A3_A_BranFlakes;
-    //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_RadioOperator_F.jpg";
     scope = public;
     scopeCurator = public;
     displayName = $STR_A3_C_B_W_RadioOperator_F0;
@@ -755,7 +755,7 @@ class Atlas_B_M_RadioOperator_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_Engineer_F: Atlas_B_M_Soldier_Base_F
 {
     author = $STR_A3_A_BranFlakes;
-    //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Engineer_F.jpg";
     scope = public;
     scopeCurator = public;
     displayName = $STR_B_engineer_F0;
@@ -809,7 +809,7 @@ class Atlas_B_M_Engineer_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_Soldier_unarmed_F: Atlas_B_M_Soldier_Base_F
 {
     author = $STR_A3_A_BranFlakes;
-    //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Soldier_unarmed_F.jpg";
     scope = public;
     scopeCurator = public;
     displayName = $STR_A3_CfgVehicles_b_soldier_unarmed_f_displayName;
@@ -842,7 +842,7 @@ class Atlas_B_M_Soldier_unarmed_F: Atlas_B_M_Soldier_Base_F
 class Atlas_B_M_Soldier_CBRN_F: Atlas_B_M_Soldier_Base_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_Soldier_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Soldier_CBRN_F.jpg";
     scope = public;
     scopeCurator = public;
 	displayName = $STR_A3_C_B_W_Soldier_CBRN_F0;

@@ -206,14 +206,14 @@ class Atlas_B_UNO_Medic_F: Atlas_B_UNO_Soldier_Base_F
 		mag_6(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade,
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC
+        SMOKESHELLS_MEDIC
 	};
 	respawnMagazines[] =
 	{
 		mag_6(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade,
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC
+        SMOKESHELLS_MEDIC
 	};
 	linkedItems[] =
 	{
