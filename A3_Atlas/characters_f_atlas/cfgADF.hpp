@@ -473,13 +473,13 @@ class Atlas_B_A_Officer_F: Atlas_B_A_Soldier_base_F
 	{
 		mag_4(30Rnd_556x45_AUG_Mag_F),
 		mag_2(9Rnd_45ACP_Mag),
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_556x45_AUG_Mag_F),
 		mag_2(9Rnd_45ACP_Mag),
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
     cost = 600000;
 	camouflage = 1.6;
@@ -540,7 +540,7 @@ class Atlas_B_A_Soldier_SL_F: Atlas_B_A_Soldier_base_F
         mag_2(HandGrenade),
         mag_2(B_IR_Grenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
 	respawnMagazines[] =
 	{
@@ -550,7 +550,7 @@ class Atlas_B_A_Soldier_SL_F: Atlas_B_A_Soldier_base_F
         mag_2(HandGrenade),
         mag_2(B_IR_Grenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
 	cost = 250000;
 	camouflage = 1.4;
@@ -603,7 +603,7 @@ class Atlas_B_A_Soldier_TL_F: Atlas_B_A_Soldier_base_F
         mag_6(1Rnd_HE_Grenade_shell),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_BLUFOR,
+        SMOKESHELLS_BLUFOR,
         1Rnd_Smoke_Grenade_shell,
 		SOLDIER_SMOKE_GRENADES_BLUFOR
 	};
@@ -615,7 +615,7 @@ class Atlas_B_A_Soldier_TL_F: Atlas_B_A_Soldier_base_F
         mag_6(1Rnd_HE_Grenade_shell),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_BLUFOR,
+        SMOKESHELLS_BLUFOR,
         1Rnd_Smoke_Grenade_shell,
 		SOLDIER_SMOKE_GRENADES_BLUFOR
 	};
@@ -1325,7 +1325,7 @@ class Atlas_B_A_Engineer_F: Atlas_B_A_Soldier_base_F
         mag_2(16Rnd_9x21_Mag),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
     };
     respawnMagazines[] =
     {
@@ -1333,7 +1333,7 @@ class Atlas_B_A_Engineer_F: Atlas_B_A_Soldier_base_F
         mag_2(16Rnd_9x21_Mag),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
 	engineer = true;
 	canDeactivateMines = true;
@@ -1582,7 +1582,7 @@ class Atlas_B_A_Medic_F: Atlas_B_A_Soldier_base_F
 		mag_2(16Rnd_9x21_Mag),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC
+        SMOKESHELLS_MEDIC
 	};
 	respawnMagazines[] =
 	{
@@ -1590,7 +1590,7 @@ class Atlas_B_A_Medic_F: Atlas_B_A_Soldier_base_F
 		mag_2(16Rnd_9x21_Mag),
         mag_2(HandGrenade),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC
+        SMOKESHELLS_MEDIC
 	};
 	attendant = true;
 	camouflage = 1.6;
@@ -1697,12 +1697,12 @@ class Atlas_B_A_Helipilot_F: Atlas_B_A_Soldier_base_F
 	magazines[] =
 	{
 		mag_4(30Rnd_9x21_Mag),
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_9x21_Mag),
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
 	cost = 93000;
 	role = Crewman;
@@ -1762,12 +1762,12 @@ class Atlas_B_A_Helicrew_F: Atlas_B_A_Soldier_base_F
 	magazines[] =
 	{
 		mag_4(30Rnd_556x45_AUG_Mag_F),
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_556x45_AUG_Mag_F),
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
 	role = Crewman;
 	identityTypes[] =
@@ -1918,12 +1918,12 @@ class Atlas_B_A_Fighter_Pilot_F: Atlas_B_A_Soldier_base_F
 	magazines[] =
 	{
 		mag_2(16Rnd_9x21_Mag),
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
 	respawnMagazines[] =
 	{
 		mag_2(16Rnd_9x21_Mag),
-        SOLDIER_SMOKE_SHELLS_BLUFOR
+        SMOKESHELLS_BLUFOR
 	};
     cost = 165000;
     role = Crewman;

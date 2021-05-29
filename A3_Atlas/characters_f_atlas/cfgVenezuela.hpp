@@ -2062,12 +2062,12 @@ class Atlas_O_VZ_Fighter_Pilot_F: Atlas_O_VZ_Helipilot_F
     magazines[] =
     {
         mag_2(10Rnd_9x21_Mag),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
     };
     respawnMagazines[] =
     {
         mag_2(10Rnd_9x21_Mag),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
     };
 	camouflage = 2;
     cost = 165000;

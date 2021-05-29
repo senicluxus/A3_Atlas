@@ -575,7 +575,7 @@ class Atlas_O_W_Medic_F: O_medic_F
 		mag_2(10Rnd_9x21_Mag),
         mag_2(HandGrenade_East),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC
+        SMOKESHELLS_MEDIC
 	};
 	respawnMagazines[] =
 	{
@@ -583,7 +583,7 @@ class Atlas_O_W_Medic_F: O_medic_F
 		mag_2(10Rnd_9x21_Mag),
         mag_2(HandGrenade_East),
         SmokeShell,
-        SOLDIER_SMOKE_SHELLS_MEDIC
+        SMOKESHELLS_MEDIC
 	};
 	linkedItems[] =
 	{
@@ -692,7 +692,7 @@ class Atlas_O_W_Engineer_F: O_engineer_F
 		mag_2(10Rnd_9x21_Mag),
         mag_2(HandGrenade_East),
         SmokeShell,
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
 	respawnMagazines[] =
 	{
@@ -700,7 +700,7 @@ class Atlas_O_W_Engineer_F: O_engineer_F
 		mag_2(10Rnd_9x21_Mag),
         mag_2(HandGrenade_East),
         SmokeShell,
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
 	linkedItems[] =
 	{
@@ -1053,12 +1053,12 @@ class Atlas_O_W_Helicrew_F: O_helicrew_F
 	magazines[] =
 	{
 		mag_4(30Rnd_545x39_AK12_Mag_F),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_545x39_AK12_Mag_F),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
     linkedItems[] =
     {
@@ -1101,12 +1101,12 @@ class Atlas_O_W_Helipilot_F: O_helipilot_F
 	magazines[] =
 	{
 		mag_4(30Rnd_9x21_Mag_SMG_02_Tracer_Green),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_9x21_Mag_SMG_02_Tracer_Green),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
     linkedItems[] =
     {
@@ -1338,13 +1338,13 @@ class Atlas_O_W_Officer_F: O_officer_F
 	{
 		mag_4(30Rnd_545x39_AK12_Mag_F),
 		mag_2(10Rnd_9x21_Mag),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_545x39_AK12_Mag_F),
 		mag_2(10Rnd_9x21_Mag),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
 	linkedItems[] =
 	{
@@ -1690,7 +1690,7 @@ class Atlas_O_W_Soldier_SL_F: O_Soldier_SL_F
 		mag_2(10Rnd_9x21_Mag),
         mag_2(HandGrenade_East),
         SmokeShell,
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
 	respawnMagazines[] =
 	{
@@ -1699,7 +1699,7 @@ class Atlas_O_W_Soldier_SL_F: O_Soldier_SL_F
 		mag_2(10Rnd_9x21_Mag),
         mag_2(HandGrenade_East),
         SmokeShell,
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
 	};
 	linkedItems[] =
 	{
@@ -1756,7 +1756,7 @@ class Atlas_O_W_Soldier_TL_F: O_Soldier_TL_F
         mag_6(1Rnd_HE_Grenade_shell),
         mag_2(HandGrenade_East),
         SmokeShell,
-		SOLDIER_SMOKE_SHELLS_OPFOR,
+		SMOKESHELLS_OPFOR,
         1Rnd_Smoke_Grenade_shell,
 		SOLDIER_SMOKE_GRENADES_OPFOR
 	};
@@ -1768,7 +1768,7 @@ class Atlas_O_W_Soldier_TL_F: O_Soldier_TL_F
         mag_6(1Rnd_HE_Grenade_shell),
         mag_2(HandGrenade_East),
         SmokeShell,
-		SOLDIER_SMOKE_SHELLS_OPFOR,
+		SMOKESHELLS_OPFOR,
         1Rnd_Smoke_Grenade_shell,
 		SOLDIER_SMOKE_GRENADES_OPFOR
 	};
@@ -2009,12 +2009,12 @@ class Atlas_O_W_Fighter_Pilot_F: Atlas_O_W_Helipilot_F
     magazines[] =
     {
         mag_2(10Rnd_9x21_Mag),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
     };
     respawnMagazines[] =
     {
         mag_2(10Rnd_9x21_Mag),
-		SOLDIER_SMOKE_SHELLS_OPFOR
+		SMOKESHELLS_OPFOR
     };
 	camouflage = 2;
     cost = 165000;
