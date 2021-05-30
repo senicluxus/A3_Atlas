@@ -3698,6 +3698,23 @@
 					<Japanese>Assault Pack (Flecktarn)</Japanese>
 					<Turkish>Assault Pack (Flecktarn)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_AssaultPack_marar0">
+					<Original>Assault Pack (Marar)</Original>
+					<Chinese>Assault Pack (Marar)</Chinese>
+					<French>Assault Pack (Marar)</French>
+					<Spanish>Assault Pack (Marar)</Spanish>
+					<Italian>Assault Pack (Marar)</Italian>
+					<Polish>Assault Pack (Marar)</Polish>
+					<Russian>Assault Pack (Marar)</Russian>
+					<German>Assault Pack (Marar)</German>
+					<Czech>Assault Pack (Marar)</Czech>
+					<English>Assault Pack (Marar)</English>
+					<Portuguese>Assault Pack (Marar)</Portuguese>
+					<Korean>Assault Pack (Marar)</Korean>
+					<Chinesesimp>Assault Pack (Marar)</Chinesesimp>
+					<Japanese>Assault Pack (Marar)</Japanese>
+					<Turkish>Assault Pack (Marar)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_jungle0">
 					<Original>Carryall Backpack (Jungle)</Original>
 					<Chinese>全容量大背包（叢林）</Chinese>

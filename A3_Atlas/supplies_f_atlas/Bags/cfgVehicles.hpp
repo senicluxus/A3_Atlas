@@ -198,7 +198,7 @@ class CfgVehicles
 	{
 		author = "BranFlakes";
 		scope = public;
-		displayName = "BranFlakes";
+		displayName = $STR_A3_A_CfgVehicles_B_AssaultPack_marar0;
 		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_AssaultPack_flecktarn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_compact_marar_CO.paa"};
 	};
