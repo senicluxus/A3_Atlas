@@ -506,7 +506,7 @@ class CfgGroups
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad0;
 					side = TWest;
-					faction = Atlas_BLU_H_F;
+					faction = Atlas_BLU_M_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
 					GROUP_UNIT(0,TWest,Atlas_B_M_SL_F,SERGEANT,0,0)
 					GROUP_UNIT(1,TWest,Atlas_B_M_RadioOperator_F,PRIVATE,5,-5)
@@ -521,7 +521,7 @@ class CfgGroups
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam0;
 					side = TWest;
-					faction = Atlas_BLU_H_F;
+					faction = Atlas_BLU_M_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
 					GROUP_UNIT(0,TWest,Atlas_B_M_TL_F,SERGEANT,0,0)
 					GROUP_UNIT(1,TWest,Atlas_B_M_AR_F,CORPORAL,5,-5)
@@ -532,7 +532,7 @@ class CfgGroups
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSentry0;
 					side = TWest;
-					faction = Atlas_BLU_H_F;
+					faction = Atlas_BLU_M_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
 					GROUP_UNIT(0,TWest,Atlas_B_M_GL_F,CORPORAL,0,0)
 					GROUP_UNIT(1,TWest,Atlas_B_M_Soldier_F,PRIVATE,5,-5)
