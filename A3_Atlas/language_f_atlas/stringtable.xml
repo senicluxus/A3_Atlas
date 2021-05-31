@@ -691,6 +691,74 @@
 					<Japanese>ガーディアンヘルメット（カバー）</Japanese>
 					<Turkish>Muhafız Miğfer (Siper)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_flecktarn0">
+					<Original>Booniehat (Flecktarn)</Original>
+					<Chinese>登山帽（森林六邊形）</Chinese>
+					<French>Chapeau de brousse (hex forêt)</French>
+					<Spanish>Sombrero militar (Hex bosque)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. boschi)</Italian>
+					<Polish>Kapelusz wojskowy (las hex)</Polish>
+					<Russian>Панама (лес гекс)</Russian>
+					<German>Tarnhut (Waldland Sechsecke)</German>
+					<Czech>Klobouk (Flecktarn)</Czech>
+					<English>Booniehat (Flecktarn)</English>
+					<Portuguese>Chapéu tático (floresta hex)</Portuguese>
+					<Korean>부니햇(산악 헥스)</Korean>
+					<Chinesesimp>郊区（林地六角形）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
+					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_flecktarn_hs0">
+					<Original>Booniehat (Flecktarn, Headset)</Original>
+					<Chinese>登山帽（森林六邊形）</Chinese>
+					<French>Chapeau de brousse (hex forêt)</French>
+					<Spanish>Sombrero militar (Hex bosque)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. boschi)</Italian>
+					<Polish>Kapelusz wojskowy (las hex)</Polish>
+					<Russian>Панама (лес гекс)</Russian>
+					<German>Tarnhut (Waldland Sechsecke)</German>
+					<Czech>Klobouk (Flecktarn, Headset)</Czech>
+					<English>Booniehat (Flecktarn, Headset)</English>
+					<Portuguese>Chapéu tático (floresta hex)</Portuguese>
+					<Korean>부니햇(산악 헥스)</Korean>
+					<Chinesesimp>郊区（林地六角形）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
+					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_multitarn0">
+					<Original>Booniehat (Multitarn)</Original>
+					<Chinese>登山帽（森林六邊形）</Chinese>
+					<French>Chapeau de brousse (hex forêt)</French>
+					<Spanish>Sombrero militar (Hex bosque)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. boschi)</Italian>
+					<Polish>Kapelusz wojskowy (las hex)</Polish>
+					<Russian>Панама (лес гекс)</Russian>
+					<German>Tarnhut (Waldland Sechsecke)</German>
+					<Czech>Klobouk (Multitarn)</Czech>
+					<English>Booniehat (Multitarn)</English>
+					<Portuguese>Chapéu tático (floresta hex)</Portuguese>
+					<Korean>부니햇(산악 헥스)</Korean>
+					<Chinesesimp>郊区（林地六角形）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
+					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_multitarn_hs0">
+					<Original>Booniehat (Multitarn, Headset)</Original>
+					<Chinese>登山帽（森林六邊形）</Chinese>
+					<French>Chapeau de brousse (hex forêt)</French>
+					<Spanish>Sombrero militar (Hex bosque)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. boschi)</Italian>
+					<Polish>Kapelusz wojskowy (las hex)</Polish>
+					<Russian>Панама (лес гекс)</Russian>
+					<German>Tarnhut (Waldland Sechsecke)</German>
+					<Czech>Klobouk (Multitarn, Headset)</Czech>
+					<English>Booniehat (Multitarn, Headset)</English>
+					<Portuguese>Chapéu tático (floresta hex)</Portuguese>
+					<Korean>부니햇(산악 헥스)</Korean>
+					<Chinesesimp>郊区（林地六角形）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
+					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_whex_F0">
 					<Original>Booniehat (Woodland Hex)</Original>
 					<Chinese>登山帽（森林六邊形）</Chinese>
