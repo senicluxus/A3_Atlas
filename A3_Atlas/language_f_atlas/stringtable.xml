@@ -3402,22 +3402,22 @@
 						<Japanese>旗（ドイツ）</Japanese>
 						<Turkish>Bayrak (Almanya)</Turkish>
 					</Key>
-					<Key ID="STR_A3_A_CfgVehicles_Flag_Israel_F0">
-						<Original>Flag (Israel)</Original>
-						<Chinese>旗幟（Israel）</Chinese>
-						<French>Drapeau (Israel)</French>
-						<Spanish>Bandera (Israel)</Spanish>
-						<Italian>Bandiera (Israel)</Italian>
-						<Polish>Flaga (Israel)</Polish>
-						<Russian>Флаг (Israel)</Russian>
-						<German>Flagge (Israel)</German>
-						<Czech>Vlajka (Israel)</Czech>
-						<English>Flag (Israel)</English>
-						<Portuguese>Bandeira (Israel)</Portuguese>
-						<Korean>깃발 (Israel)</Korean>
-						<Chinesesimp>旗标 (Israel)</Chinesesimp>
-						<Japanese>旗（Israel）</Japanese>
-						<Turkish>Bayrak (Israel)</Turkish>
+					<Key ID="STR_A3_A_CfgVehicles_Flag_IDF_F0">
+						<Original>Flag (IDF)</Original>
+						<Chinese>旗幟（IDF）</Chinese>
+						<French>Drapeau (IDF)</French>
+						<Spanish>Bandera (IDF)</Spanish>
+						<Italian>Bandiera (IDF)</Italian>
+						<Polish>Flaga (IDF)</Polish>
+						<Russian>Флаг (IDF)</Russian>
+						<German>Flagge (IDF)</German>
+						<Czech>Vlajka (IDF)</Czech>
+						<English>Flag (IDF)</English>
+						<Portuguese>Bandeira (IDF)</Portuguese>
+						<Korean>깃발 (IDF)</Korean>
+						<Chinesesimp>旗标 (IDF)</Chinesesimp>
+						<Japanese>旗（IDF）</Japanese>
+						<Turkish>Bayrak (IDF)</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgVehicles_Flag_Israel_F0">
 						<Original>Flag (Israel)</Original>
