@@ -691,6 +691,74 @@
 					<Japanese>ガーディアンヘルメット（カバー）</Japanese>
 					<Turkish>Muhafız Miğfer (Siper)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_flecktarn0">
+					<Original>Booniehat (Flecktarn)</Original>
+					<Chinese>登山帽（森林六邊形）</Chinese>
+					<French>Chapeau de brousse (hex forêt)</French>
+					<Spanish>Sombrero militar (Hex bosque)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. boschi)</Italian>
+					<Polish>Kapelusz wojskowy (las hex)</Polish>
+					<Russian>Панама (лес гекс)</Russian>
+					<German>Tarnhut (Waldland Sechsecke)</German>
+					<Czech>Klobouk (Flecktarn)</Czech>
+					<English>Booniehat (Flecktarn)</English>
+					<Portuguese>Chapéu tático (floresta hex)</Portuguese>
+					<Korean>부니햇(산악 헥스)</Korean>
+					<Chinesesimp>郊区（林地六角形）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
+					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_flecktarn_hs0">
+					<Original>Booniehat (Flecktarn, Headset)</Original>
+					<Chinese>登山帽（森林六邊形）</Chinese>
+					<French>Chapeau de brousse (hex forêt)</French>
+					<Spanish>Sombrero militar (Hex bosque)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. boschi)</Italian>
+					<Polish>Kapelusz wojskowy (las hex)</Polish>
+					<Russian>Панама (лес гекс)</Russian>
+					<German>Tarnhut (Waldland Sechsecke)</German>
+					<Czech>Klobouk (Flecktarn, Headset)</Czech>
+					<English>Booniehat (Flecktarn, Headset)</English>
+					<Portuguese>Chapéu tático (floresta hex)</Portuguese>
+					<Korean>부니햇(산악 헥스)</Korean>
+					<Chinesesimp>郊区（林地六角形）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
+					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_multitarn0">
+					<Original>Booniehat (Multitarn)</Original>
+					<Chinese>登山帽（森林六邊形）</Chinese>
+					<French>Chapeau de brousse (hex forêt)</French>
+					<Spanish>Sombrero militar (Hex bosque)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. boschi)</Italian>
+					<Polish>Kapelusz wojskowy (las hex)</Polish>
+					<Russian>Панама (лес гекс)</Russian>
+					<German>Tarnhut (Waldland Sechsecke)</German>
+					<Czech>Klobouk (Multitarn)</Czech>
+					<English>Booniehat (Multitarn)</English>
+					<Portuguese>Chapéu tático (floresta hex)</Portuguese>
+					<Korean>부니햇(산악 헥스)</Korean>
+					<Chinesesimp>郊区（林地六角形）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
+					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_multitarn_hs0">
+					<Original>Booniehat (Multitarn, Headset)</Original>
+					<Chinese>登山帽（森林六邊形）</Chinese>
+					<French>Chapeau de brousse (hex forêt)</French>
+					<Spanish>Sombrero militar (Hex bosque)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. boschi)</Italian>
+					<Polish>Kapelusz wojskowy (las hex)</Polish>
+					<Russian>Панама (лес гекс)</Russian>
+					<German>Tarnhut (Waldland Sechsecke)</German>
+					<Czech>Klobouk (Multitarn, Headset)</Czech>
+					<English>Booniehat (Multitarn, Headset)</English>
+					<Portuguese>Chapéu tático (floresta hex)</Portuguese>
+					<Korean>부니햇(산악 헥스)</Korean>
+					<Chinesesimp>郊区（林地六角形）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
+					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_whex_F0">
 					<Original>Booniehat (Woodland Hex)</Original>
 					<Chinese>登山帽（森林六邊形）</Chinese>
@@ -3334,22 +3402,22 @@
 						<Japanese>旗（ドイツ）</Japanese>
 						<Turkish>Bayrak (Almanya)</Turkish>
 					</Key>
-					<Key ID="STR_A3_A_CfgVehicles_Flag_Israel_F0">
-						<Original>Flag (Israel)</Original>
-						<Chinese>旗幟（Israel）</Chinese>
-						<French>Drapeau (Israel)</French>
-						<Spanish>Bandera (Israel)</Spanish>
-						<Italian>Bandiera (Israel)</Italian>
-						<Polish>Flaga (Israel)</Polish>
-						<Russian>Флаг (Israel)</Russian>
-						<German>Flagge (Israel)</German>
-						<Czech>Vlajka (Israel)</Czech>
-						<English>Flag (Israel)</English>
-						<Portuguese>Bandeira (Israel)</Portuguese>
-						<Korean>깃발 (Israel)</Korean>
-						<Chinesesimp>旗标 (Israel)</Chinesesimp>
-						<Japanese>旗（Israel）</Japanese>
-						<Turkish>Bayrak (Israel)</Turkish>
+					<Key ID="STR_A3_A_CfgVehicles_Flag_IDF_F0">
+						<Original>Flag (IDF)</Original>
+						<Chinese>旗幟（IDF）</Chinese>
+						<French>Drapeau (IDF)</French>
+						<Spanish>Bandera (IDF)</Spanish>
+						<Italian>Bandiera (IDF)</Italian>
+						<Polish>Flaga (IDF)</Polish>
+						<Russian>Флаг (IDF)</Russian>
+						<German>Flagge (IDF)</German>
+						<Czech>Vlajka (IDF)</Czech>
+						<English>Flag (IDF)</English>
+						<Portuguese>Bandeira (IDF)</Portuguese>
+						<Korean>깃발 (IDF)</Korean>
+						<Chinesesimp>旗标 (IDF)</Chinesesimp>
+						<Japanese>旗（IDF）</Japanese>
+						<Turkish>Bayrak (IDF)</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgVehicles_Flag_Israel_F0">
 						<Original>Flag (Israel)</Original>
@@ -3595,6 +3663,41 @@
 					<Chinesesimp>无线电包 [Marar]</Chinesesimp>
 					<Japanese>無線機パック [Marar]</Japanese>
 					<Turkish>Telsiz Paketi [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_flecktarn_F0">
+					<Original>Radio Pack (Flecktarn)</Original>
+					<Chinese>無線電背包 (Flecktarn)</Chinese>
+					<French>Sac à dos radio [Flecktarn]</French>
+					<Spanish>Mochila para radio (Flecktarn)</Spanish>
+					<Italian>Zaino per radio (Flecktarn)</Italian>
+					<Polish>Plecak z radiostacją (Flecktarn)</Polish>
+					<Russian>Ранец радиста (Flecktarn)</Russian>
+					<German>Funkrucksack (Flecktarn)</German>
+					<Czech>Batoh s vysílačkou (Flecktarn)</Czech>
+					<English>Radio Pack (Flecktarn)</English>
+					<Portuguese>Pacote de rádio (Flecktarn)</Portuguese>
+					<Korean>무전 팩 (정글) (Flecktarn)</Korean>
+					<Chinesesimp>无线电包 (Flecktarn)</Chinesesimp>
+					<Japanese>無線機パック (Flecktarn)</Japanese>
+					<Turkish>Telsiz Paketi (Flecktarn)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Kitbag_flecktarn0">
+					<Original>Kitbag (Flecktarn)</Original>
+					<Chinese>手提袋 (Flecktarn)</Chinese>
+					<French>Musette (Flecktarn)</French>
+					<Spanish>Mochila militar (Flecktarn)</Spanish>
+					<Italian>Kitbag (Flecktarn)</Italian>
+					<Polish>Torba na przybory (Flecktarn)</Polish>
+					<Russian>Kitbag (Flecktarn)</Russian>
+					<German>Seesack (Flecktarn)</German>
+					<Czech>Vojenská torna (Flecktarn)</Czech>
+					<English>Kitbag (Flecktarn)</English>
+					<Portuguese>Kitbag (Flecktarn)</Portuguese>
+					<Korean>Kitbag (Flecktarn)</Korean>
+					<Chinesesimp>手提袋 (Flecktarn)</Chinesesimp>
+					<Japanese>キットバッグ (Flecktarn)</Japanese>
+					<Turkish>Kitbag (Flecktarn)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_owcamo0">
 					<Original>Carryall Backpack (Woodland Hex)</Original>
 					<Chinese>全容量大背包（森林六邊形）</Chinese>
@@ -3628,6 +3731,57 @@
 					<Chinesesimp>大旅行包（半干旱）</Chinesesimp>
 					<Japanese>キャリーオールパック（半乾燥地）</Japanese>
 					<Turkish>Büyük Sırt Çantası (Yarı Kurak)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_flecktarn0">
+					<Original>Carryall Backpack (Flecktarn)</Original>
+					<Chinese>全容量大背包（Flecktarn）</Chinese>
+					<French>Sac à dos multifonction (Flecktarn)</French>
+					<Spanish>Bolsa de viaje (Flecktarn)</Spanish>
+					<Italian>Zaino portatutto (Flecktarn)</Italian>
+					<Polish>Plecak (Flecktarn)</Polish>
+					<Russian>Рюкзак (Flecktarn)</Russian>
+					<German>Großer Rucksack (Flecktarn)</German>
+					<Czech>Torna (Flecktarn)</Czech>
+					<English>Carryall Backpack (Flecktarn)</English>
+					<Portuguese>Mochila de carga (Flecktarn)</Portuguese>
+					<Korean>다용도배낭(Flecktarn)</Korean>
+					<Chinesesimp>大旅行包（Flecktarn）</Chinesesimp>
+					<Japanese>キャリーオールパック（Flecktarn）</Japanese>
+					<Turkish>Büyük Sırt Çantası (Flecktarn)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_AssaultPack_flecktarn0">
+					<Original>Assault Pack (Flecktarn)</Original>
+					<Chinese>Assault Pack (Flecktarn)</Chinese>
+					<French>Assault Pack (Flecktarn)</French>
+					<Spanish>Assault Pack (Flecktarn)</Spanish>
+					<Italian>Assault Pack (Flecktarn)</Italian>
+					<Polish>Assault Pack (Flecktarn)</Polish>
+					<Russian>Assault Pack (Flecktarn)</Russian>
+					<German>Assault Pack (Flecktarn)</German>
+					<Czech>Assault Pack (Flecktarn)</Czech>
+					<English>Assault Pack (Flecktarn)</English>
+					<Portuguese>Assault Pack (Flecktarn)</Portuguese>
+					<Korean>Assault Pack (Flecktarn)</Korean>
+					<Chinesesimp>Assault Pack (Flecktarn)</Chinesesimp>
+					<Japanese>Assault Pack (Flecktarn)</Japanese>
+					<Turkish>Assault Pack (Flecktarn)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_AssaultPack_marar0">
+					<Original>Assault Pack (Marar)</Original>
+					<Chinese>Assault Pack (Marar)</Chinese>
+					<French>Assault Pack (Marar)</French>
+					<Spanish>Assault Pack (Marar)</Spanish>
+					<Italian>Assault Pack (Marar)</Italian>
+					<Polish>Assault Pack (Marar)</Polish>
+					<Russian>Assault Pack (Marar)</Russian>
+					<German>Assault Pack (Marar)</German>
+					<Czech>Assault Pack (Marar)</Czech>
+					<English>Assault Pack (Marar)</English>
+					<Portuguese>Assault Pack (Marar)</Portuguese>
+					<Korean>Assault Pack (Marar)</Korean>
+					<Chinesesimp>Assault Pack (Marar)</Chinesesimp>
+					<Japanese>Assault Pack (Marar)</Japanese>
+					<Turkish>Assault Pack (Marar)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_jungle0">
 					<Original>Carryall Backpack (Jungle)</Original>

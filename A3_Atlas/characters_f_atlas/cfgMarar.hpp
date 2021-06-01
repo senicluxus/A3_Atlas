@@ -219,12 +219,14 @@ class Atlas_B_M_AR_F: Atlas_B_M_Soldier_Base_F
     magazines[] =
     {
 		mag_3(200Rnd_556x45_Box_Red_F),
+		mag_2(17Rnd_9x21_Mag),
         HandGrenade,
         SmokeShell
     };
     respawnMagazines[] =
     {
 		mag_3(200Rnd_556x45_Box_Red_F),
+		mag_2(17Rnd_9x21_Mag),
         HandGrenade,
         SmokeShell
     };

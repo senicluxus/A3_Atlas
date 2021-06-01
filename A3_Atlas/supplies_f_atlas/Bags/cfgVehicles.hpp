@@ -84,7 +84,7 @@ class CfgVehicles
 	};
 	class B_RadioBag_01_marar_F: B_RadioBag_01_base_F
 	{
-		author = $STR_A3_A_AveryTheKitty;
+		author = "BranFlakes";
 		scope = public;
 		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_Marar_F0;
 		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_flecktarn_F_CA.paa";
@@ -103,7 +103,7 @@ class CfgVehicles
 		author = "BranFlakes";
 		scope = public;
 		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_commandos_F0;
-		picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_jungle_F_CA.paa";
+		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_jungle_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\B_RadioBag_01_commando_CO.paa"};
         
 		/* TFAR */
@@ -196,9 +196,9 @@ class CfgVehicles
 	};
 	class B_AssaultPack_marar: B_AssaultPack_Base
 	{
-		author = $STR_A3_A_AveryTheKitty;
+		author = "BranFlakes";
 		scope = public;
-		displayName = "BranFlakes";
+		displayName = $STR_A3_A_CfgVehicles_B_AssaultPack_marar0;
 		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_AssaultPack_flecktarn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_compact_marar_CO.paa"};
 	};
