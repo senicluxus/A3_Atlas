@@ -43,7 +43,7 @@ class O_support_Mort_F;
 class O_support_AMG_F;
 class O_support_AMort_F;
 // Arma 3 Marksman
-class O_ghillie_base_F;
+//class O_ghillie_base_F;
 // Arma 3 Jets
 class O_Fighter_Pilot_F;
 // Arma 3 Tacops
