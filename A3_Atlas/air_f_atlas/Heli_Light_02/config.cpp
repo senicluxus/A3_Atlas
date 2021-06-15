@@ -9,6 +9,7 @@ class CfgVehicles
 	#include "cfgOpfor_Aegis.hpp"       // Belarus
 	#include "cfgOpfor_Atlas.hpp"       // Takistani Army
 	#include "cfgVenezuela.hpp"			//Venezuela
+	#include "cfgMarar.hpp"				//Marar
     // Deprecated classes
     #include "deprecated.hpp"
 };
