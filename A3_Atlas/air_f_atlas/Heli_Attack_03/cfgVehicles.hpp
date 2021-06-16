@@ -11,7 +11,7 @@ class CfgVehicles
 			class Marar
 			{
 				displayName = $STR_A3_A_TextureSources_Marar0;
-				author = $STR_A3_A_AveryTheKitty;
+				author = "BranFlakes";
 				textures[] =
 				{
                     "\A3_Atlas\Air_F_Atlas\Heli_Attack_03\Data\Heli_Attack_03_Body_Marar_CO.paa",

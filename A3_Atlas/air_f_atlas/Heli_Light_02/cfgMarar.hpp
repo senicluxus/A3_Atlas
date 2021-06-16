@@ -1,7 +1,7 @@
 class Atlas_B_M_Heli_Light_02_dynamicLoadout_F: O_Heli_Light_02_dynamicLoadout_F
 {
 	author = "BranFlakes";
-	displayName = "KA-60 Alraaei";
+	displayName = "KA-60 Burāq";
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Heli_Light_02_dynamicLoadout_F.jpg";
 	scope = public;
 	scopeCurator = public;
