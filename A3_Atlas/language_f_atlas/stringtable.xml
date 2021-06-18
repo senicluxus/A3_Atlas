@@ -291,6 +291,23 @@
 				<Japanese>F-38I Aiit</Japanese>
 				<Turkish>F-38I Aiit</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_M_Plane_Fighter_04_F0">
+				<Original>A-149 Malaikah</Original>
+				<Chinese>A-149 Malaikah</Chinese>
+				<French>A-149 Malaikah</French>
+				<Spanish>A-149 Malaikah</Spanish>
+				<Italian>A-149 Malaikah</Italian>
+				<Polish>A-149 Malaikah</Polish>
+				<Russian>A-149 Malaikah</Russian>
+				<German>A-149 Malaikah</German>
+				<Czech>A-149 Malaikah</Czech>
+				<English>A-149 Malaikah</English>
+				<Portuguese>A-149 Malaikah</Portuguese>
+				<Korean>A-149 Malaikah</Korean>
+				<Chinesesimp>A-149 Malaikah</Chinesesimp>
+				<Japanese>A-149 Malaikah</Japanese>
+				<Turkish>A-149 Malaikah</Turkish>
+			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Plane_Fighter_05_Stealth_F0">
 				<Original>F-38I Aiit (Stealth)</Original>
 				<Chinese>F-38I Aiit (隱形)</Chinese>
@@ -449,6 +466,23 @@
 				<Chinesesimp>Nemmera IFV-6c</Chinesesimp>
 				<Japanese>Nemmera IFV-6c</Japanese>
 				<Turkish>Nemmera IFV-6c</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_M_APC_Wheeled_01_V2_F0">
+				<Original>AMV-7 Earaba</Original>
+				<Chinese>AMV-7 Earaba</Chinese>
+				<French>AMV-7 Earaba</French>
+				<Spanish>AMV-7 Earaba</Spanish>
+				<Italian>AMV-7 Earaba</Italian>
+				<Polish>AMV-7 Earaba</Polish>
+				<Russian>AMV-7 Earaba</Russian>
+				<German>AMV-7 Earaba</German>
+				<Czech>AMV-7 Earaba</Czech>
+				<English>AMV-7 Earaba</English>
+				<Portuguese>AMV-7 Earaba</Portuguese>
+				<Korean>AMV-7 Earaba</Korean>
+				<Chinesesimp>AMV-7 Earaba</Chinesesimp>
+				<Japanese>AMV-7 Earaba</Japanese>
+				<Turkish>AMV-7 Earaba</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_MBT_01_cannon_F0">
 				<Original>Mohetz Mk4</Original>

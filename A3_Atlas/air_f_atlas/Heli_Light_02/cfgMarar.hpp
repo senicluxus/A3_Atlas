@@ -36,7 +36,7 @@ class Atlas_B_M_Heli_Light_02_unarmed_F: O_Heli_Light_02_unarmed_F
 	crew = Atlas_B_M_Helipilot_F;
 	typicalCargo[] = {Atlas_B_M_Helipilot_F};
     textureList[] = {Marar,1};
-	hiddenSelectionsTextures[] = {"\A3\Air_F\Heli_Light_02\Data\Heli_Light_02_ext_CO.paa"};
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Air_F_Atlas\Heli_Light_02\Data\Heli_Light_02_ext_Marar_CO.paa"};
     class TransportMagazines
     {
         mag_xx(SmokeShell,2);

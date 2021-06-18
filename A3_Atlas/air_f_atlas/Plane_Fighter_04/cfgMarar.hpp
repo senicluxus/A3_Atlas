@@ -144,7 +144,7 @@ class Atlas_B_M_Plane_Fighter_04_F: Plane_Fighter_04_Base_F
 	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_E_Plane_Fighter_04_F.jpg";
 	scope = public;
 	scopeCurator = public;
-	displayName = "A-149 Malaikah";
+	displayName = $STR_A3_A_CfgVehicles_B_M_Plane_Fighter_04_F0;
 	side = TWest;
 	faction = Atlas_BLU_M_F;
 	crew = Atlas_B_M_Fighter_Pilot_F;
