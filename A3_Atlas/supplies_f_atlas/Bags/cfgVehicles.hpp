@@ -213,4 +213,5 @@ class CfgVehicles
 	#include "cfgIDF.hpp"       // IDF
 	#include "cfgVenezuela.hpp" //Venezuela
 	#include "cfgMarar.hpp"		//Marar
+	#include "cfgUNO.hpp"		//UNO
 };
