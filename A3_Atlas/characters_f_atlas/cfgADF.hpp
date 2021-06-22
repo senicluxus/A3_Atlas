@@ -393,14 +393,14 @@ class Atlas_B_A_soldier_M_F: Atlas_B_A_Soldier_base_F
 	};
 	weapons[] =
 	{
-		srifle_EBR_cbr_MRCO_LP_BI_F,
+		srifle_EBR_blk_MRCO_LP_BI_F,
 		hgun_P07_F,
         DefaultManWeapons,
 		Rangefinder
 	};
 	respawnWeapons[] =
 	{
-		srifle_EBR_cbr_MRCO_LP_BI_F,
+		srifle_EBR_blk_MRCO_LP_BI_F,
 		hgun_P07_F,
         DefaultManWeapons,
 		Rangefinder

@@ -3595,6 +3595,24 @@
 					<Chinesesimp>无线电包 [Marar]</Chinesesimp>
 					<Japanese>無線機パック [Marar]</Japanese>
 					<Turkish>Telsiz Paketi [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_aucamo_F0">
+					<Original>Radio Pack [ADF]</Original>
+					<Chinese>無線電背包 [ADF]</Chinese>
+					<French>Sac à dos radio [ADF]</French>
+					<Spanish>Mochila para radio [ADF]</Spanish>
+					<Italian>Zaino per radio [ADF]</Italian>
+					<Polish>Plecak z radiostacją [ADF]</Polish>
+					<Russian>Ранец радиста [ADF]</Russian>
+					<German>Funkrucksack [ADF]</German>
+					<Czech>Batoh s vysílačkou [ADF]</Czech>
+					<English>Radio Pack [ADF]</English>
+					<Portuguese>Pacote de rádio [ADF]</Portuguese>
+					<Korean>무전 팩 (정글) [ADF]</Korean>
+					<Chinesesimp>无线电包 [ADF]</Chinesesimp>
+					<Japanese>無線機パック [ADF]</Japanese>
+					<Turkish>Telsiz Paketi [ADF]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_owcamo0">
 					<Original>Carryall Backpack (Woodland Hex)</Original>
 					<Chinese>全容量大背包（森林六邊形）</Chinese>

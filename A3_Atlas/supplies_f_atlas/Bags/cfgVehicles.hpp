@@ -18,6 +18,22 @@ class CfgVehicles
 	class B_RadioBag_01_base_F;
 
     /* Arsenal */
+    class B_RadioBag_01_aucamo_F: B_RadioBag_01_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_aucamo_F0;
+		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_whex_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\B_RadioBag_01_aucamo_CO.paa"};
+
+		/* TFAR */
+		tf_dialog = bussole_radio_dialog;
+		tf_dialogUpdate = "call TFAR_fnc_updateLRDialogToChannel;";
+		tf_encryptionCode = tf_east_radio_code;
+		tf_hasLRradio = true;
+		tf_range = 20000;
+		tf_subtype = digital_lr;
+	};
 	class B_RadioBag_01_whex_F: B_RadioBag_01_base_F
 	{
 		author = $STR_A3_A_AveryTheKitty;
