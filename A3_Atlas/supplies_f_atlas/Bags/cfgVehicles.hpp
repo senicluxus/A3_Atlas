@@ -146,15 +146,15 @@ class CfgVehicles
 		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Kitbag_flecktarn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_fast_flecktarn_CO.paa"};
 	};
-	class B_Carryall_owcamo: B_Carryall_Base
+	class B_Carryall_flecktarn: B_Carryall_Base
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = $STR_A3_A_CfgVehicles_B_Carryall_owcamo0;
-		picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Carryall_owcamo_CA.paa";
-		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_tortila_whex_CO.paa"};
+		displayName = $STR_A3_A_CfgVehicles_B_Carryall_flecktarn0;
+		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Carryall_flecktarn_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_tortila_flecktarn_CO.paa"};
 	};
-	class B_Carryall_flecktarn: B_Carryall_Base
+	class B_Carryall_aucamo_F: B_Carryall_Base
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
@@ -214,11 +214,18 @@ class CfgVehicles
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "BranFlakes";
+		displayName = "Assault Pack [Marar]";
 		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_AssaultPack_flecktarn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_compact_marar_CO.paa"};
 	};
-
+	class B_AssaultPack_aucamo_F: B_AssaultPack_Base
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Assault Pack [ADF]";
+		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_AssaultPack_flecktarn_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_compact_aucamo_CO.paa"};
+	};
 	/* Factions */
     #include "cfgOPFOR.hpp"     // Belarus
 	#include "cfgViper.hpp"     // Viper
@@ -229,9 +236,6 @@ class CfgVehicles
 	#include "cfgIDF.hpp"       // IDF
 	#include "cfgVenezuela.hpp" //Venezuela
 	#include "cfgMarar.hpp"		//Marar
-<<<<<<< Updated upstream
-=======
-	#include "cfgUNO.hpp"		//UNO
+	//#include "cfgUNO.hpp"		//UNO
 	#include "cfgADF.hpp"		//Australia
->>>>>>> Stashed changes
 };

@@ -1207,7 +1207,7 @@ class arifle_SPAR_03_blk_ams_Pointer_Snds_F: arifle_SPAR_03_blk_F
 	};
 };
 class srifle_EBR_blk_F;
-class srifle_EBR_blk_MRCO_LP_BI_F: srifle_EBR_blk_F;
+class srifle_EBR_blk_MRCO_LP_BI_F: srifle_EBR_blk_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	class LinkedItems

@@ -1,4 +1,5 @@
-class B_Carryall_aucamo_BOAmmo_F: B_Carryall_aucamo_F
+class B_Carryall_cbr_F;
+class B_Carryall_aucamo_BOAmmo_F: B_Carryall_cbr_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -13,7 +14,7 @@ class B_Carryall_aucamo_BOAmmo_F: B_Carryall_aucamo_F
 		mag_xx(20Rnd_762x51_Mag,2);
 	};
 };
-class B_Carryall_aucamo_BOAAA_F: B_Carryall_aucamo_F
+class B_Carryall_aucamo_BOAAA_F: B_Carryall_cbr_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -22,7 +23,7 @@ class B_Carryall_aucamo_BOAAA_F: B_Carryall_aucamo_F
 		mag_xx(Titan_AA,3);
 	};
 };
-class B_Carryall_aucamo_BOAAT_F: B_Carryall_aucamo_F
+class B_Carryall_aucamo_BOAAT_F: B_Carryall_cbr_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -32,7 +33,7 @@ class B_Carryall_aucamo_BOAAT_F: B_Carryall_aucamo_F
 		mag_xx(Titan_AP,2);
 	};
 };
-class B_Carryall_aucamo_Mine: B_Carryall_aucamo_F
+class B_Carryall_aucamo_Mine: B_Carryall_cbr_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;

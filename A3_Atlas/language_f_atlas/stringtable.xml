@@ -3613,6 +3613,23 @@
 					<Japanese>無線機パック [ADF]</Japanese>
 					<Turkish>Telsiz Paketi [ADF]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_aucamo0">
+					<Original>Carryall Backpack [ADF]</Original>
+					<Chinese>全容量大背包 [ADF]</Chinese>
+					<French>Sac à dos multifonction [ADF]</French>
+					<Spanish>Bolsa de viaje [ADF]</Spanish>
+					<Italian>Zaino portatutto [ADF]</Italian>
+					<Polish>Plecak [ADF]</Polish>
+					<Russian>Рюкзак [ADF]</Russian>
+					<German>Großer Rucksack [ADF]</German>
+					<Czech>Torna [ADF]</Czech>
+					<English>Carryall Backpack [ADF]</English>
+					<Portuguese>Mochila de carga [ADF]</Portuguese>
+					<Korean>다용도배낭 [ADF]</Korean>
+					<Chinesesimp>大旅行包 [ADF]</Chinesesimp>
+					<Japanese>キャリーオールパック [ADF]</Japanese>
+					<Turkish>Büyük Sırt Çantası [ADF]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_owcamo0">
 					<Original>Carryall Backpack (Woodland Hex)</Original>
 					<Chinese>全容量大背包（森林六邊形）</Chinese>
