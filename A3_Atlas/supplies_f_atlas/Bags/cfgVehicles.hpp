@@ -213,4 +213,9 @@ class CfgVehicles
 	#include "cfgIDF.hpp"       // IDF
 	#include "cfgVenezuela.hpp" //Venezuela
 	#include "cfgMarar.hpp"		//Marar
+<<<<<<< Updated upstream
+=======
+	#include "cfgUNO.hpp"		//UNO
+	#include "cfgADF.hpp"		//Australia
+>>>>>>> Stashed changes
 };
