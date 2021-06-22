@@ -232,15 +232,15 @@ class Atlas_O_Fatigues_01_semiarid_F: O_Soldier_F
 	};
 };
 
-//From "cfgADF.hpp"
-class Atlas_B_A_CombatFatigues_01_aucamo_F: B_soldier_F
+/* From "cfgADF.hpp"
+class Atlas_B_A_CombatFatigues_01_aucamo_F: I_soldier_F
 {
   	scope = protected;
   	scopeCurator = private;
 	uniformClass = Atlas_U_B_A_CombatUniform_aucamo;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_CO.paa"};
 };
-class Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_F: B_Soldier_SL_F
+class Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_F: I_soldier_lite_F
 {
   	scope = protected;
   	scopeCurator = private;
@@ -282,6 +282,7 @@ class Atlas_B_A_CBRN_Man_Oversuit_01_Aucamo_F: B_CBRN_Man_Oversuit_01_MTP_F
 	uniformClass = Atlas_U_B_A_CBRN_Suit_01_Aucamo_F;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\CBRN_Suit_01_Aucamo_CO.paa"};
 };
+*/
 
 /* From "cfgHIMF.hpp" */
 class Atlas_B_H_CombatFatigues_01_jungle_F: I_E_Uniform_01_F
@@ -370,6 +371,7 @@ class Atlas_I_I_CombatFatigues_01_olive_F: I_soldier_F
 	uniformClass = Atlas_U_I_I_CombatUniform_olive;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\I_I_Soldier_01_CO.paa"};
 };
+class I_soldier_lite_F;
 class Atlas_I_I_CombatFatigues_01_RolledUp_olive_F: I_soldier_lite_F
 {
   	scope = protected;
@@ -443,6 +445,7 @@ class Atlas_I_I_Wetsuit_01_F: I_diver_F
 		"\A3\Characters_F\Data\visors_CA.paa"
 	};
 };
+class B_CBRN_Man_Oversuit_01_MTP_F;
 class Atlas_I_I_CBRN_Man_Oversuit_01_Olive_F: B_CBRN_Man_Oversuit_01_MTP_F
 {
 	author = $STR_A3_A_AveryTheKitty;

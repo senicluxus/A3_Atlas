@@ -1,4 +1,4 @@
-class Atlas_B_A_Man_Base_F: B_Soldier_base_F
+class Atlas_B_A_Man_Base_F: B_Soldier_F
 {
     scope = private;
     scopeCurator = private;

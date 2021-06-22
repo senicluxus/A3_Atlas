@@ -17,17 +17,8 @@ class CfgVehicles
         class EventHandlers;
     };
     class I_soldier_F: I_Soldier_base_F{};
-    class I_soldier_lite_F: I_Soldier_base_F{};
     class I_pilot_F;
-    class B_pilot_F;
-    class B_Diver_F;
-    class B_CBRN_Man_Oversuit_01_MTP_F;
     #include "cfgCivil.hpp"     // Civilians
-    class B_Soldier_base_F: SoldierWB
-    {
-        class EventHandlers;
-    };
-    #include "cfgADF.hpp"       //Australia
     #include "cfgViper.hpp"     // Viper
     #include "cfgLegion.hpp"    // Legionnaires
 	#include "cfgGER.hpp"		// Bundeswehr
