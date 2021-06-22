@@ -3630,6 +3630,23 @@
 					<Japanese>キャリーオールパック [ADF]</Japanese>
 					<Turkish>Büyük Sırt Çantası [ADF]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Kitbag_aucamo0">
+					<Original>Kitbag [ADF]</Original>
+					<Chinese>Kitbag [ADF]</Chinese>
+					<French>Kitbag [ADF]</French>
+					<Spanish>Kitbag [ADF]</Spanish>
+					<Italian>Kitbag [ADF]</Italian>
+					<Polish>Kitbag [ADF]</Polish>
+					<Russian>Kitbag [ADF]</Russian>
+					<German>Kitbag [ADF]</German>
+					<Czech>Kitbag [ADF]</Czech>
+					<English>Kitbag [ADF]</English>
+					<Portuguese>Kitbag [ADF]</Portuguese>
+					<Korean>Kitbag [ADF]</Korean>
+					<Chinesesimp>Kitbag [ADF]</Chinesesimp>
+					<Japanese>Kitbag [ADF]</Japanese>
+					<Turkish>Kitbag [ADF]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_owcamo0">
 					<Original>Carryall Backpack (Woodland Hex)</Original>
 					<Chinese>全容量大背包（森林六邊形）</Chinese>
