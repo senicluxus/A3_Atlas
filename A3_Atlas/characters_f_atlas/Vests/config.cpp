@@ -239,6 +239,27 @@ class CfgWeapons
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_sand.paa"
 		};
 	};
+	class V_PlateCarrier1_rgr;
+	class V_PlateCarrier1_aucamo_F: V_PlateCarrier1_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessO_whex_F_CA.paa";
+		displayName = "Carrier Lite [ADF]";
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_adf.paa"
+		};
+	};
+	class V_PlateCarrier2_aucamo_F: V_PlateCarrier2_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessO_whex_F_CA.paa";
+		displayName = "Carrier Rig [ADF]";
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_adf.paa"
+		};
+	};
     /*
 	class V_RebreatherB_O: V_RebreatherB
 	{
