@@ -125,6 +125,9 @@ class Atlas_O_VZ_TL_F: Atlas_O_VZ_Soldier_Base_F
 		SMOKEGRENADES_OPFOR
     };
     cost = 450000;
+    icon = iconManLeader;
+	role = Grenadier;
+
 };
 class Atlas_O_VZ_GL_F: Atlas_O_VZ_Soldier_Base_F
 {
@@ -185,7 +188,7 @@ class Atlas_O_VZ_GL_F: Atlas_O_VZ_Soldier_Base_F
 		SMOKEGRENADES_OPFOR
     };
     cost = 430000;
-	icon = iconManLeader;
+	role = Grenadier;
 };
 class Atlas_O_VZ_AR_F: Atlas_O_VZ_Soldier_Base_F
 {
@@ -234,6 +237,8 @@ class Atlas_O_VZ_AR_F: Atlas_O_VZ_Soldier_Base_F
         mag_2(SmokeShell)
     };
 	cost = 125000;
+	icon = iconManMG;
+	role = MachineGunner;
 	threat[] =
     {
         1.0,    // Soft
@@ -291,6 +296,8 @@ class Atlas_O_VZ_exp_F: Atlas_O_VZ_Soldier_Base_F
         mag_2(SmokeShell)
     };
 	cost = 115000;
+	icon = iconManExplosive;
+	role = Sapper;
 	threat[] =
     {
         1.0,    // Soft
@@ -346,7 +353,7 @@ class Atlas_O_VZ_M_F: Atlas_O_VZ_Soldier_Base_F
         mag_2(SmokeShell)
     };
 	cost = 100000;
-    role = Rifleman;
+    role = Marksman;
 };
 class Atlas_O_VZ_medic_F: Atlas_O_VZ_Soldier_Base_F
 {
@@ -399,6 +406,9 @@ class Atlas_O_VZ_medic_F: Atlas_O_VZ_Soldier_Base_F
         SMOKESHELLS_MEDIC
     };
 	cost = 300000;
+	icon = iconManMedic;
+	picture = pictureHeal;
+	role = CombatLifeSaver;
 	threat[] =
     {
         1.0,    // Soft
@@ -458,6 +468,8 @@ class Atlas_O_VZ_Soldier_LAT_F: Atlas_O_VZ_Soldier_Base_F
         mag_2(HandGrenade_East),
         mag_2(SmokeShell)
     };
+    icon = iconManAT;
+	role = MissileSpecialist;
 };
 class Atlas_O_VZ_A_F: Atlas_O_VZ_Soldier_Base_F
 {
@@ -558,6 +570,7 @@ class Atlas_O_VZ_Soldier_AAR_F: Atlas_O_VZ_Soldier_Base_F
 		mag_2(SmokeShell)
 	};
 	cost = 110000;
+	role = Assistant;
 };
 class Atlas_O_VZ_support_MG_F: Atlas_O_VZ_Soldier_Base_F
 {
@@ -1208,6 +1221,8 @@ class Atlas_O_VZ_Soldier_AA_F: Atlas_O_VZ_Soldier_Base_F
         mag_2(HandGrenade_East),
         mag_2(SmokeShell)
     };
+    icon = iconManAT;
+	role = MissileSpecialist;
 };
 class Atlas_O_VZ_Soldier_AT_F: Atlas_O_VZ_Soldier_Base_F
 {
@@ -1261,6 +1276,8 @@ class Atlas_O_VZ_Soldier_AT_F: Atlas_O_VZ_Soldier_Base_F
         mag_2(HandGrenade_East),
         mag_2(SmokeShell)
     };
+    icon = iconManAT;
+	role = MissileSpecialist;
 };
 class Atlas_O_VZ_Officer_F: Atlas_O_VZ_Soldier_Base_F
 {
@@ -1533,6 +1550,7 @@ class Atlas_O_VZ_Soldier_recon_base: Atlas_O_VZ_Soldier_Base_F
 		optic_Nightstalker
 	};
     icon = iconManRecon;
+	role = Rifleman;
 };
 class Atlas_O_VZ_recon_TL_F: Atlas_O_VZ_Soldier_recon_base
 {
@@ -1587,6 +1605,7 @@ class Atlas_O_VZ_recon_TL_F: Atlas_O_VZ_Soldier_recon_base
         SMOKESHELLS_OPFOR,
         mag_2(Chemlight_red)
     };
+	icon = iconManLeader;
 	role = Rifleman;
 	threat[] =
     {
@@ -1651,6 +1670,8 @@ class Atlas_O_VZ_recon_exp_F: Atlas_O_VZ_Soldier_recon_base
     };
 	role = Rifleman;
 	threat[] =
+	icon = iconManExplosive;
+	picture = pictureExplosive;
     {
         1.0,    // Soft
         0.1,    // Armor
@@ -1708,7 +1729,8 @@ class Atlas_O_VZ_recon_AR_F: Atlas_O_VZ_Soldier_recon_base
         mag_2(SmokeShell),
         mag_2(Chemlight_red)
     };
-	role = Rifleman;
+	icon = iconManMG;
+	role = MachineGunner;
 	threat[] =
     {
         1.0,    // Soft
@@ -1769,7 +1791,7 @@ class Atlas_O_VZ_recon_M_F: Atlas_O_VZ_Soldier_recon_base
         SMOKESHELLS_OPFOR,
         mag_2(Chemlight_red)
     };
-	role = Rifleman;
+	role = Marksman;
 	threat[] =
     {
         1.0,    // Soft
@@ -1831,7 +1853,9 @@ class Atlas_O_VZ_recon_medic_F: Atlas_O_VZ_Soldier_recon_base
         SMOKESHELLS_MEDIC,
         mag_2(Chemlight_red)
     };
-	role = Medic;
+	icon = iconManMedic;
+	picture = pictureHeal;
+	role = CombatLifeSaver;
 	threat[] =
     {
         1.0,    // Soft
@@ -1894,7 +1918,7 @@ class Atlas_O_VZ_recon_GL_F: Atlas_O_VZ_Soldier_recon_base
         mag_2(Chemlight_red),
         mag_2(1Rnd_Smoke_Grenade_shell)
     };
-	role = Rifleman;
+	role = Grenadier;
 	threat[] =
     {
         1.0,    // Soft
@@ -1958,7 +1982,8 @@ class Atlas_O_VZ_recon_LAT_F: Atlas_O_VZ_Soldier_recon_base
         mag_2(SmokeShell),
         mag_2(Chemlight_red)
     };
-	role = Rifleman;
+	icon = iconManAT;
+	role = MissileSpecialist;
 	threat[] =
     {
         1.0,    // Soft
@@ -2023,7 +2048,7 @@ class Atlas_O_VZ_recon_JTAC_F: Atlas_O_VZ_Soldier_recon_base
 		SMOKESHELLS_OPFOR,
         mag_2(Chemlight_red)
     };
-	role = Rifleman;
+	role = SpecialOperative;
 	threat[] =
     {
         1.0,    // Soft
