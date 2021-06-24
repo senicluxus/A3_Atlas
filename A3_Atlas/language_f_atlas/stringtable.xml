@@ -1132,22 +1132,6 @@
 					<Chinesesimp>Advanced Modular Helmet (Ear Protectors) [Commandos]</Chinesesimp>
 					<Japanese>Advanced Modular Helmet (Ear Protectors) [Commandos]</Japanese>
 					<Turkish>Advanced Modular Helmet (Ear Protectors) [Commandos]</Turkish>
-				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_commando_F0">
-					<Original>Heli Crew Helmet [Israel]</Original>
-					<Chinese>直升機隊員頭盔（Israel）</Chinese>
-					<French>Casque d'équipage d'hélico [Israel]</French>
-					<Spanish>Casco de tripulación de helicóptero [Israel]</Spanish>
-					<Italian>Casco equipaggio elicottero [Israel]</Italian>
-					<Polish>Hełm załogi śmigłowca [Israel]</Polish>
-					<Russian>Шлем члена экипажа вертолёта [Israel]</Russian>
-					<German>Helicrew-Helm [Israel]</German>
-					<Czech>Přilba posádky helikoptéry [Israel]</Czech>
-					<English>Heli Crew Helmet [Israel]</English>
-					<Portuguese>Capacete de tripulação de helicóptero [Israel]</Portuguese>
-					<Korean>헬기 승무원 헬멧[Israel]</Korean>
-					<Chinesesimp>直升机机组人员头盔 [Israel]</Chinesesimp>
-					<Japanese>ヘリ乗員ヘルメット[Israel]</Japanese>
-					<Turkish>Helikopter Mürettebat Kaskı [Israel]</Turkish>
 				</Key>
 			</Container>
 			<Container name="Uniforms">
@@ -1252,6 +1236,40 @@
 					<Chinesesimp>轻便军服 (Olive)</Chinesesimp>
 					<Japanese>軽装野戦服 (Olive)</Japanese>
 					<Turkish>Hafif Asker Kıyafeti </Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo0">
+					<Original>Combat Fatigues [ADF]</Original>
+					<Chinese>作戰戰鬥服 [ADF]</Chinese>
+					<French>Treillis [ADF]</French>
+					<Spanish>Traje de combate [ADF]</Spanish>
+					<Italian>Uniforme da combattimento [ADF]</Italian>
+					<Polish>Mundur bojowy [ADF]</Polish>
+					<Russian>Боевая форма [ADF]</Russian>
+					<German>Kampfanzug [ADF]</German>
+					<Czech>Bojová uniforma [ADF]</Czech>
+					<English>Combat Fatigues [ADF]</English>
+					<Portuguese>Uniforme de combate [ADF]</Portuguese>
+					<Korean>전투병 전투복[ADF]</Korean>
+					<Chinesesimp>作战服 [ADF]</Chinesesimp>
+					<Japanese>戦闘服 [ADF]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo0">
+					<Original>Combat Fatigues [ADF, Rolled-up]</Original>
+					<Chinese>作戰戰鬥服 [ADF, Rolled-up]</Chinese>
+					<French>Treillis [ADF, Rolled-up]</French>
+					<Spanish>Traje de combate [ADF, Rolled-up]</Spanish>
+					<Italian>Uniforme da combattimento [ADF, Rolled-up]</Italian>
+					<Polish>Mundur bojowy [ADF, Rolled-up]</Polish>
+					<Russian>Боевая форма [ADF, Rolled-up]</Russian>
+					<German>Kampfanzug [ADF, Rolled-up]</German>
+					<Czech>Bojová uniforma [ADF, Rolled-up]</Czech>
+					<English>Combat Fatigues [ADF, Rolled-up]</English>
+					<Portuguese>Uniforme de combate [ADF, Rolled-up]</Portuguese>
+					<Korean>전투병 전투복[ADF, Rolled-up]</Korean>
+					<Chinesesimp>作战服 [ADF, Rolled-up]</Chinesesimp>
+					<Japanese>戦闘服 [ADF, Rolled-up]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF, Rolled-up]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_sgg0">
 					<Original>Combat Fatigues (Sage)</Original>
