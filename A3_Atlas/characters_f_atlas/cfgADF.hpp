@@ -869,14 +869,14 @@ class Atlas_B_A_Soldier_LAT_F: Atlas_B_A_Soldier_base_F
 	weapons[] =
 	{
 		arifle_AUG_Holo_Pointer_F,
-		launch_MRAWS_coyote_F,
+		launch_MRAWS_sand_F,
 		hgun_P07_F,
         DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
 		arifle_AUG_Holo_Pointer_F,
-		launch_MRAWS_coyote_F,
+		launch_MRAWS_sand_F,
 		hgun_P07_F,
         DefaultManWeapons
 	};
