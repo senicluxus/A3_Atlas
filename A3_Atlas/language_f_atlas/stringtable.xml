@@ -484,6 +484,23 @@
 				<Japanese>Luchs 3A5</Japanese>
 				<Turkish>Luchs 3A5</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_A_MBT_03_cannon_F0">
+				<Original>M3A5 Blamey</Original>
+				<Chinese>M3A5 Blamey</Chinese>
+				<French>M3A5 Blamey</French>
+				<Spanish>M3A5 Blamey</Spanish>
+				<Italian>M3A5 Blamey</Italian>
+				<Polish>M3A5 Blamey</Polish>
+				<Russian>M3A5 Blamey</Russian>
+				<German>M3A5 Blamey</German>
+				<Czech>M3A5 Blamey</Czech>
+				<English>M3A5 Blamey</English>
+				<Portuguese>M3A5 Blamey</Portuguese>
+				<Korean>M3A5 Blamey</Korean>
+				<Chinesesimp>M3A5 Blamey</Chinesesimp>
+				<Japanese>M3A5 Blamey</Japanese>
+				<Turkish>M3A5 Blamey</Turkish>
+			</Key>
 		</Container>
 		<Container name="Characters_F">
 			<Container name="Headgear">
@@ -2263,6 +2280,23 @@
 					<Chinesesimp>AveryTheKitty 和 Toadie2K</Chinesesimp>
 					<Japanese>AveryTheKitty ＆ Toadie2K</Japanese>
 					<Turkish>AveryTheKitty ve Toadie2K</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_BranFlakes">
+					<Original>Bran Flakes</Original>
+					<Chinese>Bran Flakes</Chinese>
+					<French>Bran Flakes</French>
+					<Spanish>Bran Flakes</Spanish>
+					<Italian>Bran Flakes</Italian>
+					<Polish>Bran Flakes</Polish>
+					<Russian>Bran Flakes</Russian>
+					<German>Bran Flakes</German>
+					<Czech>Bran Flakes</Czech>
+					<English>Bran Flakes</English>
+					<Portuguese>Bran Flakes</Portuguese>
+					<Korean>Bran Flakes</Korean>
+					<Chinesesimp>Bran Flakes</Chinesesimp>
+					<Japanese>Bran Flakes</Japanese>
+					<Turkish>Bran Flakes</Turkish>
 				</Key>
 			</Container>
 			<Container name="Faction_Classes">

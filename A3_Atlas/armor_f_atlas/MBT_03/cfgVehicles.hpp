@@ -41,7 +41,7 @@ class CfgVehicles
 					"\A3_Atlas\Armor_F_Atlas\MBT_03\Data\MBT_03_ext01_CO.paa",
 					"\A3_Atlas\Armor_F_Atlas\MBT_03\Data\MBT_03_ext02_CO.paa",
 					"\A3_Atlas\Armor_F_Atlas\MBT_03\Data\MBT_03_rcws_CO.paa",
-					"\A3\Armor_F\Data\camonet_NATO_Desert_CO.paa"
+					"\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa"
 				};
 				factions[] = {};
 			};
@@ -82,6 +82,19 @@ class CfgVehicles
 					"\A3_Atlas\Armor_F_Atlas\MBT_03\Data\MBT_03_rcws_desert_CO.paa",
 					"\A3\Armor_F\Data\camonet_NATO_Desert_CO.paa"
 				};
+				factions[] = {Atlas_BLU_A_F};
+			};
+			class ADF_01
+			{
+				displayName = $STR_A3_A_CfgFactionClasses_BLU_A_F1;
+				author = $STR_A3_A_BranFlakes;
+				textures[] =
+				{
+					"\A3_Atlas\Armor_F_Atlas\MBT_03\Data\MBT_03_ext01_ADF_CO.paa",
+					"\A3_Atlas\Armor_F_Atlas\MBT_03\Data\MBT_03_ext02_ADF_CO.paa",
+					"\A3_Atlas\Armor_F_Atlas\MBT_03\Data\MBT_03_rcws_ADF_CO.paa",
+					"\A3\Armor_F\Data\camonet_NATO_Desert_CO.paa"
+				};
 				factions[] = {};
 			};
 		};
@@ -89,6 +102,7 @@ class CfgVehicles
 
 	/* Factions */
 	#include "cfgGER.hpp"   // Germany
+	#include "cfgADF.hpp"	//ADF
 
     /* Deprecated */
     #include "deprecated.hpp"
