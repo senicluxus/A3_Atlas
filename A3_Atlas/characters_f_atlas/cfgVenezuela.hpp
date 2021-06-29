@@ -1670,13 +1670,13 @@ class Atlas_O_VZ_recon_exp_F: Atlas_O_VZ_Soldier_recon_base
     };
 	role = Rifleman;
 	threat[] =
-	icon = iconManExplosive;
-	picture = pictureExplosive;
     {
         1.0,    // Soft
         0.1,    // Armor
         0.3     // Air
     };
+	icon = iconManExplosive;
+	picture = pictureExplosive;
 };
 class Atlas_O_VZ_recon_AR_F: Atlas_O_VZ_Soldier_recon_base
 {
