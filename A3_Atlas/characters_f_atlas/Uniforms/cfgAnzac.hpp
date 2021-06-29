@@ -36,7 +36,7 @@ class Atlas_U_B_A_PilotCoveralls: Uniform_Base
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = public;
-	displayName = $STR_A3_A_CfgWeapons_U_B_A_PilotCoveralls0;
+	displayName = "Pilot Coveralls [ADF]";
 	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_B_A_PilotCoveralls_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 	hiddenSelections[] = {camo};
@@ -53,7 +53,7 @@ class Atlas_U_B_A_Wetsuit: Uniform_Base
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = public;
-	displayName = $STR_A3_A_CfgWeapons_U_B_A_Wetsuit0;
+	displayName = "Wetsuit [ADF]";
 	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_B_A_Wetsuit_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
 	hiddenSelections[] = {camo};
@@ -71,7 +71,7 @@ class Atlas_U_B_A_CBRN_Suit_01_Aucamo_F: Uniform_Base
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = public;
-	displayName = $STR_A3_A_CfgWeapons_U_B_A_CBRN_Suit_01_Aucamo_F0;
+	displayName = "CBRN Suit [ADF]";
 	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_B_A_CBRN_Suit_01_Aucamo_F_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
 	hiddenSelections[] = {camo};

@@ -535,6 +535,23 @@
 				<Japanese>Luchs 3A5</Japanese>
 				<Turkish>Luchs 3A5</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_A_MBT_03_cannon_F0">
+				<Original>M3A5 Blamey</Original>
+				<Chinese>M3A5 Blamey</Chinese>
+				<French>M3A5 Blamey</French>
+				<Spanish>M3A5 Blamey</Spanish>
+				<Italian>M3A5 Blamey</Italian>
+				<Polish>M3A5 Blamey</Polish>
+				<Russian>M3A5 Blamey</Russian>
+				<German>M3A5 Blamey</German>
+				<Czech>M3A5 Blamey</Czech>
+				<English>M3A5 Blamey</English>
+				<Portuguese>M3A5 Blamey</Portuguese>
+				<Korean>M3A5 Blamey</Korean>
+				<Chinesesimp>M3A5 Blamey</Chinesesimp>
+				<Japanese>M3A5 Blamey</Japanese>
+				<Turkish>M3A5 Blamey</Turkish>
+			</Key>
 		</Container>
 		<Container name="Characters_F">
 			<Container name="Headgear">
@@ -1251,22 +1268,6 @@
 					<Chinesesimp>Advanced Modular Helmet (Ear Protectors) [Commandos]</Chinesesimp>
 					<Japanese>Advanced Modular Helmet (Ear Protectors) [Commandos]</Japanese>
 					<Turkish>Advanced Modular Helmet (Ear Protectors) [Commandos]</Turkish>
-				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_commando_F0">
-					<Original>Heli Crew Helmet [Israel]</Original>
-					<Chinese>直升機隊員頭盔（Israel）</Chinese>
-					<French>Casque d'équipage d'hélico [Israel]</French>
-					<Spanish>Casco de tripulación de helicóptero [Israel]</Spanish>
-					<Italian>Casco equipaggio elicottero [Israel]</Italian>
-					<Polish>Hełm załogi śmigłowca [Israel]</Polish>
-					<Russian>Шлем члена экипажа вертолёта [Israel]</Russian>
-					<German>Helicrew-Helm [Israel]</German>
-					<Czech>Přilba posádky helikoptéry [Israel]</Czech>
-					<English>Heli Crew Helmet [Israel]</English>
-					<Portuguese>Capacete de tripulação de helicóptero [Israel]</Portuguese>
-					<Korean>헬기 승무원 헬멧[Israel]</Korean>
-					<Chinesesimp>直升机机组人员头盔 [Israel]</Chinesesimp>
-					<Japanese>ヘリ乗員ヘルメット[Israel]</Japanese>
-					<Turkish>Helikopter Mürettebat Kaskı [Israel]</Turkish>
 				</Key>
 			</Container>
 			<Container name="Uniforms">
@@ -1371,6 +1372,40 @@
 					<Chinesesimp>轻便军服 (Olive)</Chinesesimp>
 					<Japanese>軽装野戦服 (Olive)</Japanese>
 					<Turkish>Hafif Asker Kıyafeti </Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo0">
+					<Original>Combat Fatigues [ADF]</Original>
+					<Chinese>作戰戰鬥服 [ADF]</Chinese>
+					<French>Treillis [ADF]</French>
+					<Spanish>Traje de combate [ADF]</Spanish>
+					<Italian>Uniforme da combattimento [ADF]</Italian>
+					<Polish>Mundur bojowy [ADF]</Polish>
+					<Russian>Боевая форма [ADF]</Russian>
+					<German>Kampfanzug [ADF]</German>
+					<Czech>Bojová uniforma [ADF]</Czech>
+					<English>Combat Fatigues [ADF]</English>
+					<Portuguese>Uniforme de combate [ADF]</Portuguese>
+					<Korean>전투병 전투복[ADF]</Korean>
+					<Chinesesimp>作战服 [ADF]</Chinesesimp>
+					<Japanese>戦闘服 [ADF]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo0">
+					<Original>Combat Fatigues [ADF, Rolled-up]</Original>
+					<Chinese>作戰戰鬥服 [ADF, Rolled-up]</Chinese>
+					<French>Treillis [ADF, Rolled-up]</French>
+					<Spanish>Traje de combate [ADF, Rolled-up]</Spanish>
+					<Italian>Uniforme da combattimento [ADF, Rolled-up]</Italian>
+					<Polish>Mundur bojowy [ADF, Rolled-up]</Polish>
+					<Russian>Боевая форма [ADF, Rolled-up]</Russian>
+					<German>Kampfanzug [ADF, Rolled-up]</German>
+					<Czech>Bojová uniforma [ADF, Rolled-up]</Czech>
+					<English>Combat Fatigues [ADF, Rolled-up]</English>
+					<Portuguese>Uniforme de combate [ADF, Rolled-up]</Portuguese>
+					<Korean>전투병 전투복[ADF, Rolled-up]</Korean>
+					<Chinesesimp>作战服 [ADF, Rolled-up]</Chinesesimp>
+					<Japanese>戦闘服 [ADF, Rolled-up]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF, Rolled-up]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_sgg0">
 					<Original>Combat Fatigues (Sage)</Original>
@@ -2364,6 +2399,23 @@
 					<Chinesesimp>AveryTheKitty 和 Toadie2K</Chinesesimp>
 					<Japanese>AveryTheKitty ＆ Toadie2K</Japanese>
 					<Turkish>AveryTheKitty ve Toadie2K</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_BranFlakes">
+					<Original>Bran Flakes</Original>
+					<Chinese>Bran Flakes</Chinese>
+					<French>Bran Flakes</French>
+					<Spanish>Bran Flakes</Spanish>
+					<Italian>Bran Flakes</Italian>
+					<Polish>Bran Flakes</Polish>
+					<Russian>Bran Flakes</Russian>
+					<German>Bran Flakes</German>
+					<Czech>Bran Flakes</Czech>
+					<English>Bran Flakes</English>
+					<Portuguese>Bran Flakes</Portuguese>
+					<Korean>Bran Flakes</Korean>
+					<Chinesesimp>Bran Flakes</Chinesesimp>
+					<Japanese>Bran Flakes</Japanese>
+					<Turkish>Bran Flakes</Turkish>
 				</Key>
 			</Container>
 			<Container name="Faction_Classes">
@@ -3765,6 +3817,56 @@
 					<Chinesesimp>手提袋 (Flecktarn)</Chinesesimp>
 					<Japanese>キットバッグ (Flecktarn)</Japanese>
 					<Turkish>Kitbag (Flecktarn)</Turkish>
+				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_aucamo_F0">
+					<Original>Radio Pack [ADF]</Original>
+					<Chinese>無線電背包 [ADF]</Chinese>
+					<French>Sac à dos radio [ADF]</French>
+					<Spanish>Mochila para radio [ADF]</Spanish>
+					<Italian>Zaino per radio [ADF]</Italian>
+					<Polish>Plecak z radiostacją [ADF]</Polish>
+					<Russian>Ранец радиста [ADF]</Russian>
+					<German>Funkrucksack [ADF]</German>
+					<Czech>Batoh s vysílačkou [ADF]</Czech>
+					<English>Radio Pack [ADF]</English>
+					<Portuguese>Pacote de rádio [ADF]</Portuguese>
+					<Korean>무전 팩 (정글) [ADF]</Korean>
+					<Chinesesimp>无线电包 [ADF]</Chinesesimp>
+					<Japanese>無線機パック [ADF]</Japanese>
+					<Turkish>Telsiz Paketi [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_aucamo0">
+					<Original>Carryall Backpack [ADF]</Original>
+					<Chinese>全容量大背包 [ADF]</Chinese>
+					<French>Sac à dos multifonction [ADF]</French>
+					<Spanish>Bolsa de viaje [ADF]</Spanish>
+					<Italian>Zaino portatutto [ADF]</Italian>
+					<Polish>Plecak [ADF]</Polish>
+					<Russian>Рюкзак [ADF]</Russian>
+					<German>Großer Rucksack [ADF]</German>
+					<Czech>Torna [ADF]</Czech>
+					<English>Carryall Backpack [ADF]</English>
+					<Portuguese>Mochila de carga [ADF]</Portuguese>
+					<Korean>다용도배낭 [ADF]</Korean>
+					<Chinesesimp>大旅行包 [ADF]</Chinesesimp>
+					<Japanese>キャリーオールパック [ADF]</Japanese>
+					<Turkish>Büyük Sırt Çantası [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Kitbag_aucamo0">
+					<Original>Kitbag [ADF]</Original>
+					<Chinese>Kitbag [ADF]</Chinese>
+					<French>Kitbag [ADF]</French>
+					<Spanish>Kitbag [ADF]</Spanish>
+					<Italian>Kitbag [ADF]</Italian>
+					<Polish>Kitbag [ADF]</Polish>
+					<Russian>Kitbag [ADF]</Russian>
+					<German>Kitbag [ADF]</German>
+					<Czech>Kitbag [ADF]</Czech>
+					<English>Kitbag [ADF]</English>
+					<Portuguese>Kitbag [ADF]</Portuguese>
+					<Korean>Kitbag [ADF]</Korean>
+					<Chinesesimp>Kitbag [ADF]</Chinesesimp>
+					<Japanese>Kitbag [ADF]</Japanese>
+					<Turkish>Kitbag [ADF]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_owcamo0">
 					<Original>Carryall Backpack (Woodland Hex)</Original>

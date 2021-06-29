@@ -1,8 +1,4 @@
 // Arma 3
-class B_Soldier_base_F: SoldierWB
-{
-	class EventHandlers;
-};
 class B_Soldier_F: B_Soldier_base_F{};
 // Arma 3 Atlas
 class Atlas_B_L_Man_Base_F: B_Soldier_F

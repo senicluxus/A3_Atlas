@@ -1,4 +1,4 @@
-class Atlas_B_A_Man_Base_F: B_Soldier_F
+class Atlas_B_A_Man_Base_F: B_Soldier_base_F
 {
     scope = private;
     scopeCurator = private;
@@ -243,14 +243,14 @@ class Atlas_B_A_Soldier_AR_F: Atlas_B_A_Soldier_base_F
 	};
 	magazines[] =
 	{
-		mag_3(200Rnd_556x45_BAx_Red_F),
+		mag_3(200Rnd_556x45_Box_Red_F),
         mag_2(16Rnd_9x21_Mag),
         HandGrenade,
         mag_2(SmokeShell)
 	};
 	respawnMagazines[] =
 	{
-		mag_3(200Rnd_556x45_BAx_Red_F),
+		mag_3(200Rnd_556x45_Box_Red_F),
         mag_2(16Rnd_9x21_Mag),
         HandGrenade,
         mag_2(SmokeShell)
@@ -393,14 +393,14 @@ class Atlas_B_A_soldier_M_F: Atlas_B_A_Soldier_base_F
 	};
 	weapons[] =
 	{
-		srifle_EBR_cbr_MRCO_LP_BI_F,
+		srifle_EBR_blk_MRCO_LP_BI_F,
 		hgun_P07_F,
         DefaultManWeapons,
 		Rangefinder
 	};
 	respawnWeapons[] =
 	{
-		srifle_EBR_cbr_MRCO_LP_BI_F,
+		srifle_EBR_blk_MRCO_LP_BI_F,
 		hgun_P07_F,
         DefaultManWeapons,
 		Rangefinder
@@ -869,14 +869,14 @@ class Atlas_B_A_Soldier_LAT_F: Atlas_B_A_Soldier_base_F
 	weapons[] =
 	{
 		arifle_AUG_Holo_Pointer_F,
-		launch_MRAWS_coyote_F,
+		launch_MRAWS_sand_F,
 		hgun_P07_F,
         DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
 		arifle_AUG_Holo_Pointer_F,
-		launch_MRAWS_coyote_F,
+		launch_MRAWS_sand_F,
 		hgun_P07_F,
         DefaultManWeapons
 	};
@@ -1839,21 +1839,21 @@ class Atlas_B_A_soldier_UAV_06_F: Atlas_B_A_Soldier_UAV_F
 	author = $STR_A3_A_AveryTheKitty;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_soldier_UAV_06_F.jpg";
 	displayName = $STR_A3_B_T_soldier_UAV_06_F0;
-	backpack = Atlas_B_A_UAV_06_backpack_F;
+	backpack = UAV_06_backpack_base_F;
 };
 class Atlas_B_A_soldier_UAV_06_medical_F: Atlas_B_A_Soldier_UAV_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_soldier_UAV_06_medical_F.jpg";
 	displayName = $STR_A3_B_T_soldier_UAV_06_medical_F0;
-	backpack = Atlas_B_A_UAV_06_medical_backpack_F;
+	backpack = UAV_06_medical_backpack_base_F;
 };
 class Atlas_B_A_soldier_UGV_02_Demining_F: Atlas_B_A_Soldier_UAV_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_soldier_UGV_02_Demining_F.jpg";
 	displayName = $STR_A3_C_B_soldier_UGV_02_Demining_F0;
-	backpack = Atlas_B_A_UGV_02_Demining_backpack_F;
+	backpack = UGV_02_Demining_backpack_base_F;
 };
 class Atlas_B_A_Soldier_universal_F: Atlas_B_A_Soldier_F
 {

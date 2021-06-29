@@ -64,6 +64,17 @@ class CfgVehicles
 				};
 				factions[] = {Atlas_BLU_L_F};
 			};
+			class ADF
+			{
+				displayName = $STR_A3_A_CfgFactionClasses_BLU_A_F1;
+				author = $STR_A3_A_wsxcgy;
+				textures[] =
+				{
+					"\A3_Atlas\Soft_F_Atlas\MRAP_03\Data\MRAP_03_ext_aus_CO.paa",
+					"\A3_Atlas\Soft_F_Atlas\MRAP_03\Data\Turret_aus_CO.paa"
+				};
+				factions[] = {Atlas_BLU_A_F};
+			};
 		};
 	};
 	class MRAP_03_hmg_base_F: MRAP_03_base_F
@@ -78,6 +89,7 @@ class CfgVehicles
 	// Arma 3 Atlas
 	#include "cfgLegion.hpp"            // Legionnaires
 	#include "cfgBlufor_Atlas.hpp"      // Bundeswehr
+	#include "cfgADF.hpp"				//ADF
     // Deprecated classes
     #include "deprecated.hpp"
 };

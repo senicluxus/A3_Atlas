@@ -18,6 +18,7 @@ class CfgVehicles
 	#include "cfgLegion.hpp"            // Legionnaires
 	#include "cfgBlufor_Atlas.hpp"      // Germany
 	#include "cfgIDF.hpp"				// IDF
+	#include "cfgADF.hpp"				//ADF
     // Deprecated classes
     #include "deprecated.hpp"
 };

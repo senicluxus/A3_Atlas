@@ -62,7 +62,7 @@ class B_O_UAV_01_F: UAV_01_base_F
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Air_F_Atlas\UAV_01\Data\UAV_01_ADF_CO.paa"};
 	textureList[] = {ADF,1};
 };
-class B_O_UAV_01_backpack_F: Weapon_Bag_Base
+class Atlas_B_A_UAV_01_backpack_F: Weapon_Bag_Base
 {
 	author = $STR_A3_A_AveryTheKitty;
 	mapSize = 0.6;

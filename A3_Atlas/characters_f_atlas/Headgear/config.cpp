@@ -154,12 +154,11 @@ class CfgWeapons
 		picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetO_ViperSP_whex_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\headgear_ViperSP_whex_CO.paa"};
 	};
-    /*
 	class H_HelmetHBK_aucamo_F: H_HelmetHBK_base_F
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_F0;
+		displayName = "Advanced Modular Helmet [ADF]";
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_CO.paa"};
 	};
@@ -167,7 +166,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_headset_F0;
+		displayName = "Advanced Modular Helmet [ADF, Headset]";
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_headset_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_CO.paa"};
 	};
@@ -175,7 +174,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_ear_F0;
+		displayName = "Advanced Modular Helmet [ADF, Ear Protectors]";
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_ear_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_CO.paa"};
 	};
@@ -183,11 +182,10 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_chops_F0;
+		displayName = "Advanced Modular Helmet [ADF, Chops]";
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_chops_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_CO.paa"};
 	};
-    */
     /*
 	class H_HelmetSpecter_cover_autumn_F: H_HelmetSpecter_cover_base_F
 	{
@@ -432,7 +430,7 @@ class CfgWeapons
 	class H_PilotHelmetFighter_B_A: H_PilotHelmetFighter_B
 	{
 		author = $STR_A3_A_AveryTheKitty;
-		displayName = "Pilot Helmet [ANZAC]";
+		displayName = $STR_A3_A_CfgWeapons_H_PilotHelmetHeli_B_O0;
 		picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_PilotHelmetFighter_B_A_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\pilot_helmet_aucamo_CO.paa"};
 		class ItemInfo: ItemInfo
@@ -462,14 +460,14 @@ class CfgWeapons
 	class H_PilotHelmetHeli_B_A: H_PilotHelmetHeli_B
 	{
 		author = $STR_A3_A_AveryTheKitty;
-		displayName = "Heli Pilot Helmet [ANZAC]";
+		displayName = "Heli Pilot Helmet [ADF]";
 		picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_PilotHelmetHeli_B_A_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\helmet_heli_aucamo_CO.paa"};
 	};
 	class H_CrewHelmetHeli_B_A: H_CrewHelmetHeli_B
 	{
 		author = $STR_A3_A_AveryTheKitty;
-		displayName = "Heli Crew Helmet [ANZAC]";
+		displayName = "Heli Crew Helmet [ADF]";
 		picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_CrewHelmetHeli_B_A_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\helmet_heli_aucamo_CO.paa"};
 	};
