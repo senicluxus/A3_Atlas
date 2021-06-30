@@ -16,7 +16,9 @@ class CfgVehicles
 	class B_ViperHarness_base_F;
 	class B_ViperLightHarness_base_F;
 	class B_RadioBag_01_base_F;
-
+	class B_Carryall_cbr;
+	class B_AssaultPack_cbr;
+	
     /* Arsenal */
     class B_RadioBag_01_aucamo_F: B_RadioBag_01_base_F
 	{
@@ -252,6 +254,6 @@ class CfgVehicles
 	#include "cfgIDF.hpp"       // IDF
 	#include "cfgVenezuela.hpp" //Venezuela
 	#include "cfgMarar.hpp"		//Marar
-	//#include "cfgUNO.hpp"		//UNO
+	#include "cfgUNO.hpp"		//UNO
 	#include "cfgADF.hpp"		//Australia
 };

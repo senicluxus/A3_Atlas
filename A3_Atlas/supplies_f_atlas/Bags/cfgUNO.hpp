@@ -16,7 +16,6 @@ class B_Carryall_cbr_IUAmmo_F: B_Carryall_cbr
 		item_xx(FirstAidKit,4);
 	};
 };
-class B_AssaultPack_cbr;
 class B_AssaultPack_cbr_IUMedic_F: B_AssaultPack_cbr
 {
 	author = "BranFlakes";
@@ -44,7 +43,7 @@ class B_Carryall_cbr_IUEng_F: B_Carryall_cbr
 };
 class B_AssaultPack_cbr_ILAT_F: B_AssaultPack_cbr
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = "BranFlakes";
 	scope = protected;
 	class TransportMagazines
 	{

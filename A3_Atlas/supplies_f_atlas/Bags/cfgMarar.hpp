@@ -1,4 +1,4 @@
-class B_Carryall_cbr;
+
 class B_Carryall_CBREng_F: B_Carryall_cbr
 {
 	author = "BranFlakes";

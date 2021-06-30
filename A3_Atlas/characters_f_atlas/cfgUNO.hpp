@@ -142,7 +142,7 @@ class Atlas_I_UNO_Medic_F: Atlas_I_UNO_Soldier_Base_F
 	camouflage = 1.6;
 	attendant = true;
     uniformClass = Atlas_U_I_U_CombatUniform_shortsleeve_UNO;
-	backpack = B_TacticalPack_cbr_IUMedic_F;
+	backpack = B_AssaultPack_cbr_IUMedic_F;
 	weapons[] =
 	{
 		arifle_SPAR_01_blk_F,
