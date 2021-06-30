@@ -147,6 +147,34 @@ class arifle_SPAR_01_GL_blk_LRCO_Pointer_Snds_F: arifle_SPAR_01_GL_blk_F
 		};
 	};
 };
+
+// SPAR-16 GL 5.56 mm (Black) + MRCO
+class arifle_SPAR_01_GL_blk_MRCO_F : arifle_SPAR_01_GL_blk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_MRCO;
+		};
+	};
+};
+
+// SPAR-16 5.56 mm (Black) + MRCO
+class arifle_SPAR_01_blk_MRCO_F : arifle_SPAR_01_blk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_MRCO;
+		};
+	};
+};
 // SPAR-16S 5.56 mm (Black) + LRCO + IR Laser Pointer + Bipod (Black) [NATO] + Sound Suppressor (5.56 mm)
 class arifle_SPAR_02_blk_LRCO_Pointer_Bipod_Snds_F: arifle_SPAR_02_blk_F
 {
@@ -1229,7 +1257,7 @@ class srifle_EBR_blk_MRCO_LP_BI_F: srifle_EBR_blk_F
 		};
 	};
 };
-/*
+class srifle_EBR_cbr_F;
 // Mk18 ABR 7.62 mm (Coyote) + AMS (Sand) + IR Laser Pointer + Bipod [NATO] (Sand)
 class srifle_EBR_cbr_AMS_LP_BI_F: srifle_EBR_cbr_F
 {
@@ -1253,4 +1281,3 @@ class srifle_EBR_cbr_AMS_LP_BI_F: srifle_EBR_cbr_F
 		};
 	};
 };
-*/
