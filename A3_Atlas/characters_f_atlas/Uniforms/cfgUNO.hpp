@@ -2,7 +2,7 @@ class Atlas_U_I_U_CombatUniform_UNO: Uniform_Base
 {
 	author = "BranFlakes";
 	scope = public;
-	displayName = $STR_A3_A_CfgWeapons_U_I_I_CombatUniform_olive0;
+	displayName = "Combat Fatigues [Sahrani]";
 	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_I_CombatUniform_olive_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
@@ -19,7 +19,7 @@ class Atlas_U_I_U_CombatUniform_shortsleeve_UNO: Uniform_Base
 {
 	author = "BranFlakes";
 	scope = public;
-	displayName = $STR_A3_A_CfgWeapons_U_I_I_CombatUniform_shortsleeve_olive0;
+	displayName = "Combat Fatigues (Rolled-up) [Sahrani]";
 	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_I_CombatUniform_shortsleeve_olive_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
