@@ -15,6 +15,7 @@ class Atlas_I_I_Man_Base_F: I_soldier_F
 class Atlas_I_I_Soldier_Base_F: Atlas_I_I_Man_Base_F
 {
 	uniformClass = Atlas_U_I_I_CombatUniform_olive;
+	class EventHandlers;
 };
 class Atlas_I_I_Soldier_A_F: Atlas_I_I_Soldier_Base_F
 {

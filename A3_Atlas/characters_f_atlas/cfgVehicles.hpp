@@ -12,12 +12,8 @@ class CfgVehicles
 
     /* Factions */
     #include "cfgOPFOR.hpp"     // Belarus
-    class I_Soldier_base_F: SoldierGB
-    {
-        class EventHandlers;
-    };
-    class I_soldier_F: I_Soldier_base_F{};
-    class I_soldier_lite_F: I_Soldier_base_F{};
+    class I_soldier_F;
+    class I_soldier_lite_F;
     class I_pilot_F;
     class B_pilot_F;
     class B_Diver_F;
