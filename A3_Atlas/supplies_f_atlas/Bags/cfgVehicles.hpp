@@ -29,7 +29,7 @@ class CfgVehicles
 		/* TFAR */
 		tf_dialog = bussole_radio_dialog;
 		tf_dialogUpdate = "call TFAR_fnc_updateLRDialogToChannel;";
-		tf_encryptionCode = tf_east_radio_code;
+		tf_encryptionCode = tf_west_radio_code;
 		tf_hasLRradio = true;
 		tf_range = 20000;
 		tf_subtype = digital_lr;
