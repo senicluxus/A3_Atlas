@@ -605,7 +605,7 @@ class Atlas_B_A_Soldier_TL_F: Atlas_B_A_Soldier_base_F
         SmokeShell,
         SMOKESHELLS_BLUFOR,
         1Rnd_Smoke_Grenade_shell,
-		SOLDIER_SMOKE_GRENADES_BLUFOR
+		SMOKEGRENADES_BLUFOR
 	};
 	respawnMagazines[] =
 	{
@@ -617,7 +617,7 @@ class Atlas_B_A_Soldier_TL_F: Atlas_B_A_Soldier_base_F
         SmokeShell,
         SMOKESHELLS_BLUFOR,
         1Rnd_Smoke_Grenade_shell,
-		SOLDIER_SMOKE_GRENADES_BLUFOR
+		SMOKEGRENADES_BLUFOR
 	};
 	cost = 250000;
 	camouflage = 1.4;
