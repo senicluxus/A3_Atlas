@@ -233,14 +233,14 @@ class Atlas_O_Fatigues_01_semiarid_F: O_Soldier_F
 };
 
 //From "cfgADF.hpp"
-class Atlas_B_A_CombatFatigues_01_aucamo_F: B_soldier_F
+class Atlas_B_A_CombatFatigues_01_aucamo_F: I_soldier_F
 {
   	scope = protected;
   	scopeCurator = private;
 	uniformClass = Atlas_U_B_A_CombatUniform_aucamo;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_CO.paa"};
 };
-class Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_F: B_Soldier_SL_F
+class Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_F: I_soldier_lite_F
 {
   	scope = protected;
   	scopeCurator = private;
