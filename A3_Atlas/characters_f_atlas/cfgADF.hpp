@@ -271,13 +271,13 @@ class Atlas_B_A_Soldier_lite_F: Atlas_B_A_Soldier_base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier1_aucamo_F,
-		H_BAoniehat_khk_hs,
+		H_Booniehat_aucamo_hs_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier1_aucamo_F,
-		H_BAoniehat_khk_hs,
+		H_Booniehat_aucamo_hs_F,
 		DefaultManLinkedItems
 	};
 	weapons[] =
@@ -1036,7 +1036,7 @@ class Atlas_B_A_Support_GMG_F: Atlas_B_A_Soldier_base_F
 		DefaultManLinkedItems,
 		NVGoggles
 	};
-	backpack = Atlas_B_A_GMG_01_Weapon_F;
+	backpack = Atlas_B_A_GMG_01_Weapon_grn_F;
 	weapons[] =
 	{
 		arifle_AUG_C_Pointer_F,
@@ -1090,7 +1090,7 @@ class Atlas_B_A_Support_MG_F: Atlas_B_A_Soldier_base_F
 		DefaultManLinkedItems,
 		NVGoggles
 	};
-	backpack = Atlas_B_A_HMG_01_Weapon_F;
+	backpack = Atlas_B_A_HMG_01_Weapon_grn_F;
 	weapons[] =
 	{
 		arifle_AUG_C_Pointer_F,
@@ -1144,7 +1144,7 @@ class Atlas_B_A_Support_Mort_F: Atlas_B_A_Soldier_base_F
 		DefaultManLinkedItems,
 		NVGoggles
 	};
-	backpack = Atlas_B_A_Mortar_01_Weapon_F;
+	backpack = Atlas_B_A_Mortar_01_Weapon_grn_F;
 	weapons[] =
 	{
 		arifle_AUG_C_Pointer_F,
@@ -1198,7 +1198,7 @@ class Atlas_B_A_Support_AMG_F: Atlas_B_A_Soldier_base_F
 		DefaultManLinkedItems,
 		NVGoggles
 	};
-	backpack = Atlas_B_A_HMG_01_support_F;
+	backpack = Atlas_B_A_HMG_01_support_grn_F;
 	weapons[] =
 	{
 		arifle_AUG_C_Pointer_F,
@@ -1252,7 +1252,7 @@ class Atlas_B_A_Support_AMort_F: Atlas_B_A_Soldier_base_F
 		DefaultManLinkedItems,
 		NVGoggles
 	};
-	backpack = Atlas_B_A_Mortar_01_support_F;
+	backpack = Atlas_B_A_Mortar_01_support_grn_F;
 	weapons[] =
 	{
 		arifle_AUG_C_Pointer_F,

@@ -164,6 +164,14 @@ class CfgVehicles
 		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Carryall_flecktarn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_tortila_flecktarn_CO.paa"};
 	};
+	class B_Carryall_aucamo: B_Carryall_Base
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = $STR_A3_A_CfgVehicles_B_Carryall_aucamo0;
+		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Carryall_flecktarn_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_tortila_aucamo_CO.paa"};
+	};
 	class B_Carryall_owcamo: B_Carryall_Base
 	{
 		author = $STR_A3_A_AveryTheKitty;

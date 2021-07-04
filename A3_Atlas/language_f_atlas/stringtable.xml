@@ -776,6 +776,74 @@
 					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
 					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_aucamo0">
+					<Original>Booniehat [ADF]</Original>
+					<Chinese>登山帽 [ADF]</Chinese>
+					<French>Chapeau de brousse [ADF]</French>
+					<Spanish>Sombrero militar [ADF]</Spanish>
+					<Italian>Cappello militare a falda larga [ADF]</Italian>
+					<Polish>Kapelusz wojskowy [ADF]</Polish>
+					<Russian>Панама [ADF]</Russian>
+					<German>Tarnhut [ADF]</German>
+					<Czech>Klobouk [ADF]</Czech>
+					<English>Booniehat [ADF]</English>
+					<Portuguese>Chapéu tático [ADF]</Portuguese>
+					<Korean>부니햇 [ADF]</Korean>
+					<Chinesesimp>郊区 [ADF]</Chinesesimp>
+					<Japanese>ブーニーハット [ADF]</Japanese>
+					<Turkish>Boonie Şapka [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_aucamo_hs_F0">
+					<Original>Booniehat [ADF, headset]</Original>
+					<Chinese>登山帽 [ADF, headset]</Chinese>
+					<French>Chapeau de brousse [ADF, headset]</French>
+					<Spanish>Sombrero militar [ADF, headset]</Spanish>
+					<Italian>Cappello militare a falda larga [ADF, headset]</Italian>
+					<Polish>Kapelusz wojskowy [ADF, headset]</Polish>
+					<Russian>Панама [ADF, headset]</Russian>
+					<German>Tarnhut [ADF, headset]</German>
+					<Czech>Klobouk [ADF, headset]</Czech>
+					<English>Booniehat [ADF, headset]</English>
+					<Portuguese>Chapéu tático [ADF, headset]</Portuguese>
+					<Korean>부니햇 [ADF, headset]</Korean>
+					<Chinesesimp>郊区 [ADF, headset]</Chinesesimp>
+					<Japanese>ブーニーハット [ADF, headset]</Japanese>
+					<Turkish>Boonie Şapka [ADF, headset]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Cap_aucamo0">
+					<Original>Cap [ADF]</Original>
+					<Chinese>棒球帽 [ADF]</Chinese>
+					<French>Casquette [ADF]</French>
+					<Spanish>Gorra [ADF]</Spanish>
+					<Italian>Cappellino [ADF]</Italian>
+					<Polish>Czapka [ADF]</Polish>
+					<Russian>Кепка [ADF]</Russian>
+					<German>Mütze [ADF]</German>
+					<Czech>Čepice [ADF]</Czech>
+					<English>Cap [ADF]</English>
+					<Portuguese>Boné [ADF]</Portuguese>
+					<Korean>모자 [ADF]</Korean>
+					<Chinesesimp>无檐帽 [ADF]</Chinesesimp>
+					<Japanese>キャップ [ADF]</Japanese>
+					<Turkish>Kasket [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_MilCap_aucamo0">
+					<Original>Military Cap [ADF]</Original>
+					<Chinese>軍用棒球帽 [ADF] </Chinese>
+					<French>Casquette militaire [ADF]</French>
+					<Spanish>Gorra militar [ADF]</Spanish>
+					<Italian>Cappellino militare [ADF]</Italian>
+					<Polish>Czapka wojskowa [ADF]</Polish>
+					<Russian>Армейская кепка [ADF]</Russian>
+					<German>Militärmütze [ADF]</German>
+					<Czech>Vojenská čepice [ADF]</Czech>
+					<English>Military Cap [ADF]</English>
+					<Portuguese>Boné militar [ADF]</Portuguese>
+					<Korean>군용 모자[ADF]</Korean>
+					<Chinesesimp>军帽 [ADF]</Chinesesimp>
+					<Japanese>ミリタリーキャップ[ADF]</Japanese>
+					<Turkish>Askeri Kasket [ADF]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_flecktarn_hs0">
 					<Original>Booniehat (Flecktarn, Headset)</Original>
 					<Chinese>登山帽（森林六邊形）</Chinese>

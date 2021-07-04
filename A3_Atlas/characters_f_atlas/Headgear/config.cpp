@@ -291,6 +291,37 @@ class CfgWeapons
 			uniformModel = "\A3\Characters_F_EPB\Common\booniehat_hs.p3d";
 		};
 	};
+	class H_Booniehat_aucamo_F: H_Booniehat_khk
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		displayName = $STR_A3_A_CfgWeapons_H_Booniehat_aucamo0;
+		picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_Booniehat_whex_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\booniehat_aucamo_CO.paa"};
+	};
+	class H_Booniehat_aucamo_hs_F: H_Booniehat_aucamo_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_Booniehat_whex_hs_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_H_Booniehat_aucamo_hs_F0;
+		model = "\A3\Characters_F_EPB\Common\booniehat_hs.p3d";
+		class ItemInfo: ItemInfo
+		{
+			uniformModel = "\A3\Characters_F_EPB\Common\booniehat_hs.p3d";
+		};
+	};
+	class H_Cap_aucamo: H_Cap_red
+	{
+	 	displayName = $STR_A3_A_CfgWeapons_H_Cap_aucamo0;
+		picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_Cap_brn_SPECOPS_CA.paa";
+	  	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\capb_ADF_Woodland.paa"};
+	};
+	class H_MilCap_aucamo: H_MilCap_ocamo
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		displayName = $STR_A3_A_CfgWeapons_H_MilCap_aucamo0;
+		picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_MilCap_sgg_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\cappatrol_ADF_Woodland.paa"};
+	};
 	class H_Booniehat_flecktarn: H_Booniehat_khk
 	{
 		author = $STR_A3_A_AveryTheKitty;

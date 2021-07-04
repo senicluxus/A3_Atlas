@@ -13,8 +13,6 @@ class CfgVehicles
 	};
 	// Arma 3 Atlas
 	#include "cfgBlufor_Atlas.hpp"		// Germany
-    /*
 	#include "cfgADF.hpp"				// ADF
-    */
 	#include "cfgIDF.hpp"				// IDF
 };

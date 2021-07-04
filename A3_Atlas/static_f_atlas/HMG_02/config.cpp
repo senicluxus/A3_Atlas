@@ -40,13 +40,8 @@ class CfgVehicles
 	#include "cfgBlufor_Atlas.hpp"		// Germany
     #include "cfgOpfor_Atlas.hpp"		// Takistani Army
     #include "cfgVenezuela.hpp"			//Venezuela
-	/*
 	#include "cfgADF.hpp"				// ADF
-    */
 	#include "cfgHIMF.hpp"		        // HIMF
-	/*
-    #include "cfgCDF.hpp"				// CDF
-    */
 	#include "cfgIDF.hpp"				// IDF
     // Deprecated classes
     #include "deprecated.hpp"
