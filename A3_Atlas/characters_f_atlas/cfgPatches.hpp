@@ -256,7 +256,43 @@ class CfgPatches
             Atlas_I_I_support_GMG_F,
             Atlas_I_I_support_MG_F,
             Atlas_I_I_support_Mort_F,
-            Atlas_I_I_Survivor_F
+            Atlas_I_I_Survivor_F,
+
+            /* From "cfgUNO.hpp" */
+            Atlas_I_UNO_Soldier_A_F,
+            Atlas_I_UNO_Soldier_AR_F,
+            Atlas_I_UNO_Medic_F,
+            Atlas_I_UNO_Engineer_F,
+            Atlas_I_UNO_Soldier_GL_F,
+            Atlas_I_UNO_Helipilot_F,
+            Atlas_I_UNO_Helicrew_F,
+            Atlas_I_UNO_soldier_M_F,
+            Atlas_I_UNO_Officer_F,
+            Atlas_I_UNO_Soldier_F,
+            Atlas_I_UNO_Soldier_LAT_F,
+            Atlas_I_UNO_Soldier_SL_F,
+            Atlas_I_UNO_Soldier_TL_F,
+            Atlas_I_UNO_RadioOperator_F,
+
+            /* From "cfgMarar.hpp" */
+            Atlas_B_M_Soldier_F,
+            Atlas_B_M_TL_F,
+            Atlas_B_M_GL_F,
+            Atlas_B_M_AR_F,
+            Atlas_B_M_M_F,
+            Atlas_B_M_medic_F,
+            Atlas_B_M_Soldier_LAT_F,
+            Atlas_B_M_A_F,
+            Atlas_B_M_Helipilot_F,
+            Atlas_B_M_Helicrew_F,
+            Atlas_B_M_Crew_F,
+            Atlas_B_M_SL_F,
+            Atlas_B_M_Officer_F,
+            Atlas_B_M_RadioOperator_F,
+            Atlas_B_M_Engineer_F,
+            Atlas_B_M_Soldier_unarmed_F,
+            Atlas_B_M_Soldier_CBRN_F,
+            Atlas_B_M_Fighter_Pilot_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};
