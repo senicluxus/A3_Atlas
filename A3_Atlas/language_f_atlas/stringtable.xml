@@ -36,6 +36,23 @@
 				<Japanese>AH-64 Shaytan</Japanese>
 				<Turkish>AH-64 Shaytan</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_A_Heli_Attack_03_F0">
+				<Original>AH-64 Apache</Original>
+				<Chinese>AH-64 Apache</Chinese>
+				<French>AH-64 Apache</French>
+				<Spanish>AH-64 Apache</Spanish>
+				<Italian>AH-64 Apache</Italian>
+				<Polish>AH-64 Apache</Polish>
+				<Russian>AH-64 Apache</Russian>
+				<German>AH-64 Apache</German>
+				<Czech>AH-64 Apache</Czech>
+				<English>AH-64 Apache</English>
+				<Portuguese>AH-64 Apache</Portuguese>
+				<Korean>AH-64 Apache</Korean>
+				<Chinesesimp>AH-64 Apache</Chinesesimp>
+				<Japanese>AH-64 Apache</Japanese>
+				<Turkish>AH-64 Apache</Turkish>
+			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Heli_Transport_01_F0">
 				<Original>UH-80 Duchifat</Original>
 				<Chinese>UH-80 Duchifat</Chinese>
