@@ -55,7 +55,6 @@ class CfgVehicles
         };
 		class TextureSources
 		{
-            /*
 			class ADF
 			{
 				displayName = $STR_A3_A_TEXTURESOURCES_ADF0;
@@ -72,7 +71,6 @@ class CfgVehicles
 				};
 				factions[] = {Atlas_BLU_A_F};
 			};
-            */
 			class Desert
 			{
 				displayName = $STR_A3_A_TEXTURESOURCES_DESERT0;
@@ -96,9 +94,7 @@ class CfgVehicles
 	class B_Plane_Fighter_05_Stealth_F: Plane_Fighter_05_Base_F{};
 	class Ejection_Seat_Plane_Fighter_05_base_F;
 	// Arma 3 Atlas
-    /*
 	#include "cfgADF.hpp"               // ADF
-	*/
     #include "cfgIDF.hpp"				// IDF
     // Deprecated classes
     #include "deprecated.hpp"
