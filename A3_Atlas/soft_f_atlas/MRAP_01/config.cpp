@@ -35,6 +35,18 @@ class CfgVehicles
 				};
 				factions[] = {Atlas_IND_I_F};
 			};
+			class Marar
+			{
+				DisplayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
+				author = $STR_A3_A_AveryTheKitty;
+				textures[] =
+				{
+					"\A3_Atlas\Soft_F_Atlas\MRAP_01\Data\MRAP_01_base_marar_CO.paa",
+					"\A3_Atlas\Soft_F_Atlas\MRAP_01\Data\MRAP_01_adds_marar_CO.paa",
+					""
+				};
+				factions[] = {Atlas_BLU_M_F};
+			};
 		};
 	};
 	class MRAP_01_gmg_base_F: MRAP_01_base_F
@@ -68,6 +80,7 @@ class CfgVehicles
 	};
 	// Arma 3 Atlas
 	#include "cfgIDF.hpp"				// IDF
+	#include "cfgMarar.hpp"				//Marar
     // Deprecated classes
     #include "deprecated.hpp"
 };
