@@ -25,14 +25,14 @@ class Atlas_B_M_Soldier_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -75,7 +75,7 @@ class Atlas_B_M_TL_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -133,14 +133,14 @@ class Atlas_B_M_GL_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -193,14 +193,14 @@ class Atlas_B_M_AR_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -248,14 +248,14 @@ class Atlas_B_M_M_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -299,14 +299,14 @@ class Atlas_B_M_medic_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -357,14 +357,14 @@ class Atlas_B_M_Soldier_LAT_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -412,14 +412,14 @@ class Atlas_B_M_A_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -714,14 +714,14 @@ class Atlas_B_M_RadioOperator_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -765,14 +765,14 @@ class Atlas_B_M_Engineer_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -822,14 +822,14 @@ class Atlas_B_M_Soldier_unarmed_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -853,7 +853,7 @@ class Atlas_B_M_Soldier_CBRN_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		G_AirPurifyingRespirator_01_F,
 		DefaultManCbrnLinkedItems,
 		NVgoggles
@@ -861,7 +861,7 @@ class Atlas_B_M_Soldier_CBRN_F: Atlas_B_M_Soldier_Base_F
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		G_AirPurifyingRespirator_01_F,
 		DefaultManCbrnLinkedItems,
 		NVgoggles
