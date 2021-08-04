@@ -204,6 +204,36 @@ class CfgWeapons
          	"\A3_Atlas\Characters_F_Atlas\Headgear\Data\equip_d_co.paa"
         };
     };
+    class H_MK7_atacsau_F: H_MK7_Base_F
+    {
+        author = "Bran Flakes and TacticalDruid";
+        scope = public;
+        displayName = "MK7 (ATACS-AU)";
+        //picture = "Picture path";
+        model = "\A3_Atlas\Characters_F_Atlas\Headgear\H_Mk7_F";
+        hiddenSelections[] = { "Camo","Camo2","Camo3" };
+        hiddenSelectionsTextures[] =
+        {
+         	"\A3_Atlas\Characters_F_Atlas\Headgear\Data\MK7_atacsau.tga",
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_brown_CO.paa",
+         	"\A3_Atlas\Characters_F_Atlas\Headgear\Data\equip_d_co.paa"
+        };
+    };
+    class H_MK7_atacsfg_F: H_MK7_Base_F
+    {
+        author = "Bran Flakes and TacticalDruid";
+        scope = public;
+        displayName = "MK7 (ATACS-FG)";
+        //picture = "Picture path";
+        model = "\A3_Atlas\Characters_F_Atlas\Headgear\H_Mk7_F";
+        hiddenSelections[] = { "Camo","Camo2","Camo3" };
+        hiddenSelectionsTextures[] =
+        {
+         	"\A3_Atlas\Characters_F_Atlas\Headgear\Data\MK7_atacsfg.tga",
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_brown_CO.paa",
+         	"\A3_Atlas\Characters_F_Atlas\Headgear\Data\equip_d_co.paa"
+        };
+    };
 	class H_HelmetHBK_aucamo_F: H_HelmetHBK_base_F
 	{
 		author = $STR_A3_A_AveryTheKitty;
