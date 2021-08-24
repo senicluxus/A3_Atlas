@@ -8,7 +8,24 @@ class CfgVehicles
 	{
 		class Turrets;
 	};
+	class TextureSources
+	{
+		class Marar
+		{
+			displayName = $STR_A3_A_CfgFactionClasses_BLU_M_F1;
+			author = $STR_A3_A_BranFlakes;
+			textures[] =
+			{
+				"\A3_Atlas\Soft_F_Atlas\Truck_02\Data\Truck_02_kab_Marar_CO.paa",
+				"\A3_Atlas\Soft_F_Atlas\Truck_02\Data\Truck_02_kuz_Marar_CO.paa",
+				"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
+				"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa"
+			};
+			factions[] = {};
+		};
+	};
 	class Truck_02_transport_base_F;
+
 	class O_Truck_02_covered_F;
     class O_Truck_02_transport_F;
 	class O_Truck_02_box_F;
@@ -23,6 +40,7 @@ class CfgVehicles
 	#include "cfgOpfor_Aegis.hpp"       // Belarus
 	#include "cfgOpfor_Atlas.hpp"       // Takistani Army
 	#include "cfgVenezuela.hpp"		//Venezuela
+	#include "cfgMarar.hpp"			//Marar
     /*
 	#include "cfgHIMF.hpp"              // HIMF
 	#include "cfgCDF.hpp"               // CDF
