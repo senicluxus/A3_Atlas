@@ -18,7 +18,7 @@ class CfgVehicles
                     "\A3_Atlas\Air_F_Atlas\UAV_06\Data\B_G_UAV_06_CO.paa",
                     "\A3_Atlas\Air_F_Atlas\UAV_06\Data\B_G_UAV_06_CO.paa"
                 };
-				factions[] = {BLU_A_F};
+				factions[] = {Atlas_BLU_A_F};
 			};
 			class IDF
 			{
@@ -43,7 +43,7 @@ class CfgVehicles
                     "\A3_Atlas\Air_F_Atlas\UAV_06\Data\B_G_UAV_06_medical_CO.paa",
                     "\A3_Atlas\Air_F_Atlas\UAV_06\Data\B_G_UAV_06_medical_CO.paa"
                 };
-				factions[] = {BLU_A_F};
+				factions[] = {Atlas_BLU_A_F};
 			};
 			class IDF
 			{
