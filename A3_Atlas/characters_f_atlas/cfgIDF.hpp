@@ -2999,6 +2999,7 @@ class Atlas_I_I_Pilot_F: Atlas_I_I_Soldier_Base_F
     scopeCurator = public;
 	displayName = $STR_A3_B_Pilot_name;
 	uniformClass = U_Tank_olive_F;
+	backpack = B_Parachute;
     linkedItems[] =
     {
 		V_TacVest_oli,
