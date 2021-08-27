@@ -2974,6 +2974,71 @@ class Atlas_I_I_Fighter_Pilot_F: Atlas_I_I_Soldier_Base_F
     role = Crewman;
 };
 
+class Atlas_I_I_Pilot_F: Atlas_I_I_Soldier_Base_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class SpeechVariants
+	{
+		class Default
+		{
+			speechSingular[] = {veh_infantry_pilot_s};
+			speechPlural[] = {veh_infantry_pilot_p};
+		};
+	};
+	textSingular = $STR_A3_nameSound_veh_infantry_pilot_s;
+	textPlural = $STR_A3_nameSound_veh_infantry_pilot_p;
+	nameSound = veh_infantry_pilot_s;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_I_Pilot_F.jpg";
+	identityTypes[] =
+	{
+		LanguageGRE_F,
+		Head_IDF,
+		G_NATO_pilot
+	};
+    scope = public;
+    scopeCurator = public;
+	displayName = $STR_A3_B_Pilot_name;
+	uniformClass = U_Tank_olive_F;
+	backpack = B_Parachute;
+    linkedItems[] =
+    {
+		V_TacVest_oli,
+        H_PilotHelmetHeli_B,
+        DefaultManLinkedItems,
+		NVGoggles_OPFOR
+    };
+    respawnLinkedItems[] =
+    {
+		V_TacVest_oli,
+        H_PilotHelmetHeli_B,
+        DefaultManLinkedItems,
+		NVGoggles_OPFOR
+    };
+	weapons[] =
+	{
+		SMG_05_ACO_F,
+        DefaultManWeapons
+	};
+	respawnWeapons[] =
+	{
+		SMG_05_ACO_F,
+        DefaultManWeapons
+	};
+	magazines[] =
+	{
+		mag_4(30Rnd_9x21_Mag_SMG_02_Tracer_Yellow),
+        SMOKESHELLS_INDEP
+	};
+	respawnMagazines[] =
+	{
+		mag_4(30Rnd_9x21_Mag_SMG_02_Tracer_Yellow),
+        SMOKESHELLS_INDEP
+	};
+	camouflage = 2;
+    cost = 165000;
+    role = Crewman;
+};
+
 /* BLUFOR IDF 
 class Atlas_B_I_Soldier_Base_F: Atlas_I_I_Soldier_Base_F
 {
