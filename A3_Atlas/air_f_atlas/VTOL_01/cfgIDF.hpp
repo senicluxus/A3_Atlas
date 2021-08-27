@@ -135,7 +135,7 @@ class Atlas_I_I_VTOL_01_infantry_F: VTOL_01_infantry_base_F
 	displayName = $STR_A3_CfgVehicles_VTOL_01_infantry_base_F0;
 	side = TGuerrila;
 	faction = Atlas_IND_I_F;
-	crew = Atlas_I_I_pilot_F;
+	crew = Atlas_I_I_Pilot_F;
 	typicalCargo[] = {Atlas_I_I_Soldier_F};
 	textureList[] = {Desert,1};
 	hiddenSelectionsTextures[] =
@@ -284,7 +284,7 @@ class Atlas_I_I_VTOL_01_vehicle_F: VTOL_01_vehicle_base_F
 	displayName = $STR_A3_CfgVehicles_VTOL_01_vehicle_base_F0;
 	side = TGuerrila;
 	faction = Atlas_IND_I_F;
-	crew = Atlas_I_I_pilot_F;
+	crew = Atlas_I_I_Pilot_F;
 	typicalCargo[] = {Atlas_I_I_Soldier_F};
 	textureList[] = {Desert,1};
 	hiddenSelectionsTextures[] =
