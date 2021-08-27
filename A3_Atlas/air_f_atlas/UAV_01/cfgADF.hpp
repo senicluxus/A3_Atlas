@@ -1,4 +1,4 @@
-class B_A_UAV_01_F: UAV_01_base_F
+class Atlas_B_A_UAV_01_F: UAV_01_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	class SimpleObject
@@ -81,6 +81,6 @@ class Atlas_B_A_UAV_01_backpack_F: Weapon_Bag_Base
 	{
 		base = "";
 		displayName = $STR_A3_A_CfgVehicles_B_O_UAV_01_backpack_F_assembleInfo0;
-		assembleTo = B_A_UAV_01_F;
+		assembleTo = Atlas_B_A_UAV_01_F;
 	};
 };
