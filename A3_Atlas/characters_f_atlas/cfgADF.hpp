@@ -1839,7 +1839,7 @@ class Atlas_B_A_soldier_UAV_06_F: Atlas_B_A_Soldier_UAV_F
 	author = $STR_A3_A_AveryTheKitty;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_soldier_UAV_06_F.jpg";
 	displayName = $STR_A3_B_T_soldier_UAV_06_F0;
-	backpack = UAV_06_backpack_base_F;
+	backpack = Atlas_B_A_UAV_06_backpack_F;
 };
 class Atlas_B_A_soldier_UAV_06_medical_F: Atlas_B_A_Soldier_UAV_F
 {

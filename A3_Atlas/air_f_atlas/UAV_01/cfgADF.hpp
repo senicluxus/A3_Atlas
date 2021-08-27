@@ -42,12 +42,12 @@ class Atlas_B_A_UAV_01_F: UAV_01_base_F
 		verticalOffsetWorld = -0.001;
 		init = "''";
 	};
-	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_O_UAV_01_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\UAV_01_IDF_CO.jpg";
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_A3_CfgVehicles_UAV_01_base0;
 	side = TWest;
-	faction = BLU_O_F;
+	faction = Atlas_BLU_A_F;
 	crew = B_UAV_AI_F;
 	typicalCargo[] = {B_UAV_AI_F};
 	accuracy = 0.5;
@@ -59,7 +59,7 @@ class Atlas_B_A_UAV_01_F: UAV_01_base_F
 		displayName = "";
 		dissasembleTo[] = {Atlas_B_A_UAV_01_backpack_F};
 	};
-	hiddenSelectionsTextures[] = {"\A3_Atlas\Air_F_Atlas\UAV_01\Data\UAV_01_ADF_CO.paa"};
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Air_F_Atlas\UAV_01\Data\UAV_01_IDF_CO.paa"};
 	textureList[] = {ADF,1};
 };
 class Atlas_B_A_UAV_01_backpack_F: Weapon_Bag_Base

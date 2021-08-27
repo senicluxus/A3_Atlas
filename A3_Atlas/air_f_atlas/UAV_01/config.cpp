@@ -12,7 +12,7 @@ class CfgVehicles
 			{
 				displayName = $STR_A3_A_TEXTURESOURCES_ADF0;
 				author = $STR_A3_A_AveryTheKitty;
-				textures[] = {"\A3_Atlas\Air_F_Atlas\UAV_01\Data\UAV_01_ADF_CO.paa"};
+				textures[] = {"\A3_Atlas\Air_F_Atlas\UAV_01\Data\UAV_01_IDF_CO.paa"};
 				factions[] = {BLU_O_F};
 			};
 			/*

@@ -203,7 +203,7 @@ class Atlas_B_A_UAV_06_backpack_F: UAV_06_backpack_base_F
 	author = "Bran Flakes";
 	scope = public;
 	scopeCurator = public;
-	displayName = $STR_A3_A_CfgVehicles_I_I_UAV_06_backpack_F0;
+	displayName = "UAV Bag (AL-6, Medical) [ADF]";
 	faction = Atlas_BLU_A_F;
 	picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_I_I_UAV_06_backpack_F_CA.paa";
 	hiddenSelectionsTextures[] =
@@ -222,8 +222,8 @@ class Atlas_B_A_UAV_06_medical_backpack_F: UAV_06_medical_backpack_base_F
 	author = $STR_A3_A_AveryTheKitty;
 	scope = public;
 	scopeCurator = public;
-	displayName = $STR_A3_A_CfgVehicles_I_I_UAV_06_medical_backpack_F0;
-	faction = Atlas_IND_I_F;
+	displayName = "UAV Bag (AL-6, Medical) [ADF]";
+	faction = Atlas_BLU_A_F;
 	picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_I_I_UAV_06_medical_backpack_F_CA.paa";
 	hiddenSelectionsTextures[] =
 	{
