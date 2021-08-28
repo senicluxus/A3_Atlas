@@ -279,8 +279,8 @@ class Atlas_I_I_VTOL_01_vehicle_F: VTOL_01_vehicle_base_F
 		init = "''";
 	};
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_I_VTOL_01_vehicle_F.jpg";
-	scope = protected;
-	scopeCurator = protected;
+	scope = public;
+	scopeCurator = public;
 	displayName = $STR_A3_CfgVehicles_VTOL_01_vehicle_base_F0;
 	side = TGuerrila;
 	faction = Atlas_IND_I_F;
