@@ -76,6 +76,7 @@ class CfgVehicles
 	HEADGEAR_HOLDER(H_PilotHelmetFighter_I_I,$STR_A3_A_CfgWeapons_H_PilotHelmetFighter_I_I0,EdSubcat_Helmets)
 	HEADGEAR_HOLDER(H_PilotHelmetHeli_B_A,"Heli Pilot Helmet [ANZAC]";,EdSubcat_Helmets)
 	HEADGEAR_HOLDER(H_CrewHelmetHeli_B_A,"Heli Crew Helmet [ANZAC]";,EdSubcat_Helmets)
+	HEADGEAR_HOLDER(H_MK7_Marar_F,$STR_A3_A_CfgWeaponsH_MK7_Marar_F0;,EdSubcat_Helmets)
 	HEADGEAR_HOLDER(H_Hat_Pakol_brn_F,"Traditional Hat (Brown)",EdSubcat_Hats)
 	HEADGEAR_HOLDER(H_Hat_Pakol_gry_F,"Traditional Hat (Grey)",EdSubcat_Hats)
 	HEADGEAR_HOLDER(H_Hat_Pakol_tan_F,"Traditional Hat (Tan)",EdSubcat_Hats)

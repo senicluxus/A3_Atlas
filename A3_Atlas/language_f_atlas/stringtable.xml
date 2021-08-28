@@ -1354,6 +1354,23 @@
 					<Japanese>Advanced Modular Helmet (Ear Protectors) [Commandos]</Japanese>
 					<Turkish>Advanced Modular Helmet (Ear Protectors) [Commandos]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeaponsH_MK7_Marar_F0">
+					<Original>Mk7 [Marar]</Original>
+					<Chinese>Mk7 [Marar]</Chinese>
+					<French>Mk7 [Marar]</French>
+					<Spanish>Mk7 [Marar]</Spanish>
+					<Italian>Mk7 [Marar]</Italian>
+					<Polish>Mk7 [Marar]</Polish>
+					<Russian>Mk7 [Marar]</Russian>
+					<German>Mk7 [Marar]</German>
+					<Czech>Mk7 [Marar]</Czech>
+					<English>Mk7 [Marar]</English>
+					<Portuguese>Mk7 [Marar]</Portuguese>
+					<Korean>Mk7 [Marar]</Korean>
+					<Chinesesimp>Mk7 [Marar]</Chinesesimp>
+					<Japanese>Mk7 [Marar]</Japanese>
+					<Turkish>Mk7 [Marar]</Turkish>
+				</Key>
 			</Container>
 			<Container name="Uniforms">
 				<Key ID="STR_A3_A_CfgWeapons_U_O_V_Soldier_Viper_whex_F0">
