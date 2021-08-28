@@ -296,6 +296,7 @@ class Atlas_I_I_VTOL_01_vehicle_F: VTOL_01_vehicle_base_F
 		"\A3_Atlas\Air_F_Atlas\VTOL_01\Data\VTOL_01_signs_desert_CA.paa"
 	};
 };
+class VTOL_01_armed_base_F;
 class Atlas_I_I_VTOL_01_armed_F: VTOL_01_armed_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
