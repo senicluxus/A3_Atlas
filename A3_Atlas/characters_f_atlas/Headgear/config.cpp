@@ -60,6 +60,7 @@ class CfgWeapons
 	class H_HelmetHBK_chops_base_F;
 	// Arma 3 Aegis
 	class H_HelmetSpecB_light;
+	class H_MK7_Base_F;
 	// Arma 3 Atlas
 	class H_MK7_Marar_F: H_MK7_Base_F
     {
@@ -169,36 +170,6 @@ class CfgWeapons
 		picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetO_ViperSP_whex_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\headgear_ViperSP_whex_CO.paa"};
 	};
-	class H_MK7_Marar_F: H_MK7_Base_F
-    {
-        author = "Bran Flakes and TacticalDruid";
-        scope = public;
-        displayName = "MK7 [Marar]";
-        //picture = "Picture path";
-        model = "\A3_Atlas\Characters_F_Atlas\Headgear\H_Mk7_F";
-        hiddenSelections[] = { "Camo","Camo2","Camo3" };
-        hiddenSelectionsTextures[] =
-        {
-         	"\A3_Atlas\Characters_F_Atlas\Headgear\Data\MK7_Marar.tga",
-         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_brown_CO.paa",
-         	"\A3_Atlas\Characters_F_Atlas\Headgear\Data\equip_d_co.paa"
-        };
-    };
-    class H_MK7_AAF_F: H_MK7_Base_F
-    {
-        author = "Bran Flakes and TacticalDruid";
-        scope = public;
-        displayName = "MK7 [AAF]";
-        //picture = "Picture path";
-        model = "\A3_Atlas\Characters_F_Atlas\Headgear\H_Mk7_F";
-        hiddenSelections[] = { "Camo","Camo2","Camo3" };
-        hiddenSelectionsTextures[] =
-        {
-         	"\A3_Atlas\Characters_F_Atlas\Headgear\Data\MK7_AAF.tga",
-         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_brown_CO.paa",
-         	"\A3_Atlas\Characters_F_Atlas\Headgear\Data\equip_d_co.paa"
-        };
-    };
 	class H_HelmetHBK_aucamo_F: H_HelmetHBK_base_F
 	{
 		author = $STR_A3_A_AveryTheKitty;
