@@ -11,8 +11,8 @@ class Atlas_B_G_MRAP_03_F: MRAP_03_base_F
 	textureList[] = {Woodland,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3_Atlas\Soft_F_Atlas\MRAP_03\Data\MRAP_03_ext_aus_CO.paa",
-		"\A3_Atlas\Soft_F_Atlas\MRAP_03\Data\Turret_aus_CO.paa"
+		"\A3_Atlas\Soft_F_Atlas\MRAP_03\Data\MRAP_03_ext_wdl_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\MRAP_03\Data\Turret_wdl_CO.paa"
 	};
 	class TransportMagazines
 	{
