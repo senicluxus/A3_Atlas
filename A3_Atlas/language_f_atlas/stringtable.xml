@@ -1475,6 +1475,74 @@
 					<Japanese>軽装野戦服 (Olive)</Japanese>
 					<Turkish>Hafif Asker Kıyafeti </Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_ar0">
+					<Original>Combat Fatigues (Arid) [ADF]</Original>
+					<Chinese>作戰戰鬥服 (Arid) [ADF]</Chinese>
+					<French>Treillis (Arid) [ADF]</French>
+					<Spanish>Traje de combate (Arid) [ADF]</Spanish>
+					<Italian>Uniforme da combattimento (Arid) [ADF]</Italian>
+					<Polish>Mundur bojowy (Arid) [ADF]</Polish>
+					<Russian>Боевая форма (Arid) [ADF]</Russian>
+					<German>Kampfanzug (Arid) [ADF]</German>
+					<Czech>Bojová uniforma (Arid) [ADF]</Czech>
+					<English>Combat Fatigues (Arid) [ADF]</English>
+					<Portuguese>Uniforme de combate (Arid) [ADF]</Portuguese>
+					<Korean>전투병 전투복(Arid) [ADF]</Korean>
+					<Chinesesimp>作战服 (Arid) [ADF]</Chinesesimp>
+					<Japanese>戦闘服 (Arid) [ADF]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (Arid) [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_ar0">
+					<Original>Combat Fatigues (Arid) [ADF, Rolled-up]</Original>
+					<Chinese>作戰戰鬥服 (Arid) [ADF, Rolled-up]</Chinese>
+					<French>Treillis (Arid) [ADF, Rolled-up]</French>
+					<Spanish>Traje de combate (Arid) [ADF, Rolled-up]</Spanish>
+					<Italian>Uniforme da combattimento (Arid) [ADF, Rolled-up]</Italian>
+					<Polish>Mundur bojowy (Arid) [ADF, Rolled-up]</Polish>
+					<Russian>Боевая форма (Arid) [ADF, Rolled-up]</Russian>
+					<German>Kampfanzug (Arid) [ADF, Rolled-up]</German>
+					<Czech>Bojová uniforma (Arid) [ADF, Rolled-up]</Czech>
+					<English>Combat Fatigues (Arid) [ADF, Rolled-up]</English>
+					<Portuguese>Uniforme de combate (Arid) [ADF, Rolled-up]</Portuguese>
+					<Korean>전투병 전투복(Arid) [ADF, Rolled-up]</Korean>
+					<Chinesesimp>作战服 (Arid) [ADF, Rolled-up]</Chinesesimp>
+					<Japanese>戦闘服 (Arid) [ADF, Rolled-up]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (Arid) [ADF, Rolled-up]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_tr0">
+					<Original>Combat Fatigues (Tropic) [ADF]</Original>
+					<Chinese>作戰戰鬥服 (Tropic) [ADF]</Chinese>
+					<French>Treillis (Tropic) [ADF]</French>
+					<Spanish>Traje de combate (Tropic) [ADF]</Spanish>
+					<Italian>Uniforme da combattimento (Tropic) [ADF]</Italian>
+					<Polish>Mundur bojowy (Tropic) [ADF]</Polish>
+					<Russian>Боевая форма (Tropic) [ADF]</Russian>
+					<German>Kampfanzug (Tropic) [ADF]</German>
+					<Czech>Bojová uniforma (Tropic) [ADF]</Czech>
+					<English>Combat Fatigues (Tropic) [ADF]</English>
+					<Portuguese>Uniforme de combate (Tropic) [ADF]</Portuguese>
+					<Korean>전투병 전투복(Tropic) [ADF]</Korean>
+					<Chinesesimp>作战服 (Tropic) [ADF]</Chinesesimp>
+					<Japanese>戦闘服 (Tropic) [ADF]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (Tropic) [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_tr0">
+					<Original>Combat Fatigues (Tropic) [ADF, Rolled-up]</Original>
+					<Chinese>作戰戰鬥服 (Tropic) [ADF, Rolled-up]</Chinese>
+					<French>Treillis (Tropic) [ADF, Rolled-up]</French>
+					<Spanish>Traje de combate (Tropic) [ADF, Rolled-up]</Spanish>
+					<Italian>Uniforme da combattimento (Tropic) [ADF, Rolled-up]</Italian>
+					<Polish>Mundur bojowy (Tropic) [ADF, Rolled-up]</Polish>
+					<Russian>Боевая форма (Tropic) [ADF, Rolled-up]</Russian>
+					<German>Kampfanzug (Tropic) [ADF, Rolled-up]</German>
+					<Czech>Bojová uniforma (Tropic) [ADF, Rolled-up]</Czech>
+					<English>Combat Fatigues (Tropic) [ADF, Rolled-up]</English>
+					<Portuguese>Uniforme de combate (Tropic) [ADF, Rolled-up]</Portuguese>
+					<Korean>전투병 전투복(Tropic) [ADF, Rolled-up]</Korean>
+					<Chinesesimp>作战服 (Tropic) [ADF, Rolled-up]</Chinesesimp>
+					<Japanese>戦闘服 (Tropic) [ADF, Rolled-up]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (Tropic) [ADF, Rolled-up]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo0">
 					<Original>Combat Fatigues [ADF]</Original>
 					<Chinese>作戰戰鬥服 [ADF]</Chinese>
