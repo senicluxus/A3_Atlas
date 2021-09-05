@@ -766,3 +766,19 @@ class Atlas_I_UNO_RadioOperator_F: Atlas_I_UNO_Soldier_F
 		DefaultManLinkedItems
 	};
 };
+
+// Chernarussian Defence Force
+class Atlas_I_UNO_wdl_Man_Base_F: I_soldier_F
+{
+    scope = private;
+	faction = Atlas_IND_UNO_wdl_F;
+	genericNames = VenezuelanMen;
+	identityTypes[] =
+	{
+		LanguageRUS_F,
+		Head_Russian,
+		Head_Euro,
+		Head_Enoch,
+		G_RUS_default
+	};
+};
