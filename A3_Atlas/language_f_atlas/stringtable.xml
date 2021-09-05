@@ -2861,6 +2861,23 @@
 					<Japanese>UNO</Japanese>
 					<Turkish>UNO</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgFactionClasses_IND_UNO_wdl_F0">
+					<Original>UNO (Woodland)</Original>
+					<Chinese>UNO (Woodland)</Chinese>
+					<French>UNO (Woodland)</French>
+					<Spanish>ONU (Woodland)</Spanish>
+					<Italian>Nazioni Unite (Woodland)</Italian>
+					<Polish>UNO (Woodland)</Polish>
+					<Russian>ООН (Woodland)</Russian>
+					<German>UNO (Woodland)</German>
+					<Czech>UNO (Woodland)</Czech>
+					<English>UNO (Woodland)</English>
+					<Portuguese>ONU (Woodland)</Portuguese>
+					<Korean>UNO (Woodland)</Korean>
+					<Chinesesimp>联合国组织 (Woodland)</Chinesesimp>
+					<Japanese>UNO (Woodland)</Japanese>
+					<Turkish>UNO (Woodland)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_IND_R_F0">
 					<Original>RACS</Original>
 					<Chinese>RACS</Chinese>

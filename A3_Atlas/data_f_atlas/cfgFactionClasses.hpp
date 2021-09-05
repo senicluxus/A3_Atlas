@@ -131,6 +131,14 @@ class CfgFactionClasses
 		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\icon_UNO_CA.paa";
 		flag = "\A3\Data_F\Flags\flag_UNO_CO.paa";
 	};
+	class Atlas_IND_UNO_wdl_F
+	{
+		displayName = $STR_A3_A_CfgFactionClasses_IND_UNO_wdl_F0;
+		priority = 3;
+		side = TGuerrila;
+		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\icon_UNO_CA.paa";
+		flag = "\A3\Data_F\Flags\flag_UNO_CO.paa";
+	};
 	class Atlas_IND_R_F
 	{
 		displayName = $STR_A3_A_CfgFactionClasses_IND_R_F0;
