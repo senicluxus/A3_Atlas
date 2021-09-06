@@ -54,7 +54,7 @@ class CfgVehicles
 					"\A3_Atlas\Air_F_Atlas\UAV_06\Data\I_I_UAV_06_medical_CO.paa",
 					"\A3_Atlas\Air_F_Atlas\UAV_06\Data\I_I_UAV_06_medical_CO.paa"
 				};
-				factions[]= {Atlas_IND_I_F};
+				factions[] = {Atlas_IND_I_F};
 			};
 		};
 	};

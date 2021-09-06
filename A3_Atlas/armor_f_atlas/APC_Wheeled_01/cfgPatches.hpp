@@ -7,7 +7,11 @@
 		requiredVersion = 0.1;
 		units[] =
         {
-            Atlas_B_M_APC_Wheeled_01_cannon_v2_F,
+			//ADF
+			Atlas_B_A_APC_Wheeled_01_cannon_v2_F,
+
+			//Marar
+            Atlas_B_M_APC_Wheeled_01_cannon_v2_F
         };
 		weapons[] = {/* Automated */};
 	};

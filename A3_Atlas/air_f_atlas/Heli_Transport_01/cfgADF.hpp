@@ -1,4 +1,4 @@
-/* IDF */
+/* ADF */
 class Atlas_B_A_Heli_Transport_01_F: Heli_Transport_01_base_F
 {
 	author = $STR_A3_A_BranFlakes;

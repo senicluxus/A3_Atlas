@@ -217,8 +217,8 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_base_ADF_CO.paa",
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_adds_ADF_CO.paa",
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_tows_ADF_CO.paa",
-        "\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
-        "\A3\Armor_F\Data\cage_sand_CO.paa"
+            "\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
+            "\A3\Armor_F\Data\cage_sand_CO.paa"
 	};
 
 	 /* Inventory */

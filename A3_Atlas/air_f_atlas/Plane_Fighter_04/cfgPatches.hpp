@@ -8,6 +8,7 @@ class CfgPatches
 		units[] = 
 		{
 			Atlas_B_M_Plane_Fighter_04_F,
+			Atlas_B_M_Ejection_Seat_Plane_Fighter_04_F
 		};
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};
