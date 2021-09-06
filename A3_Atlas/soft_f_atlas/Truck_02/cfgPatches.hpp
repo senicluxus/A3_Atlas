@@ -38,7 +38,27 @@ class CfgPatches
             Atlas_I_W_Truck_02_cargo_F,
             Atlas_I_W_Truck_02_F,
             Atlas_I_C_Truck_02_flatbed_F,
-            Atlas_I_W_Truck_02_transport_F
+            Atlas_I_W_Truck_02_transport_F,
+
+            // Venezuela
+            Atlas_O_VZ_Truck_02_Ammo_F,
+            Atlas_O_VZ_Truck_02_box_F,
+            Atlas_O_VZ_Truck_02_cargo_F,
+            Atlas_O_VZ_Truck_02_F,
+            Atlas_O_VZ_Truck_02_flatbed_F,
+            Atlas_O_VZ_Truck_02_fuel_F,
+            Atlas_O_VZ_Truck_02_medical_F,
+            Atlas_O_VZ_Truck_02_transport_F,
+
+            //Marar
+            Atlas_B_M_Truck_02_Ammo_F,
+            Atlas_B_M_Truck_02_box_F,
+            Atlas_B_M_Truck_02_cargo_F,
+            Atlas_B_M_Truck_02_F,
+            Atlas_B_M_Truck_02_flatbed_F,
+            Atlas_B_M_Truck_02_fuel_F,
+            Atlas_B_M_Truck_02_medical_F,
+            Atlas_B_M_Truck_02_transport_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

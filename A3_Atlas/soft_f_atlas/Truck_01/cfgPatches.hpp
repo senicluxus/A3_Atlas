@@ -41,7 +41,19 @@ class CfgPatches
             Atlas_I_I_Truck_01_medical_F,
             Atlas_I_I_Truck_01_mover_F,
             Atlas_I_I_Truck_01_Repair_F,
-            Atlas_I_I_Truck_01_transport_F
+            Atlas_I_I_Truck_01_transport_F,
+
+            //ADF
+            Atlas_B_A_Truck_01_ammo_F,
+            Atlas_B_A_Truck_01_box_F,
+            Atlas_B_A_Truck_01_cargo_F,
+            Atlas_B_A_Truck_01_covered_F,
+            Atlas_B_A_Truck_01_flatbed_F,
+            Atlas_B_A_Truck_01_fuel_F,
+            Atlas_B_A_Truck_01_medical_F,
+            Atlas_B_A_Truck_01_mover_F,
+            Atlas_B_A_Truck_01_Repair_F,
+            Atlas_B_A_Truck_01_transport_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

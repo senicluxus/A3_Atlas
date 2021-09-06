@@ -10,7 +10,12 @@ class CfgPatches
             // IDF
             Atlas_I_I_MRAP_01_F,
             Atlas_I_I_MRAP_01_gmg_F,
-            Atlas_I_I_MRAP_01_hmg_F
+            Atlas_I_I_MRAP_01_hmg_F,
+
+			// Marar
+			Atlas_B_M_MRAP_01_F,
+			Atlas_B_M_MRAP_01_gmg_F,
+			Atlas_B_M_MRAP_01_hmg_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

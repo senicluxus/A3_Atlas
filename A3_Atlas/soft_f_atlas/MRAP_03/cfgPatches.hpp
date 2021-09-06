@@ -19,7 +19,12 @@ class CfgPatches
             // Bundeswehr
             Atlas_B_G_MRAP_03_F,
             Atlas_B_G_MRAP_03_gmg_F,
-            Atlas_B_G_MRAP_03_hmg_F
+            Atlas_B_G_MRAP_03_hmg_F,
+
+			// ADF
+			Atlas_B_A_MRAP_03_F,
+			Atlas_B_A_MRAP_03_gmg_F,
+			Atlas_B_A_MRAP_03_hmg_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

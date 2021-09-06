@@ -17,7 +17,13 @@ class CfgPatches
             // Takistani Army
             Atlas_O_T_LSV_02_armed_F,
             Atlas_O_T_LSV_02_AT_F,
-            Atlas_O_T_LSV_02_unarmed_F
+            Atlas_O_T_LSV_02_unarmed_F,
+
+            // Venezuela
+            Atlas_O_VZ_LSV_02_armed_F,
+            Atlas_O_VZ_LSV_02_armed_viper_F,
+            Atlas_O_VZ_LSV_02_AT_F,
+            Atlas_O_VZ_LSV_02_unarmed_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

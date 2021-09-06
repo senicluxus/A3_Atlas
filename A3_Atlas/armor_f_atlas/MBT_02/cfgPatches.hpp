@@ -14,7 +14,10 @@
             Atlas_O_T_MBT_02_cannon_F,
 
             // CDF
-            Atlas_I_C_MBT_02_cannon_F
+            Atlas_I_C_MBT_02_cannon_F,
+
+            // Venezuela
+            Atlas_O_VZ_MBT_02_cannon_ghex_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};
