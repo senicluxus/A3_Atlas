@@ -211,7 +211,7 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 	faction = Atlas_BLU_A_F;
 	crew = Atlas_B_A_Crew_F;
 	typicalCargo[] = {Atlas_B_A_Crew_F};
-	textureList[] = {ADF,1};
+	textureList[] = {ADF_01,1};
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_base_ADF_CO.paa",
@@ -247,4 +247,21 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 	{
 		bag_xx(B_AssaultPack_aucamo_F,2);
 	};
+    class TextureSources
+    {
+        class ADF_01
+        {
+            displayName = $STR_A3_A_CfgFactionClasses_BLU_A_F1;
+            author = $STR_A3_A_BranFlakes;
+            textures[] =
+            {
+                "\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_base_ADF_CO.paa",
+                "\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_adds_ADF_CO.paa",
+                "\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_tows_ADF_CO.paa",
+                "\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
+                "\A3\Armor_F\Data\cage_sand_CO.paa"
+            };
+            factions[] = {Atlas_BLU_A_F};
+        };
+    };
 };
