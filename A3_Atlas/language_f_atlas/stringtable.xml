@@ -342,6 +342,57 @@
 				<Japanese>F-38I Aiit（ステルス）</Japanese>
 				<Turkish>F-38I Aiit (gizlilik)</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_I_VTOL_01_infantry_F0">
+				<Original>V-44 X Livyatan (Infantry Transport)</Original>
+				<Chinese>V-44 X Livyatan (Infantry Transport)</Chinese>
+				<French>V-44 X Livyatan (Infantry Transport)</French>
+				<Spanish>V-44 X Livyatan (Infantry Transport)</Spanish>
+				<Italian>V-44 X Livyatan (Infantry Transport)</Italian>
+				<Polish>V-44 X Livyatan (Infantry Transport)</Polish>
+				<Russian>V-44 X Livyatan (Infantry Transport)</Russian>
+				<German>V-44 X Livyatan (Infantry Transport)</German>
+				<Czech>V-44 X Livyatan (Infantry Transport)</Czech>
+				<English>V-44 X Livyatan (Infantry Transport)</English>
+				<Portuguese>V-44 X Livyatan (Infantry Transport)</Portuguese>
+				<Korean>V-44 X Livyatan (Infantry Transport)</Korean>
+				<Chinesesimp>V-44 X Livyatan (Infantry Transport)</Chinesesimp>
+				<Japanese>V-44 X Livyatan (Infantry Transport)</Japanese>
+				<Turkish>V-44 X Livyatan (Infantry Transport)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_I_VTOL_01_vehicle_F0">
+				<Original>V-44 X Livyatan (Vehicle Transport)</Original>
+				<Chinese>V-44 X Livyatan (Vehicle Transport)</Chinese>
+				<French>V-44 X Livyatan (Vehicle Transport)</French>
+				<Spanish>V-44 X Livyatan (Vehicle Transport)</Spanish>
+				<Italian>V-44 X Livyatan (Vehicle Transport)</Italian>
+				<Polish>V-44 X Livyatan (Vehicle Transport)</Polish>
+				<Russian>V-44 X Livyatan (Vehicle Transport)</Russian>
+				<German>V-44 X Livyatan (Vehicle Transport)</German>
+				<Czech>V-44 X Livyatan (Vehicle Transport)</Czech>
+				<English>V-44 X Livyatan (Vehicle Transport)</English>
+				<Portuguese>V-44 X Livyatan (Vehicle Transport)</Portuguese>
+				<Korean>V-44 X Livyatan (Vehicle Transport)</Korean>
+				<Chinesesimp>V-44 X Livyatan (Vehicle Transport)</Chinesesimp>
+				<Japanese>V-44 X Livyatan (Vehicle Transport)</Japanese>
+				<Turkish>V-44 X Livyatan (Vehicle Transport)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_I_VTOL_01_armed_F0">
+				<Original>AV-44 X Tannin</Original>
+				<Chinese>AV-44 X Tannin</Chinese>
+				<French>AV-44 X Tannin</French>
+				<Spanish>AV-44 X Tannin</Spanish>
+				<Italian>AV-44 X Tannin</Italian>
+				<Polish>AV-44 X Tannin</Polish>
+				<Russian>AV-44 X Tannin</Russian>
+				<German>AV-44 X Tannin</German>
+				<Czech>AV-44 X Tannin</Czech>
+				<English>AV-44 X Tannin</English>
+				<Portuguese>AV-44 X Tannin</Portuguese>
+				<Korean>AV-44 X Tannin</Korean>
+				<Chinesesimp>AV-44 X Tannin</Chinesesimp>
+				<Japanese>AV-44 X Tannin</Japanese>
+				<Turkish>AV-44 X Tannin</Turkish>
+			</Key>
 			<Container name="DisplayName">
 				<Key ID="STR_A3_A_CfgVehicles_Heli_Transport_05_base_F0">
 					<Original>MH-150 Mohican</Original>
