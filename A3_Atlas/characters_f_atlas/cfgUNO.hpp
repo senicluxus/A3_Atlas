@@ -95,13 +95,13 @@ class Atlas_I_UNO_Soldier_AR_F: Atlas_I_UNO_Soldier_Base_F
 	};
 	magazines[] =
 	{
-		mag_2(200Rnd_556x45_Box_Red_F),
+		mag_2(200Rnd_65x39_cased_box_red),
         HandGrenade,
         SmokeShell
 	};
 	respawnMagazines[] =
 	{
-		mag_2(200Rnd_556x45_Box_Red_F),
+		mag_2(200Rnd_65x39_cased_box_red),
         HandGrenade,
         SmokeShell
 	};
