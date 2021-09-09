@@ -772,7 +772,7 @@ class Atlas_I_UNO_wdl_Man_Base_F: I_soldier_F
 {
     scope = private;
 	faction = Atlas_IND_UNO_wdl_F;
-	genericNames = VenezuelanMen;
+	genericNames = RussianMen;
 	identityTypes[] =
 	{
 		LanguageRUS_F,
