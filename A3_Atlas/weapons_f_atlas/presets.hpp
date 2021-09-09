@@ -1257,6 +1257,25 @@ class srifle_EBR_blk_MRCO_LP_BI_F: srifle_EBR_blk_F
 		};
 	};
 };
+// Mk18 ABR 7.62 mm (Black) + AMS + Bipod [NATO]
+class srifle_EBR_blk_AMS_BI_F: srifle_EBR_blk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_AMS;
+		};
+		class LinkedItemsUnder
+		{
+			slot = UnderBarrelSlot;
+			item = bipod_01_F_blk;
+		};
+	};
+};
+/* 
 class srifle_EBR_cbr_F;
 // Mk18 ABR 7.62 mm (Coyote) + AMS (Sand) + IR Laser Pointer + Bipod [NATO] (Sand)
 class srifle_EBR_cbr_AMS_LP_BI_F: srifle_EBR_cbr_F
@@ -1280,4 +1299,5 @@ class srifle_EBR_cbr_AMS_LP_BI_F: srifle_EBR_cbr_F
 			item = bipod_01_F_snd;
 		};
 	};
-};
+}; 
+*/
