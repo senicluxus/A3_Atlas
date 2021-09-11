@@ -625,7 +625,7 @@ class Atlas_B_G_Soldier_Exp_F: B_soldier_exp_F
     scope = public;
     scopeCurator = public;
 	uniformClass = Atlas_U_B_G_CombatUniform_vest_wdl;
-	backpack = B_Kitbag_rgr_Exp;
+	backpack = B_Kitbag_flecktarn_BEExp_F;
 	weapons[] =
 	{
 		arifle_G36C_Pointer_F,
