@@ -981,7 +981,7 @@ class CfgGroups
 					side = TEast;
 					faction = Atlas_OPF_W_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_mech_inf.paa";
-					GROUP_UNIT(0,TEast,O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
+					GROUP_UNIT(0,TEast,Atlas_O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
 					GROUP_UNIT(1,TEast,Atlas_O_VZ_SL_F,SERGEANT,5,-5)
 					GROUP_UNIT(2,TEast,Atlas_O_VZ_RadioOperator_F,PRIVATE,-5,-5)
 					GROUP_UNIT(3,TEast,Atlas_O_VZ_Soldier_LAT_F,CORPORAL,10,-10)
@@ -997,7 +997,7 @@ class CfgGroups
 					side = TEast;
 					faction = Atlas_OPF_W_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_mech_inf.paa";
-					GROUP_UNIT(0,TEast,O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
+					GROUP_UNIT(0,TEast,Atlas_O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
 					GROUP_UNIT(1,TEast,Atlas_O_VZ_SL_F,SERGEANT,5,-5)
 					GROUP_UNIT(2,TEast,Atlas_O_VZ_AR_F,CORPORAL,-5,-5)
 					GROUP_UNIT(3,TEast,Atlas_O_VZ_Soldier_AT_F,PRIVATE,10,-10)
@@ -1013,7 +1013,7 @@ class CfgGroups
 					side = TEast;
 					faction = Atlas_OPF_W_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_mech_inf.paa";
-					GROUP_UNIT(0,TEast,O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
+					GROUP_UNIT(0,TEast,Atlas_O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
 					GROUP_UNIT(1,TEast,Atlas_O_VZ_SL_F,SERGEANT,5,-5)
 					GROUP_UNIT(2,TEast,Atlas_O_VZ_AR_F,CORPORAL,-5,-5)
 					GROUP_UNIT(3,TEast,Atlas_O_VZ_Soldier_AA_F,PRIVATE,10,-10)
