@@ -782,3 +782,7 @@ class Atlas_I_UNO_wdl_Man_Base_F: I_soldier_F
 		G_RUS_default
 	};
 };
+class Atlas_I_UNO_wdl_Soldier_Base_F: Atlas_I_UNO_wdl_Man_Base_F
+{
+	uniformClass = Atlas_U_I_UW_CombatUniform_UNO;
+};

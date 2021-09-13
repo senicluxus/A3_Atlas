@@ -5,4 +5,5 @@ class CfgVehicles
 
     /* Factions */
     #include "cfgVenezuela.hpp"   // Venezuela
+    #include "cfgUNO.hpp"         // UNO
 };

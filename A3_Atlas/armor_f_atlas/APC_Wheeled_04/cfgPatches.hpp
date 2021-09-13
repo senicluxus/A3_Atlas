@@ -7,8 +7,12 @@ class CfgPatches
 		requiredVersion = 0.1;
 		units[] =
         {
-            /* From "cfgRUS.hpp" */
-            O_VZ_APC_Wheeled_04_cannon_F
+            /* From "cfgVenezuela.hpp" */
+            Atlas_O_VZ_APC_Wheeled_04_cannon_F,
+
+			/* From "cfgUNO.hpp" */
+			//Atlas_I_UNO_wdl_APC_Wheeled_04_cannon_F,
+			Atlas_I_UNO_APC_Wheeled_04_cannon_F
         };
 		weapons[] = {/* Automated */};
 	};
