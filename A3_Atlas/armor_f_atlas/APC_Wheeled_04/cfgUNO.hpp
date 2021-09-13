@@ -1,13 +1,13 @@
 class Atlas_I_UNO_APC_Wheeled_04_cannon_F: O_R_APC_Wheeled_04_cannon_F
 {
     author = $STR_A3_A_AveryTheKitty_and_Lakarak;
-	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\O_R_APC_Wheeled_04_cannon_F.jpg";
+	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\Atlas_I_UNO_APC_Wheeled_04_cannon_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TGuerrila;
 	faction = Atlas_IND_UNO_F;
-	crew = Atlas_I_UNO_Soldier_F;
-	typicalCargo[] = {Atlas_I_UNO_Soldier_F};
+	crew = Atlas_I_UNO_Crew_F;
+	typicalCargo[] = {Atlas_I_UNO_Crew_F};
     textureList[] = {UNO,1};
 	hiddenSelectionsTextures[] =
     {

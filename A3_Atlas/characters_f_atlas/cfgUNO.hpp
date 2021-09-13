@@ -379,15 +379,58 @@ class Atlas_I_UNO_Helicrew_F: Atlas_I_UNO_Helipilot_F
 	};
     linkedItems[] =
     {
-		V_TacVest_oli,
+		V_TacVest_khk,
         H_CrewHelmetHeli_O,
         DefaultManLinkedItems,
         NVGoggles_INDEP
     };
     respawnLinkedItems[] =
     {
-		V_TacVest_oli,
+		V_TacVest_khk,
         H_CrewHelmetHeli_O,
+        DefaultManLinkedItems,
+        NVGoggles_INDEP
+    };
+};
+class Atlas_I_UNO_Crew_F: Atlas_I_UNO_Soldier_Base_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_H_Crew_F.jpg";
+    scope = public;
+    scopeCurator = public;
+	displayName = $STR_B_crew_F0;
+	uniformClass = Atlas_U_I_U_CombatUniform_shortsleeve_UNO;
+	weapons[] =
+	{
+		arifle_G36C_F,
+		DefaultManWeapons
+	};
+	respawnWeapons[] =
+	{
+		arifle_G36C_F,
+		DefaultManWeapons
+	};
+	magazines[] =
+	{
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
+        SmokeShellYellow
+	};
+	respawnMagazines[] =
+	{
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
+        SmokeShellYellow
+	};
+    linkedItems[] =
+    {
+		V_TacVest_khk,
+        H_HelmetCrew_I,
+        DefaultManLinkedItems,
+        NVGoggles_INDEP
+    };
+    respawnLinkedItems[] =
+    {
+		V_TacVest_khk,
+        H_HelmetCrew_I,
         DefaultManLinkedItems,
         NVGoggles_INDEP
     };
