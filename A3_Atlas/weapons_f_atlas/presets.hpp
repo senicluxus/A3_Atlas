@@ -1301,3 +1301,49 @@ class srifle_EBR_cbr_AMS_LP_BI_F: srifle_EBR_cbr_F
 	};
 }; 
 */
+// TRG-21 5.56 mm + ACO
+class arifle_TRG21_F;
+class arifle_TRG21_ACO_F: arifle_TRG21_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_ACO;
+		};
+	};
+};
+// TRG-21 EGLM 5.56 mm + ACO
+class arifle_TRG21_GL_F;
+class arifle_TRG21_GL_ACO_F: arifle_TRG21_GL_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_ACO;
+	};
+};
+// Cyrus 9.3 mm (Black) + AMS + Bipod
+class srifle_DMR_05_blk_F;
+class srifle_DMR_05_blk_AMS_BI_F: srifle_DMR_05_blk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_AMS;
+		};
+		class LinkedItemsUnder
+		{
+			slot = UnderBarrelSlot;
+			item = bipod_01_F_blk;
+		};
+	};
+};
