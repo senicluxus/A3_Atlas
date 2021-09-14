@@ -4870,5 +4870,43 @@
 				</Container>
 			</Container>
 		</Container>
+		<Container name="Groups_F">
+			<Container name="Blufor Groups">
+					<Key ID="STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfSquad0">
+						<Original>Peacekeeper Squad</Original>
+						<Chinese>Peacekeeper Squad</Chinese>
+						<French>Peacekeeper Squad</French>
+						<Spanish>Peacekeeper Squad</Spanish>
+						<Italian>Peacekeeper Squad</Italian>
+						<Polish>Peacekeeper Squad</Polish>
+						<Russian>Peacekeeper Squad</Russian>
+						<German>Peacekeeper Squad</German>
+						<Czech>Peacekeeper Squad</Czech>
+						<English>Peacekeeper Squad</English>
+						<Portuguese>Peacekeeper Squad</Portuguese>
+						<Korean>Peacekeeper Squad</Korean>
+						<Chinesesimp>Peacekeeper Squad</Chinesesimp>
+						<Japanese>Peacekeeper Squad</Japanese>
+						<Turkish>Peacekeeper Squad</Turkish>
+					</Key>
+					<Key ID="STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfTeam0">
+						<Original>Peacekeeper Team</Original>
+						<Chinese>Peacekeeper Team</Chinese>
+						<French>Peacekeeper Team</French>
+						<Spanish>Peacekeeper Team</Spanish>
+						<Italian>Peacekeeper Team</Italian>
+						<Polish>Peacekeeper Team</Polish>
+						<Russian>Peacekeeper Team</Russian>
+						<German>Peacekeeper Team</German>
+						<Czech>Peacekeeper Team</Czech>
+						<English>Peacekeeper Team</English>
+						<Portuguese>Peacekeeper Team</Portuguese>
+						<Korean>Peacekeeper Team</Korean>
+						<Chinesesimp>Peacekeeper Team</Chinesesimp>
+						<Japanese>Peacekeeper Team</Japanese>
+						<Turkish>Peacekeeper Team</Turkish>
+					</Key>
+			</Container>
+		</Container>
 	</Package>
 </Project>
