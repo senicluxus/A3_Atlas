@@ -3157,6 +3157,23 @@
 				<Japanese>Israel</Japanese>
 				<Turkish>Israel</Turkish>
 			</Key>
+			<Key ID="$STR_A3_A_TEXTURESOURCES_UNO0">
+				<Original>UNO</Original>
+				<Chinese>UNO</Chinese>
+				<French>UNO</French>
+				<Spanish>UNO</Spanish>
+				<Italian>UNO</Italian>
+				<Polish>UNO</Polish>
+				<Russian>UNO</Russian>
+				<German>UNO</German>
+				<Czech>UNO</Czech>
+				<English>UNO</English>
+				<Portuguese>UNO</Portuguese>
+				<Korean>UNO</Korean>
+				<Chinesesimp>UNO</Chinesesimp>
+				<Japanese>UNO</Japanese>
+				<Turkish>UNO</Turkish>
+			</Key>
 		</Container>
 		<Container name="Soft_F">
 			<Key ID="STR_A3_A_CfgVehicles_I_I_MRAP_01_F0">
