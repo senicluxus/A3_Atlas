@@ -1737,7 +1737,7 @@ class CfgGroups
 			class Infantry
 			{
 				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
-				class Atlas_I_UNO_InfSquad
+				class Atlas_I_UNO_wdl_InfSquad
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfSquad0;
 					side = TGuerrila;
@@ -1752,7 +1752,7 @@ class CfgGroups
 					GROUP_UNIT(6,TGuerrila,Atlas_I_UNO_wdl_Soldier_A_F,PRIVATE,-15,-15)
 					GROUP_UNIT(7,TGuerrila,Atlas_I_UNO_wdl_Medic_F,PRIVATE,20,-20)
 				};
-				class Atlas_I_UNO_InfTeam
+				class Atlas_I_UNO_wdl_InfTeam
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfTeam0;
 					side = TGuerrila;
