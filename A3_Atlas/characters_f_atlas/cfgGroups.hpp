@@ -1729,6 +1729,7 @@ class CfgGroups
 					GROUP_UNIT(2,TGuerrila,Atlas_I_UNO_Soldier_GL_F,PRIVATE,-5,-5)
 					GROUP_UNIT(3,TGuerrila,Atlas_I_UNO_Soldier_LAT_F,PRIVATE,10,-10)
 				};
+			};
 		};
 
 		class Atlas_IND_UNO_wdl_F
@@ -1763,6 +1764,7 @@ class CfgGroups
 					GROUP_UNIT(2,TGuerrila,Atlas_I_UNO_wdl_Soldier_GL_F,PRIVATE,-5,-5)
 					GROUP_UNIT(3,TGuerrila,Atlas_I_UNO_wdl_Soldier_LAT_F,PRIVATE,10,-10)
 				};
+			};
 		};
 	};
 };
