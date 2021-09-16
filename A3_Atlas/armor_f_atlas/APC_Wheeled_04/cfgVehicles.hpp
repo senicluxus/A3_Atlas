@@ -1,14 +1,15 @@
 class CfgVehicles
 {
     /* Inheritance Tree */
-    class O_R_APC_Wheeled_04_cannon_F;
+    class Wheeled_APC_F;
+    class APC_Wheeled_04_base_F: Wheeled_APC_F
     {
         class TextureSources
         {
             class UNO
             {
                 displayName = $STR_A3_A_TEXTURESOURCES_UNO0;
-                author = "BranFlakes"
+                author = "BranFlakes";
                 materials[] =
                 {
                     "\A3_Atlas\Armor_F_Atlas\APC_Wheeled_04\Data\APC_Wheeled_04_body_UNO_CO.paa",
@@ -21,6 +22,7 @@ class CfgVehicles
 
         };
     };
+    class O_R_APC_Wheeled_04_cannon_F: APC_Wheeled_04_base_F;
 
     /* Factions */
     #include "cfgVenezuela.hpp"   // Venezuela
