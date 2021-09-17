@@ -1326,6 +1326,7 @@ class arifle_TRG21_GL_ACO_F: arifle_TRG21_GL_F
 		{
 			slot = CowsSlot;
 			item = optic_ACO;
+		};
 	};
 };
 // Cyrus 9.3 mm (Black) + AMS + Bipod
