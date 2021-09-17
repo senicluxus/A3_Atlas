@@ -112,7 +112,7 @@ class Atlas_I_UNO_Offroad_01_covered_F: Offroad_01_military_covered_base_F
 		weap_xx(arifle_G36_F,2);
 	};
     /* Scripts */
-	class EventHandlers: EventHandlers
+	class EventHandlers
 	{
 		init = "if (local (_this select 0)) then {[(_this select 0), """", [], true] call bis_fnc_initVehicle;};";
 	};

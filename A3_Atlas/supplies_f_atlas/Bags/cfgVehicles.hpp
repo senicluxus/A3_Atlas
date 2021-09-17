@@ -18,6 +18,7 @@ class CfgVehicles
 	class B_RadioBag_01_base_F;
 	class B_Carryall_cbr;
 	class B_AssaultPack_cbr;
+	class B_AssaultPack_rgr;
 	
     /* Arsenal */
     class B_RadioBag_01_aucamo_F: B_RadioBag_01_base_F

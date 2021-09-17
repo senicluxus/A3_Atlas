@@ -22,7 +22,7 @@ class CfgVehicles
 
         };
     };
-    class O_R_APC_Wheeled_04_cannon_F: APC_Wheeled_04_base_F;
+    class O_R_APC_Wheeled_04_cannon_F: APC_Wheeled_04_base_F{};
 
     /* Factions */
     #include "cfgVenezuela.hpp"   // Venezuela
