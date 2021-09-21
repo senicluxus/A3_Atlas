@@ -5,7 +5,6 @@ class CfgVehicles
 	// Arma 3
 	class Truck_F;
 	class Truck_02_viv_base_F;
-	class Truck_02_flatbed_base_F;
 	class Truck_02_base_F: Truck_F
 	{	
 		class Turrets;
