@@ -11,7 +11,7 @@ class CfgVehicles
             {
                 displayName = $STR_A3_A_TEXTURESOURCES_UNO0;
                 author = "BranFlakes";
-                materials[] =
+                textures[] =
                 {
                     "\A3_Atlas\Soft_F_Atlas\Offroad_01\Data\Offroad_01_ext_UN_CO.paa",
                     "\A3_Atlas\Soft_F_Atlas\Offroad_01\Data\Offroad_01_ext_UN_CO.paa"
@@ -28,7 +28,7 @@ class CfgVehicles
             {
                 displayName = $STR_A3_A_TEXTURESOURCES_UNO0;
                 author = "BranFlakes";
-                materials[] =
+                textures[] =
                 {
                     "\A3_Atlas\Soft_F_Atlas\Offroad_01\Data\Offroad_01_ext_UN_CO.paa",
                     "\A3_Atlas\Soft_F_Atlas\Offroad_01\Data\Offroad_01_ext_UN_CO.paa",

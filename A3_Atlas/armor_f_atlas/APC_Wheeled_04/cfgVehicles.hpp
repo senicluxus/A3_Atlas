@@ -10,7 +10,7 @@ class CfgVehicles
             {
                 displayName = $STR_A3_A_TEXTURESOURCES_UNO0;
                 author = "BranFlakes";
-                materials[] =
+                textures[] =
                 {
                     "\A3_Atlas\Armor_F_Atlas\APC_Wheeled_04\Data\APC_Wheeled_04_body_UNO_CO.paa",
                     "\A3_Atlas\Armor_F_Atlas\APC_Wheeled_04\Data\APC_Wheeled_04_body2_UNO_CO.paa",
