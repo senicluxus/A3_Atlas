@@ -11,7 +11,7 @@ class CfgVehicles
 			class Marar
 			{
 				displayName = $STR_A3_A_TextureSources_Marar0;
-				author = "BranFlakes";
+				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
                     "\A3_Atlas\Air_F_Atlas\Heli_Attack_03\Data\Heli_Attack_03_Body_Marar_CO.paa",
@@ -23,7 +23,7 @@ class CfgVehicles
 			class ADF
 			{
 				displayName = $STR_A3_A_TEXTURESOURCES_ADF0;
-				author = "BranFlakes";
+				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
                     "\A3_Atlas\Air_F_Atlas\Heli_Attack_03\Data\Heli_Attack_03_Body_ADF_CO.paa",

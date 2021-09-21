@@ -40,7 +40,7 @@ class CfgVehicles
 			};
 			class ADF
 			{
-				displayName = $STR_A3_A_ADF1;
+				displayName = $STR_A3_A_TEXTURESOURCES_ADF0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{

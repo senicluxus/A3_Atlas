@@ -58,7 +58,7 @@ class CfgVehicles
 			class ADF
 			{
 				displayName = $STR_A3_A_TEXTURESOURCES_ADF0;
-				author = $STR_A3_A_AveryTheKitty;
+				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
 					"\A3_Atlas\Air_F_Atlas\Plane_Fighter_05\Data\Plane_Fighter_05_ext1_ADF_CO.paa",

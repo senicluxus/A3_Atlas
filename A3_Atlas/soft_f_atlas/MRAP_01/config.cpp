@@ -37,8 +37,8 @@ class CfgVehicles
 			};
 			class Marar
 			{
-				DisplayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
-				author = $STR_A3_A_AveryTheKitty;
+				DisplayName = $STR_A3_A_TextureSources_Marar0;
+				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
 					"\A3_Atlas\Soft_F_Atlas\MRAP_01\Data\MRAP_01_base_marar_CO.paa",
@@ -68,6 +68,18 @@ class CfgVehicles
 					"\A3_Atlas\Data_F_Atlas\Vehicles\Turret_brown_CO.paa"
 				};
 				factions[] = {Atlas_IND_I_F};
+			};
+			class Marar
+			{
+				DisplayName = $STR_A3_A_TextureSources_Marar0;
+				author = $STR_A3_A_BranFlakes;
+				textures[] =
+				{
+					"\A3_Atlas\Soft_F_Atlas\MRAP_01\Data\MRAP_01_base_marar_CO.paa",
+					"\A3_Atlas\Soft_F_Atlas\MRAP_01\Data\MRAP_01_adds_marar_CO.paa",
+					"\A3\Data_F\Vehicles\Turret_CO.paa"
+				};
+				factions[] = {Atlas_BLU_M_F};
 			};
 		};
 	};

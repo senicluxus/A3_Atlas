@@ -42,7 +42,7 @@ class CfgFactionClasses
 	};
 	class Atlas_BLU_A_F
 	{
-		displayName = $STR_A3_A_CfgFactionClasses_BLU_A_F1;
+		displayName = $STR_A3_A_CfgFactionClasses_BLU_A_F0;
 		priority = 3;
 		side = TWest;
 		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\CfgFactionClasses_BLU_A_CA.paa";
