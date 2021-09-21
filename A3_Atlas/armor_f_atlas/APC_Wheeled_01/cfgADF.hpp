@@ -1,6 +1,6 @@
 class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 {
-	author = "BranFlakes";
+	author = $STR_A3_A_BranFlakes;
 	class SimpleObject
 	{
 		eden = true;
@@ -207,8 +207,7 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_T_APC_Wheeled_01_cannon_v2_F.jpg";
     scope = public;
 	scopeCurator = public;
-	forceInGarage = true;
-	displayName = "AMV-7 Marshall";
+	displayName = $STR_A3_CFGVEHICLES_APC_Wheeled_01_base_F;
 	side = TWest;
 	faction = Atlas_BLU_A_F;
 	crew = Atlas_B_A_Crew_F;
@@ -249,21 +248,4 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 	{
 		bag_xx(B_AssaultPack_aucamo_F,2);
 	};
-    class TextureSources
-    {
-        class ADF_01
-        {
-            displayName = $STR_A3_A_CfgFactionClasses_BLU_A_F1;
-            author = $STR_A3_A_BranFlakes;
-            textures[] =
-            {
-                "\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_base_ADF_CO.paa",
-                "\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_adds_ADF_CO.paa",
-                "\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_tows_ADF_CO.paa",
-                "\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
-                "\A3\Armor_F\Data\cage_sand_CO.paa"
-            };
-            factions[] = {Atlas_BLU_A_F};
-        };
-    };
 };

@@ -18,11 +18,11 @@ class CfgVehicles
 			class MainTurret: MainTurret{};
 		};
 		class AnimationSources;
-		/*class TextureSources
+		class TextureSources
 		{
-			class ADF_01
+			class ADF
 			{
-				displayName = $STR_A3_A_CfgFactionClasses_BLU_A_F1;
+				displayName = $STR_A3_A_TEXTURESOURCES_ADF0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
@@ -34,8 +34,7 @@ class CfgVehicles
 				};
 				factions[] = {Atlas_BLU_A_F};
 			};
-		};*/
+		};
 	};
-	class APC_Wheeled_01_base_V2_F: APC_Wheeled_01_base_F
-	{};
+	class APC_Wheeled_01_base_V2_F: APC_Wheeled_01_base_F{};
 };

@@ -6,7 +6,7 @@ class CfgVehicles
     class Wheeled_APC_F;
 	class AFV_Wheeled_01_base_F: Wheeled_APC_F
     {
-		class TextureSources
+		/*class TextureSources
 		{
 			class Jagged_01
 			{
@@ -36,11 +36,11 @@ class CfgVehicles
                 };
 				factions[] = {Atlas_BLU_L_F};
 			};
-		};
+		};*/
     };
 	class AFV_Wheeled_01_up_base_F: AFV_Wheeled_01_base_F
     {
-		class TextureSources: TextureSources
+		/*class TextureSources: TextureSources
         {
 			class Jagged_01: Jagged_01
 			{
@@ -68,7 +68,7 @@ class CfgVehicles
                     "\A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_CO.paa"
                 };
 			};
-        };
+        };*/
     };
 	// Arma 3 Atlas
 	#include "cfgLegion.hpp"            // Legionnaires
