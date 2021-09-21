@@ -4808,6 +4808,57 @@
 						<Japanese>GLM</Japanese>
 						<Turkish>GLM</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15_F0">
+						<Original>NCAR-15 5.8 mm</Original>
+						<Chinese>NCAR-15 5.8 mm</Chinese>
+						<French>NCAR-15 5,8 mm</French>
+						<Spanish>NCAR-15 5,8 mm</Spanish>
+						<Italian>NCAR-15 5,8 mm</Italian>
+						<Polish>NCAR-15 5,8 mm</Polish>
+						<Russian>NCAR-15 5,8 мм</Russian>
+						<German>NCAR-15 5.8 mm</German>
+						<Czech>NCAR-15 5,8 mm</Czech>
+						<English>NCAR-15 5.8 mm</English>
+						<Portuguese>NCAR-15 5.8 mm</Portuguese>
+						<Korean>NCAR-15 5.8 mm</Korean>
+						<Chinesesimp>NCAR-15 5.8 毫米</Chinesesimp>
+						<Japanese>NCAR-15 5.8 mm</Japanese>
+						<Turkish>NCAR-15 5.8 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15_GL_F0">
+						<Original>NCAR-15 GL 5.8 mm</Original>
+						<Chinese>NCAR-15 GL 5.8 mm</Chinese>
+						<French>NCAR-15 GL 5,8 mm</French>
+						<Spanish>NCAR-15 GL 5,8 mm</Spanish>
+						<Italian>NCAR-15 GL 5,8 mm</Italian>
+						<Polish>NCAR-15 GL 5,8 mm</Polish>
+						<Russian>NCAR-15 GL 5,8 мм</Russian>
+						<German>NCAR-15 GL 5.8 mm</German>
+						<Czech>NCAR-15 GL 5,8 mm</Czech>
+						<English>NCAR-15 GL 5.8 mm</English>
+						<Portuguese>NCAR-15 GL 5.8 mm</Portuguese>
+						<Korean>NCAR-15 GL 5.8 mm</Korean>
+						<Chinesesimp>NCAR-15 GL 5.8 毫米</Chinesesimp>
+						<Japanese>NCAR-15 GL 5.8 mm</Japanese>
+						<Turkish>NCAR-15 GL 5.8 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15_MG_F0">
+						<Original>NCAR-15-1 5.8 mm</Original>
+						<Chinese>NCAR-15-1 5.8 mm</Chinese>
+						<French>NCAR-15-1 5,8 mm</French>
+						<Spanish>NCAR-15-1 5,8 mm</Spanish>
+						<Italian>NCAR-15-1 5,8 mm</Italian>
+						<Polish>NCAR-15-1 5,8 mm</Polish>
+						<Russian>NCAR-15-1 5,8 мм</Russian>
+						<German>NCAR-15-1 5.8 mm</German>
+						<Czech>NCAR-15-1 5,8 mm</Czech>
+						<English>NCAR-15-1 5.8 mm</English>
+						<Portuguese>NCAR-15-1 5.8 mm</Portuguese>
+						<Korean>NCAR-15-1 5.8 mm</Korean>
+						<Chinesesimp>NCAR-15-1 5.8 毫米</Chinesesimp>
+						<Japanese>NCAR-15-1 5.8 mm</Japanese>
+						<Turkish>NCAR-15-1 5.8 mm</Turkish>
+					</Key>
 				</Container>
 				<Container name="Library">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_AUG_base_F_Library0">
