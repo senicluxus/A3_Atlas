@@ -205,6 +205,8 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_T_APC_Wheeled_01_cannon_v2_F.jpg";
+    scope = public;
+	scopeCurator = public;
 	forceInGarage = true;
 	displayName = "AMV-7 Marshall";
 	side = TWest;
@@ -217,8 +219,8 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_base_ADF_CO.paa",
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_adds_ADF_CO.paa",
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_tows_ADF_CO.paa",
-            "\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
-            "\A3\Armor_F\Data\cage_sand_CO.paa"
+        "\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
+        "\A3\Armor_F\Data\cage_sand_CO.paa"
 	};
 
 	 /* Inventory */
