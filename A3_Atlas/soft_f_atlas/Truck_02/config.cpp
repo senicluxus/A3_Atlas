@@ -12,7 +12,7 @@ class CfgVehicles
 		{
 			class Marar
 			{
-				displayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
+				displayName = $STR_A3_A_TextureSources_Marar0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
@@ -32,7 +32,7 @@ class CfgVehicles
 		{
 			class Marar
 			{
-				displayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
+				displayName = $STR_A3_A_TextureSources_Marar0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
@@ -52,7 +52,7 @@ class CfgVehicles
 		{
 			class Marar
 			{
-				displayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
+				displayName = $STR_A3_A_TextureSources_Marar0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
@@ -72,7 +72,7 @@ class CfgVehicles
 		{
 			class Marar
 			{
-				displayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
+				displayName = $STR_A3_A_TextureSources_Marar0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
@@ -92,7 +92,7 @@ class CfgVehicles
 		{
 			class Marar
 			{
-				displayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
+				displayName = $STR_A3_A_TextureSources_Marar0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
@@ -112,7 +112,7 @@ class CfgVehicles
 		{
 			class Marar
 			{
-				displayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
+				displayName = $STR_A3_A_TextureSources_Marar0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
@@ -132,7 +132,7 @@ class CfgVehicles
 		{
 			class Marar
 			{
-				displayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
+				displayName = $STR_A3_A_TextureSources_Marar0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
@@ -152,7 +152,7 @@ class CfgVehicles
 		{
 			class Marar
 			{
-				displayName = $STR_A3_A_CfgFactionClasses_BLU_M_F0;
+				displayName = $STR_A3_A_TextureSources_Marar0;
 				author = $STR_A3_A_BranFlakes;
 				textures[] =
 				{
