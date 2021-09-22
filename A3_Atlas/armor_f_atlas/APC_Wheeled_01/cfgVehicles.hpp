@@ -32,9 +32,23 @@ class CfgVehicles
         			"\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
         			"\A3\Armor_F\Data\cage_sand_CO.paa"
 				};
-				factions[] = {Atlas_BLU_A_F};
+				factions[] = {};
+			};
+			class Marar
+			{
+				displayName = $STR_A3_A_TextureSources_Marar0;
+				author = $STR_A3_A_BranFlakes;
+				textures[] =
+				{
+					"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_base_Marar_CO.paa",
+					"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_adds_Marar_CO.paa",
+					"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_tows_Marar_CO.paa",
+       				"\A3\Armor_F\Data\camonet_NATO_Desert_CO.paa",
+        			"\A3\Armor_F\Data\cage_sand_CO.paa"
+				};
+				factions[] = {};
 			};
 		};
 	};
-	class APC_Wheeled_01_base_V2_F: APC_Wheeled_01_base_F{};
+	class APC_Wheeled_01_base_v2_F: APC_Wheeled_01_base_F{};
 };
