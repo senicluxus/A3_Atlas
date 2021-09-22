@@ -36,7 +36,7 @@ class Atlas_O_VZ_APC_Wheeled_04_cannon_F: O_R_APC_Wheeled_04_cannon_F
         mag_xx(SmokeShellRed,8);
         mag_xx(SmokeShellOrange,8);
         mag_xx(SmokeShellYellow,8);
-        mag_xx(RPG7_F,8;
+        mag_xx(RPG7_F,8);
         mag_xx(Titan_AT,2);
         mag_xx(Titan_AP,2);
         mag_xx(Titan_AA,2);
