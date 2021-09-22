@@ -4,6 +4,7 @@ class Atlas_I_UNO_APC_Wheeled_04_cannon_F: O_R_APC_Wheeled_04_cannon_F
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_APC_Wheeled_04_cannon_F.jpg";
 	scope = public;
 	scopeCurator = public;
+    forceInGarage = false;
 	side = TGuerrila;
 	faction = Atlas_IND_UNO_F;
 	crew = Atlas_I_UNO_Crew_F;
