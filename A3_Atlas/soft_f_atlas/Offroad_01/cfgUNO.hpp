@@ -176,7 +176,7 @@ class Atlas_I_UNO_wdl_Offroad_01_F: Atlas_I_UNO_Offroad_01_F
 	};
 };
 
-class Atlas_I_UNO_wdl_Offroad_armed_01_F: Offroad_01_armed_base_F
+class Atlas_I_UNO_wdl_Offroad_armed_01_F: Atlas_I_UNO_Offroad_armed_01_F
 {
     side = TGuerrila;
 	faction = Atlas_IND_UNO_wdl_F;
@@ -196,7 +196,7 @@ class Atlas_I_UNO_wdl_Offroad_armed_01_F: Offroad_01_armed_base_F
 	};
 };
 
-class Atlas_I_UNO_wdl_Offroad_01_covered_F: Offroad_01_military_covered_base_F
+class Atlas_I_UNO_wdl_Offroad_01_covered_F: Atlas_I_UNO_Offroad_01_covered_F
 {
     side = TGuerrila;
 	faction = Atlas_IND_UNO_wdl_F;
@@ -216,7 +216,7 @@ class Atlas_I_UNO_wdl_Offroad_01_covered_F: Offroad_01_military_covered_base_F
 	};
 };
 
-class Atlas_I_UNO_wdl_Offroad_01_comms_F: Offroad_01_military_comms_base_F
+class Atlas_I_UNO_wdl_Offroad_01_comms_F: Atlas_I_UNO_Offroad_01_comms_F
 {
     side = TGuerrila;
 	faction = Atlas_IND_UNO_wdl_F;

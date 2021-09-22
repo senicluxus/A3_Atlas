@@ -206,4 +206,4 @@ class CfgWeapons
     };
 };
 
-
+#include "presets.hpp"

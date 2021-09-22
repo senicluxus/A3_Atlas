@@ -21,7 +21,15 @@ class CfgPatches
 
             //Venezuela
             Atlas_O_VZ_Heli_Light_02_dynamicLoadout_F,
-            Atlas_O_VZ_Heli_Light_02_unarmed_F
+            Atlas_O_VZ_Heli_Light_02_unarmed_F,
+
+            // United Nations (Sahrani)
+            Atlas_I_UNO_Heli_Light_02_dynamicLoadout_F,
+            Atlas_I_UNO_Heli_Light_02_unarmed_F,
+
+            // United Nations (Chernarus)
+            Atlas_I_UNO_wdl_Heli_Light_02_dynamicLoadout_F,
+            Atlas_I_UNO_wdl_Heli_Light_02_unarmed_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

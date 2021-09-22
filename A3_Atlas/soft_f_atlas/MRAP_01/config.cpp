@@ -116,7 +116,8 @@ class CfgVehicles
 	};
 	// Arma 3 Atlas
 	#include "cfgIDF.hpp"				// IDF
-	#include "cfgMarar.hpp"				//Marar
+	#include "cfgMarar.hpp"				// Marar
+	#include "cfgUNO.hpp"				// United Nations
     // Deprecated classes
     #include "deprecated.hpp"
 };
