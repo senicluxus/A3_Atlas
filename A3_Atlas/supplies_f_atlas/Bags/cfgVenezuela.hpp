@@ -13,7 +13,7 @@ class B_Carryall_owcamo_OVZAmmo_F: B_Carryall_owcamo
 	scope = protected;
 	class TransportMagazines
 	{
-		mag_xx(30Rnd_545x39_AK12_Mag_F,6);
+		mag_xx(30Rnd_580x42_Mag_F,6);
 		mag_xx(200Rnd_556x45_Box_Red_F,2);
 		mag_xx(RPG7_F,1);
 		mag_xx(HandGrenade,2);

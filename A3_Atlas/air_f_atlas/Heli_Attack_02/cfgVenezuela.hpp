@@ -158,10 +158,10 @@ class Atlas_O_VZ_Heli_Attack_02_dynamicLoadout_F: O_Heli_Attack_02_dynamicLoadou
 	{
 		mag_xx(SmokeShell,2);
 		mag_xx(SmokeShellRed,2);
-		mag_xx(30Rnd_545x39_AK12_Mag_F,4);
+		mag_xx(30Rnd_580x42_Mag_F,4);
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_AK12U_545_F,2);
+		weap_xx(arifle_NCAR15B_F,2);
 	};
 };
