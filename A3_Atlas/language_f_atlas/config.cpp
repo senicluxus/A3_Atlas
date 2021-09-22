@@ -32,6 +32,20 @@ class CfgHints
 			weapon = arifle_G36_F;
 			logicalOrder = 45;
 		};
+		class arifle_NCAR15
+		{
+			displayName = %11;
+			description = %12;
+			tip = "";
+			arguments[] =
+			{
+				{STR_A3_A_CfgWeapons_arifle_NCAR15_F0},
+				{STR_A3_A_CfgWeapons_arifle_NCAR15_base_F_Library0}
+			};
+			image = "\A3\UI_F\Data\GUI\cfg\hints\Rifle_CA.paa";
+			weapon = arifle_NCAR15_F;
+			logicalOrder = 45;
+		};
 	};
 	class VehicleList{};
 };

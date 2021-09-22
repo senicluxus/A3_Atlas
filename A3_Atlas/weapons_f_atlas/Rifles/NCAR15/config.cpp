@@ -27,6 +27,10 @@ class CfgWeapons
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15_F0;
         magazines[] = {"30Rnd_580x42_Mag_F","30Rnd_580x42_Mag_Tracer_F"};
         magazineWell[] = {"CTAR_580x42","CTAR_580x42_Large"};
+        class Library
+		{
+			libTextDesc = $STR_A3_A_CfgWeapons_arifle_NCAR15_base_F_Library0;
+		};
         class WeaponSlotsInfo
         {
             class MuzzleSlot: asdg_MuzzleSlot_58
@@ -77,6 +81,7 @@ class CfgWeapons
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15B_F0;
         magazines[] = {"30Rnd_580x42_Mag_F","30Rnd_580x42_Mag_Tracer_F"};
         magazineWell[] = {"CTAR_580x42","CTAR_580x42_Large"};
+        
         class WeaponSlotsInfo
         {
             class MuzzleSlot: asdg_MuzzleSlot_58
