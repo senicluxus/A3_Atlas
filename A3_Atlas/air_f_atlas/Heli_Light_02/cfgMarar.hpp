@@ -1,7 +1,7 @@
 class Atlas_B_M_Heli_Light_02_dynamicLoadout_F: O_Heli_Light_02_dynamicLoadout_F
 {
-	author = "BranFlakes";
-	displayName = "KA-60 Burāq";
+	author = $STR_A3_A_BranFlakes;
+	displayName = $STR_A3_A_CfgVehicles_B_M_Heli_Light_02_F0;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Heli_Light_02_dynamicLoadout_F.jpg";
 	scope = public;
 	scopeCurator = public;
@@ -24,8 +24,8 @@ class Atlas_B_M_Heli_Light_02_dynamicLoadout_F: O_Heli_Light_02_dynamicLoadout_F
 };
 class Atlas_B_M_Heli_Light_02_unarmed_F: O_Heli_Light_02_unarmed_F
 {
-	author = "BranFlakes";
-	displayName = "KA-60 Alraaei (Unarmed)";
+	author = $STR_A3_A_BranFlakes;
+	displayName = $STR_A3_A_CfgVehicles_B_M_Heli_Light_02_Unarmed_F0;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Heli_Light_02_unarmed_F.jpg";
 	scope = public;
 	scopeCurator = public;
