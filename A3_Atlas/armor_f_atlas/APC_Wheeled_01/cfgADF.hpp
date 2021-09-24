@@ -207,7 +207,7 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_T_APC_Wheeled_01_cannon_v2_F.jpg";
     scope = public;
 	scopeCurator = public;
-	displayName = $STR_A3_CFGVEHICLES_APC_Wheeled_01_base_F;
+	//displayName = $STR_A3_CFGVEHICLES_APC_Wheeled_01_base_F;
 	side = TWest;
 	faction = Atlas_BLU_A_F;
 	crew = Atlas_B_A_Crew_F;
