@@ -1261,24 +1261,28 @@ class Atlas_I_UNO_wdl_soldier_M_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	weapons[] =
 	{
 		srifle_DMR_05_blk_AMS_BI_F,
+		hgun_Pistol_01_F,
         DefaultManWeapons,
 		Binocular
 	};
 	respawnWeapons[] =
 	{
 		srifle_DMR_05_blk_AMS_BI_F,
+		hgun_Pistol_01_F,
         DefaultManWeapons,
 		Binocular
 	};
 	magazines[] =
 	{
-		mag_2(10Rnd_93x64_dmr_05_mag),
+		mag_4(10Rnd_93x64_dmr_05_mag),
+		mag_2(10Rnd_9x21_Mag),
         HandGrenade_Guer,
         SmokeShell
 	};
 	respawnMagazines[] =
 	{
-		mag_2(10Rnd_93x64_dmr_05_mag),
+		mag_4(10Rnd_93x64_dmr_05_mag),
+		mag_2(10Rnd_9x21_Mag),
         HandGrenade_Guer,
         SmokeShell
 	};
