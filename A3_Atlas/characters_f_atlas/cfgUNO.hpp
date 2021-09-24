@@ -955,7 +955,7 @@ class Atlas_I_UNO_wdl_Medic_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	picture = pictureHeal;
 	camouflage = 1.6;
 	attendant = true;
-    uniformClass = Atlas_U_I_U_CombatUniform_shortsleeve_UNO;
+    uniformClass = Atlas_U_I_UW_CombatUniform_shortsleeve_UNO;
 	backpack = B_AssaultPack_rgr_IUMedic_F;
 	weapons[] =
 	{
@@ -1437,7 +1437,7 @@ class Atlas_I_UNO_wdl_Soldier_LAT_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	magazines[] =
 	{
-		mag_6(330Rnd_556x45_stanag_red),
+		mag_6(30Rnd_556x45_stanag_red),
 		RPG32_F,
         HandGrenade_Guer,
         SmokeShell
