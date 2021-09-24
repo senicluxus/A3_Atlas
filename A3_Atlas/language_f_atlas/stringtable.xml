@@ -1560,7 +1560,7 @@
 					<Japanese>軽装野戦服 (Olive)</Japanese>
 					<Turkish>Hafif Asker Kıyafeti </Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_ar0">
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_ard0">
 					<Original>Combat Fatigues (Arid) [ADF]</Original>
 					<Chinese>作戰戰鬥服 (Arid) [ADF]</Chinese>
 					<French>Treillis (Arid) [ADF]</French>
@@ -1577,7 +1577,7 @@
 					<Japanese>戦闘服 (Arid) [ADF]</Japanese>
 					<Turkish>Savaş Asker Kıyafeti (Arid) [ADF]</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_ar0">
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_ard0">
 					<Original>Combat Fatigues (Arid) [ADF, Rolled-up]</Original>
 					<Chinese>作戰戰鬥服 (Arid) [ADF, Rolled-up]</Chinese>
 					<French>Treillis (Arid) [ADF, Rolled-up]</French>
@@ -1594,7 +1594,7 @@
 					<Japanese>戦闘服 (Arid) [ADF, Rolled-up]</Japanese>
 					<Turkish>Savaş Asker Kıyafeti (Arid) [ADF, Rolled-up]</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_tr0">
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_trp0">
 					<Original>Combat Fatigues (Tropic) [ADF]</Original>
 					<Chinese>作戰戰鬥服 (Tropic) [ADF]</Chinese>
 					<French>Treillis (Tropic) [ADF]</French>
@@ -1611,7 +1611,7 @@
 					<Japanese>戦闘服 (Tropic) [ADF]</Japanese>
 					<Turkish>Savaş Asker Kıyafeti (Tropic) [ADF]</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_tr0">
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_trp0">
 					<Original>Combat Fatigues (Tropic) [ADF, Rolled-up]</Original>
 					<Chinese>作戰戰鬥服 (Tropic) [ADF, Rolled-up]</Chinese>
 					<French>Treillis (Tropic) [ADF, Rolled-up]</French>
@@ -2792,6 +2792,40 @@
 					<Chinesesimp>ADF</Chinesesimp>
 					<Japanese>ADF</Japanese>
 					<Turkish>ADF</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgFactionClasses_BLU_AUS_ard_F0">
+					<Original>ADF (Arid)</Original>
+					<Chinese>ADF (Arid)</Chinese>
+					<French>ADF (Arid)</French>
+					<Spanish>ADF (Arid)</Spanish>
+					<Italian>ADF (Arid)</Italian>
+					<Polish>ADF (Arid)</Polish>
+					<Russian>ADF (Arid)</Russian>
+					<German>ADF (Arid)</German>
+					<Czech>ADF (Arid)</Czech>
+					<English>ADF (Arid)</English>
+					<Portuguese>ADF (Arid)</Portuguese>
+					<Korean>ADF (Arid)</Korean>
+					<Chinesesimp>ADF (Arid)</Chinesesimp>
+					<Japanese>ADF (Arid)</Japanese>
+					<Turkish>ADF (Arid)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgFactionClasses_BLU_AUS_trp_F0">
+					<Original>ADF (Tropic)</Original>
+					<Chinese>ADF (Tropic)</Chinese>
+					<French>ADF (Tropic)</French>
+					<Spanish>ADF (Tropic)</Spanish>
+					<Italian>ADF (Tropic)</Italian>
+					<Polish>ADF (Tropic)</Polish>
+					<Russian>ADF (Tropic)</Russian>
+					<German>ADF (Tropic)</German>
+					<Czech>ADF (Tropic)</Czech>
+					<English>ADF (Tropic)</English>
+					<Portuguese>ADF (Tropic)</Portuguese>
+					<Korean>ADF (Tropic)</Korean>
+					<Chinesesimp>ADF (Tropic)</Chinesesimp>
+					<Japanese>ADF (Tropic)</Japanese>
+					<Turkish>ADF (Tropic)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_BLU_H_F0">
 					<Original>HIMF</Original>
