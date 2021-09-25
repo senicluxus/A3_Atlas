@@ -21,12 +21,24 @@ class CfgWeapons
     {
         author = $STR_A3_A_Ravenholme;
         descriptionShort = $STR_A3_A_CfgWeapons_arifle_NCAR15_base_F1;
-        _generalMacro="arifle_NCAR15_F";
-        baseWeapon="arifle_NCAR15_F";
-        scope=2;
+        baseWeapon = arifle_NCAR15_F;
+        scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15_F0;
-        magazines[] = {"30Rnd_580x42_Mag_F","30Rnd_580x42_Mag_Tracer_F"};
-        magazineWell[] = {"CTAR_580x42","CTAR_580x42_Large"};
+        hiddenSelectionsTextures[] = 
+        {
+            "\A3_Atlas\Weapons_F_Atlas\Rifles\NCAR15\Data\NCAR15_ncar15_1_co.paa",
+            "\A3\Weapons_F_Exp\Rifles\AK12\Data\AK12_ak12_2_co.paa"
+        };
+        magazines[] = 
+        {
+            30Rnd_580x42_Mag_F,
+            30Rnd_580x42_Mag_Tracer_F
+        };
+        magazineWell[] =
+        {
+            CTAR_580x42,
+            CTAR_580x42_Large
+        };
         class Library
 		{
 			libTextDesc = $STR_A3_A_CfgWeapons_arifle_NCAR15_base_F_Library0;
@@ -75,12 +87,19 @@ class CfgWeapons
     {
         author = $STR_A3_A_Ravenholme;
         descriptionShort = $STR_A3_A_CfgWeapons_arifle_NCAR15_base_F1;
-        _generalMacro="arifle_NCAR15B_F";
-        baseWeapon="arifle_NCAR15B_F";
+        baseWeapon=arifle_NCAR15B_F;
         scope=2;
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15B_F0;
-        magazines[] = {"30Rnd_580x42_Mag_F","30Rnd_580x42_Mag_Tracer_F"};
-        magazineWell[] = {"CTAR_580x42","CTAR_580x42_Large"};
+        magazines[] = 
+        {
+            30Rnd_580x42_Mag_F,
+            30Rnd_580x42_Mag_Tracer_F
+        };
+        magazineWell[] = 
+        {
+            CTAR_580x42,
+            CTAR_580x42_Large
+        };
         
         class WeaponSlotsInfo
         {
@@ -126,12 +145,25 @@ class CfgWeapons
     {
         author = $STR_A3_A_Ravenholme;
         descriptionShort = $STR_A3_A_CfgWeapons_arifle_NCAR15_base_F1;
-        _generalMacro ="arifle_NCAR15_GL_F";
-        baseWeapon ="arifle_NCAR15_GL_F";
-        scope = 2;
+        baseWeapon =arifle_NCAR15_GL_F;
+        scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15_GL_F0;
-        magazines[] = {"30Rnd_580x42_Mag_F","30Rnd_580x42_Mag_Tracer_F"};
-        magazineWell[] = {"CTAR_580x42","CTAR_580x42_Large"};
+        hiddenSelectionsTextures[] = 
+        {
+            "\A3_Atlas\Weapons_F_Atlas\Rifles\NCAR15\Data\NCAR15_ncar15_1_co.paa",
+            "\A3\Weapons_F_Exp\Rifles\AK12\Data\AK12_ak12_2_co.paa",
+            "\A3_Atlas\Weapons_F_Atlas\Rifles\NCAR15\Data\NCAR15_ncar15_gl_co.paa"
+        };
+        magazines[] = 
+        {
+            30Rnd_580x42_Mag_F,
+            30Rnd_580x42_Mag_Tracer_F
+        };
+        magazineWell[] = 
+        {
+            CTAR_580x42,
+            CTAR_580x42_Large
+        };
         class WeaponSlotsInfo
         {
             class MuzzleSlot: asdg_MuzzleSlot_58
@@ -167,12 +199,19 @@ class CfgWeapons
     {
         author = $STR_A3_A_Ravenholme;
         descriptionShort = $STR_A3_A_CfgWeapons_arifle_NCAR15_base_F1;
-        _generalMacro = "arifle_NCAR15_MG_F";
-        baseWeapon = "arifle_NCAR15_MG_F";
-        scope = 2;
+        baseWeapon = arifle_NCAR15_MG_F;
+        scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15_MG_F0;
-        magazines[] = {"100Rnd_580x42_Mag_F","100Rnd_580x42_Mag_Tracer_F"};
-        magazineWell[] = {"CTAR_580x42","CTAR_580x42_Large"};
+        magazines[] = 
+        {
+            100Rnd_580x42_Mag_F,
+            100Rnd_580x42_Mag_Tracer_F
+        };
+        magazineWell[] =
+        {
+            CTAR_580x42,
+            CTAR_580x42_Large
+        };
         class WeaponSlotsInfo
         {
             class MuzzleSlot: asdg_MuzzleSlot_58
