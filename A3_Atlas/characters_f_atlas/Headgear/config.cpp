@@ -202,6 +202,70 @@ class CfgWeapons
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_chops_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_CO.paa"};
 	};
+	class H_HelmetHBK_aucamo_arid_F: H_HelmetHBK_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Advanced Modular Helmet (Arid) [ADF]";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_arid_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_arid_CO.paa"};
+	};
+	class H_HelmetHBK_aucamo_arid_headset_F: H_HelmetHBK_headset_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Advanced Modular Helmet (Arid) [ADF, Headset]";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_arid_headset_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_arid_CO.paa"};
+	};
+	class H_HelmetHBK_aucamo_arid_ear_F: H_HelmetHBK_ear_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Advanced Modular Helmet (Arid) [ADF, Ear Protectors]";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_arid_ear_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_arid_CO.paa"};
+	};
+	class H_HelmetHBK_aucamo_arid_chops_F: H_HelmetHBK_chops_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Advanced Modular Helmet (Arid) [ADF, Chops]";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_arid_chops_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_arid_CO.paa"};
+	};
+	class H_HelmetHBK_aucamo_tropic_F: H_HelmetHBK_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Advanced Modular Helmet (Tropic) [ADF]";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_tropic_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_tropic_CO.paa"};
+	};
+	class H_HelmetHBK_aucamo_tropic_headset_F: H_HelmetHBK_headset_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Advanced Modular Helmet (Tropic) [ADF, Headset]";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_tropic_headset_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_tropic_CO.paa"};
+	};
+	class H_HelmetHBK_aucamo_tropic_ear_F: H_HelmetHBK_ear_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Advanced Modular Helmet (Tropic) [ADF, Ear Protectors]";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_tropic_ear_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_tropic_CO.paa"};
+	};
+	class H_HelmetHBK_aucamo_tropic_chops_F: H_HelmetHBK_chops_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Advanced Modular Helmet (Tropic) [ADF, Chops]";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_tropic_chops_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_tropic_CO.paa"};
+	};
     /*
 	class H_HelmetSpecter_cover_autumn_F: H_HelmetSpecter_cover_base_F
 	{
