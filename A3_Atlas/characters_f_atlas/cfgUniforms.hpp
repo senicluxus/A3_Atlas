@@ -247,36 +247,36 @@ class Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_F: I_soldier_lite_F
 	uniformClass = Atlas_U_B_A_CombatUniform_shortsleeve_aucamo;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_CO.paa"};
 };
-/*
-class Atlas_B_A_CombatFatigues_01_aucamo_ar_F: Atlas_B_A_CombatFatigues_01_aucamo_F
+
+class Atlas_B_A_CombatFatigues_01_aucamo_ard_F: Atlas_B_A_CombatFatigues_01_aucamo_F
 {
   	scope = protected;
   	scopeCurator = private;
-	uniformClass = Atlas_U_B_A_CombatUniform_aucamo_ar;
-	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\ADF_Arid.paa"};
+	uniformClass = Atlas_U_B_A_CombatUniform_aucamo_ard;
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_ard_CO.paa"};
 };
-class Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_ar_F: Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_F
+class Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_ard_F: Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_F
 {
   	scope = protected;
   	scopeCurator = private;
-	uniformClass = Atlas_U_B_A_CombatUniform_shortsleeve_aucamo_ar;
-	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\ADF_Arid.paa"};
+	uniformClass = Atlas_U_B_A_CombatUniform_shortsleeve_aucamo_ard;
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_ard_CO.paa"};
 };
-class Atlas_B_A_CombatFatigues_01_aucamo_tr_F: Atlas_B_A_CombatFatigues_01_aucamo_F
+class Atlas_B_A_CombatFatigues_01_aucamo_trp_F: Atlas_B_A_CombatFatigues_01_aucamo_F
 {
   	scope = protected;
   	scopeCurator = private;
-	uniformClass = Atlas_U_B_A_CombatUniform_aucamo_tr;
-	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\ADF_Tropic.paa"};
+	uniformClass = Atlas_U_B_A_CombatUniform_aucamo_trp;
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_trp_CO.paa"};
 };
-class Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_tr_F: Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_F
+class Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_trp_F: Atlas_B_A_CombatFatigues_01_RolledUp_aucamo_F
 {
   	scope = protected;
   	scopeCurator = private;
-	uniformClass = Atlas_U_B_A_CombatUniform_shortsleeve_aucamo_tr;
-	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\ADF_Tropic.paa"};
+	uniformClass = Atlas_U_B_A_CombatUniform_shortsleeve_aucamo_trp;
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_trp_CO.paa"};
 };
-*/
+
 class Atlas_B_A_PilotCoveralls_01_F: B_Pilot_F
 {
   	scope = protected;

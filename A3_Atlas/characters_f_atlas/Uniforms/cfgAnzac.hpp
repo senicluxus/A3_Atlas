@@ -41,7 +41,7 @@ class Atlas_U_B_A_CombatUniform_aucamo_ard: Uniform_Base
 	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_B_A_CombatUniform_aucamo_ard_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
-	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_ard_Soldier_01_CO.paa"};
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_ard_CO.paa"};
 	class ItemInfo: UniformItem
 	{
 		uniformModel = "-";
@@ -58,7 +58,7 @@ class Atlas_U_B_A_CombatUniform_shortsleeve_aucamo_ard: Uniform_Base
 	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_B_A_CombatUniform_shortsleeve_aucamo_ard_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
-	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_ard_Soldier_01_CO.paa"};
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_ard_CO.paa"};
 	class ItemInfo: UniformItem
 	{
 		uniformModel = "-";
@@ -67,7 +67,7 @@ class Atlas_U_B_A_CombatUniform_shortsleeve_aucamo_ard: Uniform_Base
 		mass = 40;
 	};
 };
-class Atlas_U_B_A_CombatUniform_aucamo_tr: Uniform_Base
+class Atlas_U_B_A_CombatUniform_aucamo_trp: Uniform_Base
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = public;
@@ -75,7 +75,7 @@ class Atlas_U_B_A_CombatUniform_aucamo_tr: Uniform_Base
 	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_B_A_CombatUniform_aucamo_trp_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
-	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_trp_Soldier_01_CO.paa"};
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_trp_CO.paa"};
 	class ItemInfo: UniformItem
 	{
 		uniformModel = "-";
@@ -92,7 +92,7 @@ class Atlas_U_B_A_CombatUniform_shortsleeve_aucamo_trp: Uniform_Base
 	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_B_A_CombatUniform_shortsleeve_aucamo_trp_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
-	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_trp_Soldier_01_CO.paa"};
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_trp_CO.paa"};
 	class ItemInfo: UniformItem
 	{
 		uniformModel = "-";
