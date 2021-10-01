@@ -69,8 +69,8 @@ class Atlas_B_A_Static_AT_F: B_static_AT_F
 		primary = false;
 		dissasembleTo[] =
 		{
-			Atlas_B_A_AT_01_Weapon_grn_F,
-			Atlas_B_A_HMG_01_support_grn_F
+			B_AT_01_Weapon_grn_F,
+            B_HMG_01_support_grn_F
 		};
 	};
 };

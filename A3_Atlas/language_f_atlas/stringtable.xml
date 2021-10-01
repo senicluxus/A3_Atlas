@@ -2811,21 +2811,21 @@
 					<Turkish>ADF (Arid)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_BLU_AUS_trp_F0">
-					<Original>ADF (Tropic)</Original>
-					<Chinese>ADF (Tropic)</Chinese>
-					<French>ADF (Tropic)</French>
-					<Spanish>ADF (Tropic)</Spanish>
-					<Italian>ADF (Tropic)</Italian>
-					<Polish>ADF (Tropic)</Polish>
-					<Russian>ADF (Tropic)</Russian>
-					<German>ADF (Tropic)</German>
-					<Czech>ADF (Tropic)</Czech>
-					<English>ADF (Tropic)</English>
-					<Portuguese>ADF (Tropic)</Portuguese>
-					<Korean>ADF (Tropic)</Korean>
-					<Chinesesimp>ADF (Tropic)</Chinesesimp>
-					<Japanese>ADF (Tropic)</Japanese>
-					<Turkish>ADF (Tropic)</Turkish>
+					<Original>ADF (Pacific)</Original>
+					<Chinese>ADF (Pacific)</Chinese>
+					<French>ADF (Pacific)</French>
+					<Spanish>ADF (Pacific)</Spanish>
+					<Italian>ADF (Pacific)</Italian>
+					<Polish>ADF (Pacific)</Polish>
+					<Russian>ADF (Pacific)</Russian>
+					<German>ADF (Pacific)</German>
+					<Czech>ADF (Pacific)</Czech>
+					<English>ADF (Pacific)</English>
+					<Portuguese>ADF (Pacific)</Portuguese>
+					<Korean>ADF (Pacific)</Korean>
+					<Chinesesimp>ADF (Pacific)</Chinesesimp>
+					<Japanese>ADF (Pacific)</Japanese>
+					<Turkish>ADF (Pacific)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_BLU_H_F0">
 					<Original>HIMF</Original>
@@ -5053,6 +5053,82 @@
 						<Chinesesimp>红外枪榴弹 [Israel]</Chinesesimp>
 						<Japanese>赤外線グレネード[Israel]</Japanese>
 						<Turkish>IR El Bombası [Israel]</Turkish>
+					</Key>
+				</Container>
+			</Container>
+			<Container name="Launchers">
+				<Container name="DisplayName">
+					<Key ID="STR_A3_A_CfgWeapons_launch_B_Titan_coyote_F0">
+						<Original>Titan MPRL (Coyote)</Original>
+						<Chinese>Titan MPRL (Coyote)</Chinese>
+						<French>Titan MPRL (Coyote)</French>
+						<Spanish>Titan MPRL (Coyote)</Spanish>
+						<Italian>Titan MPRL (Coyote)</Italian>
+						<Polish>Titan MPRL (Coyote)</Polish>
+						<Russian>Titan MPRL (Coyote)</Russian>
+						<German>Titan MPRL (Coyote)</German>
+						<Czech>Titan MPRL (Coyote)</Czech>
+						<English>Titan MPRL (Coyote)</English>
+						<Portuguese>Titan MPRL (Coyote)</Portuguese>
+						<Korean>Titan MPRL (Coyote)</Korean>
+						<Chinesesimp>Titan MPRL (Coyote)</Chinesesimp>
+						<Japanese>Titan MPRL (Coyote)</Japanese>
+						<Turkish>Titan MPRL (Coyote)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_launch_MRAWS_coyote_F0">
+						<Original>MAAWS Mk4 Mod 1 (Coyote)</Original>
+						<Chinese>MAAWS Mk4 Mod 1 (Coyote)</Chinese>
+						<French>MAAWS Mk4 Mod 1 (Coyote)</French>
+						<Spanish>MAAWS Mk4 Mod 1 (Coyote)</Spanish>
+						<Italian>MAAWS Mk4 Mod 1 (Coyote)</Italian>
+						<Polish>MAAWS Mk4 Mod 1 (Coyote)</Polish>
+						<Russian>MAAWS Mk4 Mod 1 (Coyote)</Russian>
+						<German>MAAWS Mk4 Mod 1 (Coyote)</German>
+						<Czech>MAAWS Mk4 Mod 1 (Coyote)</Czech>
+						<English>MAAWS Mk4 Mod 1 (Coyote)</English>
+						<Portuguese>MAAWS Mk4 Mod 1 (Coyote)</Portuguese>
+						<Korean>MAAWS Mk4 Mod 1 (Coyote)</Korean>
+						<Chinesesimp>MAAWS Mk4 Mod 1 (Coyote)</Chinesesimp>
+						<Japanese>MAAWS Mk4 Mod 1 (Coyote)</Japanese>
+						<Turkish>MAAWS Mk4 Mod 1 (Coyote)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_launch_MRAWS_coyote_rail_F0">
+						<Original>MAAWS Mk4 Mod 0 (Coyote)</Original>
+						<Chinese>MAAWS Mk4 Mod 0 (Coyote)</Chinese>
+						<French>MAAWS Mk4 Mod 0 (Coyote)</French>
+						<Spanish>MAAWS Mk4 Mod 0 (Coyote)</Spanish>
+						<Italian>MAAWS Mk4 Mod 0 (Coyote)</Italian>
+						<Polish>MAAWS Mk4 Mod 0 (Coyote)</Polish>
+						<Russian>MAAWS Mk4 Mod 0 (Coyote)</Russian>
+						<German>MAAWS Mk4 Mod 0 (Coyote)</German>
+						<Czech>MAAWS Mk4 Mod 0 (Coyote)</Czech>
+						<English>MAAWS Mk4 Mod 0 (Coyote)</English>
+						<Portuguese>MAAWS Mk4 Mod 0 (Coyote)</Portuguese>
+						<Korean>MAAWS Mk4 Mod 0 (Coyote)</Korean>
+						<Chinesesimp>MAAWS Mk4 Mod 0 (Coyote)</Chinesesimp>
+						<Japanese>MAAWS Mk4 Mod 0 (Coyote)</Japanese>
+						<Turkish>MAAWS Mk4 Mod 0 (Coyote)</Turkish>
+					</Key>
+				</Container>
+			</Container>
+			<Container name="LongRangeRifles">
+				<Container name="DisplayName">
+					<Key ID="STR_A3_A_CfgWeapons_srifle_EBR_cbr_F0">
+						<Original>Mk18 ABR 7.62 mm (Coyote)</Original>
+						<Chinese>Mk18 ABR 7.62 mm (Coyote)</Chinese>
+						<French>Mk18 ABR 7.62 mm (Coyote)</French>
+						<Spanish>Mk18 ABR 7.62 mm (Coyote)</Spanish>
+						<Italian>Mk18 ABR 7.62 mm (Coyote)</Italian>
+						<Polish>Mk18 ABR 7.62 mm (Coyote)</Polish>
+						<Russian>Mk18 ABR 7.62 mm (Coyote)</Russian>
+						<German>Mk18 ABR 7.62 mm (Coyote)</German>
+						<Czech>Mk18 ABR 7.62 mm (Coyote)</Czech>
+						<English>Mk18 ABR 7.62 mm (Coyote)</English>
+						<Portuguese>Mk18 ABR 7.62 mm (Coyote)</Portuguese>
+						<Korean>Mk18 ABR 7.62 mm (Coyote)</Korean>
+						<Chinesesimp>Mk18 ABR 7.62 mm (Coyote)</Chinesesimp>
+						<Japanese>Mk18 ABR 7.62 mm (Coyote)</Japanese>
+						<Turkish>Mk18 ABR 7.62 mm (Coyote)</Turkish>
 					</Key>
 				</Container>
 			</Container>

@@ -51,6 +51,6 @@ class Atlas_B_A_Static_Designator_01_F: B_Static_Designator_01_F
 		assembleTo = "";
 		base = "";
 		primary = false;
-		dissasembleTo[] = {Atlas_B_A_Static_Designator_01_weapon_F};
+		dissasembleTo[] = {B_T_Static_Designator_01_Weapon_F};
 	};
 };

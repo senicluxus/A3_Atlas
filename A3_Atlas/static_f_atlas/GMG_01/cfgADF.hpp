@@ -66,8 +66,8 @@ class Atlas_B_A_GMG_01_F: B_GMG_01_F
 		primary = false;
 		dissasembleTo[] =
 		{
-			Atlas_B_A_GMG_01_Weapon_grn_F,
-			Atlas_B_A_HMG_01_support_grn_F
+			B_GMG_01_Weapon_grn_F,
+            B_HMG_01_support_grn_F
 		};
 	};
 };
@@ -85,8 +85,8 @@ class Atlas_B_A_GMG_01_high_F: B_GMG_01_high_F
 		primary = false;
 		dissasembleTo[] =
 		{
-			Atlas_B_A_GMG_01_high_Weapon_grn_F,
-			Atlas_B_A_HMG_01_support_high_grn_F
+			B_GMG_01_high_Weapon_grn_F,
+            B_HMG_01_support_high_grn_F
 		};
 	};
 };
@@ -105,8 +105,8 @@ class Atlas_B_A_GMG_01_A_F: B_GMG_01_A_F
 		primary = false;
 		dissasembleTo[] =
 		{
-            Atlas_B_A_GMG_01_A_Weapon_grn_F,
-            Atlas_B_A_HMG_01_support_grn_F
+            B_GMG_01_A_Weapon_grn_F,
+            B_HMG_01_support_grn_F
 		};
 	};
 };

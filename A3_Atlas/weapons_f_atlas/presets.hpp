@@ -1275,8 +1275,7 @@ class srifle_EBR_blk_AMS_BI_F: srifle_EBR_blk_F
 		};
 	};
 };
-/* 
-class srifle_EBR_cbr_F;
+
 // Mk18 ABR 7.62 mm (Coyote) + AMS (Sand) + IR Laser Pointer + Bipod [NATO] (Sand)
 class srifle_EBR_cbr_AMS_LP_BI_F: srifle_EBR_cbr_F
 {
@@ -1299,8 +1298,8 @@ class srifle_EBR_cbr_AMS_LP_BI_F: srifle_EBR_cbr_F
 			item = bipod_01_F_snd;
 		};
 	};
-}; 
-*/
+};
+
 // TRG-21 5.56 mm + ACO
 class arifle_TRG21_F;
 class arifle_TRG21_ACO_F: arifle_TRG21_F

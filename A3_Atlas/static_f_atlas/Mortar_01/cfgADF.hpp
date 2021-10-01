@@ -36,8 +36,8 @@ class Atlas_B_A_Mortar_01_F: B_Mortar_01_F
 		primary = false;
 		dissasembleTo[] =
 		{
-			Atlas_B_A_Mortar_01_Weapon_grn_F,
-			Atlas_B_A_Mortar_01_support_grn_F
+			B_Mortar_01_Weapon_grn_F,
+			B_Mortar_01_support_grn_F
 		};
 	};
 };

@@ -68,8 +68,8 @@ class Atlas_B_A_HMG_01_F: B_HMG_01_F
 		primary = false;
 		dissasembleTo[] =
 		{
-			Atlas_B_A_HMG_01_Weapon_grn_F,
-			Atlas_B_A_HMG_01_support_grn_F
+			B_HMG_01_Weapon_grn_F,
+            B_HMG_01_support_grn_F
 		};
 	};
 };
@@ -77,7 +77,7 @@ class Atlas_B_A_HMG_01_high_F: B_HMG_01_high_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3\EditorPreviews_F\Data\CfgVehicles\B_HMG_01_high_F.jpg";
-	faction = Atlas_BLU_G_F;
+	faction = Atlas_BLU_A_F;
 	crew = Atlas_B_A_Soldier_F;
 	class assembleInfo
 	{
@@ -87,8 +87,8 @@ class Atlas_B_A_HMG_01_high_F: B_HMG_01_high_F
 		primary = false;
 		dissasembleTo[] =
 		{
-			Atlas_B_A_HMG_01_high_Weapon_grn_F,
-			Atlas_B_A_HMG_01_support_high_grn_F
+			B_HMG_01_high_Weapon_grn_F,
+            B_HMG_01_support_high_grn_F
 		};
 	};
 };
@@ -107,8 +107,8 @@ class Atlas_B_A_HMG_01_A_F: B_HMG_01_A_F
 		primary = false;
 		dissasembleTo[] =
 		{
-            Atlas_B_A_HMG_01_A_Weapon_grn_F,
-            Atlas_B_A_HMG_01_support_grn_F
+            B_HMG_01_A_Weapon_grn_F,
+            B_HMG_01_support_grn_F
 		};
 	};
 };
