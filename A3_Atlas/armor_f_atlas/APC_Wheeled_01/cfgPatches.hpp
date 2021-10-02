@@ -9,6 +9,8 @@
         {
 			//ADF
 			Atlas_B_A_APC_Wheeled_01_cannon_v2_F,
+			Atlas_B_A_APC_Wheeled_01_cannon_v2_ard_F,
+			Atlas_B_A_APC_Wheeled_01_cannon_v2_trp_F,
 
 			//Marar
             Atlas_B_M_APC_Wheeled_01_cannon_v2_F

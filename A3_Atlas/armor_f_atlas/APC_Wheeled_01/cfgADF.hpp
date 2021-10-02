@@ -205,21 +205,21 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_T_APC_Wheeled_01_cannon_v2_F.jpg";
-    scope = public;
+      scope = public;
 	scopeCurator = public;
 	//displayName = $STR_A3_CFGVEHICLES_APC_Wheeled_01_base_F;
 	side = TWest;
 	faction = Atlas_BLU_A_F;
 	crew = Atlas_B_A_Crew_F;
 	typicalCargo[] = {Atlas_B_A_Crew_F};
-	textureList[] = {ADF_01,1};
+	textureList[] = {ADF,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_base_ADF_CO.paa",
+	      "\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_base_ADF_CO.paa",
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_adds_ADF_CO.paa",
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_tows_ADF_CO.paa",
-        "\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
-        "\A3\Armor_F\Data\cage_sand_CO.paa"
+            "\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
+            "\A3\Armor_F\Data\cage_sand_CO.paa"
 	};
 
 	 /* Inventory */
@@ -248,4 +248,20 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 	{
 		bag_xx(B_AssaultPack_aucamo_F,2);
 	};
+};
+
+/* ADF Arid */
+class Atlas_B_A_APC_Wheeled_01_cannon_v2_ard_F: Atlas_B_A_APC_Wheeled_01_cannon_v2_F
+{
+      faction = Atlas_BLU_A_ard_F;
+	crew = Atlas_B_A_Crew_ard_F;
+	typicalCargo[] = {Atlas_B_A_Crew_ard_F};
+};
+
+/* ADF Tropic */
+class Atlas_B_A_APC_Wheeled_01_cannon_v2_trp_F: Atlas_B_A_APC_Wheeled_01_cannon_v2_F
+{
+      faction = Atlas_BLU_A_trp_F;
+	crew = Atlas_B_A_Crew_trp_F;
+	typicalCargo[] = {Atlas_B_A_Crew_trp_F};
 };

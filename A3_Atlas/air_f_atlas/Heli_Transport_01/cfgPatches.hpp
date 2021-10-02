@@ -11,7 +11,9 @@ class CfgPatches
             Atlas_I_I_Heli_Transport_01_F,
 
 			//ADF
-			Atlas_B_A_Heli_Transport_01_F
+			Atlas_B_A_Heli_Transport_01_F,
+			Atlas_B_A_Heli_Transport_01_ard_F,
+			Atlas_B_A_Heli_Transport_01_trp_F
         };
 		weapons[] = {/* Automated */};
 	};

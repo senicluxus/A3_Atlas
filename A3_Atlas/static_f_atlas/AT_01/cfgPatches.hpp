@@ -22,6 +22,8 @@ class CfgPatches
             // ADF
             Atlas_B_A_AT_01_weapon_F,
             Atlas_B_A_Static_AT_F,
+            Atlas_B_A_Static_AT_ard_F,
+            Atlas_B_A_Static_AT_trp_F,
 
             // CDF
             Atlas_I_C_AT_01_weapon_F,

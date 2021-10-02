@@ -68,3 +68,27 @@ class Atlas_B_A_HMG_02_high_F: HMG_02_high_base_F
 		};
 	};
 };
+
+/* ADF Arid */
+class Atlas_B_A_HMG_02_ard_F: Atlas_B_A_HMG_02_F
+{
+	faction = Atlas_BLU_A_ard_F;
+	crew = Atlas_B_A_Soldier_ard_F;
+};
+class Atlas_B_A_HMG_02_high_ard_F: Atlas_B_A_HMG_02_high_F
+{
+	faction = Atlas_BLU_A_ard_F;
+	crew = Atlas_B_A_Soldier_ard_F;
+};
+
+/* ADF Tropic */
+class Atlas_B_A_HMG_02_trp_F: Atlas_B_A_HMG_02_F
+{
+	faction = Atlas_BLU_A_trp_F;
+	crew = Atlas_B_A_Soldier_trp_F;
+};
+class Atlas_B_A_HMG_02_high_trp_F: Atlas_B_A_HMG_02_high_F
+{
+	faction = Atlas_BLU_A_trp_F;
+	crew = Atlas_B_A_Soldier_trp_F;
+};

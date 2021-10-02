@@ -179,3 +179,19 @@ class Atlas_B_A_Heli_Transport_01_F: Heli_Transport_01_base_F
 		weap_xx(arifle_AUG_F,2);
 	};
 };
+
+/* ADF Arid */
+class Atlas_B_A_Heli_Transport_01_ard_F: Atlas_B_A_Heli_Transport_01_F
+{
+    faction = Atlas_BLU_A_ard_F;
+	crew = Atlas_B_A_helipilot_ard_F;
+	typicalCargo[] = {Atlas_B_A_helipilot_ard_F};
+};
+
+/* ADF Tropic */
+class Atlas_B_A_Heli_Transport_01_trp_F: Atlas_B_A_Heli_Transport_01_F
+{
+    faction = Atlas_BLU_A_trp_F;
+	crew = Atlas_B_A_helipilot_trp_F;
+	typicalCargo[] = {Atlas_B_A_helipilot_trp_F};
+};

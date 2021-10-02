@@ -1,3 +1,4 @@
+/* ADF */
 class Atlas_B_A_Heli_Attack_03_F: Heli_Attack_03_base_F
 {
     author = $STR_A3_A_BranFlakes;
@@ -27,4 +28,20 @@ class Atlas_B_A_Heli_Attack_03_F: Heli_Attack_03_base_F
 	{
 		weap_xx(arifle_AUG_F,2);
 	};
+};
+
+/* ADF Arid */
+class Atlas_B_A_Heli_Attack_03_ard_F: Atlas_B_A_Heli_Attack_03_F
+{
+	faction = Atlas_BLU_A_ard_F;
+	crew = Atlas_B_A_Helipilot_ard_F;
+	typicalCargo[] = {Atlas_B_A_Helipilot_ard_F};
+};
+
+/* ADF Tropic */
+class Atlas_B_A_Heli_Attack_03_trp_F: Atlas_B_A_Heli_Attack_03_F
+{
+	faction = Atlas_BLU_A_trp_F;
+	crew = Atlas_B_A_Helipilot_trp_F;
+	typicalCargo[] = {Atlas_B_A_Helipilot_trp_F};
 };

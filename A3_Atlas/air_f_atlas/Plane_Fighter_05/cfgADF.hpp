@@ -75,3 +75,23 @@ class Atlas_B_A_Ejection_Seat_Plane_Fighter_05_F: Ejection_Seat_Plane_Fighter_05
 	faction = Atlas_BLU_A_F;
 	crew = Atlas_B_A_Fighter_Pilot_F;
 };
+
+/* ADF Arid */
+class Atlas_B_A_Plane_Fighter_05_ard_F: Atlas_B_A_Plane_Fighter_05_F
+{
+	faction = Atlas_BLU_A_ard_F;
+};
+class Atlas_B_A_Plane_Fighter_05_Stealth_ard_F: Atlas_B_A_Plane_Fighter_05_Stealth_F
+{
+	faction = Atlas_BLU_A_ard_F;
+};
+
+/* ADF Tropic */
+class Atlas_B_A_Plane_Fighter_05_trp_F: Atlas_B_A_Plane_Fighter_05_F
+{
+	faction = Atlas_BLU_A_trp_F;
+};
+class Atlas_B_A_Plane_Fighter_05_Stealth_trp_F: Atlas_B_A_Plane_Fighter_05_Stealth_F
+{
+	faction = Atlas_BLU_A_trp_F;
+};

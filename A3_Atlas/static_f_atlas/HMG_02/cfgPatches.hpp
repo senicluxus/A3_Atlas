@@ -26,6 +26,10 @@ class CfgPatches
             Atlas_B_A_HMG_02_support_F,
             Atlas_B_A_HMG_02_support_high_F,
             Atlas_B_A_HMG_02_weapon_F,
+            Atlas_B_A_HMG_02_ard_F,
+            Atlas_B_A_HMG_02_high_ard_F,
+            Atlas_B_A_HMG_02_trp_F,
+            Atlas_B_A_HMG_02_high_trp_F,
 
             // HIMF
             Atlas_B_H_HMG_02_F,

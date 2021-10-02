@@ -236,3 +236,19 @@ class Atlas_B_A_MBT_03_cannon_F: Atlas_B_A_MBT_03_base_F
 		bag_xx(B_AssaultPack_aucamo_F,2);
 	};
 };
+
+/* ADF Arid */
+class Atlas_B_A_MBT_03_cannon_ard_F: Atlas_B_A_MBT_03_cannon_F
+{
+	faction = Atlas_BLU_A_ard_F;
+	crew = Atlas_B_A_Crew_ard_F;
+	typicalCargo[] = {Atlas_B_A_Soldier_ard_F};
+};
+
+/* ADF Tropic */
+class Atlas_B_A_MBT_03_cannon_trp_F: Atlas_B_A_MBT_03_cannon_F
+{
+	faction = Atlas_BLU_A_trp_F;
+	crew = Atlas_B_A_Crew_trp_F;
+	typicalCargo[] = {Atlas_B_A_Soldier_trp_F};
+};

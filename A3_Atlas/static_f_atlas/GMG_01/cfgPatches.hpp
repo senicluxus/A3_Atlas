@@ -32,6 +32,12 @@ class CfgPatches
             Atlas_B_A_GMG_01_high_F,
             Atlas_B_A_GMG_01_high_weapon_F,
             Atlas_B_A_GMG_01_weapon_F,
+            Atlas_B_A_GMG_01_A_ard_F,
+            Atlas_B_A_GMG_01_ard_F,
+            Atlas_B_A_GMG_01_high_ard_F,
+            Atlas_B_A_GMG_01_A_trp_F,
+            Atlas_B_A_GMG_01_trp_F,
+            Atlas_B_A_GMG_01_high_trp_F,
 
             // CDF
             Atlas_I_C_GMG_01_A_F,

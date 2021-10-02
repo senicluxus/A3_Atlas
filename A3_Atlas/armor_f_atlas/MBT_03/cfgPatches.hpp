@@ -12,7 +12,9 @@
             Atlas_B_G_MBT_03_cannon_ard_F,
 
 			// ADF
-			Atlas_B_A_MBT_03_cannon_F
+			Atlas_B_A_MBT_03_cannon_F,
+			Atlas_B_A_MBT_03_cannon_ard_F,
+			Atlas_B_A_MBT_03_cannon_trp_F
         };
 		weapons[] = {/* Automated */};
 	};

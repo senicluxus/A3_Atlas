@@ -235,7 +235,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_snd_F_CA.paa";
-		displayName = "Carrier Rig (Sand)";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier2_sand0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_sand_CO.paa"

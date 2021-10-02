@@ -74,3 +74,17 @@ class Atlas_B_A_Static_AA_F: B_static_AA_F
 		};
 	};
 };
+
+/* ADF Arid */
+class Atlas_B_A_Static_AA_ard_F: Atlas_B_A_Static_AA_F
+{
+	faction = Atlas_BLU_A_ard_F;
+	crew = Atlas_B_A_Soldier_ard_F;
+};
+
+/* ADF Tropic */
+class Atlas_B_A_Static_AA_trp_F: Atlas_B_A_Static_AA_F
+{
+	faction = Atlas_BLU_A_trp_F;
+	crew = Atlas_B_A_Soldier_trp_F;
+};

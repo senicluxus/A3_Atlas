@@ -15,6 +15,10 @@ class CfgPatches
             Atlas_B_A_Ejection_Seat_Plane_Fighter_05_F,
             Atlas_B_A_Plane_Fighter_05_F,
             Atlas_B_A_Plane_Fighter_05_Stealth_F,
+			Atlas_B_A_Plane_Fighter_05_ard_F,
+            Atlas_B_A_Plane_Fighter_05_Stealth_ard_F,
+			Atlas_B_A_Plane_Fighter_05_trp_F,
+            Atlas_B_A_Plane_Fighter_05_Stealth_trp_F,
 
             // IDF
             Atlas_I_I_Ejection_Seat_Plane_Fighter_05_F,

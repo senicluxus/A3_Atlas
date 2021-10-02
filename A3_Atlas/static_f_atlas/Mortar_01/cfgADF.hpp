@@ -41,3 +41,17 @@ class Atlas_B_A_Mortar_01_F: B_Mortar_01_F
 		};
 	};
 };
+
+/* ADF Arid */
+class Atlas_B_A_Mortar_01_ard_F: Atlas_B_A_Mortar_01_F
+{
+	faction = Atlas_BLU_A_ard_F;
+	crew = Atlas_B_A_Soldier_ard_F;
+};
+
+/* ADF Tropic */
+class Atlas_B_A_Mortar_01_trp_F: Atlas_B_A_Mortar_01_F
+{
+	faction = Atlas_BLU_A_trp_F;
+	crew = Atlas_B_A_Soldier_trp_F;
+};

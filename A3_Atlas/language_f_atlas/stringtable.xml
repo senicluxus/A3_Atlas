@@ -2651,6 +2651,23 @@
 					<Japanese>Carrier Rig (Auscam Tropic)</Japanese>
 					<Turkish>Carrier Rig (Auscam Tropic)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier2_sand0">
+					<Original>Carrier Rig (DDDPM)</Original>
+					<Chinese>Carrier Rig (DDDPM)</Chinese>
+					<French>Carrier Rig (DDDPM)</French>
+					<Spanish>Carrier Rig (DDDPM)</Spanish>
+					<Italian>Carrier Rig (DDDPM)</Italian>
+					<Polish>Carrier Rig (DDDPM)</Polish>
+					<Russian>Carrier Rig (DDDPM)</Russian>
+					<German>Carrier Rig (DDDPM)</German>
+					<Czech>Carrier Rig (DDDPM)</Czech>
+					<English>Carrier Rig (DDDPM)</English>
+					<Portuguese>Carrier Rig (DDDPM)</Portuguese>
+					<Korean>Carrier Rig (DDDPM)</Korean>
+					<Chinesesimp>Carrier Rig (DDDPM)</Chinesesimp>
+					<Japanese>Carrier Rig (DDDPM)</Japanese>
+					<Turkish>Carrier Rig (DDDPM)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrierIA1_grn0">
 					<Original>GA Carrier Lite (Green)</Original>
 					<Chinese>GA 輕型負載背心（綠）</Chinese>
