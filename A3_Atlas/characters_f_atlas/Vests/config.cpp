@@ -245,7 +245,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierGL_aucamo_F_CA.paa";
-		displayName = "Carrier GL Rig [ADF]";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierGL_aucamo_F0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Carrier_Rig_GL_aucamo_CO.paa"
@@ -255,7 +255,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier1_aucamo_F_CA.paa";
-		displayName = "Carrier Lite [ADF]";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier1_aucamo_F0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_CO.paa"
@@ -265,7 +265,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_aucamo_F_CA.paa";
-		displayName = "Carrier Rig [ADF]";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier2_aucamo_F0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_CO.paa"
@@ -275,7 +275,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierGL_aucamo_ard_F_CA.paa";
-		displayName = "Carrier GL Rig [ADF Arid]";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierGL_aucamo_ard_F0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Carrier_Rig_GL_aucamo_arid_CO.paa"
@@ -285,7 +285,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier1_aucamo_ard_F_CA.paa";
-		displayName = "Carrier Lite [ADF Arid]";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier1_aucamo_ard_F0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_arid_CO.paa"
@@ -295,7 +295,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_aucamo_ard_F_CA.paa";
-		displayName = "Carrier Rig [ADF Arid]";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier2_aucamo_ard_F0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_arid_CO.paa"
@@ -305,7 +305,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierGL_aucamo_trp_F_CA.paa";
-		displayName = "Carrier GL Rig [ADF Tropic]";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierGL_aucamo_trp_F0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Carrier_Rig_GL_aucamo_tropic_CO.paa"
@@ -315,7 +315,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier1_aucamo_trp_F_CA.paa";
-		displayName = "Carrier Lite [ADF Tropic]";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier1_aucamo_trp_F0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_tropic_CO.paa"
@@ -325,7 +325,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_aucamo_trp_F_CA.paa";
-		displayName = "Carrier Rig [ADF Tropic]";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier2_aucamo_trp_F0;
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_tropic_CO.paa"
