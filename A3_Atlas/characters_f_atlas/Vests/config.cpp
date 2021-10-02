@@ -232,32 +232,72 @@ class CfgWeapons
 	class V_PlateCarrier2_snd: V_PlateCarrier2_rgr
 	{
 		author = $STR_A3_A_AveryTheKitty;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessO_whex_F_CA.paa";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_snd_F_CA.paa";
 		displayName = "Carrier Rig (Sand)";
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_sand.paa"
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_sand_CO.paa"
 		};
 	};
 	class V_PlateCarrier1_rgr;
 	class V_PlateCarrier1_aucamo_F: V_PlateCarrier1_rgr
 	{
 		author = $STR_A3_A_AveryTheKitty;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessO_whex_F_CA.paa";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier1_aucamo_F_CA.paa";
 		displayName = "Carrier Lite [ADF]";
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_adf.paa"
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_CO.paa"
 		};
 	};
 	class V_PlateCarrier2_aucamo_F: V_PlateCarrier2_rgr
 	{
 		author = $STR_A3_A_AveryTheKitty;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessO_whex_F_CA.paa";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_aucamo_F_CA.paa";
 		displayName = "Carrier Rig [ADF]";
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_adf.paa"
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_CO.paa"
+		};
+	};
+	class V_PlateCarrier1_aucamo_ard_F: V_PlateCarrier1_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier1_aucamo_ard_F_CA.paa";
+		displayName = "Carrier Lite [ADF Arid]";
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_arid_CO.paa"
+		};
+	};
+	class V_PlateCarrier2_aucamo_ard_F: V_PlateCarrier2_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_aucamo_ard_F_CA.paa";
+		displayName = "Carrier Rig [ADF Arid]";
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_arid_CO.paa"
+		};
+	};
+	class V_PlateCarrier1_aucamo_trp_F: V_PlateCarrier1_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier1_aucamo_trp_F_CA.paa";
+		displayName = "Carrier Lite [ADF Tropic]";
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_tropic_CO.paa"
+		};
+	};
+	class V_PlateCarrier2_aucamo_trp_F: V_PlateCarrier2_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_aucamo_trp_F_CA.paa";
+		displayName = "Carrier Rig [ADF Tropic]";
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_tropic_CO.paa"
 		};
 	};
     /*
