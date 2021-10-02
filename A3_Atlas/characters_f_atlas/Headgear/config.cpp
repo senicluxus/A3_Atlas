@@ -174,7 +174,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_CO.paa"};
 	};
@@ -182,7 +182,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF, Headset]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_headset_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_headset_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_CO.paa"};
 	};
@@ -190,7 +190,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF, Ear Protectors]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_ear_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_ear_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_CO.paa"};
 	};
@@ -198,7 +198,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF, Chops]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_chops_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_chops_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_CO.paa"};
 	};
@@ -206,7 +206,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF Arid]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_arid_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_arid_CO.paa"};
 	};
@@ -214,7 +214,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF Arid, Headset]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_headset_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_arid_headset_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_arid_CO.paa"};
 	};
@@ -222,7 +222,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF Arid, Ear Protectors]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_ear_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_arid_ear_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_arid_CO.paa"};
 	};
@@ -230,7 +230,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF Arid, Chops]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_chops_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_arid_chops_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_arid_CO.paa"};
 	};
@@ -238,7 +238,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF Tropic]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_tropic_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_tropic_CO.paa"};
 	};
@@ -246,7 +246,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF Tropic, Headset]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_headset_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_tropic_headset_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_tropic_CO.paa"};
 	};
@@ -254,7 +254,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF Tropic, Ear Protectors]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_ear_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_tropic_ear_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_tropic_CO.paa"};
 	};
@@ -262,7 +262,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = "Advanced Modular Helmet [ADF Tropic, Chops]";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_chops_F0;
 		//picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetHBK_aucamo_tropic_chops_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetHBK_01_aucamo_tropic_CO.paa"};
 	};

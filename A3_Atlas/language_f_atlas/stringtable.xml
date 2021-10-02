@@ -1439,6 +1439,210 @@
 					<Japanese>Advanced Modular Helmet (Ear Protectors) [Commandos]</Japanese>
 					<Turkish>Advanced Modular Helmet (Ear Protectors) [Commandos]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_F0">
+					<Original>Advanced Modular Helmet [ADF]</Original>
+					<Chinese>Advanced Modular Helmet [ADF]</Chinese>
+					<French>Advanced Modular Helmet [ADF]</French>
+					<Spanish>Advanced Modular Helmet [ADF]</Spanish>
+					<Italian>Advanced Modular Helmet [ADF]</Italian>
+					<Polish>Advanced Modular Helmet [ADF]</Polish>
+					<Russian>Advanced Modular Helmet [ADF]</Russian>
+					<German>Advanced Modular Helmet [ADF]</German>
+					<Czech>Advanced Modular Helmet [ADF]</Czech>
+					<English>Advanced Modular Helmet [ADF]</English>
+					<Portuguese>Advanced Modular Helmet [ADF]</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF]</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF]</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_F0">
+					<Original>Advanced Modular Helmet [ADF Arid]</Original>
+					<Chinese>Advanced Modular Helmet [ADF Arid]</Chinese>
+					<French>Advanced Modular Helmet [ADF Arid]</French>
+					<Spanish>Advanced Modular Helmet [ADF Arid]</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Arid]</Italian>
+					<Polish>Advanced Modular Helmet [ADF Arid]</Polish>
+					<Russian>Advanced Modular Helmet [ADF Arid]</Russian>
+					<German>Advanced Modular Helmet [ADF Arid]</German>
+					<Czech>Advanced Modular Helmet [ADF Arid]</Czech>
+					<English>Advanced Modular Helmet [ADF Arid]</English>
+					<Portuguese>Advanced Modular Helmet [ADF Arid]</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Arid]</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Arid]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Arid]</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Arid]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_F0">
+					<Original>Advanced Modular Helmet [ADF Tropic]</Original>
+					<Chinese>Advanced Modular Helmet [ADF Tropic]</Chinese>
+					<French>Advanced Modular Helmet [ADF Tropic]</French>
+					<Spanish>Advanced Modular Helmet [ADF Tropic]</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Tropic]</Italian>
+					<Polish>Advanced Modular Helmet [ADF Tropic]</Polish>
+					<Russian>Advanced Modular Helmet [ADF Tropic]</Russian>
+					<German>Advanced Modular Helmet [ADF Tropic]</German>
+					<Czech>Advanced Modular Helmet [ADF Tropic]</Czech>
+					<English>Advanced Modular Helmet [ADF Tropic]</English>
+					<Portuguese>Advanced Modular Helmet [ADF Tropic]</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Tropic]</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Tropic]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Tropic]</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Tropic]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_headset_F0">
+					<Original>Advanced Modular Helmet (Headset) [ADF]</Original>
+					<Chinese>Advanced Modular Helmet (Headset) [ADF]</Chinese>
+					<French>Advanced Modular Helmet (Headset) [ADF]</French>
+					<Spanish>Advanced Modular Helmet (Headset) [ADF]</Spanish>
+					<Italian>Advanced Modular Helmet (Headset) [ADF]</Italian>
+					<Polish>Advanced Modular Helmet (Headset) [ADF]</Polish>
+					<Russian>Advanced Modular Helmet (Headset) [ADF]</Russian>
+					<German>Advanced Modular Helmet (Headset) [ADF]</German>
+					<Czech>Advanced Modular Helmet (Headset) [ADF]</Czech>
+					<English>Advanced Modular Helmet (Headset) [ADF]</English>
+					<Portuguese>Advanced Modular Helmet (Headset) [ADF]</Portuguese>
+					<Korean>Advanced Modular Helmet (Headset) [ADF]</Korean>
+					<Chinesesimp>Advanced Modular Helmet (Headset) [ADF]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet (Headset) [ADF]</Japanese>
+					<Turkish>Advanced Modular Helmet (Headset) [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_headset_F0">
+					<Original>Advanced Modular Helmet (Headset) [ADF Arid]</Original>
+					<Chinese>Advanced Modular Helmet (Headset) [ADF Arid]</Chinese>
+					<French>Advanced Modular Helmet (Headset) [ADF Arid]</French>
+					<Spanish>Advanced Modular Helmet (Headset) [ADF Arid]</Spanish>
+					<Italian>Advanced Modular Helmet (Headset) [ADF Arid]</Italian>
+					<Polish>Advanced Modular Helmet (Headset) [ADF Arid]</Polish>
+					<Russian>Advanced Modular Helmet (Headset) [ADF Arid]</Russian>
+					<German>Advanced Modular Helmet (Headset) [ADF Arid]</German>
+					<Czech>Advanced Modular Helmet (Headset) [ADF Arid]</Czech>
+					<English>Advanced Modular Helmet (Headset) [ADF Arid]</English>
+					<Portuguese>Advanced Modular Helmet (Headset) [ADF Arid]</Portuguese>
+					<Korean>Advanced Modular Helmet (Headset) [ADF Arid]</Korean>
+					<Chinesesimp>Advanced Modular Helmet (Headset) [ADF Arid]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet (Headset) [ADF Arid]</Japanese>
+					<Turkish>Advanced Modular Helmet (Headset) [ADF Arid]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_headset_F0">
+					<Original>Advanced Modular Helmet (Headset) [ADF Tropic]</Original>
+					<Chinese>Advanced Modular Helmet (Headset) [ADF Tropic]</Chinese>
+					<French>Advanced Modular Helmet (Headset) [ADF Tropic]</French>
+					<Spanish>Advanced Modular Helmet (Headset) [ADF Tropic]</Spanish>
+					<Italian>Advanced Modular Helmet (Headset) [ADF Tropic]</Italian>
+					<Polish>Advanced Modular Helmet (Headset) [ADF Tropic]</Polish>
+					<Russian>Advanced Modular Helmet (Headset) [ADF Tropic]</Russian>
+					<German>Advanced Modular Helmet (Headset) [ADF Tropic]</German>
+					<Czech>Advanced Modular Helmet (Headset) [ADF Tropic]</Czech>
+					<English>Advanced Modular Helmet (Headset) [ADF Tropic]</English>
+					<Portuguese>Advanced Modular Helmet (Headset) [ADF Tropic]</Portuguese>
+					<Korean>Advanced Modular Helmet (Headset) [ADF Tropic]</Korean>
+					<Chinesesimp>Advanced Modular Helmet (Headset) [ADF Tropic]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet (Headset) [ADF Tropic]</Japanese>
+					<Turkish>Advanced Modular Helmet (Headset) [ADF Tropic]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_ear_F0">
+					<Original>Advanced Modular Helmet (Ear Protectors) [ADF]</Original>
+					<Chinese>Advanced Modular Helmet (Ear Protectors) [ADF]</Chinese>
+					<French>Advanced Modular Helmet (Ear Protectors) [ADF]</French>
+					<Spanish>Advanced Modular Helmet (Ear Protectors) [ADF]</Spanish>
+					<Italian>Advanced Modular Helmet (Ear Protectors) [ADF]</Italian>
+					<Polish>Advanced Modular Helmet (Ear Protectors) [ADF]</Polish>
+					<Russian>Advanced Modular Helmet (Ear Protectors) [ADF]</Russian>
+					<German>Advanced Modular Helmet (Ear Protectors) [ADF]</German>
+					<Czech>Advanced Modular Helmet (Ear Protectors) [ADF]</Czech>
+					<English>Advanced Modular Helmet (Ear Protectors) [ADF]</English>
+					<Portuguese>Advanced Modular Helmet (Ear Protectors) [ADF]</Portuguese>
+					<Korean>Advanced Modular Helmet (Ear Protectors) [ADF]</Korean>
+					<Chinesesimp>Advanced Modular Helmet (Ear Protectors) [ADF]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet (Ear Protectors) [ADF]</Japanese>
+					<Turkish>Advanced Modular Helmet (Ear Protectors) [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_ear_F0">
+					<Original>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Original>
+					<Chinese>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Chinese>
+					<French>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</French>
+					<Spanish>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Spanish>
+					<Italian>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Italian>
+					<Polish>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Polish>
+					<Russian>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Russian>
+					<German>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</German>
+					<Czech>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Czech>
+					<English>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</English>
+					<Portuguese>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Portuguese>
+					<Korean>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Korean>
+					<Chinesesimp>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Japanese>
+					<Turkish>Advanced Modular Helmet (Ear Protectors) [ADF Arid]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_ear_F0">
+					<Original>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Original>
+					<Chinese>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Chinese>
+					<French>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</French>
+					<Spanish>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Spanish>
+					<Italian>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Italian>
+					<Polish>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Polish>
+					<Russian>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Russian>
+					<German>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</German>
+					<Czech>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Czech>
+					<English>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</English>
+					<Portuguese>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Portuguese>
+					<Korean>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Korean>
+					<Chinesesimp>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Japanese>
+					<Turkish>Advanced Modular Helmet (Ear Protectors) [ADF Tropic]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_chops_F0">
+					<Original>Advanced Modular Helmet (Chops) [ADF]</Original>
+					<Chinese>Advanced Modular Helmet (Chops) [ADF]</Chinese>
+					<French>Advanced Modular Helmet (Chops) [ADF]</French>
+					<Spanish>Advanced Modular Helmet (Chops) [ADF]</Spanish>
+					<Italian>Advanced Modular Helmet (Chops) [ADF]</Italian>
+					<Polish>Advanced Modular Helmet (Chops) [ADF]</Polish>
+					<Russian>Advanced Modular Helmet (Chops) [ADF]</Russian>
+					<German>Advanced Modular Helmet (Chops) [ADF]</German>
+					<Czech>Advanced Modular Helmet (Chops) [ADF]</Czech>
+					<English>Advanced Modular Helmet (Chops) [ADF]</English>
+					<Portuguese>Advanced Modular Helmet (Chops) [ADF]</Portuguese>
+					<Korean>Advanced Modular Helmet (Chops) [ADF]</Korean>
+					<Chinesesimp>Advanced Modular Helmet (Chops) [ADF]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet (Chops) [ADF]</Japanese>
+					<Turkish>Advanced Modular Helmet (Chops) [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_chops_F0">
+					<Original>Advanced Modular Helmet (Chops) [ADF Arid]</Original>
+					<Chinese>Advanced Modular Helmet (Chops) [ADF Arid]</Chinese>
+					<French>Advanced Modular Helmet (Chops) [ADF Arid]</French>
+					<Spanish>Advanced Modular Helmet (Chops) [ADF Arid]</Spanish>
+					<Italian>Advanced Modular Helmet (Chops) [ADF Arid]</Italian>
+					<Polish>Advanced Modular Helmet (Chops) [ADF Arid]</Polish>
+					<Russian>Advanced Modular Helmet (Chops) [ADF Arid]</Russian>
+					<German>Advanced Modular Helmet (Chops) [ADF Arid]</German>
+					<Czech>Advanced Modular Helmet (Chops) [ADF Arid]</Czech>
+					<English>Advanced Modular Helmet (Chops) [ADF Arid]</English>
+					<Portuguese>Advanced Modular Helmet (Chops) [ADF Arid]</Portuguese>
+					<Korean>Advanced Modular Helmet (Chops) [ADF Arid]</Korean>
+					<Chinesesimp>Advanced Modular Helmet (Chops) [ADF Arid]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet (Chops) [ADF Arid]</Japanese>
+					<Turkish>Advanced Modular Helmet (Chops) [ADF Arid]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_chops_F0">
+					<Original>Advanced Modular Helmet (Chops) [ADF Tropic]</Original>
+					<Chinese>Advanced Modular Helmet (Chops) [ADF Tropic]</Chinese>
+					<French>Advanced Modular Helmet (Chops) [ADF Tropic]</French>
+					<Spanish>Advanced Modular Helmet (Chops) [ADF Tropic]</Spanish>
+					<Italian>Advanced Modular Helmet (Chops) [ADF Tropic]</Italian>
+					<Polish>Advanced Modular Helmet (Chops) [ADF Tropic]</Polish>
+					<Russian>Advanced Modular Helmet (Chops) [ADF Tropic]</Russian>
+					<German>Advanced Modular Helmet (Chops) [ADF Tropic]</German>
+					<Czech>Advanced Modular Helmet (Chops) [ADF Tropic]</Czech>
+					<English>Advanced Modular Helmet (Chops) [ADF Tropic]</English>
+					<Portuguese>Advanced Modular Helmet (Chops) [ADF Tropic]</Portuguese>
+					<Korean>Advanced Modular Helmet (Chops) [ADF Tropic]</Korean>
+					<Chinesesimp>Advanced Modular Helmet (Chops) [ADF Tropic]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet (Chops) [ADF Tropic]</Japanese>
+					<Turkish>Advanced Modular Helmet (Chops) [ADF Tropic]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeaponsH_MK7_Marar_F0">
 					<Original>Mk7 [Marar]</Original>
 					<Chinese>Mk7 [Marar]</Chinese>
