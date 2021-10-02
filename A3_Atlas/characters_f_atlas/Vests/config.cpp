@@ -16,6 +16,9 @@ class CfgWeapons
 	class V_PlateCarrierIA2_dgtl;
 	class V_PlateCarrierIAGL_dgtl;
 	class V_RebreatherB;
+	class V_PlateCarrierGL_rgr;
+	class V_PlateCarrier1_rgr;
+	class V_PlateCarrier2_rgr;
 	// Arma 3 Enoch
 	class V_CarrierRigKBT_01_base_F;
 	class V_CarrierRigKBT_01_light_base_F;
@@ -228,7 +231,6 @@ class CfgWeapons
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Smersh_miscellaneous_oli_CO.paa"
 		};
 	};
-	class V_PlateCarrier2_rgr;
 	class V_PlateCarrier2_snd: V_PlateCarrier2_rgr
 	{
 		author = $STR_A3_A_AveryTheKitty;
@@ -239,7 +241,16 @@ class CfgWeapons
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_sand_CO.paa"
 		};
 	};
-	class V_PlateCarrier1_rgr;
+	class V_PlateCarrierGL_aucamo_F: V_PlateCarrierGL_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierGL_aucamo_F_CA.paa";
+		displayName = "Carrier GL Rig [ADF]";
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Carrier_Rig_GL_aucamo_CO.paa"
+		};
+	};
 	class V_PlateCarrier1_aucamo_F: V_PlateCarrier1_rgr
 	{
 		author = $STR_A3_A_AveryTheKitty;
@@ -260,6 +271,16 @@ class CfgWeapons
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_CO.paa"
 		};
 	};
+	class V_PlateCarrierGL_aucamo_ard_F: V_PlateCarrierGL_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierGL_aucamo_ard_F_CA.paa";
+		displayName = "Carrier GL Rig [ADF Arid]";
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Carrier_Rig_GL_aucamo_arid_CO.paa"
+		};
+	};
 	class V_PlateCarrier1_aucamo_ard_F: V_PlateCarrier1_rgr
 	{
 		author = $STR_A3_A_AveryTheKitty;
@@ -278,6 +299,16 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_arid_CO.paa"
+		};
+	};
+	class V_PlateCarrierGL_aucamo_trp_F: V_PlateCarrierGL_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierGL_aucamo_trp_F_CA.paa";
+		displayName = "Carrier GL Rig [ADF Tropic]";
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Carrier_Rig_GL_aucamo_tropic_CO.paa"
 		};
 	};
 	class V_PlateCarrier1_aucamo_trp_F: V_PlateCarrier1_rgr
