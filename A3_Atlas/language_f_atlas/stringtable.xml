@@ -4828,22 +4828,22 @@
 				<Japanese>ベラルーシ</Japanese>
 				<Turkish>beyaz rusya</Turkish>
 			</Key>
-			<Key ID="STR_A3_A_CfgMarkers_flag_Israel">
-				<Original>Israel</Original>
-				<Chinese>Israel</Chinese>
-				<French>Israel</French>
-				<Spanish>Israel</Spanish>
-				<Italian>Israel</Italian>
-				<Polish>Israel</Polish>
-				<Russian>Israel</Russian>
-				<German>Israel</German>
-				<Czech>Israel</Czech>
-				<English>Israel</English>
-				<Portuguese>Israel</Portuguese>
-				<Korean>Israel</Korean>
-				<Chinesesimp>Israel</Chinesesimp>
-				<Japanese>Israel</Japanese>
-				<Turkish>Israel</Turkish>
+			<Key ID="STR_A3_A_CfgMarkers_flag_IDF">
+				<Original>IDF</Original>
+				<Chinese>IDF</Chinese>
+				<French>IDF</French>
+				<Spanish>IDF</Spanish>
+				<Italian>IDF</Italian>
+				<Polish>IDF</Polish>
+				<Russian>IDF</Russian>
+				<German>IDF</German>
+				<Czech>IDF</Czech>
+				<English>IDF</English>
+				<Portuguese>IDF</Portuguese>
+				<Korean>IDF</Korean>
+				<Chinesesimp>IDF</Chinesesimp>
+				<Japanese>IDF</Japanese>
+				<Turkish>IDF</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgMarkers_flag_Israel">
 				<Original>Israel</Original>
