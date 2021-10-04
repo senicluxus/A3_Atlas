@@ -26,7 +26,7 @@ class CfgVehicles
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
 		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_aucamo_F0;
-		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_whex_F_CA.paa";
+		picture = "\a3\supplies_f_enoch\Bags\Data\UI\icon_B_RadioBag_01_wdl_F_ca.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\B_RadioBag_01_aucamo_CO.paa"};
 
 		/* TFAR */
@@ -58,7 +58,7 @@ class CfgVehicles
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
 		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_flecktarn_F0;
-		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_flecktarn_F_CA.paa";
+		picture = "\A3_Aegis\Supplies_F_Aegis\Bags\Data\UI\icon_B_RadioBag_01_taiga_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\B_RadioBag_01_flecktarn_CO.paa"};
 
 		/* TFAR */
@@ -106,7 +106,7 @@ class CfgVehicles
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
 		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_Marar_F0;
-		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_flecktarn_F_CA.paa";
+		picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_semiarid_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\B_RadioBag_01_Marar_CO.paa"};
 
 		/* TFAR */
