@@ -53,7 +53,7 @@ class CfgPatches
             Atlas_B_A_Truck_01_medical_F,
             Atlas_B_A_Truck_01_mover_F,
             Atlas_B_A_Truck_01_Repair_F,
-            Atlas_B_A_Truck_01_transport_F
+            Atlas_B_A_Truck_01_transport_F,
             Atlas_B_A_Truck_01_ammo_ard_F,
             Atlas_B_A_Truck_01_box_ard_F,
             Atlas_B_A_Truck_01_cargo_ard_F,
