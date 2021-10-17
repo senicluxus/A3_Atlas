@@ -2997,7 +2997,7 @@ class Atlas_I_I_Pilot_F: Atlas_I_I_Soldier_Base_F
 	};
     scope = public;
     scopeCurator = public;
-	displayName = $STR_A3_B_Pilot_name;
+	displayName = $STR_B_Pilot_F0;
 	uniformClass = U_Tank_olive_F;
 	backpack = B_Parachute;
     linkedItems[] =
