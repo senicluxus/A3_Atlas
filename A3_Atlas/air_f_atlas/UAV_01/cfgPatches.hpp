@@ -21,6 +21,11 @@ class CfgPatches
             Atlas_I_C_UAV_01_backpack_F,
             Atlas_I_C_UAV_01_F,
 
+            // UNO
+            Atlas_I_UNO_UAV_01_backpack_F,
+            Atlas_I_UNO_UAV_01_F,
+            Atlas_I_UNO_wdl_UAV_01_F,
+
             // IDF
             Atlas_I_I_UAV_01_backpack_F,
             Atlas_I_I_UAV_01_F

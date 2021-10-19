@@ -155,6 +155,40 @@
 				<Japanese>Naiyana AR-2</Japanese>
 				<Turkish>Naiyana AR-2</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_01_backpack_F0">
+				<Original>UAV Bag (AR-2) [UNO]</Original>
+				<Chinese>無人機袋子（AR-2）（UNO）</Chinese>
+				<French>Sac drone (AR-2) [UNO]</French>
+				<Spanish>Bolsa de VANT (AR-2) [UNO]</Spanish>
+				<Italian>Borsa UAV (AR-2) [UNO]</Italian>
+				<Polish>Torba na drona (AR-2) [UNO]</Polish>
+				<Russian>Сумка для БПЛА (AR-2) [UNO]</Russian>
+				<German>UAV-Tasche (AR-2) [UNO]</German>
+				<Czech>UAV vak (AR-2) [UNO]</Czech>
+				<English>UAV Bag (AR-2) [UNO]</English>
+				<Portuguese>Compartimento de VANT (AR-2) [UNO]</Portuguese>
+				<Korean>UAV 가방 (AR-2) [UNO]</Korean>
+				<Chinesesimp>UAV 包（AR-2）[UNO]</Chinesesimp>
+				<Japanese>UAV バッグ（AR-2）[UNO]</Japanese>
+				<Turkish>İHA Çantası (AR-2) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_01_backpack_F_assembleInfo0">
+				<Original>AR-2 Darter</Original>
+				<Chinese>AR-2 Darter</Chinese>
+				<French>AR-2 Darter</French>
+				<Spanish>AR-2 Darter</Spanish>
+				<Italian>AR-2 Darter</Italian>
+				<Polish>AR-2 Darter</Polish>
+				<Russian>AR-2 Darter</Russian>
+				<German>AR-2 Darter</German>
+				<Czech>AR-2 Darter</Czech>
+				<English>AR-2 Darter</English>
+				<Portuguese>AR-2 Darter</Portuguese>
+				<Korean>AR-2 Darter</Korean>
+				<Chinesesimp>AR-2 Darter</Chinesesimp>
+				<Japanese>AR-2 Darter</Japanese>
+				<Turkish>AR-2 Darter</Turkish>
+			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_UAV_02_dynamicLoadout_F0">
 				<Original>MQ-4I Yanshuf</Original>
 				<Chinese>MQ-4I Yanshuf</Chinese>
@@ -324,6 +358,142 @@
 				<Chinesesimp>Pashosh AL-6（医疗）</Chinesesimp>
 				<Japanese>Pashosh AL-6（医療用）</Japanese>
 				<Turkish>Pashosh AL-6 (Sıhhiye)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_F0">
+				<Original>AL-6 Pelican</Original>
+				<Chinese>AL-6 Pelican</Chinese>
+				<French>AL-6 Pelican</French>
+				<Spanish>AL-6 Pelican</Spanish>
+				<Italian>AL-6 Pelican</Italian>
+				<Polish>AL-6 Pelican</Polish>
+				<Russian>AL-6 Pelican</Russian>
+				<German>AL-6 Pelican</German>
+				<Czech>AL-6 Pelican</Czech>
+				<English>AL-6 Pelican</English>
+				<Portuguese>AL-6 Pelican</Portuguese>
+				<Korean>AL-6 Pelican</Korean>
+				<Chinesesimp>AL-6 Pelican</Chinesesimp>
+				<Japanese>AL-6 Pelican</Japanese>
+				<Turkish>AL-6 Pelican</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_medical_F0">
+				<Original>AL-6 Pelican (Medical)</Original>
+				<Chinese>AL-6 Pelican（醫療用）</Chinese>
+				<French>AL-6 Pelican (médical)</French>
+				<Spanish>AL-6 Pelican (médico)</Spanish>
+				<Italian>AL-6 Pelican (medico)</Italian>
+				<Polish>AL-6 Pelican (medyczny)</Polish>
+				<Russian>AL-6 Pelican (медицинский)</Russian>
+				<German>AL-6 Pelican (Medizin)</German>
+				<Czech>AL-6 Pelican (zdravotnický)</Czech>
+				<English>AL-6 Pelican (Medical)</English>
+				<Portuguese>AL-6 Pelican (médico)</Portuguese>
+				<Korean>AL-6 Pelican (의무)</Korean>
+				<Chinesesimp>AL-6 Pelican（医疗）</Chinesesimp>
+				<Japanese>AL-6 Pelican（医療用）</Japanese>
+				<Turkish>AL-6 Pelican (Sıhhiye)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_Box_I_UNO_UAV_06_F0">
+				<Original>AL-6 Case [UNO]</Original>
+				<Chinese>AL-6 外箱（UNO）</Chinese>
+				<French>Mallette AL-6 [UNO]</French>
+				<Spanish>Compartimento de AL-6 [UNO]</Spanish>
+				<Italian>Contenitore AL-6 [UNO]</Italian>
+				<Polish>Skrzynia AL-6 [UNO]</Polish>
+				<Russian>AL-6 Case [UNO]</Russian>
+				<German>AL-6-Koffer [UNO]</German>
+				<Czech>Bedna na AL-6 [UNO]</Czech>
+				<English>AL-6 Case [UNO]</English>
+				<Portuguese>Caixa de AL-6 [UNO]</Portuguese>
+				<Korean>AL-6 Case [UNO]</Korean>
+				<Chinesesimp>AL-6 箱 [UNO]</Chinesesimp>
+				<Japanese>AL-6 用ケース [UNO]</Japanese>
+				<Turkish>AL-6 Çantası [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_Box_I_UNO_UAV_06_medical_F0">
+				<Original>AL-6 Case (Medical) [UNO]</Original>
+				<Chinese>AL-6 外箱（醫療用）（UNO）</Chinese>
+				<French>Mallette AL-6 (médical) [UNO]</French>
+				<Spanish>Compartimento de AL-6 (médico) [UNO]</Spanish>
+				<Italian>Contenitore AL-6 (medico) [UNO]</Italian>
+				<Polish>Skrzynia AL-6 (medyczna) [UNO]</Polish>
+				<Russian>AL-6 Case (медицинский) [UNO]</Russian>
+				<German>AL-6-Koffer (Medizin) [UNO]</German>
+				<Czech>Bedna na AL-6 (zdravotnický) [UNO]</Czech>
+				<English>AL-6 Case (Medical) [UNO]</English>
+				<Portuguese>Caixa de AL-6 (médico) [UNO]</Portuguese>
+				<Korean>AL-6 Case (의무) [UNO]</Korean>
+				<Chinesesimp>AL-6 箱（医疗）[UNO]</Chinesesimp>
+				<Japanese>AL-6 用ケース（医療用）[UNO]</Japanese>
+				<Turkish>AL-6 Çantası (Sıhhiye) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_backpack_F0">
+				<Original>UAV Bag (AL-6) [UNO]</Original>
+				<Chinese>無人機袋子（AL-6）（UNO）</Chinese>
+				<French>Sac drone (AL-6) [UNO]</French>
+				<Spanish>Bolsa de VANT (AL-6) [UNO]</Spanish>
+				<Italian>Borsa UAV (AL-6) [UNO]</Italian>
+				<Polish>Torba na drona (AL-6) [UNO]</Polish>
+				<Russian>Сумка для БПЛА (AL-6) [UNO]</Russian>
+				<German>UAV-Tasche (AL-6) [UNO]</German>
+				<Czech>UAV vak (AL-6) [UNO]</Czech>
+				<English>UAV Bag (AL-6) [UNO]</English>
+				<Portuguese>Compartimento de VANT (AL-6) [UNO]</Portuguese>
+				<Korean>UAV 가방 (AL-6) [UNO]</Korean>
+				<Chinesesimp>UAV 包（AL-6）[UNO]</Chinesesimp>
+				<Japanese>UAV バッグ（AL-6）[UNO]</Japanese>
+				<Turkish>İHA Çantası (AL-6) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_backpack_F_assembleInfo0">
+				<Original>AL-6 Pelican</Original>
+				<Chinese>AL-6 Pelican</Chinese>
+				<French>AL-6 Pelican</French>
+				<Spanish>AL-6 Pelican</Spanish>
+				<Italian>AL-6 Pelican</Italian>
+				<Polish>AL-6 Pelican</Polish>
+				<Russian>AL-6 Pelican</Russian>
+				<German>AL-6 Pelican</German>
+				<Czech>AL-6 Pelican</Czech>
+				<English>AL-6 Pelican</English>
+				<Portuguese>AL-6 Pelican</Portuguese>
+				<Korean>AL-6 Pelican</Korean>
+				<Chinesesimp>AL-6 Pelican</Chinesesimp>
+				<Japanese>AL-6 Pelican</Japanese>
+				<Turkish>AL-6 Pelican</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_medical_backpack_F0">
+				<Original>UAV Bag (AL-6, Medical) [UNO]</Original>
+				<Chinese>無人機袋子（AL-6，醫療用）（UNO）</Chinese>
+				<French>Sac drone (AL-6, médical) [UNO]</French>
+				<Spanish>Bolsa de VANT (AL-6, médico) [UNO]</Spanish>
+				<Italian>Borsa UAV (AL-6, medica) [UNO]</Italian>
+				<Polish>Torba na drona (AL-6, medyczny) [UNO]</Polish>
+				<Russian>Сумка, БПЛА (AL-6,мед.) [UNO]</Russian>
+				<German>UAV-Tasche (AL-6, Medizin) [UNO]</German>
+				<Czech>UAV vak (AL-6, zdravotnický) [UNO]</Czech>
+				<English>UAV Bag (AL-6, Medical) [UNO]</English>
+				<Portuguese>Compartimento de VANT (AL-6, médico) [UNO]</Portuguese>
+				<Korean>UAV 가방 (AL-6, 의료) [UNO]</Korean>
+				<Chinesesimp>UAV 包（AL-6，医疗）[UNO]</Chinesesimp>
+				<Japanese>UAV バッグ（AL-6、医療用） [UNO]</Japanese>
+				<Turkish>İHA Çantası (AL-6, Sıhhiye) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_medical_backpack_F_assembleInfo0">
+				<Original>AL-6 Pelican (Medical)</Original>
+				<Chinese>AL-6 Pelican（醫療用）</Chinese>
+				<French>AL-6 Pelican (médical)</French>
+				<Spanish>AL-6 Pelican (médico)</Spanish>
+				<Italian>AL-6 Pelican (medico)</Italian>
+				<Polish>AL-6 Pelican (medyczny)</Polish>
+				<Russian>AL-6 Pelican (медицинский)</Russian>
+				<German>AL-6 Pelican (Medizin)</German>
+				<Czech>AL-6 Pelican (zdravotnický)</Czech>
+				<English>AL-6 Pelican (Medical)</English>
+				<Portuguese>AL-6 Pelican (médico)</Portuguese>
+				<Korean>AL-6 Pelican (의무)</Korean>
+				<Chinesesimp>AL-6 Pelican（医疗）</Chinesesimp>
+				<Japanese>AL-6 Pelican（医療用）</Japanese>
+				<Turkish>AL-6 Pelican (Sıhhiye)</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Plane_Fighter_05_F0">
 				<Original>F-38I Aiit</Original>
@@ -3702,6 +3872,40 @@
 				<Chinesesimp>UGV 包（ED-1D）[Israel]</Chinesesimp>
 				<Japanese>UGV バッグ (ED-1D) [Israel]</Japanese>
 				<Turkish>UGV Çantası (ED-1D) [Israel]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UGV_02_Demining_backpack_F0">
+				<Original>UGV Bag (ED-1D) [UNO]</Original>
+				<Chinese>無人地面載具袋子（ED-1D）（UNO）</Chinese>
+				<French>Sac drone terrestre (ED-1D) [UNO]</French>
+				<Spanish>Bolsa de VTNT (ED-1D) [UNO]</Spanish>
+				<Italian>Borsa UGV (ED-1D) [UNO]</Italian>
+				<Polish>Torba na UGV (ED-1D) [UNO]</Polish>
+				<Russian>Сумка для БПА (ED-1D) [UNO]</Russian>
+				<German>UGV-Tragetasche (ED-1D) [UNO]</German>
+				<Czech>Batoh, bezpilotní vozidlo (ED-1D) [UNO]</Czech>
+				<English>UGV Bag (ED-1D) [UNO]</English>
+				<Portuguese>Bolsa VTNT (ED-1D) [UNO]</Portuguese>
+				<Korean>UGV 가방 (ED-1D) [UNO]</Korean>
+				<Chinesesimp>UGV 包（ED-1D）[UNO]</Chinesesimp>
+				<Japanese>UGV バッグ (ED-1D) [UNO]</Japanese>
+				<Turkish>UGV Çantası (ED-1D) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UGV_02_Demining_backpack_F_assembleInfo0">
+				<Original>UGV Bag (ED-1D) [UNO]</Original>
+				<Chinese>無人地面載具袋子（ED-1D）（UNO）</Chinese>
+				<French>Sac drone terrestre (ED-1D) [UNO]</French>
+				<Spanish>Bolsa de VTNT (ED-1D) [UNO]</Spanish>
+				<Italian>Borsa UGV (ED-1D) [UNO]</Italian>
+				<Polish>Torba na UGV (ED-1D) [UNO]</Polish>
+				<Russian>Сумка для БПА (ED-1D) [UNO]</Russian>
+				<German>UGV-Tragetasche (ED-1D) [UNO]</German>
+				<Czech>Batoh, bezpilotní vozidlo (ED-1D) [UNO]</Czech>
+				<English>UGV Bag (ED-1D) [UNO]</English>
+				<Portuguese>Bolsa VTNT (ED-1D) [UNO]</Portuguese>
+				<Korean>UGV 가방 (ED-1D) [UNO]</Korean>
+				<Chinesesimp>UGV 包（ED-1D）[UNO]</Chinesesimp>
+				<Japanese>UGV バッグ (ED-1D) [UNO]</Japanese>
+				<Turkish>UGV Çantası (ED-1D) [UNO]</Turkish>
 			</Key>
 		</Container>
 		<Container name="Static_F">
