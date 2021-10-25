@@ -17,7 +17,7 @@ class Atlas_I_UNO_Soldier_Base_F: Atlas_I_UNO_Man_Base_F
 };
 class Atlas_I_UNO_Soldier_A_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = "BranFlakes";
+	author = $STR_A3_A_BranFlakes;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Soldier_A_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -62,7 +62,7 @@ class Atlas_I_UNO_Soldier_A_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Soldier_AR_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = "BranFlakes";
+	author = $STR_A3_A_BranFlakes;
 	class SpeechVariants
 	{
 		class Default
@@ -120,7 +120,7 @@ class Atlas_I_UNO_Soldier_AR_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Medic_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = "BranFlakes";
+	author = $STR_A3_A_BranFlakes;
 	class SpeechVariants
 	{
 		class Default
@@ -182,7 +182,7 @@ class Atlas_I_UNO_Medic_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Engineer_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = "BranFlakes";
+	author = $STR_A3_A_BranFlakes;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Engineer_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -234,7 +234,7 @@ class Atlas_I_UNO_Engineer_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Soldier_GL_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = "BranFlakes";
+	author = $STR_A3_A_BranFlakes;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Soldier_GL_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -282,7 +282,7 @@ class Atlas_I_UNO_Soldier_GL_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Helipilot_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = "BranFlakes";
+	author = $STR_A3_A_BranFlakes;
 	class SpeechVariants
 	{
 		class Default
@@ -338,7 +338,7 @@ class Atlas_I_UNO_Helipilot_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Helicrew_F: Atlas_I_UNO_Helipilot_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	class SpeechVariants
 	{
 		class Default
@@ -394,7 +394,7 @@ class Atlas_I_UNO_Helicrew_F: Atlas_I_UNO_Helipilot_F
 };
 class Atlas_I_UNO_Crew_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Crew_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -437,7 +437,7 @@ class Atlas_I_UNO_Crew_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_soldier_M_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_soldier_M_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -483,7 +483,7 @@ class Atlas_I_UNO_soldier_M_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Officer_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	class SpeechVariants
 	{
 		class Default
@@ -544,7 +544,7 @@ class Atlas_I_UNO_Officer_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Soldier_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Soldier_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -587,7 +587,7 @@ class Atlas_I_UNO_Soldier_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Soldier_LAT_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	class SpeechVariants
 	{
 		class Default
@@ -650,7 +650,7 @@ class Atlas_I_UNO_Soldier_LAT_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Soldier_SL_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Soldier_SL_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -707,7 +707,7 @@ class Atlas_I_UNO_Soldier_SL_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_Soldier_TL_F: Atlas_I_UNO_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Soldier_TL_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -769,7 +769,7 @@ class Atlas_I_UNO_Soldier_TL_F: Atlas_I_UNO_Soldier_Base_F
 };
 class Atlas_I_UNO_RadioOperator_F: Atlas_I_UNO_Soldier_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_RadioOperator_F.jpg";
     displayName = $STR_A3_C_B_W_RadioOperator_F0;
 	uniformClass = Atlas_U_I_U_CombatUniform_shortsleeve_UNO;
@@ -1222,7 +1222,7 @@ class Atlas_I_UNO_wdl_Helipilot_F: Atlas_I_UNO_wdl_Soldier_Base_F
 };
 class Atlas_I_UNO_wdl_Helicrew_F: Atlas_I_UNO_wdl_Helipilot_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	class SpeechVariants
 	{
 		class Default
@@ -1278,7 +1278,7 @@ class Atlas_I_UNO_wdl_Helicrew_F: Atlas_I_UNO_wdl_Helipilot_F
 };
 class Atlas_I_UNO_wdl_Crew_F: Atlas_I_UNO_wdl_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_wdl_Crew_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -1321,7 +1321,7 @@ class Atlas_I_UNO_wdl_Crew_F: Atlas_I_UNO_wdl_Soldier_Base_F
 };
 class Atlas_I_UNO_wdl_soldier_M_F: Atlas_I_UNO_wdl_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_wdl_soldier_M_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -1371,7 +1371,7 @@ class Atlas_I_UNO_wdl_soldier_M_F: Atlas_I_UNO_wdl_Soldier_Base_F
 };
 class Atlas_I_UNO_wdl_Officer_F: Atlas_I_UNO_wdl_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	class SpeechVariants
 	{
 		class Default
@@ -1432,7 +1432,7 @@ class Atlas_I_UNO_wdl_Officer_F: Atlas_I_UNO_wdl_Soldier_Base_F
 };
 class Atlas_I_UNO_wdl_Soldier_F: Atlas_I_UNO_wdl_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_wdl_Soldier_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -1475,7 +1475,7 @@ class Atlas_I_UNO_wdl_Soldier_F: Atlas_I_UNO_wdl_Soldier_Base_F
 };
 class Atlas_I_UNO_wdl_Soldier_LAT_F: Atlas_I_UNO_wdl_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	class SpeechVariants
 	{
 		class Default
@@ -1538,7 +1538,7 @@ class Atlas_I_UNO_wdl_Soldier_LAT_F: Atlas_I_UNO_wdl_Soldier_Base_F
 };
 class Atlas_I_UNO_wdl_Soldier_SL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_wdl_Soldier_SL_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -1595,7 +1595,7 @@ class Atlas_I_UNO_wdl_Soldier_SL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 };
 class Atlas_I_UNO_wdl_Soldier_TL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_wdl_Soldier_TL_F.jpg";
     scope = public;
     scopeCurator = public;
@@ -1657,7 +1657,7 @@ class Atlas_I_UNO_wdl_Soldier_TL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 };
 class Atlas_I_UNO_wdl_RadioOperator_F: Atlas_I_UNO_wdl_Soldier_F
 {
-	author = $STR_A3_A_AveryTheKitty;
+	author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_wdl_RadioOperator_F.jpg";
     displayName = $STR_A3_C_B_W_RadioOperator_F0;
 	uniformClass = Atlas_U_I_UW_CombatUniform_shortsleeve_UNO;
