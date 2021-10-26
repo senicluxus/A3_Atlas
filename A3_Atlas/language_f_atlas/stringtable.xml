@@ -4598,6 +4598,176 @@
 					<Japanese>物資箱[Israel]</Japanese>
 					<Turkish>İkmal Kutusu [Israel]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_TKA_Wps_F0">
+					<Original>Basic Weapons [Takistan]</Original>
+					<Chinese>基本武器（Takistan）</Chinese>
+					<French>Armes de base [Takistan]</French>
+					<Spanish>Armas básicas [Takistan]</Spanish>
+					<Italian>Armi di base [Takistan]</Italian>
+					<Polish>Broń podstawowa [Takistan]</Polish>
+					<Russian>Основное оружие [Takistan]</Russian>
+					<German>Standardwaffen [Takistan]</German>
+					<Czech>Základní zbraně [Takistan]</Czech>
+					<English>Basic Weapons [Takistan]</English>
+					<Portuguese>Armas básicas [Takistan]</Portuguese>
+					<Korean>기본무기[Takistan]</Korean>
+					<Chinesesimp>基本武器 [Takistan]</Chinesesimp>
+					<Japanese>基本武器[Takistan]</Japanese>
+					<Turkish>Temel Silahlar [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_TKA_Ammo_F0">
+					<Original>Basic Ammo [Takistan]</Original>
+					<Chinese>基本彈藥（Takistan）</Chinese>
+					<French>Munitions de base [Takistan]</French>
+					<Spanish>Munición básica [Takistan]</Spanish>
+					<Italian>Munizioni di base [Takistan]</Italian>
+					<Polish>Amunicja podstawowa [Takistan]</Polish>
+					<Russian>Основные боеприпасы [Takistan]</Russian>
+					<German>Standardmunition [Takistan]</German>
+					<Czech>Základní munice [Takistan]</Czech>
+					<English>Basic Ammo [Takistan]</English>
+					<Portuguese>Munição básica [Takistan]</Portuguese>
+					<Korean>기본 탄약[Takistan]</Korean>
+					<Chinesesimp>基本弹药 [Takistan]</Chinesesimp>
+					<Japanese>基本弾薬[Takistan]</Japanese>
+					<Turkish>Temel Mühimmat [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_TKA_WpsLaunch_F0">
+					<Original>Launchers [Takistan]</Original>
+					<Chinese>發射器（Takistan）</Chinese>
+					<French>Lanceurs [Takistan]</French>
+					<Spanish>Lanzadores [Takistan]</Spanish>
+					<Italian>Lanciatori [Takistan]</Italian>
+					<Polish>Wyrzutnie [Takistan]</Polish>
+					<Russian>Пусковые установки [Takistan]</Russian>
+					<German>Werfer [Takistan]</German>
+					<Czech>Raketomety [Takistan]</Czech>
+					<English>Launchers [Takistan]</English>
+					<Portuguese>Lançadores [Takistan]</Portuguese>
+					<Korean>발사기[Takistan]</Korean>
+					<Chinesesimp>发射器 [Takistan]</Chinesesimp>
+					<Japanese>ランチャー[Takistan]</Japanese>
+					<Turkish>Fırlatıcılar [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_O_TKA_supplyCrate_F0">
+					<Original>Supply Box [Takistan]</Original>
+					<Chinese>補給盒（Takistan）</Chinese>
+					<French>Caisse de ravitaillements [Takistan]</French>
+					<Spanish>Caja de suministros [Takistan]</Spanish>
+					<Italian>Scatola di rifornimenti [Takistan]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [Takistan]</Polish>
+					<Russian>Ящик с припасами [Takistan]</Russian>
+					<German>Nachschubkiste [Takistan]</German>
+					<Czech>Bedna se zásobami [Takistan]</Czech>
+					<English>Supply Box [Takistan]</English>
+					<Portuguese>Caixa de suprimentos [Takistan]</Portuguese>
+					<Korean>보급상자[Takistan]</Korean>
+					<Chinesesimp>供给箱 [Takistan]</Chinesesimp>
+					<Japanese>物資箱[Takistan]</Japanese>
+					<Turkish>İkmal Kutusu [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_VZ_Wps_F0">
+					<Original>Basic Weapons [Venezuela]</Original>
+					<Chinese>基本武器（Venezuela）</Chinese>
+					<French>Armes de base [Venezuela]</French>
+					<Spanish>Armas básicas [Venezuela]</Spanish>
+					<Italian>Armi di base [Venezuela]</Italian>
+					<Polish>Broń podstawowa [Venezuela]</Polish>
+					<Russian>Основное оружие [Venezuela]</Russian>
+					<German>Standardwaffen [Venezuela]</German>
+					<Czech>Základní zbraně [Venezuela]</Czech>
+					<English>Basic Weapons [Venezuela]</English>
+					<Portuguese>Armas básicas [Venezuela]</Portuguese>
+					<Korean>기본무기[Venezuela]</Korean>
+					<Chinesesimp>基本武器 [Venezuela]</Chinesesimp>
+					<Japanese>基本武器[Venezuela]</Japanese>
+					<Turkish>Temel Silahlar [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_VZ_Ammo_F0">
+					<Original>Basic Ammo [Venezuela]</Original>
+					<Chinese>基本彈藥（Venezuela）</Chinese>
+					<French>Munitions de base [Venezuela]</French>
+					<Spanish>Munición básica [Venezuela]</Spanish>
+					<Italian>Munizioni di base [Venezuela]</Italian>
+					<Polish>Amunicja podstawowa [Venezuela]</Polish>
+					<Russian>Основные боеприпасы [Venezuela]</Russian>
+					<German>Standardmunition [Venezuela]</German>
+					<Czech>Základní munice [Venezuela]</Czech>
+					<English>Basic Ammo [Venezuela]</English>
+					<Portuguese>Munição básica [Venezuela]</Portuguese>
+					<Korean>기본 탄약[Venezuela]</Korean>
+					<Chinesesimp>基本弹药 [Venezuela]</Chinesesimp>
+					<Japanese>基本弾薬[Venezuela]</Japanese>
+					<Turkish>Temel Mühimmat [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_VZ_WpsLaunch_F0">
+					<Original>Launchers [Venezuela]</Original>
+					<Chinese>發射器（Venezuela）</Chinese>
+					<French>Lanceurs [Venezuela]</French>
+					<Spanish>Lanzadores [Venezuela]</Spanish>
+					<Italian>Lanciatori [Venezuela]</Italian>
+					<Polish>Wyrzutnie [Venezuela]</Polish>
+					<Russian>Пусковые установки [Venezuela]</Russian>
+					<German>Werfer [Venezuela]</German>
+					<Czech>Raketomety [Venezuela]</Czech>
+					<English>Launchers [Venezuela]</English>
+					<Portuguese>Lançadores [Venezuela]</Portuguese>
+					<Korean>발사기[Venezuela]</Korean>
+					<Chinesesimp>发射器 [Venezuela]</Chinesesimp>
+					<Japanese>ランチャー[Venezuela]</Japanese>
+					<Turkish>Fırlatıcılar [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_O_VZ_supplyCrate_F0">
+					<Original>Supply Box [Venezuela]</Original>
+					<Chinese>補給盒（Venezuela）</Chinese>
+					<French>Caisse de ravitaillements [Venezuela]</French>
+					<Spanish>Caja de suministros [Venezuela]</Spanish>
+					<Italian>Scatola di rifornimenti [Venezuela]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [Venezuela]</Polish>
+					<Russian>Ящик с припасами [Venezuela]</Russian>
+					<German>Nachschubkiste [Venezuela]</German>
+					<Czech>Bedna se zásobami [Venezuela]</Czech>
+					<English>Supply Box [Venezuela]</English>
+					<Portuguese>Caixa de suprimentos [Venezuela]</Portuguese>
+					<Korean>보급상자[Venezuela]</Korean>
+					<Chinesesimp>供给箱 [Venezuela]</Chinesesimp>
+					<Japanese>物資箱[Venezuela]</Japanese>
+					<Turkish>İkmal Kutusu [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_I_UNO_supplyCrate_F0">
+					<Original>Supply Box [UNO Sahrani]</Original>
+					<Chinese>補給盒（UNO Sahrani）</Chinese>
+					<French>Caisse de ravitaillements [UNO Sahrani]</French>
+					<Spanish>Caja de suministros [UNO Sahrani]</Spanish>
+					<Italian>Scatola di rifornimenti [UNO Sahrani]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [UNO Sahrani]</Polish>
+					<Russian>Ящик с припасами [UNO Sahrani]</Russian>
+					<German>Nachschubkiste [UNO Sahrani]</German>
+					<Czech>Bedna se zásobami [UNO Sahrani]</Czech>
+					<English>Supply Box [UNO Sahrani]</English>
+					<Portuguese>Caixa de suprimentos [UNO Sahrani]</Portuguese>
+					<Korean>보급상자[UNO Sahrani]</Korean>
+					<Chinesesimp>供给箱 [UNO Sahrani]</Chinesesimp>
+					<Japanese>物資箱[UNO Sahrani]</Japanese>
+					<Turkish>İkmal Kutusu [UNO Sahrani]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_I_UNO_wdl_supplyCrate_F0">
+					<Original>Supply Box [UNO Chernarus]</Original>
+					<Chinese>補給盒（UNO Chernarus）</Chinese>
+					<French>Caisse de ravitaillements [UNO Chernarus]</French>
+					<Spanish>Caja de suministros [UNO Chernarus]</Spanish>
+					<Italian>Scatola di rifornimenti [UNO Chernarus]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [UNO Chernarus]</Polish>
+					<Russian>Ящик с припасами [UNO Chernarus]</Russian>
+					<German>Nachschubkiste [UNO Chernarus]</German>
+					<Czech>Bedna se zásobami [UNO Chernarus]</Czech>
+					<English>Supply Box [UNO Chernarus]</English>
+					<Portuguese>Caixa de suprimentos [UNO Chernarus]</Portuguese>
+					<Korean>보급상자[UNO Chernarus]</Korean>
+					<Chinesesimp>供给箱 [UNO Chernarus]</Chinesesimp>
+					<Japanese>物資箱[UNO Chernarus]</Japanese>
+					<Turkish>İkmal Kutusu [UNO Chernarus]</Turkish>
+				</Key>
 			</Container>
 			<Container name="Bags">
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_whex_F0">
