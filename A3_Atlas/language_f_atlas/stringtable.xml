@@ -4768,6 +4768,142 @@
 					<Japanese>物資箱[UNO Chernarus]</Japanese>
 					<Turkish>İkmal Kutusu [UNO Chernarus]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_Marar_Wps_F0">
+					<Original>Basic Weapons [Marar]</Original>
+					<Chinese>基本武器（Marar）</Chinese>
+					<French>Armes de base [Marar]</French>
+					<Spanish>Armas básicas [Marar]</Spanish>
+					<Italian>Armi di base [Marar]</Italian>
+					<Polish>Broń podstawowa [Marar]</Polish>
+					<Russian>Основное оружие [Marar]</Russian>
+					<German>Standardwaffen [Marar]</German>
+					<Czech>Základní zbraně [Marar]</Czech>
+					<English>Basic Weapons [Marar]</English>
+					<Portuguese>Armas básicas [Marar]</Portuguese>
+					<Korean>기본무기[Marar]</Korean>
+					<Chinesesimp>基本武器 [Marar]</Chinesesimp>
+					<Japanese>基本武器[Marar]</Japanese>
+					<Turkish>Temel Silahlar [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_Marar_Ammo_F0">
+					<Original>Basic Ammo [Marar]</Original>
+					<Chinese>基本彈藥（Marar）</Chinese>
+					<French>Munitions de base [Marar]</French>
+					<Spanish>Munición básica [Marar]</Spanish>
+					<Italian>Munizioni di base [Marar]</Italian>
+					<Polish>Amunicja podstawowa [Marar]</Polish>
+					<Russian>Основные боеприпасы [Marar]</Russian>
+					<German>Standardmunition [Marar]</German>
+					<Czech>Základní munice [Marar]</Czech>
+					<English>Basic Ammo [Marar]</English>
+					<Portuguese>Munição básica [Marar]</Portuguese>
+					<Korean>기본 탄약[Marar]</Korean>
+					<Chinesesimp>基本弹药 [Marar]</Chinesesimp>
+					<Japanese>基本弾薬[Marar]</Japanese>
+					<Turkish>Temel Mühimmat [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_Marar_WpsLaunch_F0">
+					<Original>Launchers [Marar]</Original>
+					<Chinese>發射器（Marar）</Chinese>
+					<French>Lanceurs [Marar]</French>
+					<Spanish>Lanzadores [Marar]</Spanish>
+					<Italian>Lanciatori [Marar]</Italian>
+					<Polish>Wyrzutnie [Marar]</Polish>
+					<Russian>Пусковые установки [Marar]</Russian>
+					<German>Werfer [Marar]</German>
+					<Czech>Raketomety [Marar]</Czech>
+					<English>Launchers [Marar]</English>
+					<Portuguese>Lançadores [Marar]</Portuguese>
+					<Korean>발사기[Marar]</Korean>
+					<Chinesesimp>发射器 [Marar]</Chinesesimp>
+					<Japanese>ランチャー[Marar]</Japanese>
+					<Turkish>Fırlatıcılar [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_M_supplyCrate_F0">
+					<Original>Supply Box [Marar]</Original>
+					<Chinese>補給盒（Marar）</Chinese>
+					<French>Caisse de ravitaillements [Marar]</French>
+					<Spanish>Caja de suministros [Marar]</Spanish>
+					<Italian>Scatola di rifornimenti [Marar]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [Marar]</Polish>
+					<Russian>Ящик с припасами [Marar]</Russian>
+					<German>Nachschubkiste [Marar]</German>
+					<Czech>Bedna se zásobami [Marar]</Czech>
+					<English>Supply Box [Marar]</English>
+					<Portuguese>Caixa de suprimentos [Marar]</Portuguese>
+					<Korean>보급상자[Marar]</Korean>
+					<Chinesesimp>供给箱 [Marar]</Chinesesimp>
+					<Japanese>物資箱[Marar]</Japanese>
+					<Turkish>İkmal Kutusu [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_ADF_Wps_F0">
+					<Original>Basic Weapons [ADF]</Original>
+					<Chinese>基本武器（ADF）</Chinese>
+					<French>Armes de base [ADF]</French>
+					<Spanish>Armas básicas [ADF]</Spanish>
+					<Italian>Armi di base [ADF]</Italian>
+					<Polish>Broń podstawowa [ADF]</Polish>
+					<Russian>Основное оружие [ADF]</Russian>
+					<German>Standardwaffen [ADF]</German>
+					<Czech>Základní zbraně [ADF]</Czech>
+					<English>Basic Weapons [ADF]</English>
+					<Portuguese>Armas básicas [ADF]</Portuguese>
+					<Korean>기본무기[ADF]</Korean>
+					<Chinesesimp>基本武器 [ADF]</Chinesesimp>
+					<Japanese>基本武器[ADF]</Japanese>
+					<Turkish>Temel Silahlar [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_ADF_Ammo_F0">
+					<Original>Basic Ammo [ADF]</Original>
+					<Chinese>基本彈藥（ADF）</Chinese>
+					<French>Munitions de base [ADF]</French>
+					<Spanish>Munición básica [ADF]</Spanish>
+					<Italian>Munizioni di base [ADF]</Italian>
+					<Polish>Amunicja podstawowa [ADF]</Polish>
+					<Russian>Основные боеприпасы [ADF]</Russian>
+					<German>Standardmunition [ADF]</German>
+					<Czech>Základní munice [ADF]</Czech>
+					<English>Basic Ammo [ADF]</English>
+					<Portuguese>Munição básica [ADF]</Portuguese>
+					<Korean>기본 탄약[ADF]</Korean>
+					<Chinesesimp>基本弹药 [ADF]</Chinesesimp>
+					<Japanese>基本弾薬[ADF]</Japanese>
+					<Turkish>Temel Mühimmat [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_ADF_WpsLaunch_F0">
+					<Original>Launchers [ADF]</Original>
+					<Chinese>發射器（ADF）</Chinese>
+					<French>Lanceurs [ADF]</French>
+					<Spanish>Lanzadores [ADF]</Spanish>
+					<Italian>Lanciatori [ADF]</Italian>
+					<Polish>Wyrzutnie [ADF]</Polish>
+					<Russian>Пусковые установки [ADF]</Russian>
+					<German>Werfer [ADF]</German>
+					<Czech>Raketomety [ADF]</Czech>
+					<English>Launchers [ADF]</English>
+					<Portuguese>Lançadores [ADF]</Portuguese>
+					<Korean>발사기[ADF]</Korean>
+					<Chinesesimp>发射器 [ADF]</Chinesesimp>
+					<Japanese>ランチャー[ADF]</Japanese>
+					<Turkish>Fırlatıcılar [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_A_supplyCrate_F0">
+					<Original>Supply Box [ADF]</Original>
+					<Chinese>補給盒（ADF）</Chinese>
+					<French>Caisse de ravitaillements [ADF]</French>
+					<Spanish>Caja de suministros [ADF]</Spanish>
+					<Italian>Scatola di rifornimenti [ADF]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [ADF]</Polish>
+					<Russian>Ящик с припасами [ADF]</Russian>
+					<German>Nachschubkiste [ADF]</German>
+					<Czech>Bedna se zásobami [ADF]</Czech>
+					<English>Supply Box [ADF]</English>
+					<Portuguese>Caixa de suprimentos [ADF]</Portuguese>
+					<Korean>보급상자[ADF]</Korean>
+					<Chinesesimp>供给箱 [ADF]</Chinesesimp>
+					<Japanese>物資箱[ADF]</Japanese>
+					<Turkish>İkmal Kutusu [ADF]</Turkish>
+				</Key>
 			</Container>
 			<Container name="Bags">
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_whex_F0">

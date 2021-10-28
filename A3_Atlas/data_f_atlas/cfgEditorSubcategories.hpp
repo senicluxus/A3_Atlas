@@ -21,7 +21,7 @@ class CfgEditorSubcategories
 	{
 		displayName = "Ammo (Takistani Army)";
 	};
-	class EdSubcat_Ammo_ANZAC
+	class EdSubcat_Ammo_ADF
 	{
 		displayName = "Ammo (ADF)";
 	};
