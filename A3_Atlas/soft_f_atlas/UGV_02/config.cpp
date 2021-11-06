@@ -16,6 +16,7 @@ class CfgVehicles
 	#include "cfgBlufor_Atlas.hpp"		// Germany
 	#include "cfgADF.hpp"               // ADF
 	#include "cfgIDF.hpp"				// IDF
+	#include "cfgUNO.hpp"				// UNO
     // Deprecated classes
     #include "deprecated.hpp"
 };

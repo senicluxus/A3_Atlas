@@ -22,7 +22,7 @@ class Atlas_I_I_supplyCrate_F: I_supplyCrate_F
 		mag_xx(150Rnd_762x51_Box_Yellow,3);
 		mag_xx(9Rnd_45ACP_Mag,2);
 		mag_xx(chemlight_green,2);
-		mag_xx(I_I_IR_Grenade,2);
+		mag_xx(I_IR_Grenade,2);
 		mag_xx(Laserbatteries,1);
 		mag_xx(UGL_FlareGreen_F,2);
 		mag_xx(UGL_FlareYellow_F,2);

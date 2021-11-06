@@ -18,6 +18,11 @@ class CfgPatches
             Atlas_I_C_UGV_02_Demining_backpack_F,
             Atlas_I_C_UGV_02_Demining_F,
 
+            // UNO
+            Atlas_I_UNO_UGV_02_Demining_backpack_F,
+            Atlas_I_UNO_UGV_02_Demining_F,
+            Atlas_I_UNO_wdl_UGV_02_Demining_F,
+
             // IDF
             Atlas_I_I_UGV_02_Demining_backpack_F,
             Atlas_I_I_UGV_02_Demining_F

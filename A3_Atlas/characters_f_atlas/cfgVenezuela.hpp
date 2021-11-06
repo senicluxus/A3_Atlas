@@ -1552,6 +1552,58 @@ class Atlas_O_VZ_Soldier_recon_base: Atlas_O_VZ_Soldier_Base_F
     icon = iconManRecon;
 	role = Rifleman;
 };
+class Atlas_O_VZ_Recon_F: Atlas_O_VZ_Soldier_recon_base
+{
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_recon_F.jpg";
+	author = $STR_A3_A_BranFlakes;
+    scope = public;
+    scopeCurator = public;
+	displayName = $STR_B_recon_F0;
+	linkedItems[] =
+	{
+		V_SmershVest_01_radio_F,
+		H_Booniehat_mgrn_hs,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_SmershVest_01_radio_F,
+		H_Booniehat_mgrn_hs,
+		DefaultManLeaderLinkedItems,
+		NVGoggles_INDEP
+	};
+	weapons[] =
+    {
+        arifle_AUG_C_black_slcr_arco_F,
+        hgun_G17_black_F,
+        DefaultManWeapons,
+		Rangefinder
+    };
+    respawnWeapons[] =
+    {
+        arifle_AUG_C_black_slcr_arco_F,
+        hgun_G17_black_F,
+        DefaultManWeapons,
+		Rangefinder
+    };
+    magazines[] =
+    {
+        mag_8(30Rnd_556x45_AUG_Mag_F),
+        mag_2(17Rnd_9x21_Mag),
+		mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_red)
+    };
+    respawnMagazines[] =
+    {
+       	mag_8(30Rnd_556x45_AUG_Mag_F),
+        mag_2(17Rnd_9x21_Mag),
+  		mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_red)
+    };
+};
 class Atlas_O_VZ_recon_TL_F: Atlas_O_VZ_Soldier_recon_base
 {
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_VZ_recon_TL_F.jpg";

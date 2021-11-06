@@ -155,6 +155,40 @@
 				<Japanese>Naiyana AR-2</Japanese>
 				<Turkish>Naiyana AR-2</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_01_backpack_F0">
+				<Original>UAV Bag (AR-2) [UNO]</Original>
+				<Chinese>無人機袋子（AR-2）（UNO）</Chinese>
+				<French>Sac drone (AR-2) [UNO]</French>
+				<Spanish>Bolsa de VANT (AR-2) [UNO]</Spanish>
+				<Italian>Borsa UAV (AR-2) [UNO]</Italian>
+				<Polish>Torba na drona (AR-2) [UNO]</Polish>
+				<Russian>Сумка для БПЛА (AR-2) [UNO]</Russian>
+				<German>UAV-Tasche (AR-2) [UNO]</German>
+				<Czech>UAV vak (AR-2) [UNO]</Czech>
+				<English>UAV Bag (AR-2) [UNO]</English>
+				<Portuguese>Compartimento de VANT (AR-2) [UNO]</Portuguese>
+				<Korean>UAV 가방 (AR-2) [UNO]</Korean>
+				<Chinesesimp>UAV 包（AR-2）[UNO]</Chinesesimp>
+				<Japanese>UAV バッグ（AR-2）[UNO]</Japanese>
+				<Turkish>İHA Çantası (AR-2) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_01_backpack_F_assembleInfo0">
+				<Original>AR-2 Darter</Original>
+				<Chinese>AR-2 Darter</Chinese>
+				<French>AR-2 Darter</French>
+				<Spanish>AR-2 Darter</Spanish>
+				<Italian>AR-2 Darter</Italian>
+				<Polish>AR-2 Darter</Polish>
+				<Russian>AR-2 Darter</Russian>
+				<German>AR-2 Darter</German>
+				<Czech>AR-2 Darter</Czech>
+				<English>AR-2 Darter</English>
+				<Portuguese>AR-2 Darter</Portuguese>
+				<Korean>AR-2 Darter</Korean>
+				<Chinesesimp>AR-2 Darter</Chinesesimp>
+				<Japanese>AR-2 Darter</Japanese>
+				<Turkish>AR-2 Darter</Turkish>
+			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_UAV_02_dynamicLoadout_F0">
 				<Original>MQ-4I Yanshuf</Original>
 				<Chinese>MQ-4I Yanshuf</Chinese>
@@ -324,6 +358,142 @@
 				<Chinesesimp>Pashosh AL-6（医疗）</Chinesesimp>
 				<Japanese>Pashosh AL-6（医療用）</Japanese>
 				<Turkish>Pashosh AL-6 (Sıhhiye)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_F0">
+				<Original>AL-6 Pelican</Original>
+				<Chinese>AL-6 Pelican</Chinese>
+				<French>AL-6 Pelican</French>
+				<Spanish>AL-6 Pelican</Spanish>
+				<Italian>AL-6 Pelican</Italian>
+				<Polish>AL-6 Pelican</Polish>
+				<Russian>AL-6 Pelican</Russian>
+				<German>AL-6 Pelican</German>
+				<Czech>AL-6 Pelican</Czech>
+				<English>AL-6 Pelican</English>
+				<Portuguese>AL-6 Pelican</Portuguese>
+				<Korean>AL-6 Pelican</Korean>
+				<Chinesesimp>AL-6 Pelican</Chinesesimp>
+				<Japanese>AL-6 Pelican</Japanese>
+				<Turkish>AL-6 Pelican</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_medical_F0">
+				<Original>AL-6 Pelican (Medical)</Original>
+				<Chinese>AL-6 Pelican（醫療用）</Chinese>
+				<French>AL-6 Pelican (médical)</French>
+				<Spanish>AL-6 Pelican (médico)</Spanish>
+				<Italian>AL-6 Pelican (medico)</Italian>
+				<Polish>AL-6 Pelican (medyczny)</Polish>
+				<Russian>AL-6 Pelican (медицинский)</Russian>
+				<German>AL-6 Pelican (Medizin)</German>
+				<Czech>AL-6 Pelican (zdravotnický)</Czech>
+				<English>AL-6 Pelican (Medical)</English>
+				<Portuguese>AL-6 Pelican (médico)</Portuguese>
+				<Korean>AL-6 Pelican (의무)</Korean>
+				<Chinesesimp>AL-6 Pelican（医疗）</Chinesesimp>
+				<Japanese>AL-6 Pelican（医療用）</Japanese>
+				<Turkish>AL-6 Pelican (Sıhhiye)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_Box_I_UNO_UAV_06_F0">
+				<Original>AL-6 Case [UNO]</Original>
+				<Chinese>AL-6 外箱（UNO）</Chinese>
+				<French>Mallette AL-6 [UNO]</French>
+				<Spanish>Compartimento de AL-6 [UNO]</Spanish>
+				<Italian>Contenitore AL-6 [UNO]</Italian>
+				<Polish>Skrzynia AL-6 [UNO]</Polish>
+				<Russian>AL-6 Case [UNO]</Russian>
+				<German>AL-6-Koffer [UNO]</German>
+				<Czech>Bedna na AL-6 [UNO]</Czech>
+				<English>AL-6 Case [UNO]</English>
+				<Portuguese>Caixa de AL-6 [UNO]</Portuguese>
+				<Korean>AL-6 Case [UNO]</Korean>
+				<Chinesesimp>AL-6 箱 [UNO]</Chinesesimp>
+				<Japanese>AL-6 用ケース [UNO]</Japanese>
+				<Turkish>AL-6 Çantası [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_Box_I_UNO_UAV_06_medical_F0">
+				<Original>AL-6 Case (Medical) [UNO]</Original>
+				<Chinese>AL-6 外箱（醫療用）（UNO）</Chinese>
+				<French>Mallette AL-6 (médical) [UNO]</French>
+				<Spanish>Compartimento de AL-6 (médico) [UNO]</Spanish>
+				<Italian>Contenitore AL-6 (medico) [UNO]</Italian>
+				<Polish>Skrzynia AL-6 (medyczna) [UNO]</Polish>
+				<Russian>AL-6 Case (медицинский) [UNO]</Russian>
+				<German>AL-6-Koffer (Medizin) [UNO]</German>
+				<Czech>Bedna na AL-6 (zdravotnický) [UNO]</Czech>
+				<English>AL-6 Case (Medical) [UNO]</English>
+				<Portuguese>Caixa de AL-6 (médico) [UNO]</Portuguese>
+				<Korean>AL-6 Case (의무) [UNO]</Korean>
+				<Chinesesimp>AL-6 箱（医疗）[UNO]</Chinesesimp>
+				<Japanese>AL-6 用ケース（医療用）[UNO]</Japanese>
+				<Turkish>AL-6 Çantası (Sıhhiye) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_backpack_F0">
+				<Original>UAV Bag (AL-6) [UNO]</Original>
+				<Chinese>無人機袋子（AL-6）（UNO）</Chinese>
+				<French>Sac drone (AL-6) [UNO]</French>
+				<Spanish>Bolsa de VANT (AL-6) [UNO]</Spanish>
+				<Italian>Borsa UAV (AL-6) [UNO]</Italian>
+				<Polish>Torba na drona (AL-6) [UNO]</Polish>
+				<Russian>Сумка для БПЛА (AL-6) [UNO]</Russian>
+				<German>UAV-Tasche (AL-6) [UNO]</German>
+				<Czech>UAV vak (AL-6) [UNO]</Czech>
+				<English>UAV Bag (AL-6) [UNO]</English>
+				<Portuguese>Compartimento de VANT (AL-6) [UNO]</Portuguese>
+				<Korean>UAV 가방 (AL-6) [UNO]</Korean>
+				<Chinesesimp>UAV 包（AL-6）[UNO]</Chinesesimp>
+				<Japanese>UAV バッグ（AL-6）[UNO]</Japanese>
+				<Turkish>İHA Çantası (AL-6) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_backpack_F_assembleInfo0">
+				<Original>AL-6 Pelican</Original>
+				<Chinese>AL-6 Pelican</Chinese>
+				<French>AL-6 Pelican</French>
+				<Spanish>AL-6 Pelican</Spanish>
+				<Italian>AL-6 Pelican</Italian>
+				<Polish>AL-6 Pelican</Polish>
+				<Russian>AL-6 Pelican</Russian>
+				<German>AL-6 Pelican</German>
+				<Czech>AL-6 Pelican</Czech>
+				<English>AL-6 Pelican</English>
+				<Portuguese>AL-6 Pelican</Portuguese>
+				<Korean>AL-6 Pelican</Korean>
+				<Chinesesimp>AL-6 Pelican</Chinesesimp>
+				<Japanese>AL-6 Pelican</Japanese>
+				<Turkish>AL-6 Pelican</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_medical_backpack_F0">
+				<Original>UAV Bag (AL-6, Medical) [UNO]</Original>
+				<Chinese>無人機袋子（AL-6，醫療用）（UNO）</Chinese>
+				<French>Sac drone (AL-6, médical) [UNO]</French>
+				<Spanish>Bolsa de VANT (AL-6, médico) [UNO]</Spanish>
+				<Italian>Borsa UAV (AL-6, medica) [UNO]</Italian>
+				<Polish>Torba na drona (AL-6, medyczny) [UNO]</Polish>
+				<Russian>Сумка, БПЛА (AL-6,мед.) [UNO]</Russian>
+				<German>UAV-Tasche (AL-6, Medizin) [UNO]</German>
+				<Czech>UAV vak (AL-6, zdravotnický) [UNO]</Czech>
+				<English>UAV Bag (AL-6, Medical) [UNO]</English>
+				<Portuguese>Compartimento de VANT (AL-6, médico) [UNO]</Portuguese>
+				<Korean>UAV 가방 (AL-6, 의료) [UNO]</Korean>
+				<Chinesesimp>UAV 包（AL-6，医疗）[UNO]</Chinesesimp>
+				<Japanese>UAV バッグ（AL-6、医療用） [UNO]</Japanese>
+				<Turkish>İHA Çantası (AL-6, Sıhhiye) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_medical_backpack_F_assembleInfo0">
+				<Original>AL-6 Pelican (Medical)</Original>
+				<Chinese>AL-6 Pelican（醫療用）</Chinese>
+				<French>AL-6 Pelican (médical)</French>
+				<Spanish>AL-6 Pelican (médico)</Spanish>
+				<Italian>AL-6 Pelican (medico)</Italian>
+				<Polish>AL-6 Pelican (medyczny)</Polish>
+				<Russian>AL-6 Pelican (медицинский)</Russian>
+				<German>AL-6 Pelican (Medizin)</German>
+				<Czech>AL-6 Pelican (zdravotnický)</Czech>
+				<English>AL-6 Pelican (Medical)</English>
+				<Portuguese>AL-6 Pelican (médico)</Portuguese>
+				<Korean>AL-6 Pelican (의무)</Korean>
+				<Chinesesimp>AL-6 Pelican（医疗）</Chinesesimp>
+				<Japanese>AL-6 Pelican（医療用）</Japanese>
+				<Turkish>AL-6 Pelican (Sıhhiye)</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Plane_Fighter_05_F0">
 				<Original>F-38I Aiit</Original>
@@ -3703,6 +3873,40 @@
 				<Japanese>UGV バッグ (ED-1D) [Israel]</Japanese>
 				<Turkish>UGV Çantası (ED-1D) [Israel]</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UGV_02_Demining_backpack_F0">
+				<Original>UGV Bag (ED-1D) [UNO]</Original>
+				<Chinese>無人地面載具袋子（ED-1D）（UNO）</Chinese>
+				<French>Sac drone terrestre (ED-1D) [UNO]</French>
+				<Spanish>Bolsa de VTNT (ED-1D) [UNO]</Spanish>
+				<Italian>Borsa UGV (ED-1D) [UNO]</Italian>
+				<Polish>Torba na UGV (ED-1D) [UNO]</Polish>
+				<Russian>Сумка для БПА (ED-1D) [UNO]</Russian>
+				<German>UGV-Tragetasche (ED-1D) [UNO]</German>
+				<Czech>Batoh, bezpilotní vozidlo (ED-1D) [UNO]</Czech>
+				<English>UGV Bag (ED-1D) [UNO]</English>
+				<Portuguese>Bolsa VTNT (ED-1D) [UNO]</Portuguese>
+				<Korean>UGV 가방 (ED-1D) [UNO]</Korean>
+				<Chinesesimp>UGV 包（ED-1D）[UNO]</Chinesesimp>
+				<Japanese>UGV バッグ (ED-1D) [UNO]</Japanese>
+				<Turkish>UGV Çantası (ED-1D) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UGV_02_Demining_backpack_F_assembleInfo0">
+				<Original>UGV Bag (ED-1D) [UNO]</Original>
+				<Chinese>無人地面載具袋子（ED-1D）（UNO）</Chinese>
+				<French>Sac drone terrestre (ED-1D) [UNO]</French>
+				<Spanish>Bolsa de VTNT (ED-1D) [UNO]</Spanish>
+				<Italian>Borsa UGV (ED-1D) [UNO]</Italian>
+				<Polish>Torba na UGV (ED-1D) [UNO]</Polish>
+				<Russian>Сумка для БПА (ED-1D) [UNO]</Russian>
+				<German>UGV-Tragetasche (ED-1D) [UNO]</German>
+				<Czech>Batoh, bezpilotní vozidlo (ED-1D) [UNO]</Czech>
+				<English>UGV Bag (ED-1D) [UNO]</English>
+				<Portuguese>Bolsa VTNT (ED-1D) [UNO]</Portuguese>
+				<Korean>UGV 가방 (ED-1D) [UNO]</Korean>
+				<Chinesesimp>UGV 包（ED-1D）[UNO]</Chinesesimp>
+				<Japanese>UGV バッグ (ED-1D) [UNO]</Japanese>
+				<Turkish>UGV Çantası (ED-1D) [UNO]</Turkish>
+			</Key>
 		</Container>
 		<Container name="Static_F">
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Static_AA_F0">
@@ -4393,6 +4597,312 @@
 					<Chinesesimp>供给箱 [Israel]</Chinesesimp>
 					<Japanese>物資箱[Israel]</Japanese>
 					<Turkish>İkmal Kutusu [Israel]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_TKA_Wps_F0">
+					<Original>Basic Weapons [Takistan]</Original>
+					<Chinese>基本武器（Takistan）</Chinese>
+					<French>Armes de base [Takistan]</French>
+					<Spanish>Armas básicas [Takistan]</Spanish>
+					<Italian>Armi di base [Takistan]</Italian>
+					<Polish>Broń podstawowa [Takistan]</Polish>
+					<Russian>Основное оружие [Takistan]</Russian>
+					<German>Standardwaffen [Takistan]</German>
+					<Czech>Základní zbraně [Takistan]</Czech>
+					<English>Basic Weapons [Takistan]</English>
+					<Portuguese>Armas básicas [Takistan]</Portuguese>
+					<Korean>기본무기[Takistan]</Korean>
+					<Chinesesimp>基本武器 [Takistan]</Chinesesimp>
+					<Japanese>基本武器[Takistan]</Japanese>
+					<Turkish>Temel Silahlar [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_TKA_Ammo_F0">
+					<Original>Basic Ammo [Takistan]</Original>
+					<Chinese>基本彈藥（Takistan）</Chinese>
+					<French>Munitions de base [Takistan]</French>
+					<Spanish>Munición básica [Takistan]</Spanish>
+					<Italian>Munizioni di base [Takistan]</Italian>
+					<Polish>Amunicja podstawowa [Takistan]</Polish>
+					<Russian>Основные боеприпасы [Takistan]</Russian>
+					<German>Standardmunition [Takistan]</German>
+					<Czech>Základní munice [Takistan]</Czech>
+					<English>Basic Ammo [Takistan]</English>
+					<Portuguese>Munição básica [Takistan]</Portuguese>
+					<Korean>기본 탄약[Takistan]</Korean>
+					<Chinesesimp>基本弹药 [Takistan]</Chinesesimp>
+					<Japanese>基本弾薬[Takistan]</Japanese>
+					<Turkish>Temel Mühimmat [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_TKA_WpsLaunch_F0">
+					<Original>Launchers [Takistan]</Original>
+					<Chinese>發射器（Takistan）</Chinese>
+					<French>Lanceurs [Takistan]</French>
+					<Spanish>Lanzadores [Takistan]</Spanish>
+					<Italian>Lanciatori [Takistan]</Italian>
+					<Polish>Wyrzutnie [Takistan]</Polish>
+					<Russian>Пусковые установки [Takistan]</Russian>
+					<German>Werfer [Takistan]</German>
+					<Czech>Raketomety [Takistan]</Czech>
+					<English>Launchers [Takistan]</English>
+					<Portuguese>Lançadores [Takistan]</Portuguese>
+					<Korean>발사기[Takistan]</Korean>
+					<Chinesesimp>发射器 [Takistan]</Chinesesimp>
+					<Japanese>ランチャー[Takistan]</Japanese>
+					<Turkish>Fırlatıcılar [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_O_TKA_supplyCrate_F0">
+					<Original>Supply Box [Takistan]</Original>
+					<Chinese>補給盒（Takistan）</Chinese>
+					<French>Caisse de ravitaillements [Takistan]</French>
+					<Spanish>Caja de suministros [Takistan]</Spanish>
+					<Italian>Scatola di rifornimenti [Takistan]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [Takistan]</Polish>
+					<Russian>Ящик с припасами [Takistan]</Russian>
+					<German>Nachschubkiste [Takistan]</German>
+					<Czech>Bedna se zásobami [Takistan]</Czech>
+					<English>Supply Box [Takistan]</English>
+					<Portuguese>Caixa de suprimentos [Takistan]</Portuguese>
+					<Korean>보급상자[Takistan]</Korean>
+					<Chinesesimp>供给箱 [Takistan]</Chinesesimp>
+					<Japanese>物資箱[Takistan]</Japanese>
+					<Turkish>İkmal Kutusu [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_VZ_Wps_F0">
+					<Original>Basic Weapons [Venezuela]</Original>
+					<Chinese>基本武器（Venezuela）</Chinese>
+					<French>Armes de base [Venezuela]</French>
+					<Spanish>Armas básicas [Venezuela]</Spanish>
+					<Italian>Armi di base [Venezuela]</Italian>
+					<Polish>Broń podstawowa [Venezuela]</Polish>
+					<Russian>Основное оружие [Venezuela]</Russian>
+					<German>Standardwaffen [Venezuela]</German>
+					<Czech>Základní zbraně [Venezuela]</Czech>
+					<English>Basic Weapons [Venezuela]</English>
+					<Portuguese>Armas básicas [Venezuela]</Portuguese>
+					<Korean>기본무기[Venezuela]</Korean>
+					<Chinesesimp>基本武器 [Venezuela]</Chinesesimp>
+					<Japanese>基本武器[Venezuela]</Japanese>
+					<Turkish>Temel Silahlar [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_VZ_Ammo_F0">
+					<Original>Basic Ammo [Venezuela]</Original>
+					<Chinese>基本彈藥（Venezuela）</Chinese>
+					<French>Munitions de base [Venezuela]</French>
+					<Spanish>Munición básica [Venezuela]</Spanish>
+					<Italian>Munizioni di base [Venezuela]</Italian>
+					<Polish>Amunicja podstawowa [Venezuela]</Polish>
+					<Russian>Основные боеприпасы [Venezuela]</Russian>
+					<German>Standardmunition [Venezuela]</German>
+					<Czech>Základní munice [Venezuela]</Czech>
+					<English>Basic Ammo [Venezuela]</English>
+					<Portuguese>Munição básica [Venezuela]</Portuguese>
+					<Korean>기본 탄약[Venezuela]</Korean>
+					<Chinesesimp>基本弹药 [Venezuela]</Chinesesimp>
+					<Japanese>基本弾薬[Venezuela]</Japanese>
+					<Turkish>Temel Mühimmat [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_VZ_WpsLaunch_F0">
+					<Original>Launchers [Venezuela]</Original>
+					<Chinese>發射器（Venezuela）</Chinese>
+					<French>Lanceurs [Venezuela]</French>
+					<Spanish>Lanzadores [Venezuela]</Spanish>
+					<Italian>Lanciatori [Venezuela]</Italian>
+					<Polish>Wyrzutnie [Venezuela]</Polish>
+					<Russian>Пусковые установки [Venezuela]</Russian>
+					<German>Werfer [Venezuela]</German>
+					<Czech>Raketomety [Venezuela]</Czech>
+					<English>Launchers [Venezuela]</English>
+					<Portuguese>Lançadores [Venezuela]</Portuguese>
+					<Korean>발사기[Venezuela]</Korean>
+					<Chinesesimp>发射器 [Venezuela]</Chinesesimp>
+					<Japanese>ランチャー[Venezuela]</Japanese>
+					<Turkish>Fırlatıcılar [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_O_VZ_supplyCrate_F0">
+					<Original>Supply Box [Venezuela]</Original>
+					<Chinese>補給盒（Venezuela）</Chinese>
+					<French>Caisse de ravitaillements [Venezuela]</French>
+					<Spanish>Caja de suministros [Venezuela]</Spanish>
+					<Italian>Scatola di rifornimenti [Venezuela]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [Venezuela]</Polish>
+					<Russian>Ящик с припасами [Venezuela]</Russian>
+					<German>Nachschubkiste [Venezuela]</German>
+					<Czech>Bedna se zásobami [Venezuela]</Czech>
+					<English>Supply Box [Venezuela]</English>
+					<Portuguese>Caixa de suprimentos [Venezuela]</Portuguese>
+					<Korean>보급상자[Venezuela]</Korean>
+					<Chinesesimp>供给箱 [Venezuela]</Chinesesimp>
+					<Japanese>物資箱[Venezuela]</Japanese>
+					<Turkish>İkmal Kutusu [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_I_UNO_supplyCrate_F0">
+					<Original>Supply Box [UNO Sahrani]</Original>
+					<Chinese>補給盒（UNO Sahrani）</Chinese>
+					<French>Caisse de ravitaillements [UNO Sahrani]</French>
+					<Spanish>Caja de suministros [UNO Sahrani]</Spanish>
+					<Italian>Scatola di rifornimenti [UNO Sahrani]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [UNO Sahrani]</Polish>
+					<Russian>Ящик с припасами [UNO Sahrani]</Russian>
+					<German>Nachschubkiste [UNO Sahrani]</German>
+					<Czech>Bedna se zásobami [UNO Sahrani]</Czech>
+					<English>Supply Box [UNO Sahrani]</English>
+					<Portuguese>Caixa de suprimentos [UNO Sahrani]</Portuguese>
+					<Korean>보급상자[UNO Sahrani]</Korean>
+					<Chinesesimp>供给箱 [UNO Sahrani]</Chinesesimp>
+					<Japanese>物資箱[UNO Sahrani]</Japanese>
+					<Turkish>İkmal Kutusu [UNO Sahrani]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_I_UNO_wdl_supplyCrate_F0">
+					<Original>Supply Box [UNO Chernarus]</Original>
+					<Chinese>補給盒（UNO Chernarus）</Chinese>
+					<French>Caisse de ravitaillements [UNO Chernarus]</French>
+					<Spanish>Caja de suministros [UNO Chernarus]</Spanish>
+					<Italian>Scatola di rifornimenti [UNO Chernarus]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [UNO Chernarus]</Polish>
+					<Russian>Ящик с припасами [UNO Chernarus]</Russian>
+					<German>Nachschubkiste [UNO Chernarus]</German>
+					<Czech>Bedna se zásobami [UNO Chernarus]</Czech>
+					<English>Supply Box [UNO Chernarus]</English>
+					<Portuguese>Caixa de suprimentos [UNO Chernarus]</Portuguese>
+					<Korean>보급상자[UNO Chernarus]</Korean>
+					<Chinesesimp>供给箱 [UNO Chernarus]</Chinesesimp>
+					<Japanese>物資箱[UNO Chernarus]</Japanese>
+					<Turkish>İkmal Kutusu [UNO Chernarus]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_Marar_Wps_F0">
+					<Original>Basic Weapons [Marar]</Original>
+					<Chinese>基本武器（Marar）</Chinese>
+					<French>Armes de base [Marar]</French>
+					<Spanish>Armas básicas [Marar]</Spanish>
+					<Italian>Armi di base [Marar]</Italian>
+					<Polish>Broń podstawowa [Marar]</Polish>
+					<Russian>Основное оружие [Marar]</Russian>
+					<German>Standardwaffen [Marar]</German>
+					<Czech>Základní zbraně [Marar]</Czech>
+					<English>Basic Weapons [Marar]</English>
+					<Portuguese>Armas básicas [Marar]</Portuguese>
+					<Korean>기본무기[Marar]</Korean>
+					<Chinesesimp>基本武器 [Marar]</Chinesesimp>
+					<Japanese>基本武器[Marar]</Japanese>
+					<Turkish>Temel Silahlar [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_Marar_Ammo_F0">
+					<Original>Basic Ammo [Marar]</Original>
+					<Chinese>基本彈藥（Marar）</Chinese>
+					<French>Munitions de base [Marar]</French>
+					<Spanish>Munición básica [Marar]</Spanish>
+					<Italian>Munizioni di base [Marar]</Italian>
+					<Polish>Amunicja podstawowa [Marar]</Polish>
+					<Russian>Основные боеприпасы [Marar]</Russian>
+					<German>Standardmunition [Marar]</German>
+					<Czech>Základní munice [Marar]</Czech>
+					<English>Basic Ammo [Marar]</English>
+					<Portuguese>Munição básica [Marar]</Portuguese>
+					<Korean>기본 탄약[Marar]</Korean>
+					<Chinesesimp>基本弹药 [Marar]</Chinesesimp>
+					<Japanese>基本弾薬[Marar]</Japanese>
+					<Turkish>Temel Mühimmat [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_Marar_WpsLaunch_F0">
+					<Original>Launchers [Marar]</Original>
+					<Chinese>發射器（Marar）</Chinese>
+					<French>Lanceurs [Marar]</French>
+					<Spanish>Lanzadores [Marar]</Spanish>
+					<Italian>Lanciatori [Marar]</Italian>
+					<Polish>Wyrzutnie [Marar]</Polish>
+					<Russian>Пусковые установки [Marar]</Russian>
+					<German>Werfer [Marar]</German>
+					<Czech>Raketomety [Marar]</Czech>
+					<English>Launchers [Marar]</English>
+					<Portuguese>Lançadores [Marar]</Portuguese>
+					<Korean>발사기[Marar]</Korean>
+					<Chinesesimp>发射器 [Marar]</Chinesesimp>
+					<Japanese>ランチャー[Marar]</Japanese>
+					<Turkish>Fırlatıcılar [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_M_supplyCrate_F0">
+					<Original>Supply Box [Marar]</Original>
+					<Chinese>補給盒（Marar）</Chinese>
+					<French>Caisse de ravitaillements [Marar]</French>
+					<Spanish>Caja de suministros [Marar]</Spanish>
+					<Italian>Scatola di rifornimenti [Marar]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [Marar]</Polish>
+					<Russian>Ящик с припасами [Marar]</Russian>
+					<German>Nachschubkiste [Marar]</German>
+					<Czech>Bedna se zásobami [Marar]</Czech>
+					<English>Supply Box [Marar]</English>
+					<Portuguese>Caixa de suprimentos [Marar]</Portuguese>
+					<Korean>보급상자[Marar]</Korean>
+					<Chinesesimp>供给箱 [Marar]</Chinesesimp>
+					<Japanese>物資箱[Marar]</Japanese>
+					<Turkish>İkmal Kutusu [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_ADF_Wps_F0">
+					<Original>Basic Weapons [ADF]</Original>
+					<Chinese>基本武器（ADF）</Chinese>
+					<French>Armes de base [ADF]</French>
+					<Spanish>Armas básicas [ADF]</Spanish>
+					<Italian>Armi di base [ADF]</Italian>
+					<Polish>Broń podstawowa [ADF]</Polish>
+					<Russian>Основное оружие [ADF]</Russian>
+					<German>Standardwaffen [ADF]</German>
+					<Czech>Základní zbraně [ADF]</Czech>
+					<English>Basic Weapons [ADF]</English>
+					<Portuguese>Armas básicas [ADF]</Portuguese>
+					<Korean>기본무기[ADF]</Korean>
+					<Chinesesimp>基本武器 [ADF]</Chinesesimp>
+					<Japanese>基本武器[ADF]</Japanese>
+					<Turkish>Temel Silahlar [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_ADF_Ammo_F0">
+					<Original>Basic Ammo [ADF]</Original>
+					<Chinese>基本彈藥（ADF）</Chinese>
+					<French>Munitions de base [ADF]</French>
+					<Spanish>Munición básica [ADF]</Spanish>
+					<Italian>Munizioni di base [ADF]</Italian>
+					<Polish>Amunicja podstawowa [ADF]</Polish>
+					<Russian>Основные боеприпасы [ADF]</Russian>
+					<German>Standardmunition [ADF]</German>
+					<Czech>Základní munice [ADF]</Czech>
+					<English>Basic Ammo [ADF]</English>
+					<Portuguese>Munição básica [ADF]</Portuguese>
+					<Korean>기본 탄약[ADF]</Korean>
+					<Chinesesimp>基本弹药 [ADF]</Chinesesimp>
+					<Japanese>基本弾薬[ADF]</Japanese>
+					<Turkish>Temel Mühimmat [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_ADF_WpsLaunch_F0">
+					<Original>Launchers [ADF]</Original>
+					<Chinese>發射器（ADF）</Chinese>
+					<French>Lanceurs [ADF]</French>
+					<Spanish>Lanzadores [ADF]</Spanish>
+					<Italian>Lanciatori [ADF]</Italian>
+					<Polish>Wyrzutnie [ADF]</Polish>
+					<Russian>Пусковые установки [ADF]</Russian>
+					<German>Werfer [ADF]</German>
+					<Czech>Raketomety [ADF]</Czech>
+					<English>Launchers [ADF]</English>
+					<Portuguese>Lançadores [ADF]</Portuguese>
+					<Korean>발사기[ADF]</Korean>
+					<Chinesesimp>发射器 [ADF]</Chinesesimp>
+					<Japanese>ランチャー[ADF]</Japanese>
+					<Turkish>Fırlatıcılar [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_A_supplyCrate_F0">
+					<Original>Supply Box [ADF]</Original>
+					<Chinese>補給盒（ADF）</Chinese>
+					<French>Caisse de ravitaillements [ADF]</French>
+					<Spanish>Caja de suministros [ADF]</Spanish>
+					<Italian>Scatola di rifornimenti [ADF]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [ADF]</Polish>
+					<Russian>Ящик с припасами [ADF]</Russian>
+					<German>Nachschubkiste [ADF]</German>
+					<Czech>Bedna se zásobami [ADF]</Czech>
+					<English>Supply Box [ADF]</English>
+					<Portuguese>Caixa de suprimentos [ADF]</Portuguese>
+					<Korean>보급상자[ADF]</Korean>
+					<Chinesesimp>供给箱 [ADF]</Chinesesimp>
+					<Japanese>物資箱[ADF]</Japanese>
+					<Turkish>İkmal Kutusu [ADF]</Turkish>
 				</Key>
 			</Container>
 			<Container name="Bags">
