@@ -1058,7 +1058,7 @@ class arifle_mk20_plain_holo_pointer_F: arifle_Mk20_plain_F
 		class LinkedItemsOptic
 		{
 			slot = CowsSlot;
-			item = optic_holosight;
+			item = acc_o_FMS;
 		};
 		class LinkedItemsAcc
 		{
@@ -1093,7 +1093,7 @@ class arifle_mk20_gl_plain_holo_pointer_F: arifle_Mk20_gl_plain_F
 		class LinkedItemsOptic
 		{
 			slot = CowsSlot;
-			item = optic_holosight;
+			item = acc_o_FMS;
 		};
 		class LinkedItemsAcc
 		{
