@@ -11,14 +11,15 @@ class Atlas_B_L_LSV_01_armed_F: LSV_01_armed_base_F
 	textureList[] =
 	{
 		Black,0,
-		Olive,1
+		Olive,0,
+		France,1
 	};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_01_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_02_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_03_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_Adds_olive_CO.paa"
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_01_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_02_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_03_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_Adds_fr_CO.paa"
 	};
 	class TransportMagazines
 	{
@@ -55,14 +56,15 @@ class Atlas_B_L_LSV_01_AT_F: LSV_01_AT_base_F
 	textureList[] =
 	{
 		Black,0,
-		Olive,1
+		Olive,0,
+		France,1
 	};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_01_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_02_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_03_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_Adds_olive_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_01_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_02_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_03_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_Adds_fr_CO.paa",
         "\A3\Weapons_F_Beta\Launchers\Titan\Data\Launcher_INDP_CO.paa",
         "\A3\Weapons_F_Beta\Launchers\Titan\Data\TubeM_INDP_CO.paa"
 	};
@@ -89,14 +91,14 @@ class Atlas_B_L_LSV_01_AT_F: LSV_01_AT_base_F
 	};
 	class TextureSources: TextureSources
 	{
-		class Olive: Olive
+		class France
 		{
             textures[] =
             {
-                "\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_01_olive_CO.paa",
-                "\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_02_olive_CO.paa",
-                "\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_03_olive_CO.paa",
-                "\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_Adds_olive_CO.paa",
+                "\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_01_fr_CO.paa",
+                "\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_02_fr_CO.paa",
+                "\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_03_fr_CO.paa",
+                "\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_Adds_fr_CO.paa",
                 "\A3\Weapons_F_Beta\Launchers\Titan\Data\Launcher_INDP_CO.paa",
                 "\A3\Weapons_F_Beta\Launchers\Titan\Data\TubeM_INDP_CO.paa"
             };
@@ -116,14 +118,15 @@ class Atlas_B_L_LSV_01_unarmed_F: LSV_01_unarmed_base_F
 	textureList[] =
 	{
 		Black,0,
-		Olive,1
+		Olive,0,
+		France,1
 	};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_01_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_02_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_03_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_Adds_olive_CO.paa"
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_01_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_02_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_03_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_Adds_fr_CO.paa"
 	};
 	class TransportMagazines
 	{
@@ -160,14 +163,15 @@ class Atlas_B_L_LSV_01_light_F: LSV_01_light_base_F
 	textureList[] =
 	{
 		Black,0,
-		Olive,1
+		Olive,0,
+		France,1
 	};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_01_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_02_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_03_olive_CO.paa",
-		"\A3_Aegis\Soft_F_Aegis\LSV_01\Data\NATO_LSV_Adds_olive_CO.paa"
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_01_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_02_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_03_fr_CO.paa",
+		"\A3_Atlas\Soft_F_Atlas\LSV_01\Data\NATO_LSV_Adds_fr_CO.paa"
 	};
 	class TransportMagazines
 	{

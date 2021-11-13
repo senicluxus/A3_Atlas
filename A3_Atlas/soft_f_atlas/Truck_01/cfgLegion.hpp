@@ -8,12 +8,12 @@ class Atlas_B_L_Truck_01_mover_F: B_Truck_01_mover_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-    textureList[] = {Olive,1};
+    textureList[] = {France,1};
     hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_mprimer_olive_CO.paa"
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_mprimer_fr_CO.paa"
     };
 };
 class Atlas_B_L_Truck_01_ammo_F: B_Truck_01_ammo_F
@@ -26,12 +26,12 @@ class Atlas_B_L_Truck_01_ammo_F: B_Truck_01_ammo_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-    textureList[] = {Olive,1};
+    textureList[] = {France,1};
     hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ammo_olive_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_mprimer_fr_CO.paa",
         "\A3\Structures_F\Data\Metal\Containers\containers_02_set_CO.paa"
     };
 };
@@ -45,12 +45,12 @@ class Atlas_B_L_Truck_01_box_F: B_Truck_01_box_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-    textureList[] = {Olive,1};
+    textureList[] = {France,1};
     hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ammo_olive_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ammo_fr_CO.paa",
         "\A3\Structures_F\Data\Metal\Containers\containers_02_set_CO.paa"
     };
 };
@@ -64,12 +64,12 @@ class Atlas_B_L_Truck_01_fuel_F: B_Truck_01_fuel_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-    textureList[] = {Olive,1};
+    textureList[] = {France,1};
     hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_Fuel_olive_CO.paa"
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_Fuel_fr_CO.paa"
     };
 };
 class Atlas_B_L_Truck_01_medical_F: B_Truck_01_medical_F
@@ -82,13 +82,13 @@ class Atlas_B_L_Truck_01_medical_F: B_Truck_01_medical_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-    textureList[] = {Olive,1};
+    textureList[] = {France,1};
     hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_cargo_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_cover_olive_CO.paa"
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_cargo_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_cover_fr_CO.paa"
     };
 };
 class Atlas_B_L_Truck_01_Repair_F: B_Truck_01_Repair_F
@@ -103,12 +103,12 @@ class Atlas_B_L_Truck_01_Repair_F: B_Truck_01_Repair_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-    textureList[] = {Olive,1};
+    textureList[] = {France,1};
     hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ammo_olive_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ammo_fr_CO.paa",
         "\A3\Structures_F\Data\Metal\Containers\containers_02_set_CO.paa"
     };
 };
@@ -122,13 +122,13 @@ class Atlas_B_L_Truck_01_transport_F: B_Truck_01_transport_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-    textureList[] = {Olive,1};
+    textureList[] = {France,1};
     hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_cargo_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_cover_olive_CO.paa"
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_cargo_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_cover_fr_CO.paa"
     };
 };
 class Atlas_B_L_Truck_01_covered_F: B_Truck_01_covered_F
@@ -141,13 +141,13 @@ class Atlas_B_L_Truck_01_covered_F: B_Truck_01_covered_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-    textureList[] = {Olive,1};
+    textureList[] = {France,1};
     hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_cargo_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_cover_olive_CO.paa"
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_cargo_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_cover_fr_CO.paa"
     };
 };
 class Atlas_B_L_Truck_01_flatbed_F: Truck_01_flatbed_base_F
@@ -161,13 +161,13 @@ class Atlas_B_L_Truck_01_flatbed_F: Truck_01_flatbed_base_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-	textureList[] = {Olive,1};
+	textureList[] = {France,1};
 	hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Enoch\Truck_01\Data\Truck_01_ammo_pacific_CO.paa",
-        "\A3\Soft_F_Enoch\Truck_01\Data\Truck_01_cargo_pacific_CO.paa"
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ammo_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_cargo_fr_CO.paa"
     };
 };
 class Atlas_B_L_Truck_01_cargo_F: Truck_01_cargo_base_F
@@ -181,12 +181,12 @@ class Atlas_B_L_Truck_01_cargo_F: Truck_01_cargo_base_F
     faction = Atlas_BLU_L_F;
     crew = Atlas_B_L_Soldier_F;
     typicalCargo[] = {Atlas_B_L_Soldier_F};
-	textureList[] = {Olive,1};
+	textureList[] = {France,1};
 	hiddenSelectionsTextures[] =
     {
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_01_olive_CO.paa",
-        "\A3\Soft_F_Exp\Truck_01\Data\Truck_01_ext_02_olive_CO.paa",
-        "\A3\Soft_F_Enoch\Truck_01\Data\Truck_01_ammo_pacific_CO.paa",
-        "\A3\Soft_F_Enoch\Truck_01\Data\Truck_01_cargo_pacific_CO.paa"
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_01_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ext_02_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_ammo_fr_CO.paa",
+        "\A3_atlas\Soft_F_Atlas\Truck_01\Data\Truck_01_cargo_fr_CO.paa"
     };
 };
