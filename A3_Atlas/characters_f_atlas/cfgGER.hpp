@@ -1595,12 +1595,14 @@ class Atlas_B_G_Soldier_Lite_F: B_Soldier_lite_F
 	magazines[] =
 	{
 		mag_4(30Rnd_65x39_caseless_msbs_mag),
+		mag_2(16Rnd_9x21_Mag),
         HandGrenade,
         SmokeShell
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_65x39_caseless_msbs_mag),
+		mag_2(16Rnd_9x21_Mag),
         HandGrenade,
         SmokeShell
 	};
