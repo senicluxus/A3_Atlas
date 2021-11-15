@@ -36,6 +36,7 @@ class CfgVehicles
                 };
             };
         };
+        class EventHandlers;
     };
     class Offroad_01_military_comms_base_F: Offroad_01_military_covered_base_F{};
 	// Arma 3 Atlas
