@@ -1935,72 +1935,72 @@
 					<Turkish>Hafif Asker Kıyafeti </Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_ard0">
-					<Original>Combat Fatigues (Arid) [ADF]</Original>
-					<Chinese>作戰戰鬥服 (Arid) [ADF]</Chinese>
-					<French>Treillis (Arid) [ADF]</French>
-					<Spanish>Traje de combate (Arid) [ADF]</Spanish>
-					<Italian>Uniforme da combattimento (Arid) [ADF]</Italian>
-					<Polish>Mundur bojowy (Arid) [ADF]</Polish>
-					<Russian>Боевая форма (Arid) [ADF]</Russian>
-					<German>Kampfanzug (Arid) [ADF]</German>
-					<Czech>Bojová uniforma (Arid) [ADF]</Czech>
-					<English>Combat Fatigues (Arid) [ADF]</English>
-					<Portuguese>Uniforme de combate (Arid) [ADF]</Portuguese>
-					<Korean>전투병 전투복(Arid) [ADF]</Korean>
-					<Chinesesimp>作战服 (Arid) [ADF]</Chinesesimp>
-					<Japanese>戦闘服 (Arid) [ADF]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Arid) [ADF]</Turkish>
+					<Original>Combat Fatigues [ADF] (Arid)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Arid)</Chinese>
+					<French>Treillis [ADF] (Arid)</French>
+					<Spanish>Traje de combate [ADF] (Arid)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Arid)</Italian>
+					<Polish>Mundur bojowy [ADF] (Arid)</Polish>
+					<Russian>Боевая форма [ADF] (Arid)</Russian>
+					<German>Kampfanzug [ADF] (Arid)</German>
+					<Czech>Bojová uniforma [ADF] (Arid)</Czech>
+					<English>Combat Fatigues [ADF] (Arid)</English>
+					<Portuguese>Uniforme de combate [ADF] (Arid)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Arid)</Korean>
+					<Chinesesimp>作战服 [ADF] (Arid)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Arid)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Arid)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_ard0">
-					<Original>Combat Fatigues (Arid) [ADF, Rolled-up]</Original>
-					<Chinese>作戰戰鬥服 (Arid) [ADF, Rolled-up]</Chinese>
-					<French>Treillis (Arid) [ADF, Rolled-up]</French>
-					<Spanish>Traje de combate (Arid) [ADF, Rolled-up]</Spanish>
-					<Italian>Uniforme da combattimento (Arid) [ADF, Rolled-up]</Italian>
-					<Polish>Mundur bojowy (Arid) [ADF, Rolled-up]</Polish>
-					<Russian>Боевая форма (Arid) [ADF, Rolled-up]</Russian>
-					<German>Kampfanzug (Arid) [ADF, Rolled-up]</German>
-					<Czech>Bojová uniforma (Arid) [ADF, Rolled-up]</Czech>
-					<English>Combat Fatigues (Arid) [ADF, Rolled-up]</English>
-					<Portuguese>Uniforme de combate (Arid) [ADF, Rolled-up]</Portuguese>
-					<Korean>전투병 전투복(Arid) [ADF, Rolled-up]</Korean>
-					<Chinesesimp>作战服 (Arid) [ADF, Rolled-up]</Chinesesimp>
-					<Japanese>戦闘服 (Arid) [ADF, Rolled-up]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Arid) [ADF, Rolled-up]</Turkish>
+					<Original>Combat Fatigues [ADF] (Arid, Rolled-up)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Arid, Rolled-up)</Chinese>
+					<French>Treillis [ADF] (Arid, Rolled-up)</French>
+					<Spanish>Traje de combate [ADF] (Arid, Rolled-up)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Arid, Rolled-up)</Italian>
+					<Polish>Mundur bojowy [ADF] (Arid, Rolled-up)</Polish>
+					<Russian>Боевая форма [ADF] (Arid, Rolled-up)</Russian>
+					<German>Kampfanzug [ADF] (Arid, Rolled-up)</German>
+					<Czech>Bojová uniforma [ADF] (Arid, Rolled-up)</Czech>
+					<English>Combat Fatigues [ADF] (Arid, Rolled-up)</English>
+					<Portuguese>Uniforme de combate [ADF] (Arid, Rolled-up)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Arid, Rolled-up)</Korean>
+					<Chinesesimp>作战服 [ADF] (Arid, Rolled-up)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Arid, Rolled-up)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Arid, Rolled-up)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_trp0">
-					<Original>Combat Fatigues (Tropic) [ADF]</Original>
-					<Chinese>作戰戰鬥服 (Tropic) [ADF]</Chinese>
-					<French>Treillis (Tropic) [ADF]</French>
-					<Spanish>Traje de combate (Tropic) [ADF]</Spanish>
-					<Italian>Uniforme da combattimento (Tropic) [ADF]</Italian>
-					<Polish>Mundur bojowy (Tropic) [ADF]</Polish>
-					<Russian>Боевая форма (Tropic) [ADF]</Russian>
-					<German>Kampfanzug (Tropic) [ADF]</German>
-					<Czech>Bojová uniforma (Tropic) [ADF]</Czech>
-					<English>Combat Fatigues (Tropic) [ADF]</English>
-					<Portuguese>Uniforme de combate (Tropic) [ADF]</Portuguese>
-					<Korean>전투병 전투복(Tropic) [ADF]</Korean>
-					<Chinesesimp>作战服 (Tropic) [ADF]</Chinesesimp>
-					<Japanese>戦闘服 (Tropic) [ADF]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Tropic) [ADF]</Turkish>
+					<Original>Combat Fatigues [ADF] (Tropic)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Tropic)</Chinese>
+					<French>Treillis [ADF] (Tropic)</French>
+					<Spanish>Traje de combate [ADF] (Tropic)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Tropic)</Italian>
+					<Polish>Mundur bojowy [ADF] (Tropic)</Polish>
+					<Russian>Боевая форма [ADF] (Tropic)</Russian>
+					<German>Kampfanzug [ADF] (Tropic)</German>
+					<Czech>Bojová uniforma [ADF] (Tropic)</Czech>
+					<English>Combat Fatigues [ADF] (Tropic)</English>
+					<Portuguese>Uniforme de combate [ADF] (Tropic)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Tropic)</Korean>
+					<Chinesesimp>作战服 [ADF] (Tropic)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Tropic)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Tropic)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_trp0">
-					<Original>Combat Fatigues (Tropic) [ADF, Rolled-up]</Original>
-					<Chinese>作戰戰鬥服 (Tropic) [ADF, Rolled-up]</Chinese>
-					<French>Treillis (Tropic) [ADF, Rolled-up]</French>
-					<Spanish>Traje de combate (Tropic) [ADF, Rolled-up]</Spanish>
-					<Italian>Uniforme da combattimento (Tropic) [ADF, Rolled-up]</Italian>
-					<Polish>Mundur bojowy (Tropic) [ADF, Rolled-up]</Polish>
-					<Russian>Боевая форма (Tropic) [ADF, Rolled-up]</Russian>
-					<German>Kampfanzug (Tropic) [ADF, Rolled-up]</German>
-					<Czech>Bojová uniforma (Tropic) [ADF, Rolled-up]</Czech>
-					<English>Combat Fatigues (Tropic) [ADF, Rolled-up]</English>
-					<Portuguese>Uniforme de combate (Tropic) [ADF, Rolled-up]</Portuguese>
-					<Korean>전투병 전투복(Tropic) [ADF, Rolled-up]</Korean>
-					<Chinesesimp>作战服 (Tropic) [ADF, Rolled-up]</Chinesesimp>
-					<Japanese>戦闘服 (Tropic) [ADF, Rolled-up]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Tropic) [ADF, Rolled-up]</Turkish>
+					<Original>Combat Fatigues [ADF] (Tropic, Rolled-up)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Tropic, Rolled-up)</Chinese>
+					<French>Treillis [ADF] (Tropic, Rolled-up)</French>
+					<Spanish>Traje de combate [ADF] (Tropic, Rolled-up)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Tropic, Rolled-up)</Italian>
+					<Polish>Mundur bojowy [ADF] (Tropic, Rolled-up)</Polish>
+					<Russian>Боевая форма [ADF] (Tropic, Rolled-up)</Russian>
+					<German>Kampfanzug [ADF] (Tropic, Rolled-up)</German>
+					<Czech>Bojová uniforma [ADF] (Tropic, Rolled-up)</Czech>
+					<English>Combat Fatigues [ADF] (Tropic, Rolled-up)</English>
+					<Portuguese>Uniforme de combate [ADF] (Tropic, Rolled-up)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Tropic, Rolled-up)</Korean>
+					<Chinesesimp>作战服 [ADF] (Tropic, Rolled-up)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Tropic, Rolled-up)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Tropic, Rolled-up)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo0">
 					<Original>Combat Fatigues [ADF]</Original>
@@ -2020,21 +2020,21 @@
 					<Turkish>Savaş Asker Kıyafeti [ADF]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo0">
-					<Original>Combat Fatigues [ADF, Rolled-up]</Original>
-					<Chinese>作戰戰鬥服 [ADF, Rolled-up]</Chinese>
-					<French>Treillis [ADF, Rolled-up]</French>
-					<Spanish>Traje de combate [ADF, Rolled-up]</Spanish>
-					<Italian>Uniforme da combattimento [ADF, Rolled-up]</Italian>
-					<Polish>Mundur bojowy [ADF, Rolled-up]</Polish>
-					<Russian>Боевая форма [ADF, Rolled-up]</Russian>
-					<German>Kampfanzug [ADF, Rolled-up]</German>
-					<Czech>Bojová uniforma [ADF, Rolled-up]</Czech>
-					<English>Combat Fatigues [ADF, Rolled-up]</English>
-					<Portuguese>Uniforme de combate [ADF, Rolled-up]</Portuguese>
-					<Korean>전투병 전투복[ADF, Rolled-up]</Korean>
-					<Chinesesimp>作战服 [ADF, Rolled-up]</Chinesesimp>
-					<Japanese>戦闘服 [ADF, Rolled-up]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti [ADF, Rolled-up]</Turkish>
+					<Original>Combat Fatigues [ADF] (Rolled-up)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Rolled-up)</Chinese>
+					<French>Treillis [ADF] (Rolled-up)</French>
+					<Spanish>Traje de combate [ADF] (Rolled-up)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Rolled-up)</Italian>
+					<Polish>Mundur bojowy [ADF] (Rolled-up)</Polish>
+					<Russian>Боевая форма [ADF] (Rolled-up)</Russian>
+					<German>Kampfanzug [ADF] (Rolled-up)</German>
+					<Czech>Bojová uniforma [ADF] (Rolled-up)</Czech>
+					<English>Combat Fatigues [ADF] (Rolled-up)</English>
+					<Portuguese>Uniforme de combate [ADF] (Rolled-up)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Rolled-up)</Korean>
+					<Chinesesimp>作战服 [ADF] (Rolled-up)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Rolled-up)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Rolled-up)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_sgg0">
 					<Original>Combat Fatigues (Sage)</Original>
