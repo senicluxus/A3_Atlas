@@ -24,11 +24,11 @@ class CfgWeapons
         baseWeapon = arifle_NCAR15_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15_F0;
-        hiddenSelectionsTextures[] = 
+        /*hiddenSelectionsTextures[] = 
         {
             "\A3_Atlas\Weapons_F_Atlas\Rifles\NCAR15\Data\NCAR15_ncar15_1_co.paa",
             "\A3\Weapons_F_Exp\Rifles\AK12\Data\AK12_ak12_2_co.paa"
-        };
+        };*/
         magazines[] = 
         {
             30Rnd_580x42_Mag_F,
@@ -148,12 +148,12 @@ class CfgWeapons
         baseWeapon =arifle_NCAR15_GL_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15_GL_F0;
-        hiddenSelectionsTextures[] = 
+        /*hiddenSelectionsTextures[] = 
         {
             "\A3_Atlas\Weapons_F_Atlas\Rifles\NCAR15\Data\NCAR15_ncar15_1_co.paa",
             "\A3\Weapons_F_Exp\Rifles\AK12\Data\AK12_ak12_2_co.paa",
             "\A3_Atlas\Weapons_F_Atlas\Rifles\NCAR15\Data\NCAR15_ncar15_gl_co.paa"
-        };
+        };*/
         magazines[] = 
         {
             30Rnd_580x42_Mag_F,
