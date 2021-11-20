@@ -1066,21 +1066,21 @@
 					<Turkish>Boonie Şapka [ADF]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_aucamo_hs_F0">
-					<Original>Booniehat [ADF, headset]</Original>
-					<Chinese>登山帽 [ADF, headset]</Chinese>
-					<French>Chapeau de brousse [ADF, headset]</French>
-					<Spanish>Sombrero militar [ADF, headset]</Spanish>
-					<Italian>Cappello militare a falda larga [ADF, headset]</Italian>
-					<Polish>Kapelusz wojskowy [ADF, headset]</Polish>
-					<Russian>Панама [ADF, headset]</Russian>
-					<German>Tarnhut [ADF, headset]</German>
-					<Czech>Klobouk [ADF, headset]</Czech>
-					<English>Booniehat [ADF, headset]</English>
-					<Portuguese>Chapéu tático [ADF, headset]</Portuguese>
-					<Korean>부니햇 [ADF, headset]</Korean>
-					<Chinesesimp>郊区 [ADF, headset]</Chinesesimp>
-					<Japanese>ブーニーハット [ADF, headset]</Japanese>
-					<Turkish>Boonie Şapka [ADF, headset]</Turkish>
+					<Original>Booniehat [ADF] (Headset)</Original>
+					<Chinese>登山帽 [ADF] (Headset)</Chinese>
+					<French>Chapeau de brousse [ADF] (Headset)</French>
+					<Spanish>Sombrero militar [ADF] (Headset)</Spanish>
+					<Italian>Cappello militare a falda larga [ADF] (Headset)</Italian>
+					<Polish>Kapelusz wojskowy [ADF] (Headset)</Polish>
+					<Russian>Панама [ADF] (Headset)</Russian>
+					<German>Tarnhut [ADF] (Headset)</German>
+					<Czech>Klobouk [ADF] (Headset)</Czech>
+					<English>Booniehat [ADF] (Headset)</English>
+					<Portuguese>Chapéu tático [ADF] (Headset)</Portuguese>
+					<Korean>부니햇 [ADF] (Headset)</Korean>
+					<Chinesesimp>郊区 [ADF] (Headset)</Chinesesimp>
+					<Japanese>ブーニーハット [ADF] (Headset)</Japanese>
+					<Turkish>Boonie Şapka [ADF] (Headset)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Cap_aucamo0">
 					<Original>Cap [ADF]</Original>
