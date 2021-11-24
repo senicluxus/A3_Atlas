@@ -2,8 +2,8 @@ class Atlas_U_I_U_CombatUniform_UNO: Uniform_Base
 {
 	author = "BranFlakes";
 	scope = public;
-	displayName = "Combat Fatigues [Sahrani]";
-	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_I_CombatUniform_olive_CA.paa";
+	displayName = $STR_A3_A_CfgWeapons_U_I_U_CombatUniform_UNO0;
+	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_U_CombatUniform_UNO_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\Uniform_Sahrani_CombatFatigues_Pants.paa"};
@@ -19,8 +19,8 @@ class Atlas_U_I_U_CombatUniform_shortsleeve_UNO: Uniform_Base
 {
 	author = "BranFlakes";
 	scope = public;
-	displayName = "Combat Fatigues (Rolled-up) [Sahrani]";
-	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_I_CombatUniform_shortsleeve_olive_CA.paa";
+	displayName = $STR_A3_A_CfgWeapons_U_I_U_CombatUniform_shortsleeve_UNO0;
+	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_U_CombatUniform_shortsleeve_UNO_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\Uniform_Sahrani_CombatFatigues_Pants.paa"};
@@ -36,8 +36,8 @@ class Atlas_U_I_UW_CombatUniform_UNO: Uniform_Base
 {
 	author = "BranFlakes";
 	scope = public;
-	displayName = "Combat Fatigues [Chernarus]";
-	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_I_CombatUniform_olive_CA.paa";
+	displayName = $STR_A3_A_CfgWeapons_U_I_UW_CombatUniform_UNO0;
+	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_UW_CombatUniform_UNO_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
 	hiddenSelectionsTextures[] =
@@ -58,8 +58,8 @@ class Atlas_U_I_UW_CombatUniform_shortsleeve_UNO: Uniform_Base
 {
 	author = "BranFlakes";
 	scope = public;
-	displayName = "Combat Fatigues (Rolled-up) [Chernarus]";
-	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_I_CombatUniform_shortsleeve_olive_CA.paa";
+	displayName = $STR_A3_A_CfgWeapons_U_I_UW_CombatUniform_shortsleeve_UNO0;
+	//picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_UW_CombatUniform_shortsleeve_UNO_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
 	hiddenSelectionsTextures[] =
