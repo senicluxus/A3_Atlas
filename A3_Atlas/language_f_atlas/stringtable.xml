@@ -5656,6 +5656,23 @@
 						<Japanese>アサルトライフル&lt;br /&gt;口径：5.8x42 mm</Japanese>
 						<Turkish>Saldırı Tüfeği&lt;br /&gt;Kalibre: 5.8x42 mm</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT652_base_F1">
+						<Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm</Original>
+						<Chinese>突擊步槍&lt;br/&gt;口徑：5.8x42 mm</Chinese>
+						<French>Fusil d'assaut&lt;br /&gt;Calibre : 6.5x39 mm</French>
+						<Spanish>Fusil de asalto&lt;br /&gt;Calibre: 6.5x39 mm</Spanish>
+						<Italian>Fucile d'assalto&lt;br /&gt;Calibro: 6.5x39 mm</Italian>
+						<Polish>Karabin szturmowy&lt;br /&gt;Kaliber: 6.5x39 mm</Polish>
+						<Russian>Штурмовая винтовка&lt;br /&gt;Калибр: 6.5x39 мм</Russian>
+						<German>Sturmgewehr&lt;br /&gt;Kaliber: 6.5x39 mm</German>
+						<Czech>Útočná puška&lt;br /&gt;Ráže: 6.5x39 mm</Czech>
+						<English>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm</English>
+						<Portuguese>Fuzil de assalto&lt;br /&gt;Calibre: 6.5x39 mm</Portuguese>
+						<Korean>돌격소총&lt;br /&gt;구경: 5.8x42mm</Korean>
+						<Chinesesimp>突击步枪&lt;br /&gt;口径：6.5x39 毫米</Chinesesimp>
+						<Japanese>アサルトライフル&lt;br /&gt;口径：6.5x39 mm</Japanese>
+						<Turkish>Saldırı Tüfeği&lt;br /&gt;Kalibre: 6.5x39 mm</Turkish>
+					</Key>
 				</Container>
 				<Container name="DisplayName">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_AUG_F0">
@@ -5862,6 +5879,57 @@
 						<Japanese>NCAR-15 5.8 mm</Japanese>
 						<Turkish>NCAR-15 5.8 mm</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT652_F0">
+						<Original>Fort-652 6.5 mm</Original>
+						<Chinese>Fort-652 6.5 mm</Chinese>
+						<French>Fort-652 6.5 mm</French>
+						<Spanish>Fort-652 6.5 mm</Spanish>
+						<Italian>Fort-652 6.5 mm</Italian>
+						<Polish>Fort-652 6.5 mm</Polish>
+						<Russian>Fort-652 6.5 mm</Russian>
+						<German>Fort-652 6.5 mm</German>
+						<Czech>Fort-652 6.5 mm</Czech>
+						<English>Fort-652 6.5 mm</English>
+						<Portuguese>Fort-652 6.5 mm</Portuguese>
+						<Korean>Fort-652 6.5 mm</Korean>
+						<Chinesesimp>Fort-652 6.5 mm</Chinesesimp>
+						<Japanese>Fort-652 6.5 mm</Japanese>
+						<Turkish>Fort-652 6.5 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT652_GL_F0">
+						<Original>Fort-652 GL 6.5 mm</Original>
+						<Chinese>Fort-652 GL 6.5 mm</Chinese>
+						<French>Fort-652 GL 6.5 mm</French>
+						<Spanish>Fort-652 GL 6.5 mm</Spanish>
+						<Italian>Fort-652 GL 6.5 mm</Italian>
+						<Polish>Fort-652 GL 6.5 mm</Polish>
+						<Russian>Fort-652 GL 6.5 mm</Russian>
+						<German>Fort-652 GL 6.5 mm</German>
+						<Czech>Fort-652 GL 6.5 mm</Czech>
+						<English>Fort-652 GL 6.5 mm</English>
+						<Portuguese>Fort-652 GL 6.5 mm</Portuguese>
+						<Korean>Fort-652 GL 6.5 mm</Korean>
+						<Chinesesimp>Fort-652 GL 6.5 mm</Chinesesimp>
+						<Japanese>Fort-652 GL 6.5 mm</Japanese>
+						<Turkish>Fort-652 GL 6.5 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT651_F0">
+						<Original>Fort-651 6.5 mm</Original>
+						<Chinese>Fort-651 6.5 mm</Chinese>
+						<French>Fort-651 6.5 mm</French>
+						<Spanish>Fort-651 6.5 mm</Spanish>
+						<Italian>Fort-651 6.5 mm</Italian>
+						<Polish>Fort-651 6.5 mm</Polish>
+						<Russian>Fort-651 6.5 mm</Russian>
+						<German>Fort-651 6.5 mm</German>
+						<Czech>Fort-651 6.5 mm</Czech>
+						<English>Fort-651 6.5 mm</English>
+						<Portuguese>Fort-651 6.5 mm</Portuguese>
+						<Korean>Fort-651 6.5 mm</Korean>
+						<Chinesesimp>Fort-651 6.5 mm</Chinesesimp>
+						<Japanese>Fort-651 6.5 mm</Japanese>
+						<Turkish>Fort-651 6.5 mm</Turkish>
+					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15B_F0">
 						<Original>NCAR-15B 5.8 mm</Original>
 						<Chinese>NCAR-15B 5.8 mm</Chinese>
@@ -5965,6 +6033,23 @@
 						<Chinesesimp>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Chinesesimp>
 						<Japanese>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Japanese>
 						<Turkish>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT650_base_F_Library0">
+						<Original>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Original>
+						<Chinese>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Chinese>
+						<French>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</French>
+						<Spanish>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Spanish>
+						<Italian>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Italian>
+						<Polish>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Polish>
+						<Russian>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Russian>
+						<German>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</German>
+						<Czech>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Czech>
+						<English>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</English>
+						<Portuguese>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Portuguese>
+						<Korean>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Korean>
+						<Chinesesimp>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Chinesesimp>
+						<Japanese>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Japanese>
+						<Turkish>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Turkish>
 					</Key>
 				</Container>
 			</Container>
