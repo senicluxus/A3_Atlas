@@ -1211,6 +1211,18 @@ class LMG_MK200_black_snds_F: LMG_MK200_black_F
 		};
 	};
 };
+class LMG_MK200_black_cdf_F: LMG_MK200_black_F
+{
+	author = "BranFlakes";
+	class LinkedItems
+	{
+		class LinkedItemsUnder
+		{
+			slot = UnderBarrelSlot;
+			item = bipod_01_F_blk;
+		};
+	};
+};
 class arifle_SPAR_03_blk_F;
 class arifle_SPAR_03_blk_ams_Pointer_Snds_F: arifle_SPAR_03_blk_F
 {

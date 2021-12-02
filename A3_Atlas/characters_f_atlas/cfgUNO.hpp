@@ -911,23 +911,23 @@ class Atlas_I_UNO_wdl_Soldier_A_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	backpack = B_Carryall_green_IUAmmo_F;
 	weapons[] =
 	{
-		arifle_TRG21_F,
+		arifle_FORT652_F,
 		DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG21_F,
+		arifle_FORT652_F,
 		DefaultManWeapons
 	};
 	magazines[] =
 	{
-		mag_6(30Rnd_556x45_stanag_red),
+		mag_6(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell
 	};
 	respawnMagazines[] =
 	{
-		mag_6(30Rnd_556x45_stanag_red),
+		mag_6(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell
 	};
@@ -969,23 +969,23 @@ class Atlas_I_UNO_wdl_Soldier_AR_F: Atlas_I_UNO_wdl_Soldier_Base_F
     uniformClass = Atlas_U_I_UW_CombatUniform_shortsleeve_UNO;
 	weapons[] =
 	{
-		LMG_03_F,
+		LMG_MK200_black_cdf_F,
         DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
-		LMG_03_F,
+		LMG_MK200_black_cdf_F,
         DefaultManWeapons
 	};
 	magazines[] =
 	{
-		mag_3(200Rnd_556x45_Box_Red_F),
+		mag_3(200Rnd_65x39_cased_box_red),
         HandGrenade_Guer,
         SmokeShell
 	};
 	respawnMagazines[] =
 	{
-		mag_2(200Rnd_556x45_Box_Red_F),
+		mag_2(200Rnd_65x39_cased_box_red),
         HandGrenade_Guer,
         SmokeShell
 	};
@@ -1029,24 +1029,24 @@ class Atlas_I_UNO_wdl_Medic_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	backpack = B_AssaultPack_rgr_IUMedic_F;
 	weapons[] =
 	{
-		arifle_TRG21_F,
+		arifle_FORT652_F,
 		DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG21_F,
+		arifle_FORT652_F,
 		DefaultManWeapons
 	};
 	magazines[] =
 	{
-		mag_6(30Rnd_556x45_stanag_red),
+		mag_6(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell,
         SMOKESHELLS_MEDIC
 	};
 	respawnMagazines[] =
 	{
-		mag_6(30Rnd_556x45_stanag_red),
+		mag_6(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell,
         SMOKESHELLS_MEDIC
@@ -1083,12 +1083,12 @@ class Atlas_I_UNO_wdl_Engineer_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	backpack = B_Carryall_green_IUEng_F;
 	weapons[] =
 	{
-		arifle_TRG21_F,
+		arifle_FORT652_F,
 		DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG21_F,
+		arifle_FORT652_F,
 		DefaultManWeapons
 	};
 	magazines[] =
@@ -1127,17 +1127,17 @@ class Atlas_I_UNO_wdl_Soldier_GL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	cost = 200000;
 	weapons[] =
 	{
-		arifle_TRG21_GL_ACO_F,
+		arifle_FORT652_GL_aco_F,
 		DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG21_GL_ACO_F,
+		arifle_FORT652_GL_aco_F,
 		DefaultManWeapons
 	};
 	magazines[] =
 	{
-		mag_6(30Rnd_556x45_stanag_red),
+		mag_6(30Rnd_65x39_caseless_msbs_mag),
         mag_4(1Rnd_HE_Grenade_shell),
         HandGrenade_Guer,
         SmokeShell,
@@ -1145,7 +1145,7 @@ class Atlas_I_UNO_wdl_Soldier_GL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	respawnMagazines[] =
 	{
-		mag_6(30Rnd_556x45_stanag_red),
+		mag_6(30Rnd_65x39_caseless_msbs_mag),
         mag_4(1Rnd_HE_Grenade_shell),
         HandGrenade_Guer,
         SmokeShell,
@@ -1243,22 +1243,22 @@ class Atlas_I_UNO_wdl_Helicrew_F: Atlas_I_UNO_wdl_Helipilot_F
 	uniformClass = Atlas_U_I_UW_CombatUniform_shortsleeve_UNO;
 	weapons[] =
 	{
-		arifle_TRG20_F,
+		arifle_FORT651_F,
 		DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG20_F,
+		arifle_FORT651_F,
 		DefaultManWeapons
 	};
 	magazines[] =
 	{
-		mag_4(30Rnd_556x45_stanag_red),
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
         SmokeShellYellow
 	};
 	respawnMagazines[] =
 	{
-		mag_4(30Rnd_556x45_stanag_red),
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
         SmokeShellYellow
 	};
     linkedItems[] =
@@ -1286,22 +1286,22 @@ class Atlas_I_UNO_wdl_Crew_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	uniformClass = Atlas_U_I_UW_CombatUniform_shortsleeve_UNO;
 	weapons[] =
 	{
-		arifle_TRG20_F,
+		arifle_FORT651_F,
 		DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG20_F,
+		arifle_FORT651_F,
 		DefaultManWeapons
 	};
 	magazines[] =
 	{
-		mag_4(30Rnd_556x45_stanag_red),
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
         SmokeShellYellow
 	};
 	respawnMagazines[] =
 	{
-		mag_4(30Rnd_556x45_stanag_red),
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
         SmokeShellYellow
 	};
     linkedItems[] =
@@ -1440,23 +1440,23 @@ class Atlas_I_UNO_wdl_Soldier_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	cost = 100000;
 	weapons[] =
 	{
-		arifle_TRG21_ACO_F,
+		arifle_FORT652_aco_F,
 		DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG21_ACO_F,
+		arifle_FORT652_aco_F,
 		DefaultManWeapons
 	};
 	magazines[] =
 	{
-		mag_10(30Rnd_556x45_stanag_red),
+		mag_10(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell
 	};
 	respawnMagazines[] =
 	{
-		mag_10(30Rnd_556x45_stanag_red),
+		mag_10(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell
 	};
@@ -1499,26 +1499,26 @@ class Atlas_I_UNO_wdl_Soldier_LAT_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	backpack = B_AssaultPack_rgr_ILAT_F;
 	weapons[] =
 	{
-		arifle_TRG21_ACO_F,
+		arifle_FORT652_aco_F,
 		launch_RPG32_green_F,
 		DefaultManWeapons
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG21_ACO_F,
+		arifle_FORT652_aco_F,
 		launch_RPG32_green_F,
 		DefaultManWeapons
 	};
 	magazines[] =
 	{
-		mag_6(30Rnd_556x45_stanag_red),
+		mag_6(30Rnd_65x39_caseless_msbs_mag),
 		RPG32_F,
         HandGrenade_Guer,
         SmokeShell
 	};
 	respawnMagazines[] =
 	{
-		mag_6(30Rnd_556x45_stanag_red),
+		mag_6(30Rnd_65x39_caseless_msbs_mag),
 		RPG32_F,
         HandGrenade_Guer,
         SmokeShell
@@ -1550,22 +1550,22 @@ class Atlas_I_UNO_wdl_Soldier_SL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	uniformClass = Atlas_U_I_UW_CombatUniform_shortsleeve_UNO;
 	weapons[] =
 	{
-		arifle_TRG21_MRCO_F,
+		arifle_FORT652_mrco_F,
 		hgun_Pistol_01_F,
         DefaultManWeapons,
 		Binocular
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG21_MRCO_F,
+		arifle_FORT652_mrco_F,
 		hgun_Pistol_01_F,
         DefaultManWeapons,
 		Binocular
 	};
 	magazines[] =
 	{
-		mag_4(30Rnd_556x45_stanag_red),
-		mag_2(30Rnd_556x45_stanag_tracer_red),
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
+		mag_2(30Rnd_65x39_caseless_msbs_mag_Tracer_red),
 		mag_2(10Rnd_9x21_Mag),
         HandGrenade_Guer,
         SmokeShell,
@@ -1573,8 +1573,8 @@ class Atlas_I_UNO_wdl_Soldier_SL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	respawnMagazines[] =
 	{
-		mag_4(30Rnd_556x45_stanag_red),
-		mag_2(30Rnd_556x45_stanag_tracer_red),
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
+		mag_2(30Rnd_65x39_caseless_msbs_mag_Tracer_red),
 		mag_2(10Rnd_9x21_Mag),
         HandGrenade_Guer,
         SmokeShell,
@@ -1606,22 +1606,22 @@ class Atlas_I_UNO_wdl_Soldier_TL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	camouflage = 1.4;
 	weapons[] =
 	{
-		arifle_TRG21_GL_ACO_F,
+		arifle_FORT652_GL_aco_F,
 		hgun_Pistol_01_F,
         DefaultManWeapons,
 		Binocular
 	};
 	respawnWeapons[] =
 	{
-		arifle_TRG21_GL_ACO_F,
+		arifle_FORT652_GL_aco_F,
 		hgun_Pistol_01_F,
         DefaultManWeapons,
 		Binocular
 	};
 	magazines[] =
 	{
-		mag_4(30Rnd_556x45_stanag_red),
-		mag_2(30Rnd_556x45_stanag_tracer_red),
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
+		mag_2(30Rnd_65x39_caseless_msbs_mag_Tracer_red),
 		mag_2(10Rnd_9x21_Mag),
 		mag_4(1Rnd_HE_Grenade_shell),
         HandGrenade_Guer,
@@ -1632,8 +1632,8 @@ class Atlas_I_UNO_wdl_Soldier_TL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	respawnMagazines[] =
 	{
-		mag_4(30Rnd_556x45_stanag_red),
-		mag_2(30Rnd_556x45_stanag_tracer_red),
+		mag_4(30Rnd_65x39_caseless_msbs_mag),
+		mag_2(30Rnd_65x39_caseless_msbs_mag_Tracer_red),
 		mag_2(10Rnd_9x21_Mag),
 		mag_4(1Rnd_HE_Grenade_shell),
         HandGrenade_Guer,
@@ -1664,23 +1664,23 @@ class Atlas_I_UNO_wdl_RadioOperator_F: Atlas_I_UNO_wdl_Soldier_F
 	backpack = B_RadioBag_01_green_F;
 	weapons[] =
     {
-		arifle_TRG21_ACO_F,
+		arifle_FORT652_aco_F,
 		DefaultManWeapons
     };
     respawnWeapons[] =
     {
-		arifle_TRG21_ACO_F,
+		arifle_FORT652_aco_F,
 		DefaultManWeapons
     };
     magazines[] =
     {
-        mag_10(30Rnd_556x45_stanag_red),
+        mag_10(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell
     };
     respawnMagazines[] =
     {
-        mag_10(30Rnd_556x45_stanag_red),
+        mag_10(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell
     };
@@ -1710,23 +1710,23 @@ class Atlas_I_UNO_wdl_Soldier_UAV_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	backpack = Atlas_I_UNO_UAV_01_backpack_F;
 	weapons[] =
     {
-		arifle_TRG21_ACO_F,
+		arifle_FORT652_aco_F,
 		DefaultManWeapons
     };
     respawnWeapons[] =
     {
-		arifle_TRG21_ACO_F,
+		arifle_FORT652_aco_F,
 		DefaultManWeapons
     };
     magazines[] =
     {
-        mag_10(30Rnd_556x45_stanag_red),
+        mag_10(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell
     };
     respawnMagazines[] =
     {
-        mag_10(30Rnd_556x45_stanag_red),
+        mag_10(30Rnd_65x39_caseless_msbs_mag),
         HandGrenade_Guer,
         SmokeShell
     };
