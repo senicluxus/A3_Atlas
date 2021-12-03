@@ -413,12 +413,12 @@ class Atlas_I_UNO_wdl_MRAP_01_F: Atlas_I_UNO_MRAP_01_F
 	typicalCargo[] = {Atlas_I_UNO_wdl_Soldier_F};
     class TransportWeapons
     {
-        weap_xx(arifle_TRG21_F,2);
+        weap_xx(arifle_FORT652_F,2);
     };
     class TransportMagazines
     {
-        mag_xx(30Rnd_556x45_stanag_red,10);
-        mag_xx(200Rnd_556x45_Box_Red_F,4);
+        mag_xx(30Rnd_65x39_caseless_msbs_mag,8);
+        mag_xx(200Rnd_65x39_cased_box_red,2);
         mag_xx(HandGrenade_Guer,8);
         mag_xx(1Rnd_HE_Grenade_shell,4);
         mag_xx(1Rnd_Smoke_Grenade_shell,4);
@@ -442,12 +442,12 @@ class Atlas_I_UNO_wdl_MRAP_01_gmg_F: Atlas_I_UNO_MRAP_01_gmg_F
 	typicalCargo[] = {Atlas_I_UNO_wdl_Soldier_F};
     class TransportWeapons
     {
-        weap_xx(arifle_TRG21_F,2);
+        weap_xx(arifle_FORT652_F,2);
     };
     class TransportMagazines
     {
-        mag_xx(30Rnd_556x45_stanag_red,10);
-        mag_xx(200Rnd_556x45_Box_Red_F,4);
+        mag_xx(30Rnd_65x39_caseless_msbs_mag,8);
+        mag_xx(200Rnd_65x39_cased_box_red,2);
         mag_xx(HandGrenade_Guer,8);
         mag_xx(1Rnd_HE_Grenade_shell,4);
         mag_xx(1Rnd_Smoke_Grenade_shell,4);
@@ -471,12 +471,12 @@ class Atlas_I_UNO_wdl_MRAP_01_hmg_F: Atlas_I_UNO_MRAP_01_hmg_F
 	typicalCargo[] = {Atlas_I_UNO_wdl_Soldier_F};
     class TransportWeapons
     {
-        weap_xx(arifle_TRG21_F,2);
+        weap_xx(arifle_FORT652_F,2);
     };
     class TransportMagazines
     {
-        mag_xx(30Rnd_556x45_stanag_red,10);
-        mag_xx(200Rnd_556x45_Box_Red_F,4);
+        mag_xx(30Rnd_65x39_caseless_msbs_mag,8);
+        mag_xx(200Rnd_65x39_cased_box_red,2);
         mag_xx(HandGrenade_Guer,8);
         mag_xx(1Rnd_HE_Grenade_shell,4);
         mag_xx(1Rnd_Smoke_Grenade_shell,4);

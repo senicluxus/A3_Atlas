@@ -67,11 +67,11 @@ class Atlas_I_UNO_wdl_Heli_Light_02_dynamicLoadout_F: O_Heli_Light_02_dynamicLoa
 	{
 		mag_xx(SmokeShell,2);
 		mag_xx(SmokeShellRed,2);
-		mag_xx(30Rnd_556x45_Stanag_red,4);
+		mag_xx(30Rnd_65x39_caseless_msbs_mag,4);
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_TRG21_F,2);
+		weap_xx(arifle_FORT652_F,2);
 	};
 };
 class Atlas_I_UNO_wdl_Heli_Light_02_unarmed_F: O_Heli_Light_02_unarmed_F
@@ -92,10 +92,10 @@ class Atlas_I_UNO_wdl_Heli_Light_02_unarmed_F: O_Heli_Light_02_unarmed_F
     {
         mag_xx(SmokeShell,2);
         mag_xx(SmokeShellRed,2);
-        mag_xx(30Rnd_556x45_Stanag_red,4);
+        mag_xx(30Rnd_65x39_caseless_msbs_mag,4);
     };
     class TransportWeapons
     {
-        weap_xx(arifle_TRG21_F,2);
+        weap_xx(arifle_FORT652_F,2);
     };
 };

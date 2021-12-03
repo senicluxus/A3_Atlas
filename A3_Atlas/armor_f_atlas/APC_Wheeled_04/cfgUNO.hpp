@@ -68,12 +68,12 @@ class Atlas_I_UNO_wdl_APC_Wheeled_04_cannon_F: Atlas_I_UNO_APC_Wheeled_04_cannon
     /* Inventory */
     class TransportWeapons
     {
-         weap_xx(arifle_TRG21_F,2);
+         weap_xx(arifle_FORT652_F,2);
     };
     class TransportMagazines
     {
-        mag_xx(30Rnd_556x45_stanag_red,12);
-        mag_xx(200Rnd_556x45_Box_Red_F,6);
+        mag_xx(30Rnd_65x39_caseless_msbs_mag,10);
+        mag_xx(200Rnd_65x39_cased_box_red,6);
         mag_xx(HandGrenade_Guer,10);
         mag_xx(1Rnd_HE_Grenade_shell,6);
         mag_xx(1Rnd_Smoke_Grenade_shell,3);

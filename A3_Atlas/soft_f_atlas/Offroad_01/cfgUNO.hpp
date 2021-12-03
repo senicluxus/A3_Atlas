@@ -166,13 +166,13 @@ class Atlas_I_UNO_wdl_Offroad_01_F: Atlas_I_UNO_Offroad_01_F
     /* Inventory */
     class TransportMagazines
 	{
-		mag_xx(30Rnd_556x45_stanag_red,10);
+		mag_xx(30Rnd_65x39_caseless_msbs_mag,8);
 		mag_xx(HandGrenade_Guer,4);
 		mag_xx(SmokeShell,4);
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_TRG21_F,2);
+		weap_xx(arifle_FORT652_F,2);
 	};
 };
 
@@ -186,13 +186,13 @@ class Atlas_I_UNO_wdl_Offroad_armed_01_F: Atlas_I_UNO_Offroad_armed_01_F
     /* Inventory */
     class TransportMagazines
 	{
-		mag_xx(30Rnd_556x45_stanag_red,10);
+		mag_xx(30Rnd_65x39_caseless_msbs_mag,8);
 		mag_xx(HandGrenade_Guer,4);
 		mag_xx(SmokeShell,4);
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_TRG21_F,2);
+		weap_xx(arifle_FORT652_F,2);
 	};
 };
 
@@ -206,13 +206,13 @@ class Atlas_I_UNO_wdl_Offroad_01_covered_F: Atlas_I_UNO_Offroad_01_covered_F
     /* Inventory */
     class TransportMagazines
 	{
-		mag_xx(30Rnd_556x45_stanag_red,10);
+		mag_xx(30Rnd_65x39_caseless_msbs_mag,8);
 		mag_xx(HandGrenade_Guer,4);
 		mag_xx(SmokeShell,4);
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_TRG21_F,2);
+		weap_xx(arifle_FORT652_F,2);
 	};
 };
 
@@ -226,12 +226,12 @@ class Atlas_I_UNO_wdl_Offroad_01_comms_F: Atlas_I_UNO_Offroad_01_comms_F
     /* Inventory */
     class TransportMagazines
 	{
-		mag_xx(30Rnd_556x45_stanag_red,10);
+		mag_xx(30Rnd_65x39_caseless_msbs_mag,8);
 		mag_xx(HandGrenade_Guer,4);
 		mag_xx(SmokeShell,4);
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_TRG21_F,2);
+		weap_xx(arifle_FORT652_F,2);
 	};
 };
