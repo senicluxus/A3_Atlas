@@ -116,7 +116,7 @@ class CfgWeapons
 			"\A3\Weapons_F_Beta\Launchers\Titan\Data\launcher_OPFOR_CO.paa",
 			"\A3_Atlas\Weapons_F_Atlas\Launchers\Titan\Data\launch_B_Titan_coyote_F_02_CO.paa"
 		};
-		//picture = "\A3_Atlas\Weapons_F_Atlas\Launchers\Titan\Data\UI\icon_launch_B_Titan_coyote_F_X_CA.paa";
+		picture = "\A3_Atlas\Weapons_F_Atlas\Launchers\Titan\Data\UI\icon_launch_B_Titan_coyote_F_X_CA.paa";
 	};
 
 	class srifle_EBR_cbr_F: srifle_EBR_F
@@ -129,7 +129,7 @@ class CfgWeapons
 			"\A3_Atlas\Weapons_F_Atlas\LongRangeRifles\EBR\Data\srifle_EBR_cbr_F_1_CO.paa",
 			"\A3_Atlas\Weapons_F_Atlas\LongRangeRifles\EBR\Data\srifle_EBR_cbr_F_2_CO.paa"
 		};
-		//picture = "\A3_Atlas\Weapons_F_Atlas\LongRangeRifles\EBR\Data\UI\icon_srifle_EBR_cbr_F_X_CA.paa";
+		picture = "\A3_Atlas\Weapons_F_Atlas\LongRangeRifles\EBR\Data\UI\icon_srifle_EBR_cbr_F_X_CA.paa";
 	};
 	class launch_MRAWS_coyote_F: launch_MRAWS_base_F
 	{
@@ -137,7 +137,7 @@ class CfgWeapons
 		baseWeapon = launch_MRAWS_coyote_F;
 		scope = public;
 		displayName = $STR_A3_A_CfgWeapons_launch_MRAWS_coyote_F0;
-		//picture = "\A3_Atlas\Weapons_F_Atlas\Launchers\MRAWS\Data\UI\icon_launch_MRAWS_coyote_F_X_CA.paa";
+		picture = "\A3_Atlas\Weapons_F_Atlas\Launchers\MRAWS\Data\UI\icon_launch_MRAWS_coyote_F_X_CA.paa";
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Weapons_F_Atlas\Launchers\MRAWS\Data\launch_MRAWS_coyote_01_F_CO.paa",
@@ -150,7 +150,7 @@ class CfgWeapons
 		baseWeapon = launch_MRAWS_coyote_rail_F;
 		scope = public;
 		displayName = $STR_A3_A_CfgWeapons_launch_MRAWS_coyote_rail_F0;
-		//picture = "\A3_Atlas\Weapons_F_Atlas\Launchers\MRAWS\Data\UI\icon_launch_MRAWS_coyote_rail_F_X_CA.paa";
+		picture = "\A3_Atlas\Weapons_F_Atlas\Launchers\MRAWS\Data\UI\icon_launch_MRAWS_coyote_rail_F_X_CA.paa";
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Weapons_F_Atlas\Launchers\MRAWS\Data\launch_MRAWS_coyote_01_F_CO.paa",
