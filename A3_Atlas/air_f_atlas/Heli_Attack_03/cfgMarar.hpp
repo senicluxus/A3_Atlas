@@ -2,7 +2,7 @@
 class Atlas_B_M_Heli_Attack_03_F: Heli_Attack_03_base_F
 {
     author = $STR_A3_A_AveryTheKitty;
-	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_A_Heli_Attack_03_F.jpg";
+	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\Atlas_B_M_Heli_Attack_03_F.jpg";
 	displayName = $STR_A3_A_CfgVehicles_B_M_Heli_Attack_03_F0;
 	scope = public;
 	scopeCurator = public;

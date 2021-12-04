@@ -2,7 +2,7 @@ class Atlas_B_M_Heli_Light_02_dynamicLoadout_F: O_Heli_Light_02_dynamicLoadout_F
 {
 	author = $STR_A3_A_BranFlakes;
 	displayName = $STR_A3_A_CfgVehicles_B_M_Heli_Light_02_F0;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Heli_Light_02_dynamicLoadout_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Heli_Light_02_dynamicLoadout_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TWest;
@@ -26,7 +26,7 @@ class Atlas_B_M_Heli_Light_02_unarmed_F: O_Heli_Light_02_unarmed_F
 {
 	author = $STR_A3_A_BranFlakes;
 	displayName = $STR_A3_A_CfgVehicles_B_M_Heli_Light_02_Unarmed_F0;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Heli_Light_02_unarmed_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Heli_Light_02_unarmed_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	scopeArsenal = private;

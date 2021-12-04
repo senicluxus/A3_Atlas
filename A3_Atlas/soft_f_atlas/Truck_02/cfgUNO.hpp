@@ -93,7 +93,7 @@ class Atlas_I_UNO_Truck_02_F: O_Truck_02_covered_F
 		verticalOffsetWorld = -0.202;
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_UNO_Truck_02_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Truck_02_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TGuerrila;
@@ -202,7 +202,7 @@ class Atlas_I_UNO_Truck_02_transport_F: O_Truck_02_transport_F
 		verticalOffsetWorld = -0.202;
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
-    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Truck_02_transport_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Truck_02_transport_F.jpg";
     scope = public;
     scopeCurator = public;
     side = TGuerrila;
@@ -221,7 +221,7 @@ class Atlas_I_UNO_Truck_02_transport_F: O_Truck_02_transport_F
 class Atlas_I_UNO_Truck_02_box_F: O_Truck_02_box_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_UNO_Truck_02_box_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Truck_02_box_FF.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TGuerrila;
@@ -331,7 +331,7 @@ class Atlas_I_UNO_Truck_02_medical_F: O_Truck_02_medical_F
 		verticalOffsetWorld = -0.202;
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_UNO_Truck_02_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Truck_02_medical_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TGuerrila;
@@ -350,7 +350,7 @@ class Atlas_I_UNO_Truck_02_medical_F: O_Truck_02_medical_F
 class Atlas_I_UNO_Truck_02_Ammo_F: O_Truck_02_Ammo_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_UNO_Truck_02_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Truck_02_Ammo_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	scopeArsenal = private;
@@ -462,7 +462,7 @@ class Atlas_I_UNO_Truck_02_fuel_F: O_Truck_02_fuel_F
 		verticalOffsetWorld = -0.202;
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_UNO_Truck_02_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Truck_02_fuel_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TGuerrila;
@@ -490,7 +490,7 @@ class Atlas_I_UNO_Truck_02_cargo_F: Truck_02_cargo_base_lxWS
 			verticalOffsetWorld = -0.202;
 			init = "[this, '', []] call bis_fnc_initVehicle";
 		};
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_UNO_Truck_02_cargo_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Truck_02_cargo_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_A3_A_CfgVehicles_Truck_02_cargo_base_F0;
@@ -520,7 +520,7 @@ class Atlas_I_UNO_Truck_02_flatbed_F: Truck_02_flatbed_base_lxWS
 			verticalOffsetWorld = -0.202;
 			init = "[this, '', []] call bis_fnc_initVehicle";
 		};
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_UNO_Truck_02_F.jpg";
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Truck_02_flatbed_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_A3_A_CfgVehicles_Truck_02_flatbed_base_F0;

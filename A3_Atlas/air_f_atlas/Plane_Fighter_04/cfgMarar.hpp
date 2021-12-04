@@ -141,7 +141,7 @@ class Atlas_B_M_Plane_Fighter_04_F: Plane_Fighter_04_Base_F
 		verticalOffsetWorld = -0.079;
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
-	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_E_Plane_Fighter_04_F.jpg";
+	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\Atlas_B_M_Plane_Fighter_04_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_A3_A_CfgVehicles_B_M_Plane_Fighter_04_F0;
