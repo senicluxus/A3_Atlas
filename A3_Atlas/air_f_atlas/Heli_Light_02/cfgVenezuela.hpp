@@ -125,8 +125,8 @@ class Atlas_O_VZ_Heli_Light_02_dynamicLoadout_F: O_Heli_Light_02_dynamicLoadout_
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Heli_Light_02_dynamicLoadout_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Helipilot_F;
@@ -276,8 +276,8 @@ class Atlas_O_VZ_Heli_Light_02_unarmed_F: O_Heli_Light_02_unarmed_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Heli_Light_02_unarmed_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	scopeArsenal = private;
 	forceInGarage = false;
 	side = TEast;

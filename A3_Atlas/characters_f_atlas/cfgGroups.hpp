@@ -995,7 +995,7 @@ class CfgGroups
 				};
 			};
 		};
-		class Atlas_OPF_V_F
+		/*class Atlas_OPF_V_F
 		{
 		  	name = $STR_A3_A_CfgFactionClasses_OPF_V_F0;
 			class Infantry
@@ -1210,7 +1210,7 @@ class CfgGroups
 					GROUP_UNIT(1,TEast,Atlas_O_VZ_MBT_02_cannon_ghex_F,SERGEANT,10,-10)
 				};
 			};
-		};
+		};*/
 		class Atlas_OPF_T_F
 		{
 			name = $STR_A3_A_CfgFactionClasses_OPF_T_F1;

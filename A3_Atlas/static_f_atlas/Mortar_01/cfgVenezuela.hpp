@@ -26,6 +26,8 @@ class Atlas_O_VZ_Mortar_01_F: O_Mortar_01_F
 		init = "''";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Mortar_01_F.jpg";
+	scope = protected;
+	scopeCurator = protected;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Soldier_F;
 	class assembleInfo

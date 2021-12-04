@@ -71,8 +71,8 @@ class Atlas_O_VZ_Quadbike_01_F: Quadbike_01_base_F
 		init = "''";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Quadbike_01_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Soldier_F;

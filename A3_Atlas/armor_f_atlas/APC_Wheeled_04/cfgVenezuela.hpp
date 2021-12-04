@@ -2,8 +2,8 @@ class Atlas_O_VZ_APC_Wheeled_04_cannon_F: O_R_APC_Wheeled_04_cannon_F
 {
     author = $STR_A3_A_AveryTheKitty_and_Lakarak;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\O_R_APC_Wheeled_04_cannon_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Crew_F;

@@ -92,8 +92,8 @@ class Atlas_O_VZ_Truck_02_F: O_Truck_02_covered_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Truck_02_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Soldier_F;
@@ -201,8 +201,8 @@ class Atlas_O_VZ_Truck_02_transport_F: O_Truck_02_transport_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
     editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Truck_02_transport_F.jpg";
-    scope = public;
-    scopeCurator = public;
+    scope = protected;
+    scopeCurator = protected;
     side = TEast;
     faction = Atlas_OPF_V_F;
     crew = Atlas_O_VZ_Soldier_F;
@@ -220,8 +220,8 @@ class Atlas_O_VZ_Truck_02_box_F: O_Truck_02_box_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Truck_02_box_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Soldier_F;
@@ -330,8 +330,8 @@ class Atlas_O_VZ_Truck_02_medical_F: O_Truck_02_medical_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Truck_02_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Soldier_F;
@@ -439,8 +439,8 @@ class Atlas_O_VZ_Truck_02_Ammo_F: O_Truck_02_Ammo_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Truck_02_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	scopeArsenal = private;
 	forceInGarage = false;
 	side = TEast;
@@ -551,8 +551,8 @@ class Atlas_O_VZ_Truck_02_fuel_F: O_Truck_02_fuel_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Truck_02_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Soldier_F;
@@ -579,8 +579,8 @@ class Atlas_O_VZ_Truck_02_cargo_F: Truck_02_cargo_base_lxWS
 			init = "[this, '', []] call bis_fnc_initVehicle";
 		};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Truck_02_cargo_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_Truck_02_cargo_base_F0;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
@@ -609,8 +609,8 @@ class Atlas_O_VZ_Truck_02_flatbed_F: Truck_02_flatbed_base_lxWS
 			init = "[this, '', []] call bis_fnc_initVehicle";
 		};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Truck_02_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_Truck_02_flatbed_base_F0;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
