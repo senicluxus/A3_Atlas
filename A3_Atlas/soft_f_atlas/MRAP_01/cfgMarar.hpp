@@ -93,7 +93,7 @@ class Atlas_B_M_MRAP_01_F: MRAP_01_base_F
         verticalOffsetWorld = -0.154;
         init = "''";
     };
-    //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_MRAP_01_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_MRAP_01_F.jpg";
     scope = public;
     scopeCurator = public;
     side = TWest;
@@ -227,7 +227,7 @@ class Atlas_B_M_MRAP_01_gmg_F: MRAP_01_gmg_base_F
         verticalOffsetWorld = -0.154;
         init = "''";
     };
-    //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_MRAP_01_gmg_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_MRAP_01_gmg_F.jpg";
     scope = public;
     scopeCurator = public;
     side = TWest;
@@ -358,7 +358,7 @@ class Atlas_B_M_MRAP_01_hmg_F: MRAP_01_hmg_base_F
         verticalOffsetWorld = -0.154;
         init = "''";
     };
-   // editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_MRAP_01_hmg_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_MRAP_01_hmg_F.jpg";
     scope = public;
     scopeCurator = public;
     side = TWest;

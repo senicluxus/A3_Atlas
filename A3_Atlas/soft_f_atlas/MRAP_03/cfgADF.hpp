@@ -1,7 +1,7 @@
 class Atlas_B_A_MRAP_03_F: MRAP_03_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_MRAP_03_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_MRAP_03_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TWest;
@@ -39,7 +39,7 @@ class Atlas_B_A_MRAP_03_F: MRAP_03_base_F
 class Atlas_B_A_MRAP_03_hmg_F: MRAP_03_hmg_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_MRAP_03_hmg_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_MRAP_03_hmg_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TWest;
@@ -85,7 +85,7 @@ class Atlas_B_A_MRAP_03_hmg_F: MRAP_03_hmg_base_F
 class Atlas_B_A_MRAP_03_gmg_F: MRAP_03_gmg_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_MRAP_03_gmg_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_MRAP_03_gmg_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TWest;

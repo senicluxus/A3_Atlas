@@ -309,7 +309,7 @@ class Atlas_B_M_Truck_02_box_F: O_Truck_02_box_F
 		verticalOffsetWorld = -0.202;
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Truck_02_box_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Truck_02_box_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TWest;

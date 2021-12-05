@@ -204,10 +204,10 @@ class Atlas_B_A_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 		verticalOffsetWorld = -0.091;
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_APC_Wheeled_01_cannon_v2_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_APC_Wheeled_01_cannon_v2_F.jpg";
       scope = public;
 	scopeCurator = public;
-	//displayName = $STR_A3_CFGVEHICLES_APC_Wheeled_01_base_F;
+	displayName = $STR_A3_CFGVEHICLES_APC_Wheeled_01_base_F;
 	side = TWest;
 	faction = Atlas_BLU_A_F;
 	crew = Atlas_B_A_Crew_F;

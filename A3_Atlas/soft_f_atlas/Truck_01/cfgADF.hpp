@@ -39,7 +39,7 @@ class Atlas_B_A_Truck_01_ammo_F: B_Truck_01_ammo_F
 class Atlas_B_A_Truck_01_box_F: B_Truck_01_box_F
 {
     author = $STR_A3_A_BranFlakes;
-    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_Truck_01_box_FF.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_Truck_01_box_F.jpg";
     scope = public;
     scopeCurator = public;
     side = TWest;

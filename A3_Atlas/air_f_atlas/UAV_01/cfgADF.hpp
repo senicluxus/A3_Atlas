@@ -42,7 +42,7 @@ class Atlas_B_A_UAV_01_F: UAV_01_base_F
 		verticalOffsetWorld = -0.001;
 		init = "''";
 	};
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_UAV_01_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_UAV_01_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_A3_CfgVehicles_UAV_01_base0;
