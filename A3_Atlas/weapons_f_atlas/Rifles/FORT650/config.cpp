@@ -23,7 +23,7 @@ class CfgWeapons
         baseWeapon = arifle_FORT650_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_FORT652_F0;
-        picture = "\A3_Aegis\Weapons_F_Aegis\Rifles\G36\Data\UI\icon_arifle_TRG21_black_F_X_ca.paa";
+        picture = "\A3_Aegis\Weapons_F_Aegis\Rifles\TRG20\Data\UI\icon_arifle_TRG21_black_F_X_ca.paa";
         hiddenSelectionsTextures[] = 
         {
             "\A3_Aegis\Weapons_f_aegis\Rifles\TRG20\Data\TAR21_black_CO.paa"
@@ -79,7 +79,7 @@ class CfgWeapons
         baseWeapon = arifle_FORT651_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_FORT651_F0;
-        picture = "\A3_Aegis\Weapons_F_Aegis\Rifles\G36\Data\UI\icon_arifle_TRG20_black_F_X_ca.paa";
+        picture = "\A3_Aegis\Weapons_F_Aegis\Rifles\TRG20\Data\UI\icon_arifle_TRG20_black_F_X_ca.paa";
         hiddenSelectionsTextures[] = 
         {
             "\A3_Aegis\Weapons_f_aegis\Rifles\TRG20\Data\TAR21_black_CO.paa"
@@ -135,7 +135,7 @@ class CfgWeapons
         baseWeapon = arifle_FORT652_GL_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_FORT652_GL_F0;
-        picture = "\A3_Aegis\Weapons_F_Aegis\Rifles\G36\Data\UI\icon_arifle_TRG21_GL_black_F_X_ca.paa";
+        picture = "\A3_Aegis\Weapons_F_Aegis\Rifles\TRG20\Data\UI\icon_arifle_TRG21_GL_black_F_X_ca.paa";
         hiddenSelectionsTextures[] = 
         {
             "\A3_Aegis\Weapons_f_aegis\Rifles\TRG20\Data\TAR21_black_CO.paa",
