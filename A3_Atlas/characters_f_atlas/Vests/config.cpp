@@ -128,6 +128,7 @@ class CfgWeapons
 	class V_PlateCarrierIA1_whex: V_PlateCarrierIA1_dgtl
 	{
 		author = $STR_A3_A_AveryTheKitty;
+		scope = protected;
 		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierIA1_whex0;
 		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIA1_grn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\equip_IA_Vest01_whex_CO.paa"};
@@ -135,6 +136,7 @@ class CfgWeapons
 	class V_PlateCarrierIA2_whex: V_PlateCarrierIA2_dgtl
 	{
 		author = $STR_A3_A_AveryTheKitty;
+		scope = protected;
 		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierIA2_whex0;
 		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIA2_grn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\equip_IA_Vest01_whex_CO.paa"};
@@ -168,6 +170,7 @@ class CfgWeapons
 	class V_PlateCarrierIAGL_whex: V_PlateCarrierIAGL_dgtl
 	{
 		author = $STR_A3_A_AveryTheKitty;
+		scope = protected;
 		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierIAGL_whex0;
 		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIAGL_grn_CA.paa";
 		hiddenSelectionsTextures[] =
