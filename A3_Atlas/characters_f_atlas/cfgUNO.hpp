@@ -1565,7 +1565,7 @@ class Atlas_I_UNO_wdl_Soldier_SL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	magazines[] =
 	{
 		mag_4(30Rnd_65x39_caseless_msbs_mag),
-		mag_2(30Rnd_65x39_caseless_msbs_mag_Tracer_red),
+		mag_2(30Rnd_65x39_caseless_msbs_mag_tracer),
 		mag_2(10Rnd_9x21_Mag),
         HandGrenade_Guer,
         SmokeShell,
@@ -1574,7 +1574,7 @@ class Atlas_I_UNO_wdl_Soldier_SL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_65x39_caseless_msbs_mag),
-		mag_2(30Rnd_65x39_caseless_msbs_mag_Tracer_red),
+		mag_2(30Rnd_65x39_caseless_msbs_mag_tracer),
 		mag_2(10Rnd_9x21_Mag),
         HandGrenade_Guer,
         SmokeShell,
@@ -1621,7 +1621,7 @@ class Atlas_I_UNO_wdl_Soldier_TL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	magazines[] =
 	{
 		mag_4(30Rnd_65x39_caseless_msbs_mag),
-		mag_2(30Rnd_65x39_caseless_msbs_mag_Tracer_red),
+		mag_2(30Rnd_65x39_caseless_msbs_mag_tracer),
 		mag_2(10Rnd_9x21_Mag),
 		mag_4(1Rnd_HE_Grenade_shell),
         HandGrenade_Guer,
@@ -1633,7 +1633,7 @@ class Atlas_I_UNO_wdl_Soldier_TL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_65x39_caseless_msbs_mag),
-		mag_2(30Rnd_65x39_caseless_msbs_mag_Tracer_red),
+		mag_2(30Rnd_65x39_caseless_msbs_mag_tracer),
 		mag_2(10Rnd_9x21_Mag),
 		mag_4(1Rnd_HE_Grenade_shell),
         HandGrenade_Guer,
