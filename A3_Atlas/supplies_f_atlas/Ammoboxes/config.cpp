@@ -24,7 +24,6 @@ class CfgVehicles
     #include "cfgCDF.hpp"				// CDF
 	*/
 	#include "cfgIDF.hpp"				// IDF
-	#include "cfgVenezuela.hpp"			// Venezuela
 	#include "cfgUNO.hpp"				// United Nations Observers
 	#include "cfgMarar.hpp"				// Marar
     // Deprecated classes
