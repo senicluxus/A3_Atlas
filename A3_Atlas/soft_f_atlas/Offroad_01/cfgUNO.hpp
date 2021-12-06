@@ -1,5 +1,5 @@
 /* UNO - Sahrani */
-class Atlas_I_UNO_Offroad_01_F: Offroad_01_military_base_F
+class Atlas_I_UNO_Offroad_01_F: I_E_Offroad_01_F
 {
     author = $STR_A3_A_Ravenholme;
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Offroad_01_F.jpg";
