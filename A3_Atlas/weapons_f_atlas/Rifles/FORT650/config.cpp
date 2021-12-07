@@ -10,6 +10,22 @@ class MuzzleSlot_58;
 class CowsSlot_Rail;
 class PointerSlot_Rail;
 class UnderBarrelSlot_rail;
+class recoil_default;
+class cfgRecoils
+{
+    class recoil_FORT652: recoil_default
+	{
+		muzzleOuter[] = {0.25,0.8,0.3,0.32};
+		kickBack[] = {0.01,0.03};
+		temporary = 0.01;
+	};
+    class recoil_FORT651: recoil_default
+	{
+		muzzleOuter[] = {0.28,1.0,0.3,0.38};
+		kickBack[] = {0.02,0.04};
+		temporary = 0.015;
+	};
+};
 class CfgWeapons
 {
 
@@ -23,6 +39,7 @@ class CfgWeapons
         baseWeapon = arifle_FORT650_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_FORT652_F0;
+        recoil = recoil_FORT652;
         picture = "\A3_Aegis\Weapons_F_Aegis\Rifles\TRG20\Data\UI\icon_arifle_TRG21_black_F_X_ca.paa";
         hiddenSelectionsTextures[] = 
         {
@@ -70,6 +87,7 @@ class CfgWeapons
 				};
 				iconScale = 0.2;
 			};
+            mass = 75;
         };
     };
     class arifle_FORT651_F: arifle_TRG20_F
@@ -97,8 +115,10 @@ class CfgWeapons
         {
             libTextDesc = $STR_A3_A_CfgWeapons_arifle_FORT650_base_F_Library0;
         };
+        recoil = recoil_FORT651;
         class WeaponSlotsInfo
         {
+            mass = 65;
             class MuzzleSlot: asdg_MuzzleSlot_65
             {
                 iconPosition[] =
@@ -157,6 +177,7 @@ class CfgWeapons
         };
         class WeaponSlotsInfo
         {
+            mass = 75;
             class MuzzleSlot: asdg_MuzzleSlot_65
             {
                 iconPosition[] =

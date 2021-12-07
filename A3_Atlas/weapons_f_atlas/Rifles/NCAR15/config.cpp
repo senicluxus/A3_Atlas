@@ -45,6 +45,7 @@ class CfgWeapons
 		};
         class WeaponSlotsInfo
         {
+            mass = 80;
             class MuzzleSlot: asdg_MuzzleSlot_58
             {
                 iconPosition[] =
@@ -166,6 +167,7 @@ class CfgWeapons
         };
         class WeaponSlotsInfo
         {
+            mass = 100;
             class MuzzleSlot: asdg_MuzzleSlot_58
             {
                 iconPosition[] =
@@ -214,6 +216,7 @@ class CfgWeapons
         };
         class WeaponSlotsInfo
         {
+            mass = 100;
             class MuzzleSlot: asdg_MuzzleSlot_58
             {
                 iconPosition[] =
