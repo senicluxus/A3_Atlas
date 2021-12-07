@@ -1939,6 +1939,72 @@ class Atlas_B_A_Fighter_Pilot_F: Atlas_B_A_Soldier_base_F
 		G_NATO_pilot
 	};
 };
+class Atlas_B_A_Pilot_F: Atlas_B_A_Soldier_base_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class SpeechVariants
+	{
+		class Default
+		{
+			speechSingular[] = {veh_infantry_pilot_s};
+			speechPlural[] = {veh_infantry_pilot_p};
+		};
+	};
+	textSingular = $STR_A3_nameSound_veh_infantry_pilot_s;
+	textPlural = $STR_A3_nameSound_veh_infantry_pilot_p;
+	nameSound = veh_infantry_pilot_s;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_Pilot_F.jpg";
+    scope = public;
+    scopeCurator = public;
+	displayName = $STR_B_Pilot_F0;
+	uniformClass = Atlas_U_B_A_PilotCoveralls;
+	backpack = B_Parachute;
+    linkedItems[] =
+    {
+		V_TacVest_oli,
+        H_PilotHelmetHeli_B_A,
+        DefaultManLinkedItems,
+        NVGoggles
+    };
+    respawnLinkedItems[] =
+    {
+		V_TacVest_oli,
+        H_PilotHelmetHeli_B_A,
+        DefaultManLinkedItems,
+        NVGoggles
+    };
+	weapons[] =
+	{
+		hgun_PDW2000_Holo_F,
+        DefaultManWeapons
+	};
+	respawnWeapons[] =
+	{
+		hgun_PDW2000_Holo_F,
+        DefaultManWeapons
+	};
+	magazines[] =
+	{
+		mag_4(30Rnd_9x21_Mag),
+        SMOKESHELLS_BLUFOR
+	};
+	respawnMagazines[] =
+	{
+		mag_4(30Rnd_9x21_Mag),
+        SMOKESHELLS_BLUFOR
+	};
+	cost = 93000;
+	role = Crewman;
+	camouflage = 2.0;
+	identityTypes[] =
+	{
+		LanguageENGB_F,
+		Head_Euro,
+		Head_Enoch,
+		Head_NZ,
+		G_NATO_pilot
+	};
+};
 
 /* ADF Arid */
 

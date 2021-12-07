@@ -9,8 +9,8 @@ class Atlas_B_A_Plane_Transport_01_infantry_F: Plane_Transport_01_infantry_base_
 	radarTargetSize = 1.8;
 	side = TWest;
 	faction = Atlas_BLU_A_F;
-	crew = Atlas_B_A_Fighter_Pilot_F;
-	typicalCargo[] = {Atlas_B_A_Fighter_Pilot_F};
+	crew = Atlas_B_A_Pilot_F;
+	typicalCargo[] = {Atlas_B_A_Pilot_F};
 	textureList[] = {ADF,1};
 	hiddenSelectionsTextures[] =
 	{
@@ -29,8 +29,8 @@ class Atlas_B_A_Plane_Transport_01_vehicle_F: Plane_Transport_01_vehicle_base_F
 	radarTargetSize = 2;
 	side = TWest;
 	faction = Atlas_BLU_A_F;
-	crew = Atlas_B_A_Fighter_Pilot_F;
-	typicalCargo[] = {Atlas_B_A_Fighter_Pilot_F};
+	crew = Atlas_B_A_Pilot_F;
+	typicalCargo[] = {Atlas_B_A_Pilot_F};
 	textureList[] = {ADF,1};
 	hiddenSelectionsTextures[] =
 	{
