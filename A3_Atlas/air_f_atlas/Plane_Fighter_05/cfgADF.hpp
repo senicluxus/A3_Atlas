@@ -5,6 +5,7 @@ class Atlas_B_A_Plane_Fighter_05_F: Plane_Fighter_05_Base_F
 	scope = public;
 	scopeCurator = public;
 	side = TWest;
+	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Base_F0;
 	faction = Atlas_BLU_A_F;
 	crew = Atlas_B_A_Fighter_Pilot_F;
 	typicalCargo[] = {Atlas_B_A_Fighter_Pilot_F};
@@ -31,6 +32,7 @@ class Atlas_B_A_Plane_Fighter_05_Stealth_F: B_Plane_Fighter_05_Stealth_F
 	scope = public;
 	scopeCurator = public;
 	side = TWest;
+	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Stealth_F0;
 	faction = Atlas_BLU_A_F;
 	crew = Atlas_B_A_Fighter_Pilot_F;
 	typicalCargo[] = {Atlas_B_A_Fighter_Pilot_F};

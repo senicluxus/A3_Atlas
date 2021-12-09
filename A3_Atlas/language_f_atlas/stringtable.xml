@@ -496,21 +496,21 @@
 				<Turkish>AL-6 Pelican (Sıhhiye)</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Plane_Fighter_05_F0">
-				<Original>F-38I Aiit</Original>
-				<Chinese>F-38I Aiit</Chinese>
-				<French>F-38I Aiit</French>
-				<Spanish>F-38I Aiit</Spanish>
-				<Italian>F-38I Aiit</Italian>
-				<Polish>F-38I Aiit</Polish>
-				<Russian>F-38I Aiit</Russian>
-				<German>F-38I Aiit</German>
-				<Czech>F-38I Aiit</Czech>
-				<English>F-38I Aiit</English>
-				<Portuguese>F-38I Aiit</Portuguese>
-				<Korean>F-38I Aiit</Korean>
-				<Chinesesimp>F-38I Aiit</Chinesesimp>
-				<Japanese>F-38I Aiit</Japanese>
-				<Turkish>F-38I Aiit</Turkish>
+				<Original>F-38I Adir</Original>
+				<Chinese>F-38I Adir</Chinese>
+				<French>F-38I Adir</French>
+				<Spanish>F-38I Adir</Spanish>
+				<Italian>F-38I Adir</Italian>
+				<Polish>F-38I Adir</Polish>
+				<Russian>F-38I Adir</Russian>
+				<German>F-38I Adir</German>
+				<Czech>F-38I Adir</Czech>
+				<English>F-38I Adir</English>
+				<Portuguese>F-38I Adir</Portuguese>
+				<Korean>F-38I Adir</Korean>
+				<Chinesesimp>F-38I Adir</Chinesesimp>
+				<Japanese>F-38I Adir</Japanese>
+				<Turkish>F-38I Adir</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_B_M_Plane_Fighter_04_F0">
 				<Original>A-149 Malaikah</Original>
@@ -530,21 +530,21 @@
 				<Turkish>A-149 Malaikah</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Plane_Fighter_05_Stealth_F0">
-				<Original>F-38I Aiit (Stealth)</Original>
-				<Chinese>F-38I Aiit (隱形)</Chinese>
-				<French>F-38I Aiit (Furtif)</French>
-				<Spanish>F-38I Aiit (Sigilo)</Spanish>
-				<Italian>F-38I Aiit (Invisibile)</Italian>
-				<Polish>F-38I Aiit (Podstęp)</Polish>
-				<Russian>F-38I Aiit (хитрость)</Russian>
-				<German>F-38I Aiit (Heimlichkeit)</German>
-				<Czech>F-38I Aiit (Stealth)</Czech>
-				<English>F-38I Aiit (Stealth)</English>
-				<Portuguese>F-38I Aiit (Furtividade)</Portuguese>
-				<Korean>F-38I Aiit (몰래 하기)</Korean>
-				<Chinesesimp>F-38I Aiit (隐形)</Chinesesimp>
-				<Japanese>F-38I Aiit（ステルス）</Japanese>
-				<Turkish>F-38I Aiit (gizlilik)</Turkish>
+				<Original>F-38I Adir (Stealth)</Original>
+				<Chinese>F-38I Adir (隱形)</Chinese>
+				<French>F-38I Adir (Furtif)</French>
+				<Spanish>F-38I Adir (Sigilo)</Spanish>
+				<Italian>F-38I Adir (Invisibile)</Italian>
+				<Polish>F-38I Adir (Podstęp)</Polish>
+				<Russian>F-38I Adir (хитрость)</Russian>
+				<German>F-38I Adir (Heimlichkeit)</German>
+				<Czech>F-38I Adir (Stealth)</Czech>
+				<English>F-38I Adir (Stealth)</English>
+				<Portuguese>F-38I Adir (Furtividade)</Portuguese>
+				<Korean>F-38I Adir (몰래 하기)</Korean>
+				<Chinesesimp>F-38I Adir (隐形)</Chinesesimp>
+				<Japanese>F-38I Adir（ステルス）</Japanese>
+				<Turkish>F-38I Adir (gizlilik)</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_VTOL_01_infantry_F0">
 				<Original>V-44 X Livyatan (Infantry Transport)</Original>
