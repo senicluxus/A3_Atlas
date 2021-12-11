@@ -8,14 +8,14 @@ class CfgVehicles
 	{
 		class TextureSources
 		{
-            /*
 			class ADF
 			{
 				displayName = $STR_A3_A_TEXTURESOURCES_ADF0;
 				author = $STR_A3_A_AveryTheKitty;
-				textures[] = {"\A3_Atlas\Air_F_Atlas\UAV_01\Data\UAV_01_ADF_CO.paa"};
+				textures[] = {"\A3_Atlas\Air_F_Atlas\UAV_01\Data\UAV_01_IDF_CO.paa"};
 				factions[] = {BLU_O_F};
 			};
+			/*
 			class CDF
 			{
 				displayName = $STR_A3_A_TEXTURESOURCES_CDF0;
@@ -42,11 +42,9 @@ class CfgVehicles
 	// Arma 3 Atlas
 	#include "cfgLegion.hpp"		    // Legionnaires
 	#include "cfgBlufor_Atlas.hpp"		// Germany
-    /*
 	#include "cfgADF.hpp"				// ADF
-	#include "cfgCDF.hpp"				// CDF
-    */
 	#include "cfgIDF.hpp"				// IDF
+	#include "cfgUNO.hpp"				// UNO
     // Deprecated classes
     #include "deprecated.hpp"
 };

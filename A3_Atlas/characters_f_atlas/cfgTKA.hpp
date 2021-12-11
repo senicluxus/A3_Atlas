@@ -1005,7 +1005,7 @@ class Atlas_O_T_soldier_TL_F: Atlas_O_T_soldier_base_F
         SmokeShell,
         SMOKESHELLS_OPFOR,
         1Rnd_Smoke_Grenade_shell,
-		SOLDIER_SMOKE_GRENADES_OPFOR
+		SMOKEGRENADES_OPFOR
     };
     respawnMagazines[] =
     {
@@ -1017,7 +1017,7 @@ class Atlas_O_T_soldier_TL_F: Atlas_O_T_soldier_base_F
         SmokeShell,
         SMOKESHELLS_OPFOR,
         1Rnd_Smoke_Grenade_shell,
-		SOLDIER_SMOKE_GRENADES_OPFOR
+		SMOKEGRENADES_OPFOR
     };
 };
 class Atlas_O_T_Fighter_Pilot_F: Atlas_O_T_soldier_base_F

@@ -172,8 +172,8 @@ class Atlas_O_VZ_MBT_02_cannon_ghex_F: O_MBT_02_cannon_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_MBT_02_cannon_ghex_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Crew_F;
@@ -195,11 +195,11 @@ class Atlas_O_VZ_MBT_02_cannon_ghex_F: O_MBT_02_cannon_F
 	{
 		mag_xx(SmokeShell,2);
 		mag_xx(SmokeShellRed,2);
-		mag_xx(30Rnd_545x39_Mag_F,4);
+		mag_xx(30Rnd_580x42_Mag_F,4);
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_AKS_F,2);
+		weap_xx(arifle_NCAR15B_F,2);
 	};
 	class TransportBackpacks
 	{

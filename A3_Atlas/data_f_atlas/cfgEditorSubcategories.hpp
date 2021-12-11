@@ -21,9 +21,9 @@ class CfgEditorSubcategories
 	{
 		displayName = "Ammo (Takistani Army)";
 	};
-	class EdSubcat_Ammo_ANZAC
+	class EdSubcat_Ammo_ADF
 	{
-		displayName = "Ammo (ANZAC)";
+		displayName = "Ammo (ADF)";
 	};
 	class EdSubcat_Ammo_HIMF
 	{
@@ -40,6 +40,14 @@ class CfgEditorSubcategories
 	class EdSubcat_Ammo_UNO
 	{
 		displayName = "Ammo (UNO)";
+	};
+	class EdSubcat_Ammo_VZ
+	{
+		displayName = "Ammo (Venezuela)";
+	};
+	class EdSubcat_Ammo_Marar
+	{
+		displayName = "Ammo (Marar)";
 	};
 	class EdSubcat_Personnel_commandos
 	{

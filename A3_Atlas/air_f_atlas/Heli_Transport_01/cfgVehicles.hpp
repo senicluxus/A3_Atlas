@@ -38,11 +38,23 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class ADF
+			{
+				displayName = $STR_A3_A_TEXTURESOURCES_ADF0;
+				author = $STR_A3_A_BranFlakes;
+				textures[] =
+				{
+					"\A3_Atlas\Air_F_Atlas\Heli_Transport_01\Data\Heli_Transport_01_ext01_au_CO.paa",
+					"\A3_Atlas\Air_F_Atlas\Heli_Transport_01\Data\Heli_Transport_01_ext02_au_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
 
 	/* Factions */
 	#include "cfgIDF.hpp"   // IDF
+	#include "cfgADF.hpp"	//ADF
 
     /* Deprecated */
     #include "deprecated.hpp"

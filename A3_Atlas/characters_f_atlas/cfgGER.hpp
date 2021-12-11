@@ -625,7 +625,7 @@ class Atlas_B_G_Soldier_Exp_F: B_soldier_exp_F
     scope = public;
     scopeCurator = public;
 	uniformClass = Atlas_U_B_G_CombatUniform_vest_wdl;
-	backpack = B_Kitbag_rgr_Exp;
+	backpack = B_Kitbag_flecktarn_BEExp_F;
 	weapons[] =
 	{
 		arifle_G36C_Pointer_F,
@@ -1595,12 +1595,14 @@ class Atlas_B_G_Soldier_Lite_F: B_Soldier_lite_F
 	magazines[] =
 	{
 		mag_4(30Rnd_65x39_caseless_msbs_mag),
+		mag_2(16Rnd_9x21_Mag),
         HandGrenade,
         SmokeShell
 	};
 	respawnMagazines[] =
 	{
 		mag_4(30Rnd_65x39_caseless_msbs_mag),
+		mag_2(16Rnd_9x21_Mag),
         HandGrenade,
         SmokeShell
 	};

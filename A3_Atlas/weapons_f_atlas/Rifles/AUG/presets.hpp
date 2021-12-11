@@ -52,6 +52,19 @@ class arifle_AUG_MRCO_Pointer_F: arifle_AUG_F
 		};
 	};
 };
+// AUR 90 5.56 mm + IR Laser Pointer
+class arifle_AUG_Pointer_F: arifle_AUG_F
+{
+	author = $STR_A3_AveryTheKitty_and_Luchador;
+	class LinkedItems
+	{
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+	};
+};
 // AUR 90GL 5.56 mm + ACO (Red)
 class arifle_AUG_GL_ACO_F: arifle_AUG_GL_F
 {

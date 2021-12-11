@@ -42,10 +42,7 @@ class CfgVehicles
     #include "cfgLegion.hpp"		    // Legionnaires
 	#include "cfgBlufor_Atlas.hpp"		// Germany
     #include "cfgOpfor_Atlas.hpp"		// Takistani Army
-	/*
 	#include "cfgADF.hpp"				// ADF
-	#include "cfgCDF.hpp"				// CDF
-    */
 	#include "cfgIDF.hpp"				// IDF
     // Deprecated classes
     #include "deprecated.hpp"

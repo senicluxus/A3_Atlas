@@ -167,8 +167,8 @@ class Atlas_O_VZ_Plane_CAS_02_dynamicLoadout_ghex_F: O_Plane_CAS_02_dynamicLoado
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Plane_CAS_02_dynamicLoadout_ghex_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Fighter_Pilot_F;

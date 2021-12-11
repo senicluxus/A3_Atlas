@@ -42,11 +42,27 @@ class CfgFactionClasses
 	};
 	class Atlas_BLU_A_F
 	{
-		displayName = $STR_A3_A_CfgFactionClasses_BLU_A_F1;
+		displayName = $STR_A3_A_CfgFactionClasses_BLU_AUS_F0;
 		priority = 3;
 		side = TWest;
 		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\CfgFactionClasses_BLU_A_CA.paa";
-		//flag = "\A3_Atlas\Data_F_Atlas\Flags\flag_ANZAC_CO.paa";
+		flag = "\A3_Atlas\Data_F_Atlas\Flags\flag_Australia_CO.paa";
+	};
+	class Atlas_BLU_A_ard_F
+	{
+		displayName = $STR_A3_A_CfgFactionClasses_BLU_AUS_ard_F0;
+		priority = 3;
+		side = TWest;
+		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\CfgFactionClasses_BLU_A_CA.paa";
+		flag = "\A3_Atlas\Data_F_Atlas\Flags\flag_Australia_CO.paa";
+	};
+	class Atlas_BLU_A_trp_F
+	{
+		displayName = $STR_A3_A_CfgFactionClasses_BLU_AUS_trp_F0;
+		priority = 3;
+		side = TWest;
+		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\CfgFactionClasses_BLU_A_CA.paa";
+		flag = "\A3_Atlas\Data_F_Atlas\Flags\flag_Australia_CO.paa";
 	};
 	class Atlas_BLU_H_F
 	{
@@ -126,6 +142,14 @@ class CfgFactionClasses
 	class Atlas_IND_UNO_F
 	{
 		displayName = $STR_A3_A_CfgFactionClasses_IND_UNO_F0;
+		priority = 3;
+		side = TGuerrila;
+		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\icon_UNO_CA.paa";
+		flag = "\A3\Data_F\Flags\flag_UNO_CO.paa";
+	};
+	class Atlas_IND_UNO_wdl_F
+	{
+		displayName = $STR_A3_A_CfgFactionClasses_IND_UNO_wdl_F0;
 		priority = 3;
 		side = TGuerrila;
 		icon = "\A3_Atlas\Data_F_Atlas\FactionIcons\icon_UNO_CA.paa";

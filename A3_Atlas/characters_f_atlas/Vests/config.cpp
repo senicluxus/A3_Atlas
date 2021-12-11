@@ -16,6 +16,9 @@ class CfgWeapons
 	class V_PlateCarrierIA2_dgtl;
 	class V_PlateCarrierIAGL_dgtl;
 	class V_RebreatherB;
+	class V_PlateCarrierGL_rgr;
+	class V_PlateCarrier1_rgr;
+	class V_PlateCarrier2_rgr;
 	// Arma 3 Enoch
 	class V_CarrierRigKBT_01_base_F;
 	class V_CarrierRigKBT_01_light_base_F;
@@ -61,7 +64,7 @@ class CfgWeapons
 	class V_HarnessO_whex_F: V_HarnessO_gry
 	{
 		author = $STR_A3_A_AveryTheKitty;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessO_whex_F_CA.paa";
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessO_whex_F_CA.paa";
 		displayName = "LBV Harness (Woodland Hex)";
 		hiddenSelectionsTextures[] =
 		{
@@ -73,7 +76,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		displayName = "LBV Grenadier Harness (Woodland Hex)";
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessOGL_whex_F_CA.paa";
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessOGL_whex_F_CA.paa";
 		hiddenSelections[] =
 		{
 			camo1,
@@ -107,7 +110,7 @@ class CfgWeapons
 	class V_HarnessOSpec_whex_F: V_HarnessOSpec_brn
 	{
 		author = $STR_A3_A_AveryTheKitty;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessOSpec_whex_F_CA.paa";
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessOSpec_whex_F_CA.paa";
 		displayName = "ELBV Harness (Woodland Hex)";
 		hiddenSelectionsTextures[] =
 		{
@@ -125,15 +128,17 @@ class CfgWeapons
 	class V_PlateCarrierIA1_whex: V_PlateCarrierIA1_dgtl
 	{
 		author = $STR_A3_A_AveryTheKitty;
+		scope = protected;
 		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierIA1_whex0;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIA1_grn_CA.paa";
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIA1_grn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\equip_IA_Vest01_whex_CO.paa"};
 	};
 	class V_PlateCarrierIA2_whex: V_PlateCarrierIA2_dgtl
 	{
 		author = $STR_A3_A_AveryTheKitty;
+		scope = protected;
 		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierIA2_whex0;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIA2_grn_CA.paa";
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIA2_grn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\equip_IA_Vest01_whex_CO.paa"};
 	};
 	class V_PlateCarrierIA2_rhex: V_PlateCarrierIA2_dgtl
@@ -141,7 +146,7 @@ class CfgWeapons
 		author = $STR_A3_A_AveryTheKitty;
 		scope = protected;
 		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierIA2_rhex0;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIA2_grn_CA.paa";
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIA2_grn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\equip_IA_Vest01_rhex_CO.paa"};
 	};
 	class V_PlateCarrierIA2_grn: V_PlateCarrierIA2_dgtl
@@ -165,8 +170,9 @@ class CfgWeapons
 	class V_PlateCarrierIAGL_whex: V_PlateCarrierIAGL_dgtl
 	{
 		author = $STR_A3_A_AveryTheKitty;
+		scope = protected;
 		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierIAGL_whex0;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIAGL_grn_CA.paa";
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierIAGL_grn_CA.paa";
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\equip_IA_Vest01_whex_CO.paa",
@@ -228,15 +234,104 @@ class CfgWeapons
 			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Smersh_miscellaneous_oli_CO.paa"
 		};
 	};
-	class V_PlateCarrier2_rgr;
 	class V_PlateCarrier2_snd: V_PlateCarrier2_rgr
 	{
 		author = $STR_A3_A_AveryTheKitty;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_HarnessO_whex_F_CA.paa";
-		displayName = "Carrier Rig (Sand)";
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_snd_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier2_sand0;
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_sand.paa"
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_sand_CO.paa"
+		};
+	};
+	class V_PlateCarrierGL_aucamo_F: V_PlateCarrierGL_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierGL_aucamo_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierGL_aucamo_F0;
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Carrier_Rig_GL_aucamo_CO.paa"
+		};
+	};
+	class V_PlateCarrier1_aucamo_F: V_PlateCarrier1_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier1_aucamo_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier1_aucamo_F0;
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_CO.paa"
+		};
+	};
+	class V_PlateCarrier2_aucamo_F: V_PlateCarrier2_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_aucamo_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier2_aucamo_F0;
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_CO.paa"
+		};
+	};
+	class V_PlateCarrierGL_aucamo_ard_F: V_PlateCarrierGL_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierGL_aucamo_ard_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierGL_aucamo_ard_F0;
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Carrier_Rig_GL_aucamo_arid_CO.paa"
+		};
+	};
+	class V_PlateCarrier1_aucamo_ard_F: V_PlateCarrier1_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier1_aucamo_ard_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier1_aucamo_ard_F0;
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_arid_CO.paa"
+		};
+	};
+	class V_PlateCarrier2_aucamo_ard_F: V_PlateCarrier2_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_aucamo_ard_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier2_aucamo_ard_F0;
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_arid_CO.paa"
+		};
+	};
+	class V_PlateCarrierGL_aucamo_trp_F: V_PlateCarrierGL_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrierGL_aucamo_trp_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrierGL_aucamo_trp_F0;
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\Carrier_Rig_GL_aucamo_tropic_CO.paa"
+		};
+	};
+	class V_PlateCarrier1_aucamo_trp_F: V_PlateCarrier1_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier1_aucamo_trp_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier1_aucamo_trp_F0;
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_tropic_CO.paa"
+		};
+	};
+	class V_PlateCarrier2_aucamo_trp_F: V_PlateCarrier2_rgr
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_PlateCarrier2_aucamo_trp_F_CA.paa";
+		displayName = $STR_A3_A_CfgWeapons_V_PlateCarrier2_aucamo_trp_F0;
+		hiddenSelectionsTextures[] =
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\Data\vests_aucamo_tropic_CO.paa"
 		};
 	};
     /*
@@ -244,7 +339,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		displayName = $STR_A3_A_CfgWeapons_V_RebreatherB_O0;
-		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_RebreatherB_O_CA.paa";
+		picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\icon_V_RebreatherB_O_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\diver_equip_aucamo_CO.paa"};
 		hiddenUnderwaterSelectionsTextures[] =
 		{

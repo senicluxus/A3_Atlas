@@ -252,15 +252,15 @@ class Atlas_B_L_AFV_Wheeled_01_cannon_F: AFV_Wheeled_01_base_F
 	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_L_AFV_Wheeled_01_cannon_F.jpg";
 	side = TWest;
 	faction = Atlas_BLU_L_F;
+    scope = public;
 	crew = Atlas_B_L_Crew_F;
 	typicalCargo[] = {Atlas_B_L_Soldier_F};
 	displayName = $STR_A3_CfgVehicles_B_AFV_Wheeled_01_cannon_F0;
-	scope = protected;
-    scopeCurator = private; // del this
 	hiddenSelectionsTextures[] =
 	{
-        "\A3_Atlas\Armor_F_Atlas\AFV_Wheeled_01\Data\afv_wheeled_01_EXT1_jagged_01_CO.paa",
-        "\A3_Atlas\Armor_F_Atlas\AFV_Wheeled_01\Data\afv_wheeled_01_EXT2_jagged_01_CO.paa",
+        "\A3_Atlas\Armor_F_Atlas\AFV_Wheeled_01\Data\afv_wheeled_01_EXT1_fr_CO.paa",
+        //"\A3_Atlas\Armor_F_Atlas\AFV_Wheeled_01\Data\afv_wheeled_01_EXT2_jagged_01_CO.paa",
+        "\A3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT2_CO.paa",
         "\A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_wheel_CO.paa",
         "\A3\Armor_F\Data\camonet_NATO_Desert_CO.paa",
         "\A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_sand_CO.paa"
@@ -566,14 +566,14 @@ class Atlas_B_L_AFV_Wheeled_01_up_cannon_F: AFV_Wheeled_01_up_base_F
 	side = TWest;
 	faction = Atlas_BLU_L_F;
 	crew = Atlas_B_L_Crew_F;
+    scope = public;
 	typicalCargo[] = {Atlas_B_L_Soldier_F};
 	displayName = $STR_A3_CfgVehicles_B_T_AFV_Wheeled_01_up_cannon_F0;
-	scope = protected;
-    scopeCurator = private; // del this
 	hiddenSelectionsTextures[] =
 	{
-        "\A3_Atlas\Armor_F_Atlas\AFV_Wheeled_01\Data\afv_wheeled_01_EXT1_jagged_01_CO.paa",
-        "\A3_Atlas\Armor_F_Atlas\AFV_Wheeled_01\Data\afv_wheeled_01_EXT2_jagged_01_CO.paa",
+        "\A3_Atlas\Armor_F_Atlas\AFV_Wheeled_01\Data\afv_wheeled_01_EXT1_fr_CO.paa",
+        //"\A3_Atlas\Armor_F_Atlas\AFV_Wheeled_01\Data\afv_wheeled_01_EXT2_jagged_01_CO.paa",
+        "\A3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT2_CO.paa",
         "\A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_wheel_CO.paa",
         "\A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_sand_CO.paa",
         "\A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_commander_tow_sand_CO.paa",

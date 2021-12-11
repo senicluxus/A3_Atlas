@@ -9,7 +9,8 @@ class CfgPatches
         {
             // IDF
             Atlas_I_I_VTOL_01_infantry_F,
-            Atlas_I_I_VTOL_01_vehicle_F
+            Atlas_I_I_VTOL_01_vehicle_F,
+			Atlas_I_I_VTOL_01_armed_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

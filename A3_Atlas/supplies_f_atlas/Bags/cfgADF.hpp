@@ -1,4 +1,4 @@
-class B_Carryall_aucamo_BOAmmo_F: B_Carryall_aucamo_F
+class B_Carryall_aucamo_BAAmmo_F: B_Carryall_aucamo
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -13,7 +13,7 @@ class B_Carryall_aucamo_BOAmmo_F: B_Carryall_aucamo_F
 		mag_xx(20Rnd_762x51_Mag,2);
 	};
 };
-class B_Carryall_aucamo_BOAAA_F: B_Carryall_aucamo_F
+class B_Carryall_aucamo_BAAAA_F: B_Carryall_aucamo
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -22,7 +22,7 @@ class B_Carryall_aucamo_BOAAA_F: B_Carryall_aucamo_F
 		mag_xx(Titan_AA,3);
 	};
 };
-class B_Carryall_aucamo_BOAAT_F: B_Carryall_aucamo_F
+class B_Carryall_aucamo_BAAAT_F: B_Carryall_aucamo
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -32,7 +32,7 @@ class B_Carryall_aucamo_BOAAT_F: B_Carryall_aucamo_F
 		mag_xx(Titan_AP,2);
 	};
 };
-class B_Carryall_aucamo_Mine: B_Carryall_aucamo_F
+class B_Carryall_aucamo_Mine: B_Carryall_aucamo
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -49,7 +49,7 @@ class B_Carryall_aucamo_Mine: B_Carryall_aucamo_F
 		item_xx(MineDetector,1);
 	};
 };
-class B_AssaultPack_aucamo_BOLAT_F: B_AssaultPack_aucamo_F
+class B_AssaultPack_aucamo_BALAT_F: B_AssaultPack_aucamo_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -59,7 +59,7 @@ class B_AssaultPack_aucamo_BOLAT_F: B_AssaultPack_aucamo_F
 		mag_xx(MRAWS_HE_F,1);
 	};
 };
-class B_AssaultPack_aucamo_BOMedic_F: B_AssaultPack_aucamo_F
+class B_AssaultPack_aucamo_BAMedic_F: B_AssaultPack_aucamo_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -69,7 +69,7 @@ class B_AssaultPack_aucamo_BOMedic_F: B_AssaultPack_aucamo_F
 		item_xx(FirstAidKit,10);
 	};
 };
-class B_AssaultPack_aucamo_BORepair_F: B_AssaultPack_aucamo_F
+class B_AssaultPack_aucamo_BARepair_F: B_AssaultPack_aucamo_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -78,7 +78,7 @@ class B_AssaultPack_aucamo_BORepair_F: B_AssaultPack_aucamo_F
 		item_xx(ToolKit,1);
 	};
 };
-class B_Kitbag_aucamo_BOAAR_F: B_Kitbag_aucamo_F
+class B_Kitbag_aucamo_BAAAR_F: B_Kitbag_aucamo_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -95,7 +95,7 @@ class B_Kitbag_aucamo_BOAAR_F: B_Kitbag_aucamo_F
 		item_xx(muzzle_snds_M,1);
 	};
 };
-class B_Kitbag_aucamo_BOAA_F: B_Kitbag_aucamo_F
+class B_Kitbag_aucamo_BAAA_F: B_Kitbag_aucamo_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -104,7 +104,7 @@ class B_Kitbag_aucamo_BOAA_F: B_Kitbag_aucamo_F
 		mag_xx(Titan_AA,2);
 	};
 };
-class B_Kitbag_aucamo_BOAT_F: B_Kitbag_aucamo_F
+class B_Kitbag_aucamo_BAAT_F: B_Kitbag_aucamo_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -113,7 +113,7 @@ class B_Kitbag_aucamo_BOAT_F: B_Kitbag_aucamo_F
 		mag_xx(Titan_AT,2);
 	};
 };
-class B_Kitbag_aucamo_BOEng_F: B_Kitbag_aucamo_F
+class B_Kitbag_aucamo_BAEng_F: B_Kitbag_aucamo_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -128,7 +128,7 @@ class B_Kitbag_aucamo_BOEng_F: B_Kitbag_aucamo_F
 		item_xx(MineDetector,1);
 	};
 };
-class B_Kitbag_aucamo_BOExp_F: B_Kitbag_aucamo_F
+class B_Kitbag_aucamo_BAExp_F: B_Kitbag_aucamo_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;

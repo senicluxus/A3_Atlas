@@ -292,3 +292,55 @@ class arifle_G36C_FL_F: arifle_G36C_F
 		};
 	};
 };
+// G36K GL 6.5 mm + MRCO
+class arifle_G36_GL_MRCO_F: arifle_G36_GL_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_MRCO;
+		};
+	};
+};
+// G36K GL 6.5 mm + Holo
+class arifle_G36_GL_Holo_F: arifle_G36_GL_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_Holosight_blk_F;
+		};
+	};
+};
+// G36K 6.5 mm + MRCO
+class arifle_G36_MRCO_F: arifle_G36_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_MRCO;
+		};
+	};
+};
+// G36K 6.5 mm + Mk17 Holosight (Black)
+class arifle_G36_Holo_F: arifle_G36_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_Holosight_blk_F;
+		};
+	};
+};

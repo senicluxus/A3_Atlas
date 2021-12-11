@@ -321,14 +321,14 @@ class CfgGroups
 				};
 			};
 		};
-		/*
+
         class Atlas_BLU_A_F
 		{
-			name = $STR_A3_A_CfgFactionClasses_BLU_A_F1;
+			name = $STR_A3_A_CfgFactionClasses_BLU_AUS_F0;
 			class Infantry
 			{
 				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
-				class B_O_InfSquad
+				class Atlas_B_A_InfSquad
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad0;
 					side = TWest;
@@ -343,7 +343,7 @@ class CfgGroups
 					GROUP_UNIT(6,TWest,Atlas_B_A_soldier_A_F,PRIVATE,-15,-15)
 					GROUP_UNIT(7,TWest,Atlas_B_A_medic_F,PRIVATE,20,-20)
 				};
-				class B_O_InfSquad_Weapons
+				class Atlas_B_A_InfSquad_Weapons
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad_Weapons0;
 					side = TWest;
@@ -358,7 +358,7 @@ class CfgGroups
 					GROUP_UNIT(6,TWest,Atlas_B_A_soldier_A_F,PRIVATE,-15,-15)
 					GROUP_UNIT(7,TWest,Atlas_B_A_medic_F,PRIVATE,20,-20)
 				};
-				class B_O_InfTeam
+				class Atlas_B_A_InfTeam
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam0;
 					side = TWest;
@@ -369,7 +369,7 @@ class CfgGroups
 					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_GL_F,PRIVATE,-5,-5)
 					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_LAT_F,PRIVATE,10,-10)
 				};
-				class B_O_InfTeam_AT
+				class Atlas_B_A_InfTeam_AT
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AT0;
 					side = TWest;
@@ -380,7 +380,7 @@ class CfgGroups
 					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_AT_F,PRIVATE,-5,-5)
 					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_F,PRIVATE,10,-10)
 				};
-				class B_O_InfTeam_AA
+				class Atlas_B_A_InfTeam_AA
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AA0;
 					side = TWest;
@@ -391,7 +391,7 @@ class CfgGroups
 					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_AA_F,PRIVATE,-5,-5)
 					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_F,PRIVATE,10,-10)
 				};
-				class B_O_InfSentry
+				class Atlas_B_A_InfSentry
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSentry0;
 					side = TWest;
@@ -402,7 +402,169 @@ class CfgGroups
 				};
 			};
 		};
-        */
+
+		class Atlas_BLU_A_ard_F
+		{
+			name = $STR_A3_A_CfgFactionClasses_BLU_AUS_ard_F0;
+			class Infantry
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
+				class Atlas_B_A_ard_InfSquad
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_SL_ard_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_RadioOperator_ard_F,PRIVATE,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_LAT_ard_F,CORPORAL,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_M_ard_F,PRIVATE,10,-10)
+					GROUP_UNIT(4,TWest,Atlas_B_A_soldier_TL_ard_F,SERGEANT,-10,-10)
+					GROUP_UNIT(5,TWest,Atlas_B_A_soldier_AR_ard_F,CORPORAL,15,-15)
+					GROUP_UNIT(6,TWest,Atlas_B_A_soldier_A_ard_F,PRIVATE,-15,-15)
+					GROUP_UNIT(7,TWest,Atlas_B_A_medic_ard_F,PRIVATE,20,-20)
+				};
+				class Atlas_B_A_ard_InfSquad_Weapons
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad_Weapons0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_SL_ard_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_AR_ard_F,PRIVATE,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_GL_ard_F,CORPORAL,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_M_ard_F,PRIVATE,10,-10)
+					GROUP_UNIT(4,TWest,Atlas_B_A_soldier_AT_ard_F,PRIVATE,-10,-10)
+					GROUP_UNIT(5,TWest,Atlas_B_A_soldier_ard_F,PRIVATE,15,-15)
+					GROUP_UNIT(6,TWest,Atlas_B_A_soldier_A_ard_F,PRIVATE,-15,-15)
+					GROUP_UNIT(7,TWest,Atlas_B_A_medic_ard_F,PRIVATE,20,-20)
+				};
+				class Atlas_B_A_ard_InfTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_TL_ard_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_AR_ard_F,CORPORAL,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_GL_ard_F,PRIVATE,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_LAT_ard_F,PRIVATE,10,-10)
+				};
+				class Atlas_B_A_ard_InfTeam_AT
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AT0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_TL_ard_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_AT_ard_F,CORPORAL,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_AT_ard_F,PRIVATE,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_ard_F,PRIVATE,10,-10)
+				};
+				class Atlas_B_A_ard_InfTeam_AA
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AA0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_TL_ard_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_AA_ard_F,CORPORAL,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_AA_ard_F,PRIVATE,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_ard_F,PRIVATE,10,-10)
+				};
+				class Atlas_B_A_ard_InfSentry
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSentry0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_GL_ard_F,CORPORAL,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_ard_F,PRIVATE,5,-5)
+				};
+			};
+		};
+
+		class Atlas_BLU_A_trp_F
+		{
+			name = $STR_A3_A_CfgFactionClasses_BLU_AUS_trp_F0;
+			class Infantry
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
+				class Atlas_B_A_trp_InfSquad
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_SL_trp_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_RadioOperator_trp_F,PRIVATE,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_LAT_trp_F,CORPORAL,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_M_trp_F,PRIVATE,10,-10)
+					GROUP_UNIT(4,TWest,Atlas_B_A_soldier_TL_trp_F,SERGEANT,-10,-10)
+					GROUP_UNIT(5,TWest,Atlas_B_A_soldier_AR_trp_F,CORPORAL,15,-15)
+					GROUP_UNIT(6,TWest,Atlas_B_A_soldier_A_trp_F,PRIVATE,-15,-15)
+					GROUP_UNIT(7,TWest,Atlas_B_A_medic_trp_F,PRIVATE,20,-20)
+				};
+				class Atlas_B_A_trp_InfSquad_Weapons
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad_Weapons0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_SL_trp_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_AR_trp_F,PRIVATE,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_GL_trp_F,CORPORAL,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_M_trp_F,PRIVATE,10,-10)
+					GROUP_UNIT(4,TWest,Atlas_B_A_soldier_AT_trp_F,PRIVATE,-10,-10)
+					GROUP_UNIT(5,TWest,Atlas_B_A_soldier_trp_F,PRIVATE,15,-15)
+					GROUP_UNIT(6,TWest,Atlas_B_A_soldier_A_trp_F,PRIVATE,-15,-15)
+					GROUP_UNIT(7,TWest,Atlas_B_A_medic_trp_F,PRIVATE,20,-20)
+				};
+				class Atlas_B_A_trp_InfTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_TL_trp_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_AR_trp_F,CORPORAL,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_GL_trp_F,PRIVATE,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_LAT_trp_F,PRIVATE,10,-10)
+				};
+				class Atlas_B_A_trp_InfTeam_AT
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AT0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_TL_trp_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_AT_trp_F,CORPORAL,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_AT_trp_F,PRIVATE,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_trp_F,PRIVATE,10,-10)
+				};
+				class Atlas_B_A_trp_InfTeam_AA
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AA0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_TL_trp_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_AA_trp_F,CORPORAL,5,-5)
+					GROUP_UNIT(2,TWest,Atlas_B_A_soldier_AA_trp_F,PRIVATE,-5,-5)
+					GROUP_UNIT(3,TWest,Atlas_B_A_soldier_trp_F,PRIVATE,10,-10)
+				};
+				class Atlas_B_A_trp_InfSentry
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSentry0;
+					side = TWest;
+					faction = Atlas_BLU_A_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Atlas_B_A_soldier_GL_trp_F,CORPORAL,0,0)
+					GROUP_UNIT(1,TWest,Atlas_B_A_soldier_trp_F,PRIVATE,5,-5)
+				};
+			};
+		};
+
 		class Atlas_BLU_H_F
 		{
 			name = $STR_A3_A_CfgFactionClasses_BLU_H_F0;
@@ -833,7 +995,7 @@ class CfgGroups
 				};
 			};
 		};
-		class Atlas_OPF_V_F
+		/*class Atlas_OPF_V_F
 		{
 		  	name = $STR_A3_A_CfgFactionClasses_OPF_V_F0;
 			class Infantry
@@ -981,7 +1143,7 @@ class CfgGroups
 					side = TEast;
 					faction = Atlas_OPF_W_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_mech_inf.paa";
-					GROUP_UNIT(0,TEast,O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
+					GROUP_UNIT(0,TEast,Atlas_O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
 					GROUP_UNIT(1,TEast,Atlas_O_VZ_SL_F,SERGEANT,5,-5)
 					GROUP_UNIT(2,TEast,Atlas_O_VZ_RadioOperator_F,PRIVATE,-5,-5)
 					GROUP_UNIT(3,TEast,Atlas_O_VZ_Soldier_LAT_F,CORPORAL,10,-10)
@@ -997,7 +1159,7 @@ class CfgGroups
 					side = TEast;
 					faction = Atlas_OPF_W_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_mech_inf.paa";
-					GROUP_UNIT(0,TEast,O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
+					GROUP_UNIT(0,TEast,Atlas_O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
 					GROUP_UNIT(1,TEast,Atlas_O_VZ_SL_F,SERGEANT,5,-5)
 					GROUP_UNIT(2,TEast,Atlas_O_VZ_AR_F,CORPORAL,-5,-5)
 					GROUP_UNIT(3,TEast,Atlas_O_VZ_Soldier_AT_F,PRIVATE,10,-10)
@@ -1013,7 +1175,7 @@ class CfgGroups
 					side = TEast;
 					faction = Atlas_OPF_W_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_mech_inf.paa";
-					GROUP_UNIT(0,TEast,O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
+					GROUP_UNIT(0,TEast,Atlas_O_VZ_APC_Wheeled_04_cannon_F,LIEUTENANT,0,0)
 					GROUP_UNIT(1,TEast,Atlas_O_VZ_SL_F,SERGEANT,5,-5)
 					GROUP_UNIT(2,TEast,Atlas_O_VZ_AR_F,CORPORAL,-5,-5)
 					GROUP_UNIT(3,TEast,Atlas_O_VZ_Soldier_AA_F,PRIVATE,10,-10)
@@ -1048,7 +1210,7 @@ class CfgGroups
 					GROUP_UNIT(1,TEast,Atlas_O_VZ_MBT_02_cannon_ghex_F,SERGEANT,10,-10)
 				};
 			};
-		};
+		};*/
 		class Atlas_OPF_T_F
 		{
 			name = $STR_A3_A_CfgFactionClasses_OPF_T_F1;
@@ -1696,11 +1858,75 @@ class CfgGroups
 				};
 			};
 		};
-        /*
+        
 		class Atlas_IND_UNO_F
 		{
 			name = $STR_A3_A_CfgFactionClasses_IND_UNO_F0;
+			class Infantry
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
+				class Atlas_I_UNO_InfSquad
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfSquad0;
+					side = TGuerrila;
+					faction = Atlas_IND_UNO_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\n_inf.paa";
+					GROUP_UNIT(0,TGuerrila,Atlas_I_UNO_soldier_SL_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TGuerrila,Atlas_I_UNO_RadioOperator_F,PRIVATE,5,-5)
+					GROUP_UNIT(2,TGuerrila,Atlas_I_UNO_Soldier_LAT_F,CORPORAL,-5,-5)
+					GROUP_UNIT(3,TGuerrila,Atlas_I_UNO_Soldier_M_F,PRIVATE,10,-10)
+					GROUP_UNIT(4,TGuerrila,Atlas_I_UNO_Soldier_TL_F,SERGEANT,-10,-10)
+					GROUP_UNIT(5,TGuerrila,Atlas_I_UNO_Soldier_AR_F,CORPORAL,15,-15)
+					GROUP_UNIT(6,TGuerrila,Atlas_I_UNO_Soldier_A_F,PRIVATE,-15,-15)
+					GROUP_UNIT(7,TGuerrila,Atlas_I_UNO_Medic_F,PRIVATE,20,-20)
+				};
+				class Atlas_I_UNO_InfTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfTeam0;
+					side = TGuerrila;
+					faction = Atlas_IND_UNO_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\n_inf.paa";
+					GROUP_UNIT(0,TGuerrila,Atlas_I_UNO_Soldier_TL_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TGuerrila,Atlas_I_UNO_Soldier_AR_F,CORPORAL,5,-5)
+					GROUP_UNIT(2,TGuerrila,Atlas_I_UNO_Soldier_GL_F,PRIVATE,-5,-5)
+					GROUP_UNIT(3,TGuerrila,Atlas_I_UNO_Soldier_LAT_F,PRIVATE,10,-10)
+				};
+			};
 		};
-        */
+
+		class Atlas_IND_UNO_wdl_F
+		{
+			name = $STR_A3_A_CfgFactionClasses_IND_UNO_wdl_F0;
+			class Infantry
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
+				class Atlas_I_UNO_wdl_InfSquad
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfSquad0;
+					side = TGuerrila;
+					faction = Atlas_IND_UNO_wdl_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\n_inf.paa";
+					GROUP_UNIT(0,TGuerrila,Atlas_I_UNO_wdl_soldier_SL_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TGuerrila,Atlas_I_UNO_wdl_RadioOperator_F,PRIVATE,5,-5)
+					GROUP_UNIT(2,TGuerrila,Atlas_I_UNO_wdl_Soldier_LAT_F,CORPORAL,-5,-5)
+					GROUP_UNIT(3,TGuerrila,Atlas_I_UNO_wdl_Soldier_M_F,PRIVATE,10,-10)
+					GROUP_UNIT(4,TGuerrila,Atlas_I_UNO_wdl_Soldier_TL_F,SERGEANT,-10,-10)
+					GROUP_UNIT(5,TGuerrila,Atlas_I_UNO_wdl_Soldier_AR_F,CORPORAL,15,-15)
+					GROUP_UNIT(6,TGuerrila,Atlas_I_UNO_wdl_Soldier_A_F,PRIVATE,-15,-15)
+					GROUP_UNIT(7,TGuerrila,Atlas_I_UNO_wdl_Medic_F,PRIVATE,20,-20)
+				};
+				class Atlas_I_UNO_wdl_InfTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfTeam0;
+					side = TGuerrila;
+					faction = Atlas_IND_UNO_wdl_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\n_inf.paa";
+					GROUP_UNIT(0,TGuerrila,Atlas_I_UNO_wdl_Soldier_TL_F,SERGEANT,0,0)
+					GROUP_UNIT(1,TGuerrila,Atlas_I_UNO_wdl_Soldier_AR_F,CORPORAL,5,-5)
+					GROUP_UNIT(2,TGuerrila,Atlas_I_UNO_wdl_Soldier_GL_F,PRIVATE,-5,-5)
+					GROUP_UNIT(3,TGuerrila,Atlas_I_UNO_wdl_Soldier_LAT_F,PRIVATE,10,-10)
+				};
+			};
+		};
 	};
 };

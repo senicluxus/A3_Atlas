@@ -13,17 +13,14 @@ class CfgWeapons
 	#include "cfgOpfor_Atlas.hpp"		// Takistani Army
 	#include "cfgVenezuela.hpp"			//Venezuela
 	#include "cfgMarar.hpp"				//Marar
-	/*
     #include "cfgAnzac.hpp"				// ANZAC
-	*/
     #include "cfgHIMF.hpp"				// HIMF
     /*
 	#include "cfgCDF.hpp"				// CDF
 	*/
     #include "cfgIDF.hpp"				// IDF
-	/*
     #include "cfgUNO.hpp"				// UNO
-    */
+    
     // Deprecated classes
     #include "deprecated.hpp"
 };

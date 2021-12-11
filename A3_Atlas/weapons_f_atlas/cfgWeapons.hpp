@@ -105,7 +105,7 @@ class CfgWeapons
 		{
 			hiddenSelections[] = {camo};
 		};
-	};
+	}; */
 	class launch_B_Titan_coyote_F: launch_Titan_base
 	{
 		author = $STR_A3_A_AveryTheKitty;
@@ -118,6 +118,7 @@ class CfgWeapons
 		};
 		//picture = "\A3_Atlas\Weapons_F_Atlas\Launchers\Titan\Data\UI\icon_launch_B_Titan_coyote_F_X_CA.paa";
 	};
+
 	class srifle_EBR_cbr_F: srifle_EBR_F
 	{
 		author = $STR_A3_A_AveryTheKitty;
@@ -156,7 +157,7 @@ class CfgWeapons
 			"\A3\Weapons_F_Tank\Launchers\MRAWS\Data\launch_MRAWS_rail_02_F_CO.paa"
 		};
 	};
-    */
+
 	#include "presets.hpp"
 	class optic_LRCO_blk_F: optic_MRCO
 	{

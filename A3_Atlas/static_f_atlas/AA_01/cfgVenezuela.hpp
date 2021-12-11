@@ -49,6 +49,8 @@ class Atlas_O_VZ_Static_AA_F: O_static_AA_F
 		init = "''";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_Static_AA_F.jpg";
+	scope = protected;
+	scopeCurator = protected;
 	faction = Atlas_OPF_V_F;
 	crew = Atlas_O_VZ_Soldier_F;
 	hiddenSelections[] =

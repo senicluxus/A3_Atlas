@@ -19,6 +19,40 @@
 				<Japanese>AH-99 Akav</Japanese>
 				<Turkish>AH-99 Akav</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_M_Heli_Attack_03_F0">
+				<Original>AH-64 Shaytan</Original>
+				<Chinese>AH-64 Shaytan</Chinese>
+				<French>AH-64 Shaytan</French>
+				<Spanish>AH-64 Shaytan</Spanish>
+				<Italian>AH-64 Shaytan</Italian>
+				<Polish>AH-64 Shaytan</Polish>
+				<Russian>AH-64 Shaytan</Russian>
+				<German>AH-64 Shaytan</German>
+				<Czech>AH-64 Shaytan</Czech>
+				<English>AH-64 Shaytan</English>
+				<Portuguese>AH-64 Shaytan</Portuguese>
+				<Korean>AH-64 Shaytan</Korean>
+				<Chinesesimp>AH-64 Shaytan</Chinesesimp>
+				<Japanese>AH-64 Shaytan</Japanese>
+				<Turkish>AH-64 Shaytan</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_A_Heli_Attack_03_F0">
+				<Original>AH-64E Guardian</Original>
+				<Chinese>AH-64E Guardian</Chinese>
+				<French>AH-64E Guardian</French>
+				<Spanish>AH-64E Guardian</Spanish>
+				<Italian>AH-64E Guardian</Italian>
+				<Polish>AH-64E Guardian</Polish>
+				<Russian>AH-64E Guardian</Russian>
+				<German>AH-64E Guardian</German>
+				<Czech>AH-64E Guardian</Czech>
+				<English>AH-64E Guardian</English>
+				<Portuguese>AH-64E Guardian</Portuguese>
+				<Korean>AH-64E Guardian</Korean>
+				<Chinesesimp>AH-64E Guardian</Chinesesimp>
+				<Japanese>AH-64E Guardian</Japanese>
+				<Turkish>AH-64E Guardian</Turkish>
+			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Heli_Transport_01_F0">
 				<Original>UH-80 Duchifat</Original>
 				<Chinese>UH-80 Duchifat</Chinese>
@@ -35,6 +69,40 @@
 				<Chinesesimp>UH-80 Duchifat</Chinesesimp>
 				<Japanese>UH-80 Duchifat</Japanese>
 				<Turkish>UH-80 Duchifat</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_M_Heli_Light_02_F0">
+				<Original>KA-60 Burāq</Original>
+				<Chinese>KA-60 Burāq</Chinese>
+				<French>KA-60 Burāq</French>
+				<Spanish>KA-60 Burāq</Spanish>
+				<Italian>KA-60 Burāq</Italian>
+				<Polish>KA-60 Burāq</Polish>
+				<Russian>KA-60 Burāq</Russian>
+				<German>KA-60 Burāq</German>
+				<Czech>KA-60 Burāq</Czech>
+				<English>KA-60 Burāq</English>
+				<Portuguese>KA-60 Burāq</Portuguese>
+				<Korean>KA-60 Burāq</Korean>
+				<Chinesesimp>KA-60 Burāq</Chinesesimp>
+				<Japanese>KA-60 Burāq</Japanese>
+				<Turkish>KA-60 Burāq</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_M_Heli_Light_02_Unarmed_F0">
+				<Original>KA-60 Burāq (Unarmed)</Original>
+				<Chinese>KA-60 Burāq (Unarmed)</Chinese>
+				<French>KA-60 Burāq (Unarmed)</French>
+				<Spanish>KA-60 Burāq (Unarmed)</Spanish>
+				<Italian>KA-60 Burāq (Unarmed)</Italian>
+				<Polish>KA-60 Burāq (Unarmed)</Polish>
+				<Russian>KA-60 Burāq (Unarmed)</Russian>
+				<German>KA-60 Burāq (Unarmed)</German>
+				<Czech>KA-60 Burāq (Unarmed)</Czech>
+				<English>KA-60 Burāq (Unarmed)</English>
+				<Portuguese>KA-60 Burāq (Unarmed)</Portuguese>
+				<Korean>KA-60 Burāq (Unarmed)</Korean>
+				<Chinesesimp>KA-60 Burāq (Unarmed)</Chinesesimp>
+				<Japanese>KA-60 Burāq (Unarmed)</Japanese>
+				<Turkish>KA-60 Burāq (Unarmed)</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_UAV_01_F0">
 				<Original>Naiyana AR-2</Original>
@@ -86,6 +154,40 @@
 				<Chinesesimp>Naiyana AR-2</Chinesesimp>
 				<Japanese>Naiyana AR-2</Japanese>
 				<Turkish>Naiyana AR-2</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_01_backpack_F0">
+				<Original>UAV Bag (AR-2) [UNO]</Original>
+				<Chinese>無人機袋子（AR-2）（UNO）</Chinese>
+				<French>Sac drone (AR-2) [UNO]</French>
+				<Spanish>Bolsa de VANT (AR-2) [UNO]</Spanish>
+				<Italian>Borsa UAV (AR-2) [UNO]</Italian>
+				<Polish>Torba na drona (AR-2) [UNO]</Polish>
+				<Russian>Сумка для БПЛА (AR-2) [UNO]</Russian>
+				<German>UAV-Tasche (AR-2) [UNO]</German>
+				<Czech>UAV vak (AR-2) [UNO]</Czech>
+				<English>UAV Bag (AR-2) [UNO]</English>
+				<Portuguese>Compartimento de VANT (AR-2) [UNO]</Portuguese>
+				<Korean>UAV 가방 (AR-2) [UNO]</Korean>
+				<Chinesesimp>UAV 包（AR-2）[UNO]</Chinesesimp>
+				<Japanese>UAV バッグ（AR-2）[UNO]</Japanese>
+				<Turkish>İHA Çantası (AR-2) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_01_backpack_F_assembleInfo0">
+				<Original>AR-2 Darter</Original>
+				<Chinese>AR-2 Darter</Chinese>
+				<French>AR-2 Darter</French>
+				<Spanish>AR-2 Darter</Spanish>
+				<Italian>AR-2 Darter</Italian>
+				<Polish>AR-2 Darter</Polish>
+				<Russian>AR-2 Darter</Russian>
+				<German>AR-2 Darter</German>
+				<Czech>AR-2 Darter</Czech>
+				<English>AR-2 Darter</English>
+				<Portuguese>AR-2 Darter</Portuguese>
+				<Korean>AR-2 Darter</Korean>
+				<Chinesesimp>AR-2 Darter</Chinesesimp>
+				<Japanese>AR-2 Darter</Japanese>
+				<Turkish>AR-2 Darter</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_UAV_02_dynamicLoadout_F0">
 				<Original>MQ-4I Yanshuf</Original>
@@ -257,39 +359,243 @@
 				<Japanese>Pashosh AL-6（医療用）</Japanese>
 				<Turkish>Pashosh AL-6 (Sıhhiye)</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_F0">
+				<Original>AL-6 Pelican</Original>
+				<Chinese>AL-6 Pelican</Chinese>
+				<French>AL-6 Pelican</French>
+				<Spanish>AL-6 Pelican</Spanish>
+				<Italian>AL-6 Pelican</Italian>
+				<Polish>AL-6 Pelican</Polish>
+				<Russian>AL-6 Pelican</Russian>
+				<German>AL-6 Pelican</German>
+				<Czech>AL-6 Pelican</Czech>
+				<English>AL-6 Pelican</English>
+				<Portuguese>AL-6 Pelican</Portuguese>
+				<Korean>AL-6 Pelican</Korean>
+				<Chinesesimp>AL-6 Pelican</Chinesesimp>
+				<Japanese>AL-6 Pelican</Japanese>
+				<Turkish>AL-6 Pelican</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_medical_F0">
+				<Original>AL-6 Pelican (Medical)</Original>
+				<Chinese>AL-6 Pelican（醫療用）</Chinese>
+				<French>AL-6 Pelican (médical)</French>
+				<Spanish>AL-6 Pelican (médico)</Spanish>
+				<Italian>AL-6 Pelican (medico)</Italian>
+				<Polish>AL-6 Pelican (medyczny)</Polish>
+				<Russian>AL-6 Pelican (медицинский)</Russian>
+				<German>AL-6 Pelican (Medizin)</German>
+				<Czech>AL-6 Pelican (zdravotnický)</Czech>
+				<English>AL-6 Pelican (Medical)</English>
+				<Portuguese>AL-6 Pelican (médico)</Portuguese>
+				<Korean>AL-6 Pelican (의무)</Korean>
+				<Chinesesimp>AL-6 Pelican（医疗）</Chinesesimp>
+				<Japanese>AL-6 Pelican（医療用）</Japanese>
+				<Turkish>AL-6 Pelican (Sıhhiye)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_Box_I_UNO_UAV_06_F0">
+				<Original>AL-6 Case [UNO]</Original>
+				<Chinese>AL-6 外箱（UNO）</Chinese>
+				<French>Mallette AL-6 [UNO]</French>
+				<Spanish>Compartimento de AL-6 [UNO]</Spanish>
+				<Italian>Contenitore AL-6 [UNO]</Italian>
+				<Polish>Skrzynia AL-6 [UNO]</Polish>
+				<Russian>AL-6 Case [UNO]</Russian>
+				<German>AL-6-Koffer [UNO]</German>
+				<Czech>Bedna na AL-6 [UNO]</Czech>
+				<English>AL-6 Case [UNO]</English>
+				<Portuguese>Caixa de AL-6 [UNO]</Portuguese>
+				<Korean>AL-6 Case [UNO]</Korean>
+				<Chinesesimp>AL-6 箱 [UNO]</Chinesesimp>
+				<Japanese>AL-6 用ケース [UNO]</Japanese>
+				<Turkish>AL-6 Çantası [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_Box_I_UNO_UAV_06_medical_F0">
+				<Original>AL-6 Case (Medical) [UNO]</Original>
+				<Chinese>AL-6 外箱（醫療用）（UNO）</Chinese>
+				<French>Mallette AL-6 (médical) [UNO]</French>
+				<Spanish>Compartimento de AL-6 (médico) [UNO]</Spanish>
+				<Italian>Contenitore AL-6 (medico) [UNO]</Italian>
+				<Polish>Skrzynia AL-6 (medyczna) [UNO]</Polish>
+				<Russian>AL-6 Case (медицинский) [UNO]</Russian>
+				<German>AL-6-Koffer (Medizin) [UNO]</German>
+				<Czech>Bedna na AL-6 (zdravotnický) [UNO]</Czech>
+				<English>AL-6 Case (Medical) [UNO]</English>
+				<Portuguese>Caixa de AL-6 (médico) [UNO]</Portuguese>
+				<Korean>AL-6 Case (의무) [UNO]</Korean>
+				<Chinesesimp>AL-6 箱（医疗）[UNO]</Chinesesimp>
+				<Japanese>AL-6 用ケース（医療用）[UNO]</Japanese>
+				<Turkish>AL-6 Çantası (Sıhhiye) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_backpack_F0">
+				<Original>UAV Bag (AL-6) [UNO]</Original>
+				<Chinese>無人機袋子（AL-6）（UNO）</Chinese>
+				<French>Sac drone (AL-6) [UNO]</French>
+				<Spanish>Bolsa de VANT (AL-6) [UNO]</Spanish>
+				<Italian>Borsa UAV (AL-6) [UNO]</Italian>
+				<Polish>Torba na drona (AL-6) [UNO]</Polish>
+				<Russian>Сумка для БПЛА (AL-6) [UNO]</Russian>
+				<German>UAV-Tasche (AL-6) [UNO]</German>
+				<Czech>UAV vak (AL-6) [UNO]</Czech>
+				<English>UAV Bag (AL-6) [UNO]</English>
+				<Portuguese>Compartimento de VANT (AL-6) [UNO]</Portuguese>
+				<Korean>UAV 가방 (AL-6) [UNO]</Korean>
+				<Chinesesimp>UAV 包（AL-6）[UNO]</Chinesesimp>
+				<Japanese>UAV バッグ（AL-6）[UNO]</Japanese>
+				<Turkish>İHA Çantası (AL-6) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_backpack_F_assembleInfo0">
+				<Original>AL-6 Pelican</Original>
+				<Chinese>AL-6 Pelican</Chinese>
+				<French>AL-6 Pelican</French>
+				<Spanish>AL-6 Pelican</Spanish>
+				<Italian>AL-6 Pelican</Italian>
+				<Polish>AL-6 Pelican</Polish>
+				<Russian>AL-6 Pelican</Russian>
+				<German>AL-6 Pelican</German>
+				<Czech>AL-6 Pelican</Czech>
+				<English>AL-6 Pelican</English>
+				<Portuguese>AL-6 Pelican</Portuguese>
+				<Korean>AL-6 Pelican</Korean>
+				<Chinesesimp>AL-6 Pelican</Chinesesimp>
+				<Japanese>AL-6 Pelican</Japanese>
+				<Turkish>AL-6 Pelican</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_medical_backpack_F0">
+				<Original>UAV Bag (AL-6, Medical) [UNO]</Original>
+				<Chinese>無人機袋子（AL-6，醫療用）（UNO）</Chinese>
+				<French>Sac drone (AL-6, médical) [UNO]</French>
+				<Spanish>Bolsa de VANT (AL-6, médico) [UNO]</Spanish>
+				<Italian>Borsa UAV (AL-6, medica) [UNO]</Italian>
+				<Polish>Torba na drona (AL-6, medyczny) [UNO]</Polish>
+				<Russian>Сумка, БПЛА (AL-6,мед.) [UNO]</Russian>
+				<German>UAV-Tasche (AL-6, Medizin) [UNO]</German>
+				<Czech>UAV vak (AL-6, zdravotnický) [UNO]</Czech>
+				<English>UAV Bag (AL-6, Medical) [UNO]</English>
+				<Portuguese>Compartimento de VANT (AL-6, médico) [UNO]</Portuguese>
+				<Korean>UAV 가방 (AL-6, 의료) [UNO]</Korean>
+				<Chinesesimp>UAV 包（AL-6，医疗）[UNO]</Chinesesimp>
+				<Japanese>UAV バッグ（AL-6、医療用） [UNO]</Japanese>
+				<Turkish>İHA Çantası (AL-6, Sıhhiye) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UAV_06_medical_backpack_F_assembleInfo0">
+				<Original>AL-6 Pelican (Medical)</Original>
+				<Chinese>AL-6 Pelican（醫療用）</Chinese>
+				<French>AL-6 Pelican (médical)</French>
+				<Spanish>AL-6 Pelican (médico)</Spanish>
+				<Italian>AL-6 Pelican (medico)</Italian>
+				<Polish>AL-6 Pelican (medyczny)</Polish>
+				<Russian>AL-6 Pelican (медицинский)</Russian>
+				<German>AL-6 Pelican (Medizin)</German>
+				<Czech>AL-6 Pelican (zdravotnický)</Czech>
+				<English>AL-6 Pelican (Medical)</English>
+				<Portuguese>AL-6 Pelican (médico)</Portuguese>
+				<Korean>AL-6 Pelican (의무)</Korean>
+				<Chinesesimp>AL-6 Pelican（医疗）</Chinesesimp>
+				<Japanese>AL-6 Pelican（医療用）</Japanese>
+				<Turkish>AL-6 Pelican (Sıhhiye)</Turkish>
+			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Plane_Fighter_05_F0">
-				<Original>F-38I Aiit</Original>
-				<Chinese>F-38I Aiit</Chinese>
-				<French>F-38I Aiit</French>
-				<Spanish>F-38I Aiit</Spanish>
-				<Italian>F-38I Aiit</Italian>
-				<Polish>F-38I Aiit</Polish>
-				<Russian>F-38I Aiit</Russian>
-				<German>F-38I Aiit</German>
-				<Czech>F-38I Aiit</Czech>
-				<English>F-38I Aiit</English>
-				<Portuguese>F-38I Aiit</Portuguese>
-				<Korean>F-38I Aiit</Korean>
-				<Chinesesimp>F-38I Aiit</Chinesesimp>
-				<Japanese>F-38I Aiit</Japanese>
-				<Turkish>F-38I Aiit</Turkish>
+				<Original>F-38I Adir</Original>
+				<Chinese>F-38I Adir</Chinese>
+				<French>F-38I Adir</French>
+				<Spanish>F-38I Adir</Spanish>
+				<Italian>F-38I Adir</Italian>
+				<Polish>F-38I Adir</Polish>
+				<Russian>F-38I Adir</Russian>
+				<German>F-38I Adir</German>
+				<Czech>F-38I Adir</Czech>
+				<English>F-38I Adir</English>
+				<Portuguese>F-38I Adir</Portuguese>
+				<Korean>F-38I Adir</Korean>
+				<Chinesesimp>F-38I Adir</Chinesesimp>
+				<Japanese>F-38I Adir</Japanese>
+				<Turkish>F-38I Adir</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_M_Plane_Fighter_04_F0">
+				<Original>A-149 Malaikah</Original>
+				<Chinese>A-149 Malaikah</Chinese>
+				<French>A-149 Malaikah</French>
+				<Spanish>A-149 Malaikah</Spanish>
+				<Italian>A-149 Malaikah</Italian>
+				<Polish>A-149 Malaikah</Polish>
+				<Russian>A-149 Malaikah</Russian>
+				<German>A-149 Malaikah</German>
+				<Czech>A-149 Malaikah</Czech>
+				<English>A-149 Malaikah</English>
+				<Portuguese>A-149 Malaikah</Portuguese>
+				<Korean>A-149 Malaikah</Korean>
+				<Chinesesimp>A-149 Malaikah</Chinesesimp>
+				<Japanese>A-149 Malaikah</Japanese>
+				<Turkish>A-149 Malaikah</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_Plane_Fighter_05_Stealth_F0">
-				<Original>F-38I Aiit (Stealth)</Original>
-				<Chinese>F-38I Aiit (隱形)</Chinese>
-				<French>F-38I Aiit (Furtif)</French>
-				<Spanish>F-38I Aiit (Sigilo)</Spanish>
-				<Italian>F-38I Aiit (Invisibile)</Italian>
-				<Polish>F-38I Aiit (Podstęp)</Polish>
-				<Russian>F-38I Aiit (хитрость)</Russian>
-				<German>F-38I Aiit (Heimlichkeit)</German>
-				<Czech>F-38I Aiit (Stealth)</Czech>
-				<English>F-38I Aiit (Stealth)</English>
-				<Portuguese>F-38I Aiit (Furtividade)</Portuguese>
-				<Korean>F-38I Aiit (몰래 하기)</Korean>
-				<Chinesesimp>F-38I Aiit (隐形)</Chinesesimp>
-				<Japanese>F-38I Aiit（ステルス）</Japanese>
-				<Turkish>F-38I Aiit (gizlilik)</Turkish>
+				<Original>F-38I Adir (Stealth)</Original>
+				<Chinese>F-38I Adir (隱形)</Chinese>
+				<French>F-38I Adir (Furtif)</French>
+				<Spanish>F-38I Adir (Sigilo)</Spanish>
+				<Italian>F-38I Adir (Invisibile)</Italian>
+				<Polish>F-38I Adir (Podstęp)</Polish>
+				<Russian>F-38I Adir (хитрость)</Russian>
+				<German>F-38I Adir (Heimlichkeit)</German>
+				<Czech>F-38I Adir (Stealth)</Czech>
+				<English>F-38I Adir (Stealth)</English>
+				<Portuguese>F-38I Adir (Furtividade)</Portuguese>
+				<Korean>F-38I Adir (몰래 하기)</Korean>
+				<Chinesesimp>F-38I Adir (隐形)</Chinesesimp>
+				<Japanese>F-38I Adir（ステルス）</Japanese>
+				<Turkish>F-38I Adir (gizlilik)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_I_VTOL_01_infantry_F0">
+				<Original>V-44 X Livyatan (Infantry Transport)</Original>
+				<Chinese>V-44 X Livyatan (Infantry Transport)</Chinese>
+				<French>V-44 X Livyatan (Infantry Transport)</French>
+				<Spanish>V-44 X Livyatan (Infantry Transport)</Spanish>
+				<Italian>V-44 X Livyatan (Infantry Transport)</Italian>
+				<Polish>V-44 X Livyatan (Infantry Transport)</Polish>
+				<Russian>V-44 X Livyatan (Infantry Transport)</Russian>
+				<German>V-44 X Livyatan (Infantry Transport)</German>
+				<Czech>V-44 X Livyatan (Infantry Transport)</Czech>
+				<English>V-44 X Livyatan (Infantry Transport)</English>
+				<Portuguese>V-44 X Livyatan (Infantry Transport)</Portuguese>
+				<Korean>V-44 X Livyatan (Infantry Transport)</Korean>
+				<Chinesesimp>V-44 X Livyatan (Infantry Transport)</Chinesesimp>
+				<Japanese>V-44 X Livyatan (Infantry Transport)</Japanese>
+				<Turkish>V-44 X Livyatan (Infantry Transport)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_I_VTOL_01_vehicle_F0">
+				<Original>V-44 X Livyatan (Vehicle Transport)</Original>
+				<Chinese>V-44 X Livyatan (Vehicle Transport)</Chinese>
+				<French>V-44 X Livyatan (Vehicle Transport)</French>
+				<Spanish>V-44 X Livyatan (Vehicle Transport)</Spanish>
+				<Italian>V-44 X Livyatan (Vehicle Transport)</Italian>
+				<Polish>V-44 X Livyatan (Vehicle Transport)</Polish>
+				<Russian>V-44 X Livyatan (Vehicle Transport)</Russian>
+				<German>V-44 X Livyatan (Vehicle Transport)</German>
+				<Czech>V-44 X Livyatan (Vehicle Transport)</Czech>
+				<English>V-44 X Livyatan (Vehicle Transport)</English>
+				<Portuguese>V-44 X Livyatan (Vehicle Transport)</Portuguese>
+				<Korean>V-44 X Livyatan (Vehicle Transport)</Korean>
+				<Chinesesimp>V-44 X Livyatan (Vehicle Transport)</Chinesesimp>
+				<Japanese>V-44 X Livyatan (Vehicle Transport)</Japanese>
+				<Turkish>V-44 X Livyatan (Vehicle Transport)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_I_VTOL_01_armed_F0">
+				<Original>AV-44 X Tannin</Original>
+				<Chinese>AV-44 X Tannin</Chinese>
+				<French>AV-44 X Tannin</French>
+				<Spanish>AV-44 X Tannin</Spanish>
+				<Italian>AV-44 X Tannin</Italian>
+				<Polish>AV-44 X Tannin</Polish>
+				<Russian>AV-44 X Tannin</Russian>
+				<German>AV-44 X Tannin</German>
+				<Czech>AV-44 X Tannin</Czech>
+				<English>AV-44 X Tannin</English>
+				<Portuguese>AV-44 X Tannin</Portuguese>
+				<Korean>AV-44 X Tannin</Korean>
+				<Chinesesimp>AV-44 X Tannin</Chinesesimp>
+				<Japanese>AV-44 X Tannin</Japanese>
+				<Turkish>AV-44 X Tannin</Turkish>
 			</Key>
 			<Container name="DisplayName">
 				<Key ID="STR_A3_A_CfgVehicles_Heli_Transport_05_base_F0">
@@ -433,6 +739,23 @@
 				<Japanese>Nemmera IFV-6c</Japanese>
 				<Turkish>Nemmera IFV-6c</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_M_APC_Wheeled_01_V2_F0">
+				<Original>AMV-7 Earaba</Original>
+				<Chinese>AMV-7 Earaba</Chinese>
+				<French>AMV-7 Earaba</French>
+				<Spanish>AMV-7 Earaba</Spanish>
+				<Italian>AMV-7 Earaba</Italian>
+				<Polish>AMV-7 Earaba</Polish>
+				<Russian>AMV-7 Earaba</Russian>
+				<German>AMV-7 Earaba</German>
+				<Czech>AMV-7 Earaba</Czech>
+				<English>AMV-7 Earaba</English>
+				<Portuguese>AMV-7 Earaba</Portuguese>
+				<Korean>AMV-7 Earaba</Korean>
+				<Chinesesimp>AMV-7 Earaba</Chinesesimp>
+				<Japanese>AMV-7 Earaba</Japanese>
+				<Turkish>AMV-7 Earaba</Turkish>
+			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_I_I_MBT_01_cannon_F0">
 				<Original>Mohetz Mk4</Original>
 				<Chinese>Mohetz Mk4</Chinese>
@@ -483,6 +806,23 @@
 				<Chinesesimp>Luchs 3A5</Chinesesimp>
 				<Japanese>Luchs 3A5</Japanese>
 				<Turkish>Luchs 3A5</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_A_MBT_03_cannon_F0">
+				<Original>M3A5 Blamey</Original>
+				<Chinese>M3A5 Blamey</Chinese>
+				<French>M3A5 Blamey</French>
+				<Spanish>M3A5 Blamey</Spanish>
+				<Italian>M3A5 Blamey</Italian>
+				<Polish>M3A5 Blamey</Polish>
+				<Russian>M3A5 Blamey</Russian>
+				<German>M3A5 Blamey</German>
+				<Czech>M3A5 Blamey</Czech>
+				<English>M3A5 Blamey</English>
+				<Portuguese>M3A5 Blamey</Portuguese>
+				<Korean>M3A5 Blamey</Korean>
+				<Chinesesimp>M3A5 Blamey</Chinesesimp>
+				<Japanese>M3A5 Blamey</Japanese>
+				<Turkish>M3A5 Blamey</Turkish>
 			</Key>
 		</Container>
 		<Container name="Characters_F">
@@ -708,6 +1048,74 @@
 					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
 					<Turkish>Boonie Şapka (Ağaçlık Hex)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_aucamo0">
+					<Original>Booniehat [ADF]</Original>
+					<Chinese>登山帽 [ADF]</Chinese>
+					<French>Chapeau de brousse [ADF]</French>
+					<Spanish>Sombrero militar [ADF]</Spanish>
+					<Italian>Cappello militare a falda larga [ADF]</Italian>
+					<Polish>Kapelusz wojskowy [ADF]</Polish>
+					<Russian>Панама [ADF]</Russian>
+					<German>Tarnhut [ADF]</German>
+					<Czech>Klobouk [ADF]</Czech>
+					<English>Booniehat [ADF]</English>
+					<Portuguese>Chapéu tático [ADF]</Portuguese>
+					<Korean>부니햇 [ADF]</Korean>
+					<Chinesesimp>郊区 [ADF]</Chinesesimp>
+					<Japanese>ブーニーハット [ADF]</Japanese>
+					<Turkish>Boonie Şapka [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_aucamo_hs_F0">
+					<Original>Booniehat [ADF] (Headset)</Original>
+					<Chinese>登山帽 [ADF] (Headset)</Chinese>
+					<French>Chapeau de brousse [ADF] (Headset)</French>
+					<Spanish>Sombrero militar [ADF] (Headset)</Spanish>
+					<Italian>Cappello militare a falda larga [ADF] (Headset)</Italian>
+					<Polish>Kapelusz wojskowy [ADF] (Headset)</Polish>
+					<Russian>Панама [ADF] (Headset)</Russian>
+					<German>Tarnhut [ADF] (Headset)</German>
+					<Czech>Klobouk [ADF] (Headset)</Czech>
+					<English>Booniehat [ADF] (Headset)</English>
+					<Portuguese>Chapéu tático [ADF] (Headset)</Portuguese>
+					<Korean>부니햇 [ADF] (Headset)</Korean>
+					<Chinesesimp>郊区 [ADF] (Headset)</Chinesesimp>
+					<Japanese>ブーニーハット [ADF] (Headset)</Japanese>
+					<Turkish>Boonie Şapka [ADF] (Headset)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Cap_aucamo0">
+					<Original>Cap [ADF]</Original>
+					<Chinese>棒球帽 [ADF]</Chinese>
+					<French>Casquette [ADF]</French>
+					<Spanish>Gorra [ADF]</Spanish>
+					<Italian>Cappellino [ADF]</Italian>
+					<Polish>Czapka [ADF]</Polish>
+					<Russian>Кепка [ADF]</Russian>
+					<German>Mütze [ADF]</German>
+					<Czech>Čepice [ADF]</Czech>
+					<English>Cap [ADF]</English>
+					<Portuguese>Boné [ADF]</Portuguese>
+					<Korean>모자 [ADF]</Korean>
+					<Chinesesimp>无檐帽 [ADF]</Chinesesimp>
+					<Japanese>キャップ [ADF]</Japanese>
+					<Turkish>Kasket [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_MilCap_aucamo0">
+					<Original>Military Cap [ADF]</Original>
+					<Chinese>軍用棒球帽 [ADF] </Chinese>
+					<French>Casquette militaire [ADF]</French>
+					<Spanish>Gorra militar [ADF]</Spanish>
+					<Italian>Cappellino militare [ADF]</Italian>
+					<Polish>Czapka wojskowa [ADF]</Polish>
+					<Russian>Армейская кепка [ADF]</Russian>
+					<German>Militärmütze [ADF]</German>
+					<Czech>Vojenská čepice [ADF]</Czech>
+					<English>Military Cap [ADF]</English>
+					<Portuguese>Boné militar [ADF]</Portuguese>
+					<Korean>군용 모자[ADF]</Korean>
+					<Chinesesimp>军帽 [ADF]</Chinesesimp>
+					<Japanese>ミリタリーキャップ[ADF]</Japanese>
+					<Turkish>Askeri Kasket [ADF]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_flecktarn_hs0">
 					<Original>Booniehat (Flecktarn, Headset)</Original>
 					<Chinese>登山帽（森林六邊形）</Chinese>
@@ -845,21 +1253,21 @@
 					<Turkish>Boonie Şapka [HIMF]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_jungle_hs0">
-					<Original>Booniehat (Headset) [HIMF]</Original>
-					<Chinese>登山帽（耳機）（HIMF）</Chinese>
-					<French>Chapeau de brousse (micro-casque) [HIMF]</French>
-					<Spanish>Gorro militar (auricular) [HIMF]</Spanish>
-					<Italian>Bonnie hat (cuffia) [HIMF]</Italian>
-					<Polish>Kapelusz wojskowy (głowa) [HIMF]</Polish>
-					<Russian>Панама (гарнитура) [HIMF]</Russian>
-					<German>Buschhut (Headset) [HIMF]</German>
-					<Czech>Klobouk (náhlavní souprava) [HIMF]</Czech>
-					<English>Booniehat (Headset) [HIMF]</English>
-					<Portuguese>Chapéu tático (headset) [HIMF]</Portuguese>
+					<Original>Booniehat [HIMF] (Headset)</Original>
+					<Chinese>登山帽（HIMF）（耳機）</Chinese>
+					<French>Chapeau de brousse [HIMF] (micro-casque)</French>
+					<Spanish>Gorro militar [HIMF] (auricular)</Spanish>
+					<Italian>Bonnie hat [HIMF] (cuffia)</Italian>
+					<Polish>Kapelusz wojskowy [HIMF] (głowa)</Polish>
+					<Russian>Панама [HIMF] (гарнитура)</Russian>
+					<German>Buschhut [HIMF] (Headset)</German>
+					<Czech>Klobouk [HIMF] (náhlavní souprava)</Czech>
+					<English>Booniehat [HIMF] (Headset)</English>
+					<Portuguese>Chapéu tático [HIMF] (headset)</Portuguese>
 					<Korean>부니햇(헤드셋) [HIMF]</Korean>
 					<Chinesesimp>奔尼帽（头戴式耳机）[HIMF]</Chinesesimp>
 					<Japanese>ブーニーハット（ヘッドセット）[HIMF]</Japanese>
-					<Turkish>Boonie Şapka (Baş Giysisi) [HIMF]</Turkish>
+					<Turkish>Boonie Şapka [HIMF] (Baş Giysisi)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_MilCap_sgg0">
 					<Original>Military Cap (Sage)</Original>
@@ -1151,71 +1559,276 @@
 					<Turkish>Helikopter Mürettebat Kaskı [CDF]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_commando_F0">
-					<Original>Advanced Modular Helmet [Commandos]</Original>
-					<Chinese>Advanced Modular Helmet [Commandos]</Chinese>
-					<French>Advanced Modular Helmet [Commandos]</French>
-					<Spanish>Advanced Modular Helmet [Commandos]</Spanish>
-					<Italian>Advanced Modular Helmet [Commandos]</Italian>
-					<Polish>Advanced Modular Helmet [Commandos]</Polish>
-					<Russian>Advanced Modular Helmet [Commandos]</Russian>
-					<German>Advanced Modular Helmet [Commandos]</German>
-					<Czech>Advanced Modular Helmet [Commandos]</Czech>
-					<English>Advanced Modular Helmet [Commandos]</English>
-					<Portuguese>Advanced Modular Helmet [Commandos]</Portuguese>
-					<Korean>Advanced Modular Helmet [Commandos]</Korean>
-					<Chinesesimp>Advanced Modular Helmet [Commandos]</Chinesesimp>
-					<Japanese>Advanced Modular Helmet [Commandos]</Japanese>
-					<Turkish>Advanced Modular Helmet [Commandos]</Turkish>
+					<Original>Advanced Modular Helmet [HIMF-C]</Original>
+					<Chinese>Advanced Modular Helmet [HIMF-C]</Chinese>
+					<French>Advanced Modular Helmet [HIMF-C]</French>
+					<Spanish>Advanced Modular Helmet [HIMF-C]</Spanish>
+					<Italian>Advanced Modular Helmet [HIMF-C]</Italian>
+					<Polish>Advanced Modular Helmet [HIMF-C]</Polish>
+					<Russian>Advanced Modular Helmet [HIMF-C]</Russian>
+					<German>Advanced Modular Helmet [HIMF-C]</German>
+					<Czech>Advanced Modular Helmet [HIMF-C]</Czech>
+					<English>Advanced Modular Helmet [HIMF-C]</English>
+					<Portuguese>Advanced Modular Helmet [HIMF-C]</Portuguese>
+					<Korean>Advanced Modular Helmet [HIMF-C]</Korean>
+					<Chinesesimp>Advanced Modular Helmet [HIMF-C]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [HIMF-C]</Japanese>
+					<Turkish>Advanced Modular Helmet [HIMF-C]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_commando_headset_F0">
-					<Original>Advanced Modular Helmet (Headset) [Commandos]</Original>
-					<Chinese>Advanced Modular Helmet (Headset) [Commandos]</Chinese>
-					<French>Advanced Modular Helmet (Headset) [Commandos]</French>
-					<Spanish>Advanced Modular Helmet (Headset) [Commandos]</Spanish>
-					<Italian>Advanced Modular Helmet (Headset) [Commandos]</Italian>
-					<Polish>Advanced Modular Helmet (Headset) [Commandos]</Polish>
-					<Russian>Advanced Modular Helmet (Headset) [Commandos]</Russian>
-					<German>Advanced Modular Helmet (Headset) [Commandos]</German>
-					<Czech>Advanced Modular Helmet (Headset) [Commandos]</Czech>
-					<English>Advanced Modular Helmet (Headset) [Commandos]</English>
-					<Portuguese>Advanced Modular Helmet (Headset) [Commandos]</Portuguese>
-					<Korean>Advanced Modular Helmet (Headset) [Commandos]</Korean>
-					<Chinesesimp>Advanced Modular Helmet (Headset) [Commandos]</Chinesesimp>
-					<Japanese>Advanced Modular Helmet (Headset) [Commandos]</Japanese>
-					<Turkish>Advanced Modular Helmet (Headset) [Commandos]</Turkish>
+					<Original>Advanced Modular Helmet [HIMF-C] (Headset)</Original>
+					<Chinese>Advanced Modular Helmet [HIMF-C] (Headset)</Chinese>
+					<French>Advanced Modular Helmet [HIMF-C] (Headset)</French>
+					<Spanish>Advanced Modular Helmet [HIMF-C] (Headset)</Spanish>
+					<Italian>Advanced Modular Helmet [HIMF-C] (Headset)</Italian>
+					<Polish>Advanced Modular Helmet [HIMF-C] (Headset)</Polish>
+					<Russian>Advanced Modular Helmet [HIMF-C] (Headset)</Russian>
+					<German>Advanced Modular Helmet [HIMF-C] (Headset)</German>
+					<Czech>Advanced Modular Helmet [HIMF-C] (Headset)</Czech>
+					<English>Advanced Modular Helmet [HIMF-C] (Headset)</English>
+					<Portuguese>Advanced Modular Helmet [HIMF-C] (Headset)</Portuguese>
+					<Korean>Advanced Modular Helmet [HIMF-C] (Headset)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [HIMF-C] (Headset)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [HIMF-C] (Headset)</Japanese>
+					<Turkish>Advanced Modular Helmet [HIMF-C] (Headset)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_commando_ear_F0">
-					<Original>Advanced Modular Helmet (Ear Protectors) [Commandos]</Original>
-					<Chinese>Advanced Modular Helmet (Ear Protectors) [Commandos]</Chinese>
-					<French>Advanced Modular Helmet (Ear Protectors) [Commandos]</French>
-					<Spanish>Advanced Modular Helmet (Ear Protectors) [Commandos]</Spanish>
-					<Italian>Advanced Modular Helmet (Ear Protectors) [Commandos]</Italian>
-					<Polish>Advanced Modular Helmet (Ear Protectors) [Commandos]</Polish>
-					<Russian>Advanced Modular Helmet (Ear Protectors) [Commandos]</Russian>
-					<German>Advanced Modular Helmet (Ear Protectors) [Commandos]</German>
-					<Czech>Advanced Modular Helmet (Ear Protectors) [Commandos]</Czech>
-					<English>Advanced Modular Helmet (Ear Protectors) [Commandos]</English>
-					<Portuguese>Advanced Modular Helmet (Ear Protectors) [Commandos]</Portuguese>
-					<Korean>Advanced Modular Helmet (Ear Protectors) [Commandos]</Korean>
-					<Chinesesimp>Advanced Modular Helmet (Ear Protectors) [Commandos]</Chinesesimp>
-					<Japanese>Advanced Modular Helmet (Ear Protectors) [Commandos]</Japanese>
-					<Turkish>Advanced Modular Helmet (Ear Protectors) [Commandos]</Turkish>
-				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_commando_F0">
-					<Original>Heli Crew Helmet [Israel]</Original>
-					<Chinese>直升機隊員頭盔（Israel）</Chinese>
-					<French>Casque d'équipage d'hélico [Israel]</French>
-					<Spanish>Casco de tripulación de helicóptero [Israel]</Spanish>
-					<Italian>Casco equipaggio elicottero [Israel]</Italian>
-					<Polish>Hełm załogi śmigłowca [Israel]</Polish>
-					<Russian>Шлем члена экипажа вертолёта [Israel]</Russian>
-					<German>Helicrew-Helm [Israel]</German>
-					<Czech>Přilba posádky helikoptéry [Israel]</Czech>
-					<English>Heli Crew Helmet [Israel]</English>
-					<Portuguese>Capacete de tripulação de helicóptero [Israel]</Portuguese>
-					<Korean>헬기 승무원 헬멧[Israel]</Korean>
-					<Chinesesimp>直升机机组人员头盔 [Israel]</Chinesesimp>
-					<Japanese>ヘリ乗員ヘルメット[Israel]</Japanese>
-					<Turkish>Helikopter Mürettebat Kaskı [Israel]</Turkish>
+					<Original>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Original>
+					<Chinese>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Chinese>
+					<French>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</French>
+					<Spanish>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Spanish>
+					<Italian>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Italian>
+					<Polish>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Polish>
+					<Russian>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Russian>
+					<German>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</German>
+					<Czech>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Czech>
+					<English>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</English>
+					<Portuguese>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Portuguese>
+					<Korean>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Japanese>
+					<Turkish>Advanced Modular Helmet [HIMF-C] (Ear Protectors)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_F0">
+					<Original>Advanced Modular Helmet [ADF]</Original>
+					<Chinese>Advanced Modular Helmet [ADF]</Chinese>
+					<French>Advanced Modular Helmet [ADF]</French>
+					<Spanish>Advanced Modular Helmet [ADF]</Spanish>
+					<Italian>Advanced Modular Helmet [ADF]</Italian>
+					<Polish>Advanced Modular Helmet [ADF]</Polish>
+					<Russian>Advanced Modular Helmet [ADF]</Russian>
+					<German>Advanced Modular Helmet [ADF]</German>
+					<Czech>Advanced Modular Helmet [ADF]</Czech>
+					<English>Advanced Modular Helmet [ADF]</English>
+					<Portuguese>Advanced Modular Helmet [ADF]</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF]</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF]</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_F0">
+					<Original>Advanced Modular Helmet [ADF Arid]</Original>
+					<Chinese>Advanced Modular Helmet [ADF Arid]</Chinese>
+					<French>Advanced Modular Helmet [ADF Arid]</French>
+					<Spanish>Advanced Modular Helmet [ADF Arid]</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Arid]</Italian>
+					<Polish>Advanced Modular Helmet [ADF Arid]</Polish>
+					<Russian>Advanced Modular Helmet [ADF Arid]</Russian>
+					<German>Advanced Modular Helmet [ADF Arid]</German>
+					<Czech>Advanced Modular Helmet [ADF Arid]</Czech>
+					<English>Advanced Modular Helmet [ADF Arid]</English>
+					<Portuguese>Advanced Modular Helmet [ADF Arid]</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Arid]</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Arid]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Arid]</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Arid]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_F0">
+					<Original>Advanced Modular Helmet [ADF Tropic]</Original>
+					<Chinese>Advanced Modular Helmet [ADF Tropic]</Chinese>
+					<French>Advanced Modular Helmet [ADF Tropic]</French>
+					<Spanish>Advanced Modular Helmet [ADF Tropic]</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Tropic]</Italian>
+					<Polish>Advanced Modular Helmet [ADF Tropic]</Polish>
+					<Russian>Advanced Modular Helmet [ADF Tropic]</Russian>
+					<German>Advanced Modular Helmet [ADF Tropic]</German>
+					<Czech>Advanced Modular Helmet [ADF Tropic]</Czech>
+					<English>Advanced Modular Helmet [ADF Tropic]</English>
+					<Portuguese>Advanced Modular Helmet [ADF Tropic]</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Tropic]</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Tropic]</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Tropic]</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Tropic]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_headset_F0">
+					<Original>Advanced Modular Helmet [ADF] (Headset)</Original>
+					<Chinese>Advanced Modular Helmet [ADF] (Headset)</Chinese>
+					<French>Advanced Modular Helmet [ADF] (Headset)</French>
+					<Spanish>Advanced Modular Helmet [ADF] (Headset)</Spanish>
+					<Italian>Advanced Modular Helmet [ADF] (Headset)</Italian>
+					<Polish>Advanced Modular Helmet [ADF] (Headset)</Polish>
+					<Russian>Advanced Modular Helmet [ADF] (Headset)</Russian>
+					<German>Advanced Modular Helmet [ADF] (Headset)</German>
+					<Czech>Advanced Modular Helmet [ADF] (Headset)</Czech>
+					<English>Advanced Modular Helmet [ADF] (Headset)</English>
+					<Portuguese>Advanced Modular Helmet [ADF] (Headset)</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF] (Headset)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF] (Headset)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF] (Headset)</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF] (Headset)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_headset_F0">
+					<Original>Advanced Modular Helmet [ADF Arid] (Headset)</Original>
+					<Chinese>Advanced Modular Helmet [ADF Arid] (Headset)</Chinese>
+					<French>Advanced Modular Helmet [ADF Arid] (Headset)</French>
+					<Spanish>Advanced Modular Helmet [ADF Arid] (Headset)</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Arid] (Headset)</Italian>
+					<Polish>Advanced Modular Helmet [ADF Arid] (Headset)</Polish>
+					<Russian>Advanced Modular Helmet [ADF Arid] (Headset)</Russian>
+					<German>Advanced Modular Helmet [ADF Arid] (Headset)</German>
+					<Czech>Advanced Modular Helmet [ADF Arid] (Headset)</Czech>
+					<English>Advanced Modular Helmet [ADF Arid] (Headset)</English>
+					<Portuguese>Advanced Modular Helmet [ADF Arid] (Headset)</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Arid] (Headset)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Arid] (Headset)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Arid] (Headset)</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Arid] (Headset)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_headset_F0">
+					<Original>Advanced Modular Helmet [ADF Tropic] (Headset)</Original>
+					<Chinese>Advanced Modular Helmet [ADF Tropic] (Headset)</Chinese>
+					<French>Advanced Modular Helmet [ADF Tropic] (Headset)</French>
+					<Spanish>Advanced Modular Helmet [ADF Tropic] (Headset)</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Tropic] (Headset)</Italian>
+					<Polish>Advanced Modular Helmet [ADF Tropic] (Headset)</Polish>
+					<Russian>Advanced Modular Helmet [ADF Tropic] (Headset)</Russian>
+					<German>Advanced Modular Helmet [ADF Tropic] (Headset)</German>
+					<Czech>Advanced Modular Helmet [ADF Tropic] (Headset)</Czech>
+					<English>Advanced Modular Helmet [ADF Tropic] (Headset)</English>
+					<Portuguese>Advanced Modular Helmet [ADF Tropic] (Headset)</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Tropic] (Headset)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Tropic] (Headset)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Tropic] (Headset)</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Tropic] (Headset)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_ear_F0">
+					<Original>Advanced Modular Helmet [ADF] (Ear Protectors)</Original>
+					<Chinese>Advanced Modular Helmet [ADF] (Ear Protectors)</Chinese>
+					<French>Advanced Modular Helmet [ADF] (Ear Protectors)</French>
+					<Spanish>Advanced Modular Helmet [ADF] (Ear Protectors)</Spanish>
+					<Italian>Advanced Modular Helmet [ADF] (Ear Protectors)</Italian>
+					<Polish>Advanced Modular Helmet [ADF] (Ear Protectors)</Polish>
+					<Russian>Advanced Modular Helmet [ADF] (Ear Protectors)</Russian>
+					<German>Advanced Modular Helmet [ADF] (Ear Protectors)</German>
+					<Czech>Advanced Modular Helmet [ADF] (Ear Protectors)</Czech>
+					<English>Advanced Modular Helmet [ADF] (Ear Protectors)</English>
+					<Portuguese>Advanced Modular Helmet [ADF] (Ear Protectors)</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF] (Ear Protectors)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF] (Ear Protectors)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF] (Ear Protectors)</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF] (Ear Protectors)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_ear_F0">
+					<Original>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Original>
+					<Chinese>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Chinese>
+					<French>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</French>
+					<Spanish>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Italian>
+					<Polish>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Polish>
+					<Russian>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Russian>
+					<German>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</German>
+					<Czech>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Czech>
+					<English>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</English>
+					<Portuguese>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Arid] (Ear Protectors)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_ear_F0">
+					<Original>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Original>
+					<Chinese>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Chinese>
+					<French>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</French>
+					<Spanish>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Italian>
+					<Polish>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Polish>
+					<Russian>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Russian>
+					<German>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</German>
+					<Czech>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Czech>
+					<English>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</English>
+					<Portuguese>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Tropic] (Ear Protectors)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_chops_F0">
+					<Original>Advanced Modular Helmet [ADF] (Chops)</Original>
+					<Chinese>Advanced Modular Helmet [ADF] (Chops)</Chinese>
+					<French>Advanced Modular Helmet [ADF] (Chops)</French>
+					<Spanish>Advanced Modular Helmet [ADF] (Chops)</Spanish>
+					<Italian>Advanced Modular Helmet [ADF] (Chops)</Italian>
+					<Polish>Advanced Modular Helmet [ADF] (Chops)</Polish>
+					<Russian>Advanced Modular Helmet [ADF] (Chops)</Russian>
+					<German>Advanced Modular Helmet [ADF] (Chops)</German>
+					<Czech>Advanced Modular Helmet [ADF] (Chops)</Czech>
+					<English>Advanced Modular Helmet [ADF] (Chops)</English>
+					<Portuguese>Advanced Modular Helmet [ADF] (Chops)</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF] (Chops)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF] (Chops)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF] (Chops)</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF] (Chops)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_arid_chops_F0">
+					<Original>Advanced Modular Helmet [ADF Arid] (Chops)</Original>
+					<Chinese>Advanced Modular Helmet [ADF Arid] (Chops)</Chinese>
+					<French>Advanced Modular Helmet [ADF Arid] (Chops)</French>
+					<Spanish>Advanced Modular Helmet [ADF Arid] (Chops)</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Arid] (Chops)</Italian>
+					<Polish>Advanced Modular Helmet [ADF Arid] (Chops)</Polish>
+					<Russian>Advanced Modular Helmet [ADF Arid] (Chops)</Russian>
+					<German>Advanced Modular Helmet [ADF Arid] (Chops)</German>
+					<Czech>Advanced Modular Helmet [ADF Arid] (Chops)</Czech>
+					<English>Advanced Modular Helmet [ADF Arid] (Chops)</English>
+					<Portuguese>Advanced Modular Helmet [ADF Arid] (Chops)</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Arid] (Chops)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Arid] (Chops)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Arid] (Chops)</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Arid] (Chops)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetHBK_aucamo_tropic_chops_F0">
+					<Original>Advanced Modular Helmet [ADF Tropic] (Chops)</Original>
+					<Chinese>Advanced Modular Helmet [ADF Tropic] (Chops)</Chinese>
+					<French>Advanced Modular Helmet [ADF Tropic] (Chops)</French>
+					<Spanish>Advanced Modular Helmet [ADF Tropic] (Chops)</Spanish>
+					<Italian>Advanced Modular Helmet [ADF Tropic] (Chops)</Italian>
+					<Polish>Advanced Modular Helmet [ADF Tropic] (Chops)</Polish>
+					<Russian>Advanced Modular Helmet [ADF Tropic] (Chops)</Russian>
+					<German>Advanced Modular Helmet [ADF Tropic] (Chops)</German>
+					<Czech>Advanced Modular Helmet [ADF Tropic] (Chops)</Czech>
+					<English>Advanced Modular Helmet [ADF Tropic] (Chops)</English>
+					<Portuguese>Advanced Modular Helmet [ADF Tropic] (Chops)</Portuguese>
+					<Korean>Advanced Modular Helmet [ADF Tropic] (Chops)</Korean>
+					<Chinesesimp>Advanced Modular Helmet [ADF Tropic] (Chops)</Chinesesimp>
+					<Japanese>Advanced Modular Helmet [ADF Tropic] (Chops)</Japanese>
+					<Turkish>Advanced Modular Helmet [ADF Tropic] (Chops)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeaponsH_MK7_Marar_F0">
+					<Original>Service Helmet [Marar]</Original>
+					<Chinese>Service Helmet [Marar]</Chinese>
+					<French>Service Helmet [Marar]</French>
+					<Spanish>Service Helmet [Marar]</Spanish>
+					<Italian>Service Helmet [Marar]</Italian>
+					<Polish>Service Helmet [Marar]</Polish>
+					<Russian>Service Helmet [Marar]</Russian>
+					<German>Service Helmet [Marar]</German>
+					<Czech>Service Helmet [Marar]</Czech>
+					<English>Service Helmet [Marar]</English>
+					<Portuguese>Service Helmet [Marar]</Portuguese>
+					<Korean>Service Helmet [Marar]</Korean>
+					<Chinesesimp>Service Helmet [Marar]</Chinesesimp>
+					<Japanese>Service Helmet [Marar]</Japanese>
+					<Turkish>Service Helmet [Marar]</Turkish>
 				</Key>
 			</Container>
 			<Container name="Uniforms">
@@ -1321,6 +1934,108 @@
 					<Japanese>軽装野戦服 (Olive)</Japanese>
 					<Turkish>Hafif Asker Kıyafeti </Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_ard0">
+					<Original>Combat Fatigues [ADF] (Arid)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Arid)</Chinese>
+					<French>Treillis [ADF] (Arid)</French>
+					<Spanish>Traje de combate [ADF] (Arid)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Arid)</Italian>
+					<Polish>Mundur bojowy [ADF] (Arid)</Polish>
+					<Russian>Боевая форма [ADF] (Arid)</Russian>
+					<German>Kampfanzug [ADF] (Arid)</German>
+					<Czech>Bojová uniforma [ADF] (Arid)</Czech>
+					<English>Combat Fatigues [ADF] (Arid)</English>
+					<Portuguese>Uniforme de combate [ADF] (Arid)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Arid)</Korean>
+					<Chinesesimp>作战服 [ADF] (Arid)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Arid)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Arid)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_ard0">
+					<Original>Combat Fatigues [ADF] (Arid, Rolled-up)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Arid, Rolled-up)</Chinese>
+					<French>Treillis [ADF] (Arid, Rolled-up)</French>
+					<Spanish>Traje de combate [ADF] (Arid, Rolled-up)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Arid, Rolled-up)</Italian>
+					<Polish>Mundur bojowy [ADF] (Arid, Rolled-up)</Polish>
+					<Russian>Боевая форма [ADF] (Arid, Rolled-up)</Russian>
+					<German>Kampfanzug [ADF] (Arid, Rolled-up)</German>
+					<Czech>Bojová uniforma [ADF] (Arid, Rolled-up)</Czech>
+					<English>Combat Fatigues [ADF] (Arid, Rolled-up)</English>
+					<Portuguese>Uniforme de combate [ADF] (Arid, Rolled-up)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Arid, Rolled-up)</Korean>
+					<Chinesesimp>作战服 [ADF] (Arid, Rolled-up)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Arid, Rolled-up)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Arid, Rolled-up)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo_trp0">
+					<Original>Combat Fatigues [ADF] (Tropic)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Tropic)</Chinese>
+					<French>Treillis [ADF] (Tropic)</French>
+					<Spanish>Traje de combate [ADF] (Tropic)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Tropic)</Italian>
+					<Polish>Mundur bojowy [ADF] (Tropic)</Polish>
+					<Russian>Боевая форма [ADF] (Tropic)</Russian>
+					<German>Kampfanzug [ADF] (Tropic)</German>
+					<Czech>Bojová uniforma [ADF] (Tropic)</Czech>
+					<English>Combat Fatigues [ADF] (Tropic)</English>
+					<Portuguese>Uniforme de combate [ADF] (Tropic)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Tropic)</Korean>
+					<Chinesesimp>作战服 [ADF] (Tropic)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Tropic)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Tropic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo_trp0">
+					<Original>Combat Fatigues [ADF] (Tropic, Rolled-up)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Tropic, Rolled-up)</Chinese>
+					<French>Treillis [ADF] (Tropic, Rolled-up)</French>
+					<Spanish>Traje de combate [ADF] (Tropic, Rolled-up)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Tropic, Rolled-up)</Italian>
+					<Polish>Mundur bojowy [ADF] (Tropic, Rolled-up)</Polish>
+					<Russian>Боевая форма [ADF] (Tropic, Rolled-up)</Russian>
+					<German>Kampfanzug [ADF] (Tropic, Rolled-up)</German>
+					<Czech>Bojová uniforma [ADF] (Tropic, Rolled-up)</Czech>
+					<English>Combat Fatigues [ADF] (Tropic, Rolled-up)</English>
+					<Portuguese>Uniforme de combate [ADF] (Tropic, Rolled-up)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Tropic, Rolled-up)</Korean>
+					<Chinesesimp>作战服 [ADF] (Tropic, Rolled-up)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Tropic, Rolled-up)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Tropic, Rolled-up)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_aucamo0">
+					<Original>Combat Fatigues [ADF]</Original>
+					<Chinese>作戰戰鬥服 [ADF]</Chinese>
+					<French>Treillis [ADF]</French>
+					<Spanish>Traje de combate [ADF]</Spanish>
+					<Italian>Uniforme da combattimento [ADF]</Italian>
+					<Polish>Mundur bojowy [ADF]</Polish>
+					<Russian>Боевая форма [ADF]</Russian>
+					<German>Kampfanzug [ADF]</German>
+					<Czech>Bojová uniforma [ADF]</Czech>
+					<English>Combat Fatigues [ADF]</English>
+					<Portuguese>Uniforme de combate [ADF]</Portuguese>
+					<Korean>전투병 전투복[ADF]</Korean>
+					<Chinesesimp>作战服 [ADF]</Chinesesimp>
+					<Japanese>戦闘服 [ADF]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_CombatUniform_shortsleeve_aucamo0">
+					<Original>Combat Fatigues [ADF] (Rolled-up)</Original>
+					<Chinese>作戰戰鬥服 [ADF] (Rolled-up)</Chinese>
+					<French>Treillis [ADF] (Rolled-up)</French>
+					<Spanish>Traje de combate [ADF] (Rolled-up)</Spanish>
+					<Italian>Uniforme da combattimento [ADF] (Rolled-up)</Italian>
+					<Polish>Mundur bojowy [ADF] (Rolled-up)</Polish>
+					<Russian>Боевая форма [ADF] (Rolled-up)</Russian>
+					<German>Kampfanzug [ADF] (Rolled-up)</German>
+					<Czech>Bojová uniforma [ADF] (Rolled-up)</Czech>
+					<English>Combat Fatigues [ADF] (Rolled-up)</English>
+					<Portuguese>Uniforme de combate [ADF] (Rolled-up)</Portuguese>
+					<Korean>전투병 전투복[ADF] (Rolled-up)</Korean>
+					<Chinesesimp>作战服 [ADF] (Rolled-up)</Chinesesimp>
+					<Japanese>戦闘服 [ADF] (Rolled-up)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [ADF] (Rolled-up)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_sgg0">
 					<Original>Combat Fatigues (Sage)</Original>
 					<Chinese>作戰戰鬥服（鼠尾草色）</Chinese>
@@ -1373,55 +2088,55 @@
 					<Turkish>Savaş Asker Kıyafeti (Adaçayı, Kolları Kıvrık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_G_CombatUniform_wdl0">
-					<Original>Field Uniform (Woodland)</Original>
-					<Chinese>Field Uniform (Woodland)</Chinese>
-					<French>Field Uniform (Woodland)</French>
-					<Spanish>Field Uniform (Woodland)</Spanish>
-					<Italian>Field Uniform (Woodland)</Italian>
-					<Polish>Field Uniform (Woodland)</Polish>
-					<Russian>Field Uniform (Woodland)</Russian>
-					<German>Field Uniform (Woodland)</German>
-					<Czech>Field Uniform (Woodland)</Czech>
-					<English>Field Uniform (Woodland)</English>
-					<Portuguese>Field Uniform (Woodland)</Portuguese>
-					<Korean>Field Uniform (Woodland)</Korean>
-					<Chinesesimp>Field Uniform (Woodland)</Chinesesimp>
-					<Japanese>Field Uniform (Woodland)</Japanese>
-					<Turkish>Field Uniform (Woodland)</Turkish>
+					<Original>Field Uniform [GER] (Woodland)</Original>
+					<Chinese>Field Uniform [GER] (Woodland)</Chinese>
+					<French>Field Uniform [GER] (Woodland)</French>
+					<Spanish>Field Uniform [GER] (Woodland)</Spanish>
+					<Italian>Field Uniform [GER] (Woodland)</Italian>
+					<Polish>Field Uniform [GER] (Woodland)</Polish>
+					<Russian>Field Uniform [GER] (Woodland)</Russian>
+					<German>Field Uniform [GER] (Woodland)</German>
+					<Czech>Field Uniform [GER] (Woodland)</Czech>
+					<English>Field Uniform [GER] (Woodland)</English>
+					<Portuguese>Field Uniform [GER] (Woodland)</Portuguese>
+					<Korean>Field Uniform [GER] (Woodland)</Korean>
+					<Chinesesimp>Field Uniform [GER] (Woodland)</Chinesesimp>
+					<Japanese>Field Uniform [GER] (Woodland)</Japanese>
+					<Turkish>Field Uniform [GER] (Woodland)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_G_CombatUniform_tshirt_wdl0">
-					<Original>Field Uniform (Woodland, Tank Top)</Original>
-					<Chinese>Field Uniform (Woodland, Tank Top)</Chinese>
-					<French>Field Uniform (Woodland, Tank Top)</French>
-					<Spanish>Field Uniform (Woodland, Tank Top)</Spanish>
-					<Italian>Field Uniform (Woodland, Tank Top)</Italian>
-					<Polish>Field Uniform (Woodland, Tank Top)</Polish>
-					<Russian>Field Uniform (Woodland, Tank Top)</Russian>
-					<German>Field Uniform (Woodland, Tank Top)</German>
-					<Czech>Field Uniform (Woodland, Tank Top)</Czech>
-					<English>Field Uniform (Woodland, Tank Top)</English>
-					<Portuguese>Field Uniform (Woodland, Tank Top)</Portuguese>
-					<Korean>Field Uniform (Woodland, Tank Top)</Korean>
-					<Chinesesimp>Field Uniform (Woodland, Tank Top)</Chinesesimp>
-					<Japanese>Field Uniform (Woodland, Tank Top)</Japanese>
-					<Turkish>Field Uniform (Woodland, Tank Top)</Turkish>
+					<Original>Field Uniform [GER] (Woodland, Tank Top)</Original>
+					<Chinese>Field Uniform [GER] (Woodland, Tank Top)</Chinese>
+					<French>Field Uniform [GER] (Woodland, Tank Top)</French>
+					<Spanish>Field Uniform [GER] (Woodland, Tank Top)</Spanish>
+					<Italian>Field Uniform [GER] (Woodland, Tank Top)</Italian>
+					<Polish>Field Uniform [GER] (Woodland, Tank Top)</Polish>
+					<Russian>Field Uniform [GER] (Woodland, Tank Top)</Russian>
+					<German>Field Uniform [GER] (Woodland, Tank Top)</German>
+					<Czech>Field Uniform [GER] (Woodland, Tank Top)</Czech>
+					<English>Field Uniform [GER] (Woodland, Tank Top)</English>
+					<Portuguese>Field Uniform [GER] (Woodland, Tank Top)</Portuguese>
+					<Korean>Field Uniform [GER] (Woodland, Tank Top)</Korean>
+					<Chinesesimp>Field Uniform [GER] (Woodland, Tank Top)</Chinesesimp>
+					<Japanese>Field Uniform [GER] (Woodland, Tank Top)</Japanese>
+					<Turkish>Field Uniform [GER] (Woodland, Tank Top)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_G_CombatUniform_vest_wdl0">
-					<Original>Field Uniform (Woodland, Rolled-up)</Original>
-					<Chinese>Field Uniform (Woodland, Rolled-up)</Chinese>
-					<French>Field Uniform (Woodland, Rolled-up)</French>
-					<Spanish>Field Uniform (Woodland, Rolled-up)</Spanish>
-					<Italian>Field Uniform (Woodland, Rolled-up)</Italian>
-					<Polish>Field Uniform (Woodland, Rolled-up)</Polish>
-					<Russian>Field Uniform (Woodland, Rolled-up)</Russian>
-					<German>Field Uniform (Woodland, Rolled-up)</German>
-					<Czech>Field Uniform (Woodland, Rolled-up)</Czech>
-					<English>Field Uniform (Woodland, Rolled-up)</English>
-					<Portuguese>Field Uniform (Woodland, Rolled-up)</Portuguese>
-					<Korean>Field Uniform (Woodland, Rolled-up)</Korean>
-					<Chinesesimp>Field Uniform (Woodland, Rolled-up)</Chinesesimp>
-					<Japanese>Field Uniform (Woodland, Rolled-up)</Japanese>
-					<Turkish>Field Uniform (Woodland, Rolled-up)</Turkish>
+					<Original>Field Uniform [GER] (Woodland, Rolled-up)</Original>
+					<Chinese>Field Uniform [GER] (Woodland, Rolled-up)</Chinese>
+					<French>Field Uniform [GER] (Woodland, Rolled-up)</French>
+					<Spanish>Field Uniform [GER] (Woodland, Rolled-up)</Spanish>
+					<Italian>Field Uniform [GER] (Woodland, Rolled-up)</Italian>
+					<Polish>Field Uniform [GER] (Woodland, Rolled-up)</Polish>
+					<Russian>Field Uniform [GER] (Woodland, Rolled-up)</Russian>
+					<German>Field Uniform [GER] (Woodland, Rolled-up)</German>
+					<Czech>Field Uniform [GER] (Woodland, Rolled-up)</Czech>
+					<English>Field Uniform [GER] (Woodland, Rolled-up)</English>
+					<Portuguese>Field Uniform [GER] (Woodland, Rolled-up)</Portuguese>
+					<Korean>Field Uniform [GER] (Woodland, Rolled-up)</Korean>
+					<Chinesesimp>Field Uniform [GER] (Woodland, Rolled-up)</Chinesesimp>
+					<Japanese>Field Uniform [GER] (Woodland, Rolled-up)</Japanese>
+					<Turkish>Field Uniform [GER] (Woodland, Rolled-up)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_G_HeliPilotCoveralls0">
 					<Original>Heli Pilot Coveralls (Green) [NATO]</Original>
@@ -1458,21 +2173,21 @@
 					<Turkish>Tankçı Tulumu (Ağaçlık) [NATO]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_Tank_Marar_F0">
-					<Original>Coveralls (Marar)</Original>
-					<Chinese>Coveralls (Marar)</Chinese>
-					<French>Coveralls (Marar)</French>
-					<Spanish>Coveralls (Marar)</Spanish>
-					<Italian>Coveralls (Marar)</Italian>
-					<Polish>Coveralls (Marar)</Polish>
-					<Russian>Coveralls (Marar)</Russian>
-					<German>Coveralls (Marar)</German>
-					<Czech>Coveralls (Marar)</Czech>
-					<English>Coveralls (Marar)</English>
-					<Portuguese>Coveralls (Marar)</Portuguese>
-					<Korean>Coveralls (Marar)</Korean>
-					<Chinesesimp>Coveralls (Marar)</Chinesesimp>
-					<Japanese>Coveralls (Marar)</Japanese>
-					<Turkish>Coveralls (Marar)</Turkish>
+					<Original>Coveralls [Marar]</Original>
+					<Chinese>Coveralls [Marar]</Chinese>
+					<French>Coveralls [Marar]</French>
+					<Spanish>Coveralls [Marar]</Spanish>
+					<Italian>Coveralls [Marar]</Italian>
+					<Polish>Coveralls [Marar]</Polish>
+					<Russian>Coveralls [Marar]</Russian>
+					<German>Coveralls [Marar]</German>
+					<Czech>Coveralls [Marar]</Czech>
+					<English>Coveralls [Marar]</English>
+					<Portuguese>Coveralls [Marar]</Portuguese>
+					<Korean>Coveralls [Marar]</Korean>
+					<Chinesesimp>Coveralls [Marar]</Chinesesimp>
+					<Japanese>Coveralls [Marar]</Japanese>
+					<Turkish>Coveralls [Marar]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_marar0">
 					<Original>Combat Fatigues [Marar]</Original>
@@ -1492,72 +2207,72 @@
 					<Turkish>Savaş Asker Kıyafeti [Marar]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_marar_tshirt0">
-					<Original>Combat Fatigues (Tee) [Marar]</Original>
-					<Chinese>作戰戰鬥服 (Tee) [Marar]</Chinese>
-					<French>Treillis (Tee) [Marar]</French>
-					<Spanish>Traje de combate (Tee) [Marar]</Spanish>
-					<Italian>Uniforme da combattimento (Tee) [Marar]</Italian>
-					<Polish>Mundur bojowy (Tee) [Marar]</Polish>
-					<Russian>Боевая форма (Tee) [Marar]</Russian>
-					<German>Kampfanzug (Tee) [Marar]</German>
-					<Czech>Bojová uniforma (Tee) [Marar]</Czech>
-					<English>Combat Fatigues (Tee) [Marar]</English>
-					<Portuguese>Uniforme de combate (Tee) [Marar]</Portuguese>
-					<Korean>전투병 전투복 (Tee) [Marar]</Korean>
-					<Chinesesimp>作战服 (Tee) [Marar]</Chinesesimp>
-					<Japanese>戦闘服 (Tee) [Marar]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Tee) [Marar]</Turkish>
+					<Original>Combat Fatigues [Marar] (Tee)</Original>
+					<Chinese>作戰戰鬥服 [Marar] (Tee)</Chinese>
+					<French>Treillis [Marar] (Tee)</French>
+					<Spanish>Traje de combate [Marar] (Tee)</Spanish>
+					<Italian>Uniforme da combattimento [Marar] (Tee)</Italian>
+					<Polish>Mundur bojowy [Marar] (Tee)</Polish>
+					<Russian>Боевая форма [Marar] (Tee)</Russian>
+					<German>Kampfanzug [Marar] (Tee)</German>
+					<Czech>Bojová uniforma [Marar] (Tee)</Czech>
+					<English>Combat Fatigues [Marar] (Tee)</English>
+					<Portuguese>Uniforme de combate [Marar] (Tee)</Portuguese>
+					<Korean>전투병 전투복 [Marar] (Tee)</Korean>
+					<Chinesesimp>作战服 [Marar] (Tee)</Chinesesimp>
+					<Japanese>戦闘服 [Marar] (Tee)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [Marar] (Tee)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_marar_vest0">
-					<Original>Combat Fatigues (Rolled-up) [Marar]</Original>
-					<Chinese>作戰戰鬥服 (Rolled-up) [Marar]</Chinese>
-					<French>Treillis de combat (Rolled-up) [Marar]</French>
-					<Spanish>Traje de combate (Rolled-up) [Marar]</Spanish>
-					<Italian>Uniforme da combattimento (Rolled-up) [Marar]</Italian>
-					<Polish>Mundur bojowy (Rolled-up) [Marar]</Polish>
-					<Russian>Полевая форма (Rolled-up) [Marar]</Russian>
-					<German>Kampfanzug (Rolled-up) [Marar]</German>
-					<Czech>Bojová uniforma (Rolled-up) [Marar]</Czech>
-					<English>Combat Fatigues (Rolled-up) [Marar]</English>
-					<Portuguese>Trajes de combate (Rolled-up) [Marar]</Portuguese>
-					<Korean>전투병 전투복 (Rolled-up) [Marar]</Korean>
-					<Chinesesimp>战斗迷彩服 (Rolled-up) [Marar]</Chinesesimp>
-					<Japanese>戦闘服 (Rolled-up) [Marar]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Rolled-up) [Marar]</Turkish>
+					<Original>Combat Fatigues [Marar] (Rolled-up)</Original>
+					<Chinese>作戰戰鬥服 [Marar] (Rolled-up)</Chinese>
+					<French>Treillis de combat [Marar] (Rolled-up)</French>
+					<Spanish>Traje de combate [Marar] (Rolled-up)</Spanish>
+					<Italian>Uniforme da combattimento [Marar] (Rolled-up)</Italian>
+					<Polish>Mundur bojowy [Marar] (Rolled-up)</Polish>
+					<Russian>Полевая форма [Marar] (Rolled-up)</Russian>
+					<German>Kampfanzug [Marar] (Rolled-up)</German>
+					<Czech>Bojová uniforma [Marar] (Rolled-up)</Czech>
+					<English>Combat Fatigues [Marar] (Rolled-up)</English>
+					<Portuguese>Trajes de combate [Marar] (Rolled-up)</Portuguese>
+					<Korean>전투병 전투복 [Marar] (Rolled-up)</Korean>
+					<Chinesesimp>战斗迷彩服 [Marar] (Rolled-up)</Chinesesimp>
+					<Japanese>戦闘服 [Marar] (Rolled-up)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [Marar] (Rolled-up)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_commando0">
-					<Original>Combat Fatigues [Commandos]</Original>
-					<Chinese>作戰戰鬥服 [Commandos]</Chinese>
-					<French>Treillis [Commandos]</French>
-					<Spanish>Traje de combate [Commandos]</Spanish>
-					<Italian>Uniforme da combattimento [Commandos]</Italian>
-					<Polish>Mundur bojowy [Commandos]</Polish>
-					<Russian>Боевая форма [Commandos]</Russian>
-					<German>Kampfanzug [Commandos]</German>
-					<Czech>Bojová uniforma [Commandos]</Czech>
-					<English>Combat Fatigues [Commandos]</English>
-					<Portuguese>Uniforme de combate [Commandos]</Portuguese>
-					<Korean>전투병 전투복 [Commandos]</Korean>
-					<Chinesesimp>作战服 [Commandos]</Chinesesimp>
-					<Japanese>戦闘服 [Commandos]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti [Commandos]</Turkish>
+					<Original>Combat Fatigues [HIMF-C]</Original>
+					<Chinese>作戰戰鬥服 [HIMF-C]</Chinese>
+					<French>Treillis [HIMF-C]</French>
+					<Spanish>Traje de combate [HIMF-C]</Spanish>
+					<Italian>Uniforme da combattimento [HIMF-C]</Italian>
+					<Polish>Mundur bojowy [HIMF-C]</Polish>
+					<Russian>Боевая форма [HIMF-C]</Russian>
+					<German>Kampfanzug [HIMF-C]</German>
+					<Czech>Bojová uniforma [HIMF-C]</Czech>
+					<English>Combat Fatigues [HIMF-C]</English>
+					<Portuguese>Uniforme de combate [HIMF-C]</Portuguese>
+					<Korean>전투병 전투복 [HIMF-C]</Korean>
+					<Chinesesimp>作战服 [HIMF-C]</Chinesesimp>
+					<Japanese>戦闘服 [HIMF-C]</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [HIMF-C]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_commando_vest0">
-					<Original>Combat Fatigues (Rolled-up) [Commandos]</Original>
-					<Chinese>作戰戰鬥服 (Rolled-up) [Commandos]</Chinese>
-					<French>Treillis de combat (Rolled-up) [Commandos]</French>
-					<Spanish>Traje de combate (Rolled-up) [Commandos]</Spanish>
-					<Italian>Uniforme da combattimento (Rolled-up) [Commandos]</Italian>
-					<Polish>Mundur bojowy (Rolled-up) [Commandos]</Polish>
-					<Russian>Полевая форма (Rolled-up) [Commandos]</Russian>
-					<German>Kampfanzug (Rolled-up) [Commandos]</German>
-					<Czech>Bojová uniforma (Rolled-up) [Commandos]</Czech>
-					<English>Combat Fatigues (Rolled-up) [Commandos]</English>
-					<Portuguese>Trajes de combate (Rolled-up) [Commandos]</Portuguese>
-					<Korean>전투병 전투복 (Rolled-up) [Commandos]</Korean>
-					<Chinesesimp>战斗迷彩服 (Rolled-up) [Commandos]</Chinesesimp>
-					<Japanese>戦闘服 (Rolled-up) [Commandos]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Rolled-up) [Commandos]</Turkish>
+					<Original>Combat Fatigues [HIMF-C] (Rolled-up)</Original>
+					<Chinese>作戰戰鬥服 [HIMF-C] (Rolled-up)</Chinese>
+					<French>Treillis de combat [HIMF-C] (Rolled-up)</French>
+					<Spanish>Traje de combate [HIMF-C] (Rolled-up)</Spanish>
+					<Italian>Uniforme da combattimento [HIMF-C] (Rolled-up)</Italian>
+					<Polish>Mundur bojowy [HIMF-C] (Rolled-up)</Polish>
+					<Russian>Полевая форма [HIMF-C] (Rolled-up)</Russian>
+					<German>Kampfanzug [HIMF-C] (Rolled-up)</German>
+					<Czech>Bojová uniforma [HIMF-C] (Rolled-up)</Czech>
+					<English>Combat Fatigues [HIMF-C] (Rolled-up)</English>
+					<Portuguese>Trajes de combate [HIMF-C] (Rolled-up)</Portuguese>
+					<Korean>전투병 전투복 [HIMF-C] (Rolled-up)</Korean>
+					<Chinesesimp>战斗迷彩服 [HIMF-C] (Rolled-up)</Chinesesimp>
+					<Japanese>戦闘服 [HIMF-C] (Rolled-up)</Japanese>
+					<Turkish>Savaş Asker Kıyafeti [HIMF-C] (Rolled-up)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_CombatUniform_semiarid0">
 					<Original>Fatigues (Semi-Arid) [CSAT]</Original>
@@ -1646,38 +2361,38 @@
 					<Turkish>Savaş Asker Kıyafeti [HIMF]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_H_Soldier_2_F0">
-					<Original>Combat Fatigues (Rolled-up) [HIMF]</Original>
-					<Chinese>作戰戰鬥服（捲起）（HIMF）</Chinese>
-					<French>Treillis (manches retroussées) [HIMF]</French>
-					<Spanish>Traje de combate (arremangado) [HIMF]</Spanish>
-					<Italian>Uniforme da combattimento (Maniche arrotolate) [HIMF]</Italian>
-					<Polish>Mundur bojowy (podwinięty) [HIMF]</Polish>
-					<Russian>Полевая форма (закатанными рукавами) [HIMF] </Russian>
-					<German>Kampfanzug (hochgekrempelt) [HIMF]</German>
-					<Czech>Bojová uniforma (vyhrnutá) [HIMF]</Czech>
-					<English>Combat Fatigues (Rolled-up) [HIMF]</English>
-					<Portuguese>Uniforme de combate (Manga dobrada) [HIMF]</Portuguese>
+					<Original>Combat Fatigues [HIMF] (Rolled-up)</Original>
+					<Chinese>作戰戰鬥服（HIMF）（捲起）</Chinese>
+					<French>Treillis [HIMF] (manches retroussées)</French>
+					<Spanish>Traje de combate [HIMF] (arremangado)</Spanish>
+					<Italian>Uniforme da combattimento [HIMF] (Maniche arrotolate)</Italian>
+					<Polish>Mundur bojowy [HIMF] (podwinięty)</Polish>
+					<Russian>Полевая форма [HIMF] (закатанными рукавами)</Russian>
+					<German>Kampfanzug [HIMF] (hochgekrempelt)</German>
+					<Czech>Bojová uniforma [HIMF] (vyhrnutá)</Czech>
+					<English>Combat Fatigues [HIMF] (Rolled-up)</English>
+					<Portuguese>Uniforme de combate [HIMF] (Manga dobrada)</Portuguese>
 					<Korean>전투 퍼티그 (롤업) [HIMF]</Korean>
 					<Chinesesimp>作战服（卷起）[HIMF]</Chinesesimp>
 					<Japanese>戦闘服（ロールアップ）[HIMF]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Kolları Kıvrık) [HIMF]</Turkish>
+					<Turkish>Savaş Asker Kıyafeti [HIMF] (Kolları Kıvrık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_H_Soldier_3_F0">
-					<Original>Combat Fatigues (Tank Top) [HIMF]</Original>
-					<Chinese>作戰戰鬥服（上衣背心）（HIMF）</Chinese>
-					<French>Treillis (manches débardeur) [HIMF]</French>
-					<Spanish>Traje de combate (sin mangas) [HIMF]</Spanish>
-					<Italian>Uniforme da combattimento (canotta) [HIMF]</Italian>
-					<Polish>Mundur bojowy (bezrękawnik) [HIMF]</Polish>
-					<Russian>Полевая форма (безрукавка) [HIMF] </Russian>
-					<German>Kampfanzug (Muskelshirt) [HIMF]</German>
-					<Czech>Bojová uniforma (tílko) [HIMF]</Czech>
-					<English>Combat Fatigues (Tank Top) [HIMF]</English>
-					<Portuguese>Uniforme de combate (regata) [HIMF]</Portuguese>
+					<Original>Combat Fatigues [HIMF] (Tank Top)</Original>
+					<Chinese>作戰戰鬥服（HIMF）（上衣背心）</Chinese>
+					<French>Treillis [HIMF] (manches débardeur)</French>
+					<Spanish>Traje de combate [HIMF] (sin mangas)</Spanish>
+					<Italian>Uniforme da combattimento [HIMF] (canotta)</Italian>
+					<Polish>Mundur bojowy [HIMF] (bezrękawnik)</Polish>
+					<Russian>Полевая форма [HIMF] (безрукавка)</Russian>
+					<German>Kampfanzug [HIMF] (Muskelshirt)</German>
+					<Czech>Bojová uniforma [HIMF] (tílko)</Czech>
+					<English>Combat Fatigues [HIMF] (Tank Top)</English>
+					<Portuguese>Uniforme de combate [HIMF] (regata)</Portuguese>
 					<Korean>전투 퍼티그 (탱크톱) [HIMF]</Korean>
 					<Chinesesimp>作战服（背心装）[HIMF]</Chinesesimp>
 					<Japanese>戦闘服（タンクトップ）[HIMF]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Atlet) [HIMF]</Turkish>
+					<Turkish>Savaş Asker Kıyafeti [HIMF] (Atlet)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_H_Officer_F0">
 					<Original>Officer Fatigues [HIMF]</Original>
@@ -1731,21 +2446,21 @@
 					<Turkish>Savaş Asker Kıyafeti [Israel]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_I_I_CombatUniform_shortsleeve_olive0">
-					<Original>Combat Fatigues (Rolled-up) [Israel]</Original>
-					<Chinese>作戰戰鬥服（捲起）（Israel）</Chinese>
-					<French>Treillis (manches retroussées) [Israel]</French>
-					<Spanish>Traje de combate (arremangado) [Israel]</Spanish>
-					<Italian>Uniforme da combattimento (Maniche arrotolate) [Israel]</Italian>
-					<Polish>Mundur bojowy (podwinięty) [Israel]</Polish>
-					<Russian>Полевая форма (закатанными рукавами) [Israel] </Russian>
-					<German>Kampfanzug (hochgekrempelt) [Israel]</German>
-					<Czech>Bojová uniforma (vyhrnutá) [Israel]</Czech>
-					<English>Combat Fatigues (Rolled-up) [Israel]</English>
-					<Portuguese>Uniforme de combate (Manga dobrada) [Israel]</Portuguese>
+					<Original>Combat Fatigues [Israel] (Rolled-up)</Original>
+					<Chinese>作戰戰鬥服（Israel）（捲起）</Chinese>
+					<French>Treillis [Israel] (manches retroussées)</French>
+					<Spanish>Traje de combate [Israel] (arremangado)</Spanish>
+					<Italian>Uniforme da combattimento [Israel] (Maniche arrotolate)</Italian>
+					<Polish>Mundur bojowy [Israel] (podwinięty)</Polish>
+					<Russian>Полевая форма [Israel] (закатанными рукавами)</Russian>
+					<German>Kampfanzug [Israel] (hochgekrempelt)</German>
+					<Czech>Bojová uniforma [Israel] (vyhrnutá)</Czech>
+					<English>Combat Fatigues [Israel] (Rolled-up)</English>
+					<Portuguese>Uniforme de combate [Israel] (Manga dobrada)</Portuguese>
 					<Korean>전투 퍼티그 (롤업) [Israel]</Korean>
 					<Chinesesimp>作战服（卷起）[Israel]</Chinesesimp>
 					<Japanese>戦闘服（ロールアップ）[Israel]</Japanese>
-					<Turkish>Savaş Asker Kıyafeti (Kolları Kıvrık) [Israel]</Turkish>
+					<Turkish>Savaş Asker Kıyafeti [Israel] (Kolları Kıvrık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_I_I_GhillieSuit0">
 					<Original>Ghillie Suit [Israel]</Original>
@@ -1833,21 +2548,89 @@
 					<Turkish>KBRN Kıyafeti (Zeytin Yeşili) [Israel]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_I_I_CBRN_Suit_01_Marar_F0">
-					<Original>CBRN Suit (Marar)</Original>
-					<Chinese>核生化套裝 (Marar)</Chinese>
-					<French>Combinaison NRBC (Marar)</French>
-					<Spanish>Traje NRBQ (Marar)</Spanish>
-					<Italian>Tuta NBC (Marar)</Italian>
-					<Polish>Strój ochronny ABC (Marar)</Polish>
-					<Russian>Химкостюм (Marar)</Russian>
-					<German>CBRN-Anzug (Marar)</German>
-					<Czech>CBRN oblek (Marar)</Czech>
-					<English>CBRN Suit (Marar)</English>
-					<Portuguese>Traje QBRN (Marar)</Portuguese>
-					<Korean>CBRN 수트 (Marar)</Korean>
-					<Chinesesimp>生化核辐套装 (Marar)</Chinesesimp>
-					<Japanese>CBRN スーツ (Marar)</Japanese>
-					<Turkish>KBRN Kıyafeti (Marar)</Turkish>
+					<Original>CBRN Suit [Marar]</Original>
+					<Chinese>核生化套裝 [Marar]</Chinese>
+					<French>Combinaison NRBC [Marar]</French>
+					<Spanish>Traje NRBQ [Marar]</Spanish>
+					<Italian>Tuta NBC [Marar]</Italian>
+					<Polish>Strój ochronny ABC [Marar]</Polish>
+					<Russian>Химкостюм [Marar]</Russian>
+					<German>CBRN-Anzug [Marar]</German>
+					<Czech>CBRN oblek [Marar]</Czech>
+					<English>CBRN Suit [Marar]</English>
+					<Portuguese>Traje QBRN [Marar]</Portuguese>
+					<Korean>CBRN 수트 [Marar]</Korean>
+					<Chinesesimp>生化核辐套装 [Marar]</Chinesesimp>
+					<Japanese>CBRN スーツ [Marar]</Japanese>
+					<Turkish>KBRN Kıyafeti [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_I_U_CombatUniform_UNO0">
+					<Original>Combat Fatigues [RACS]</Original>
+					<Chinese>Combat Fatigues [RACS]</Chinese>
+					<French>Combat Fatigues [RACS]</French>
+					<Spanish>Combat Fatigues [RACS]</Spanish>
+					<Italian>Combat Fatigues [RACS]</Italian>
+					<Polish>Combat Fatigues [RACS]</Polish>
+					<Russian>Combat Fatigues [RACS]</Russian>
+					<German>Combat Fatigues [RACS]</German>
+					<Czech>Combat Fatigues [RACS]</Czech>
+					<English>Combat Fatigues [RACS]</English>
+					<Portuguese>Combat Fatigues [RACS]</Portuguese>
+					<Korean>Combat Fatigues [RACS]</Korean>
+					<Chinesesimp>Combat Fatigues [RACS]</Chinesesimp>
+					<Japanese>Combat Fatigues [RACS]</Japanese>
+					<Turkish>Combat Fatigues [RACS]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_I_U_CombatUniform_shortsleeve_UNO0">
+					<Original>Combat Fatigues [RACS] (Rolled-up)</Original>
+					<Chinese>Combat Fatigues [RACS] (Rolled-up)</Chinese>
+					<French>Combat Fatigues [RACS] (Rolled-up)</French>
+					<Spanish>Combat Fatigues [RACS] (Rolled-up)</Spanish>
+					<Italian>Combat Fatigues [RACS] (Rolled-up)</Italian>
+					<Polish>Combat Fatigues [RACS] (Rolled-up)</Polish>
+					<Russian>Combat Fatigues [RACS] (Rolled-up)</Russian>
+					<German>Combat Fatigues [RACS] (Rolled-up)</German>
+					<Czech>Combat Fatigues [RACS] (Rolled-up)</Czech>
+					<English>Combat Fatigues [RACS] (Rolled-up)</English>
+					<Portuguese>Combat Fatigues [RACS] (Rolled-up)</Portuguese>
+					<Korean>Combat Fatigues [RACS] (Rolled-up)</Korean>
+					<Chinesesimp>Combat Fatigues [RACS] (Rolled-up)</Chinesesimp>
+					<Japanese>Combat Fatigues [RACS] (Rolled-up)</Japanese>
+					<Turkish>Combat Fatigues [RACS] (Rolled-up)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_I_UW_CombatUniform_UNO0">
+					<Original>Combat Fatigues [CDF]</Original>
+					<Chinese>Combat Fatigues [CDF]</Chinese>
+					<French>Combat Fatigues [CDF]</French>
+					<Spanish>Combat Fatigues [CDF]</Spanish>
+					<Italian>Combat Fatigues [CDF]</Italian>
+					<Polish>Combat Fatigues [CDF]</Polish>
+					<Russian>Combat Fatigues [CDF]</Russian>
+					<German>Combat Fatigues [CDF]</German>
+					<Czech>Combat Fatigues [CDF]</Czech>
+					<English>Combat Fatigues [CDF]</English>
+					<Portuguese>Combat Fatigues [CDF]</Portuguese>
+					<Korean>Combat Fatigues [CDF]</Korean>
+					<Chinesesimp>Combat Fatigues [CDF]</Chinesesimp>
+					<Japanese>Combat Fatigues [CDF]</Japanese>
+					<Turkish>Combat Fatigues [CDF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_I_UW_CombatUniform_shortsleeve_UNO0">
+					<Original>Combat Fatigues [CDF] (Rolled-up)</Original>
+					<Chinese>Combat Fatigues [CDF] (Rolled-up)</Chinese>
+					<French>Combat Fatigues [CDF] (Rolled-up)</French>
+					<Spanish>Combat Fatigues [CDF] (Rolled-up)</Spanish>
+					<Italian>Combat Fatigues [CDF] (Rolled-up)</Italian>
+					<Polish>Combat Fatigues [CDF] (Rolled-up)</Polish>
+					<Russian>Combat Fatigues [CDF] (Rolled-up)</Russian>
+					<German>Combat Fatigues [CDF] (Rolled-up)</German>
+					<Czech>Combat Fatigues [CDF] (Rolled-up)</Czech>
+					<English>Combat Fatigues [CDF] (Rolled-up)</English>
+					<Portuguese>Combat Fatigues [CDF] (Rolled-up)</Portuguese>
+					<Korean>Combat Fatigues [CDF] (Rolled-up)</Korean>
+					<Chinesesimp>Combat Fatigues [CDF] (Rolled-up)</Chinesesimp>
+					<Japanese>Combat Fatigues [CDF] (Rolled-up)</Japanese>
+					<Turkish>Combat Fatigues [CDF] (Rolled-up)</Turkish>
 				</Key>
 			</Container>
 			<Container name="Vests">
@@ -1952,6 +2735,176 @@
 					<Chinesesimp>ELBV 衣帽装备（林地六角形）</Chinesesimp>
 					<Japanese>ELBVハーネス（砂漠六角形）</Japanese>
 					<Turkish>ELBV Takımı (Ağaçlık Hex)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrierGL_aucamo_F0">
+					<Original>Carrier GL Rig (Auscam)</Original>
+					<Chinese>Carrier GL Rig (Auscam)</Chinese>
+					<French>Carrier GL Rig (Auscam)</French>
+					<Spanish>Carrier GL Rig (Auscam)</Spanish>
+					<Italian>Carrier GL Rig (Auscam)</Italian>
+					<Polish>Carrier GL Rig (Auscam)</Polish>
+					<Russian>Carrier GL Rig (Auscam)</Russian>
+					<German>Carrier GL Rig (Auscam)</German>
+					<Czech>Carrier GL Rig (Auscam)</Czech>
+					<English>Carrier GL Rig (Auscam)</English>
+					<Portuguese>Carrier GL Rig (Auscam)</Portuguese>
+					<Korean>Carrier GL Rig (Auscam)</Korean>
+					<Chinesesimp>Carrier GL Rig (Auscam)</Chinesesimp>
+					<Japanese>Carrier GL Rig (Auscam)</Japanese>
+					<Turkish>Carrier GL Rig (Auscam)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrierGL_aucamo_ard_F0">
+					<Original>Carrier GL Rig (Auscam Arid)</Original>
+					<Chinese>Carrier GL Rig (Auscam Arid)</Chinese>
+					<French>Carrier GL Rig (Auscam Arid)</French>
+					<Spanish>Carrier GL Rig (Auscam Arid)</Spanish>
+					<Italian>Carrier GL Rig (Auscam Arid)</Italian>
+					<Polish>Carrier GL Rig (Auscam Arid)</Polish>
+					<Russian>Carrier GL Rig (Auscam Arid)</Russian>
+					<German>Carrier GL Rig (Auscam Arid)</German>
+					<Czech>Carrier GL Rig (Auscam Arid)</Czech>
+					<English>Carrier GL Rig (Auscam Arid)</English>
+					<Portuguese>Carrier GL Rig (Auscam Arid)</Portuguese>
+					<Korean>Carrier GL Rig (Auscam Arid)</Korean>
+					<Chinesesimp>Carrier GL Rig (Auscam Arid)</Chinesesimp>
+					<Japanese>Carrier GL Rig (Auscam Arid)</Japanese>
+					<Turkish>Carrier GL Rig (Auscam Arid)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrierGL_aucamo_trp_F0">
+					<Original>Carrier GL Rig (Auscam Tropic)</Original>
+					<Chinese>Carrier GL Rig (Auscam Tropic)</Chinese>
+					<French>Carrier GL Rig (Auscam Tropic)</French>
+					<Spanish>Carrier GL Rig (Auscam Tropic)</Spanish>
+					<Italian>Carrier GL Rig (Auscam Tropic)</Italian>
+					<Polish>Carrier GL Rig (Auscam Tropic)</Polish>
+					<Russian>Carrier GL Rig (Auscam Tropic)</Russian>
+					<German>Carrier GL Rig (Auscam Tropic)</German>
+					<Czech>Carrier GL Rig (Auscam Tropic)</Czech>
+					<English>Carrier GL Rig (Auscam Tropic)</English>
+					<Portuguese>Carrier GL Rig (Auscam Tropic)</Portuguese>
+					<Korean>Carrier GL Rig (Auscam Tropic)</Korean>
+					<Chinesesimp>Carrier GL Rig (Auscam Tropic)</Chinesesimp>
+					<Japanese>Carrier GL Rig (Auscam Tropic)</Japanese>
+					<Turkish>Carrier GL Rig (Auscam Tropic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier1_aucamo_F0">
+					<Original>Carrier Lite (Auscam)</Original>
+					<Chinese>Carrier Lite (Auscam)</Chinese>
+					<French>Carrier Lite (Auscam)</French>
+					<Spanish>Carrier Lite (Auscam)</Spanish>
+					<Italian>Carrier Lite (Auscam)</Italian>
+					<Polish>Carrier Lite (Auscam)</Polish>
+					<Russian>Carrier Lite (Auscam)</Russian>
+					<German>Carrier Lite (Auscam)</German>
+					<Czech>Carrier Lite (Auscam)</Czech>
+					<English>Carrier Lite (Auscam)</English>
+					<Portuguese>Carrier Lite (Auscam)</Portuguese>
+					<Korean>Carrier Lite (Auscam)</Korean>
+					<Chinesesimp>Carrier Lite (Auscam)</Chinesesimp>
+					<Japanese>Carrier Lite (Auscam)</Japanese>
+					<Turkish>Carrier Lite (Auscam)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier1_aucamo_ard_F0">
+					<Original>Carrier Lite (Auscam Arid)</Original>
+					<Chinese>Carrier Lite (Auscam Arid)</Chinese>
+					<French>Carrier Lite (Auscam Arid)</French>
+					<Spanish>Carrier Lite (Auscam Arid)</Spanish>
+					<Italian>Carrier Lite (Auscam Arid)</Italian>
+					<Polish>Carrier Lite (Auscam Arid)</Polish>
+					<Russian>Carrier Lite (Auscam Arid)</Russian>
+					<German>Carrier Lite (Auscam Arid)</German>
+					<Czech>Carrier Lite (Auscam Arid)</Czech>
+					<English>Carrier Lite (Auscam Arid)</English>
+					<Portuguese>Carrier Lite (Auscam Arid)</Portuguese>
+					<Korean>Carrier Lite (Auscam Arid)</Korean>
+					<Chinesesimp>Carrier Lite (Auscam Arid)</Chinesesimp>
+					<Japanese>Carrier Lite (Auscam Arid)</Japanese>
+					<Turkish>Carrier Lite (Auscam Arid)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier1_aucamo_trp_F0">
+					<Original>Carrier Lite (Auscam Tropic)</Original>
+					<Chinese>Carrier Lite (Auscam Tropic)</Chinese>
+					<French>Carrier Lite (Auscam Tropic)</French>
+					<Spanish>Carrier Lite (Auscam Tropic)</Spanish>
+					<Italian>Carrier Lite (Auscam Tropic)</Italian>
+					<Polish>Carrier Lite (Auscam Tropic)</Polish>
+					<Russian>Carrier Lite (Auscam Tropic)</Russian>
+					<German>Carrier Lite (Auscam Tropic)</German>
+					<Czech>Carrier Lite (Auscam Tropic)</Czech>
+					<English>Carrier Lite (Auscam Tropic)</English>
+					<Portuguese>Carrier Lite (Auscam Tropic)</Portuguese>
+					<Korean>Carrier Lite (Auscam Tropic)</Korean>
+					<Chinesesimp>Carrier Lite (Auscam Tropic)</Chinesesimp>
+					<Japanese>Carrier Lite (Auscam Tropic)</Japanese>
+					<Turkish>Carrier Lite (Auscam Tropic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier2_aucamo_F0">
+					<Original>Carrier Rig (Auscam)</Original>
+					<Chinese>Carrier Rig (Auscam)</Chinese>
+					<French>Carrier Rig (Auscam)</French>
+					<Spanish>Carrier Rig (Auscam)</Spanish>
+					<Italian>Carrier Rig (Auscam)</Italian>
+					<Polish>Carrier Rig (Auscam)</Polish>
+					<Russian>Carrier Rig (Auscam)</Russian>
+					<German>Carrier Rig (Auscam)</German>
+					<Czech>Carrier Rig (Auscam)</Czech>
+					<English>Carrier Rig (Auscam)</English>
+					<Portuguese>Carrier Rig (Auscam)</Portuguese>
+					<Korean>Carrier Rig (Auscam)</Korean>
+					<Chinesesimp>Carrier Rig (Auscam)</Chinesesimp>
+					<Japanese>Carrier Rig (Auscam)</Japanese>
+					<Turkish>Carrier Rig (Auscam)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier2_aucamo_ard_F0">
+					<Original>Carrier Rig (Auscam Arid)</Original>
+					<Chinese>Carrier Rig (Auscam Arid)</Chinese>
+					<French>Carrier Rig (Auscam Arid)</French>
+					<Spanish>Carrier Rig (Auscam Arid)</Spanish>
+					<Italian>Carrier Rig (Auscam Arid)</Italian>
+					<Polish>Carrier Rig (Auscam Arid)</Polish>
+					<Russian>Carrier Rig (Auscam Arid)</Russian>
+					<German>Carrier Rig (Auscam Arid)</German>
+					<Czech>Carrier Rig (Auscam Arid)</Czech>
+					<English>Carrier Rig (Auscam Arid)</English>
+					<Portuguese>Carrier Rig (Auscam Arid)</Portuguese>
+					<Korean>Carrier Rig (Auscam Arid)</Korean>
+					<Chinesesimp>Carrier Rig (Auscam Arid)</Chinesesimp>
+					<Japanese>Carrier Rig (Auscam Arid)</Japanese>
+					<Turkish>Carrier Rig (Auscam Arid)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier2_aucamo_trp_F0">
+					<Original>Carrier Rig (Auscam Tropic)</Original>
+					<Chinese>Carrier Rig (Auscam Tropic)</Chinese>
+					<French>Carrier Rig (Auscam Tropic)</French>
+					<Spanish>Carrier Rig (Auscam Tropic)</Spanish>
+					<Italian>Carrier Rig (Auscam Tropic)</Italian>
+					<Polish>Carrier Rig (Auscam Tropic)</Polish>
+					<Russian>Carrier Rig (Auscam Tropic)</Russian>
+					<German>Carrier Rig (Auscam Tropic)</German>
+					<Czech>Carrier Rig (Auscam Tropic)</Czech>
+					<English>Carrier Rig (Auscam Tropic)</English>
+					<Portuguese>Carrier Rig (Auscam Tropic)</Portuguese>
+					<Korean>Carrier Rig (Auscam Tropic)</Korean>
+					<Chinesesimp>Carrier Rig (Auscam Tropic)</Chinesesimp>
+					<Japanese>Carrier Rig (Auscam Tropic)</Japanese>
+					<Turkish>Carrier Rig (Auscam Tropic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier2_sand0">
+					<Original>Carrier Rig (DDDPM)</Original>
+					<Chinese>Carrier Rig (DDDPM)</Chinese>
+					<French>Carrier Rig (DDDPM)</French>
+					<Spanish>Carrier Rig (DDDPM)</Spanish>
+					<Italian>Carrier Rig (DDDPM)</Italian>
+					<Polish>Carrier Rig (DDDPM)</Polish>
+					<Russian>Carrier Rig (DDDPM)</Russian>
+					<German>Carrier Rig (DDDPM)</German>
+					<Czech>Carrier Rig (DDDPM)</Czech>
+					<English>Carrier Rig (DDDPM)</English>
+					<Portuguese>Carrier Rig (DDDPM)</Portuguese>
+					<Korean>Carrier Rig (DDDPM)</Korean>
+					<Chinesesimp>Carrier Rig (DDDPM)</Chinesesimp>
+					<Japanese>Carrier Rig (DDDPM)</Japanese>
+					<Turkish>Carrier Rig (DDDPM)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrierIA1_grn0">
 					<Original>GA Carrier Lite (Green)</Original>
@@ -2314,6 +3267,23 @@
 					<Japanese>AveryTheKitty ＆ Toadie2K</Japanese>
 					<Turkish>AveryTheKitty ve Toadie2K</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_BranFlakes">
+					<Original>Bran Flakes</Original>
+					<Chinese>Bran Flakes</Chinese>
+					<French>Bran Flakes</French>
+					<Spanish>Bran Flakes</Spanish>
+					<Italian>Bran Flakes</Italian>
+					<Polish>Bran Flakes</Polish>
+					<Russian>Bran Flakes</Russian>
+					<German>Bran Flakes</German>
+					<Czech>Bran Flakes</Czech>
+					<English>Bran Flakes</English>
+					<Portuguese>Bran Flakes</Portuguese>
+					<Korean>Bran Flakes</Korean>
+					<Chinesesimp>Bran Flakes</Chinesesimp>
+					<Japanese>Bran Flakes</Japanese>
+					<Turkish>Bran Flakes</Turkish>
+				</Key>
 			</Container>
 			<Container name="Faction_Classes">
 				<Key ID="STR_A3_A_CfgFactionClasses_OPF_V_wdl_F0">
@@ -2418,7 +3388,7 @@
 					<Japanese>ドイツ軍（乾燥地帯）</Japanese>
 					<Turkish>Bundeswehr (Kurak)</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgFactionClasses_BLU_A_F1">
+				<Key ID="STR_A3_A_CfgFactionClasses_BLU_AUS_F0">
 					<Original>ADF</Original>
 					<Chinese>ADF</Chinese>
 					<French>ADF</French>
@@ -2434,6 +3404,40 @@
 					<Chinesesimp>ADF</Chinesesimp>
 					<Japanese>ADF</Japanese>
 					<Turkish>ADF</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgFactionClasses_BLU_AUS_ard_F0">
+					<Original>ADF (Arid)</Original>
+					<Chinese>ADF (Arid)</Chinese>
+					<French>ADF (Arid)</French>
+					<Spanish>ADF (Arid)</Spanish>
+					<Italian>ADF (Arid)</Italian>
+					<Polish>ADF (Arid)</Polish>
+					<Russian>ADF (Arid)</Russian>
+					<German>ADF (Arid)</German>
+					<Czech>ADF (Arid)</Czech>
+					<English>ADF (Arid)</English>
+					<Portuguese>ADF (Arid)</Portuguese>
+					<Korean>ADF (Arid)</Korean>
+					<Chinesesimp>ADF (Arid)</Chinesesimp>
+					<Japanese>ADF (Arid)</Japanese>
+					<Turkish>ADF (Arid)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgFactionClasses_BLU_AUS_trp_F0">
+					<Original>ADF (Pacific)</Original>
+					<Chinese>ADF (Pacific)</Chinese>
+					<French>ADF (Pacific)</French>
+					<Spanish>ADF (Pacific)</Spanish>
+					<Italian>ADF (Pacific)</Italian>
+					<Polish>ADF (Pacific)</Polish>
+					<Russian>ADF (Pacific)</Russian>
+					<German>ADF (Pacific)</German>
+					<Czech>ADF (Pacific)</Czech>
+					<English>ADF (Pacific)</English>
+					<Portuguese>ADF (Pacific)</Portuguese>
+					<Korean>ADF (Pacific)</Korean>
+					<Chinesesimp>ADF (Pacific)</Chinesesimp>
+					<Japanese>ADF (Pacific)</Japanese>
+					<Turkish>ADF (Pacific)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_BLU_H_F0">
 					<Original>HIMF</Original>
@@ -2587,6 +3591,23 @@
 					<Chinesesimp>联合国组织</Chinesesimp>
 					<Japanese>UNO</Japanese>
 					<Turkish>UNO</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgFactionClasses_IND_UNO_wdl_F0">
+					<Original>UNO (Woodland)</Original>
+					<Chinese>UNO (Woodland)</Chinese>
+					<French>UNO (Woodland)</French>
+					<Spanish>ONU (Woodland)</Spanish>
+					<Italian>Nazioni Unite (Woodland)</Italian>
+					<Polish>UNO (Woodland)</Polish>
+					<Russian>ООН (Woodland)</Russian>
+					<German>UNO (Woodland)</German>
+					<Czech>UNO (Woodland)</Czech>
+					<English>UNO (Woodland)</English>
+					<Portuguese>ONU (Woodland)</Portuguese>
+					<Korean>UNO (Woodland)</Korean>
+					<Chinesesimp>联合国组织 (Woodland)</Chinesesimp>
+					<Japanese>UNO (Woodland)</Japanese>
+					<Turkish>UNO (Woodland)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_IND_R_F0">
 					<Original>RACS</Original>
@@ -2782,6 +3803,23 @@
 				<Japanese>ADF</Japanese>
 				<Turkish>ADF</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_TextureSources_Marar0">
+				<Original>Marar</Original>
+				<Chinese>Marar</Chinese>
+				<French>Marar</French>
+				<Spanish>Marar</Spanish>
+				<Italian>Marar</Italian>
+				<Polish>Marar</Polish>
+				<Russian>Marar</Russian>
+				<German>Marar</German>
+				<Czech>Marar</Czech>
+				<English>Marar</English>
+				<Portuguese>Marar</Portuguese>
+				<Korean>Marar</Korean>
+				<Chinesesimp>Marar</Chinesesimp>
+				<Japanese>Marar</Japanese>
+				<Turkish>Marar</Turkish>
+			</Key>
 			<Key ID="STR_A3_A_TEXTURESOURCES_Israel0">
 				<Original>Israel</Original>
 				<Chinese>Israel</Chinese>
@@ -2798,6 +3836,23 @@
 				<Chinesesimp>Israel</Chinesesimp>
 				<Japanese>Israel</Japanese>
 				<Turkish>Israel</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_TEXTURESOURCES_UNO0">
+				<Original>UNO</Original>
+				<Chinese>UNO</Chinese>
+				<French>UNO</French>
+				<Spanish>UNO</Spanish>
+				<Italian>UNO</Italian>
+				<Polish>UNO</Polish>
+				<Russian>UNO</Russian>
+				<German>UNO</German>
+				<Czech>UNO</Czech>
+				<English>UNO</English>
+				<Portuguese>UNO</Portuguese>
+				<Korean>UNO</Korean>
+				<Chinesesimp>UNO</Chinesesimp>
+				<Japanese>UNO</Japanese>
+				<Turkish>UNO</Turkish>
 			</Key>
 		</Container>
 		<Container name="Soft_F">
@@ -2885,6 +3940,40 @@
 				<Chinesesimp>UGV 包（ED-1D）[Israel]</Chinesesimp>
 				<Japanese>UGV バッグ (ED-1D) [Israel]</Japanese>
 				<Turkish>UGV Çantası (ED-1D) [Israel]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UGV_02_Demining_backpack_F0">
+				<Original>UGV Bag (ED-1D) [UNO]</Original>
+				<Chinese>無人地面載具袋子（ED-1D）（UNO）</Chinese>
+				<French>Sac drone terrestre (ED-1D) [UNO]</French>
+				<Spanish>Bolsa de VTNT (ED-1D) [UNO]</Spanish>
+				<Italian>Borsa UGV (ED-1D) [UNO]</Italian>
+				<Polish>Torba na UGV (ED-1D) [UNO]</Polish>
+				<Russian>Сумка для БПА (ED-1D) [UNO]</Russian>
+				<German>UGV-Tragetasche (ED-1D) [UNO]</German>
+				<Czech>Batoh, bezpilotní vozidlo (ED-1D) [UNO]</Czech>
+				<English>UGV Bag (ED-1D) [UNO]</English>
+				<Portuguese>Bolsa VTNT (ED-1D) [UNO]</Portuguese>
+				<Korean>UGV 가방 (ED-1D) [UNO]</Korean>
+				<Chinesesimp>UGV 包（ED-1D）[UNO]</Chinesesimp>
+				<Japanese>UGV バッグ (ED-1D) [UNO]</Japanese>
+				<Turkish>UGV Çantası (ED-1D) [UNO]</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_UNO_UGV_02_Demining_backpack_F_assembleInfo0">
+				<Original>UGV Bag (ED-1D) [UNO]</Original>
+				<Chinese>無人地面載具袋子（ED-1D）（UNO）</Chinese>
+				<French>Sac drone terrestre (ED-1D) [UNO]</French>
+				<Spanish>Bolsa de VTNT (ED-1D) [UNO]</Spanish>
+				<Italian>Borsa UGV (ED-1D) [UNO]</Italian>
+				<Polish>Torba na UGV (ED-1D) [UNO]</Polish>
+				<Russian>Сумка для БПА (ED-1D) [UNO]</Russian>
+				<German>UGV-Tragetasche (ED-1D) [UNO]</German>
+				<Czech>Batoh, bezpilotní vozidlo (ED-1D) [UNO]</Czech>
+				<English>UGV Bag (ED-1D) [UNO]</English>
+				<Portuguese>Bolsa VTNT (ED-1D) [UNO]</Portuguese>
+				<Korean>UGV 가방 (ED-1D) [UNO]</Korean>
+				<Chinesesimp>UGV 包（ED-1D）[UNO]</Chinesesimp>
+				<Japanese>UGV バッグ (ED-1D) [UNO]</Japanese>
+				<Turkish>UGV Çantası (ED-1D) [UNO]</Turkish>
 			</Key>
 		</Container>
 		<Container name="Static_F">
@@ -3577,6 +4666,312 @@
 					<Japanese>物資箱[Israel]</Japanese>
 					<Turkish>İkmal Kutusu [Israel]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_TKA_Wps_F0">
+					<Original>Basic Weapons [Takistan]</Original>
+					<Chinese>基本武器（Takistan）</Chinese>
+					<French>Armes de base [Takistan]</French>
+					<Spanish>Armas básicas [Takistan]</Spanish>
+					<Italian>Armi di base [Takistan]</Italian>
+					<Polish>Broń podstawowa [Takistan]</Polish>
+					<Russian>Основное оружие [Takistan]</Russian>
+					<German>Standardwaffen [Takistan]</German>
+					<Czech>Základní zbraně [Takistan]</Czech>
+					<English>Basic Weapons [Takistan]</English>
+					<Portuguese>Armas básicas [Takistan]</Portuguese>
+					<Korean>기본무기[Takistan]</Korean>
+					<Chinesesimp>基本武器 [Takistan]</Chinesesimp>
+					<Japanese>基本武器[Takistan]</Japanese>
+					<Turkish>Temel Silahlar [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_TKA_Ammo_F0">
+					<Original>Basic Ammo [Takistan]</Original>
+					<Chinese>基本彈藥（Takistan）</Chinese>
+					<French>Munitions de base [Takistan]</French>
+					<Spanish>Munición básica [Takistan]</Spanish>
+					<Italian>Munizioni di base [Takistan]</Italian>
+					<Polish>Amunicja podstawowa [Takistan]</Polish>
+					<Russian>Основные боеприпасы [Takistan]</Russian>
+					<German>Standardmunition [Takistan]</German>
+					<Czech>Základní munice [Takistan]</Czech>
+					<English>Basic Ammo [Takistan]</English>
+					<Portuguese>Munição básica [Takistan]</Portuguese>
+					<Korean>기본 탄약[Takistan]</Korean>
+					<Chinesesimp>基本弹药 [Takistan]</Chinesesimp>
+					<Japanese>基本弾薬[Takistan]</Japanese>
+					<Turkish>Temel Mühimmat [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_TKA_WpsLaunch_F0">
+					<Original>Launchers [Takistan]</Original>
+					<Chinese>發射器（Takistan）</Chinese>
+					<French>Lanceurs [Takistan]</French>
+					<Spanish>Lanzadores [Takistan]</Spanish>
+					<Italian>Lanciatori [Takistan]</Italian>
+					<Polish>Wyrzutnie [Takistan]</Polish>
+					<Russian>Пусковые установки [Takistan]</Russian>
+					<German>Werfer [Takistan]</German>
+					<Czech>Raketomety [Takistan]</Czech>
+					<English>Launchers [Takistan]</English>
+					<Portuguese>Lançadores [Takistan]</Portuguese>
+					<Korean>발사기[Takistan]</Korean>
+					<Chinesesimp>发射器 [Takistan]</Chinesesimp>
+					<Japanese>ランチャー[Takistan]</Japanese>
+					<Turkish>Fırlatıcılar [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_O_TKA_supplyCrate_F0">
+					<Original>Supply Box [Takistan]</Original>
+					<Chinese>補給盒（Takistan）</Chinese>
+					<French>Caisse de ravitaillements [Takistan]</French>
+					<Spanish>Caja de suministros [Takistan]</Spanish>
+					<Italian>Scatola di rifornimenti [Takistan]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [Takistan]</Polish>
+					<Russian>Ящик с припасами [Takistan]</Russian>
+					<German>Nachschubkiste [Takistan]</German>
+					<Czech>Bedna se zásobami [Takistan]</Czech>
+					<English>Supply Box [Takistan]</English>
+					<Portuguese>Caixa de suprimentos [Takistan]</Portuguese>
+					<Korean>보급상자[Takistan]</Korean>
+					<Chinesesimp>供给箱 [Takistan]</Chinesesimp>
+					<Japanese>物資箱[Takistan]</Japanese>
+					<Turkish>İkmal Kutusu [Takistan]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_VZ_Wps_F0">
+					<Original>Basic Weapons [Venezuela]</Original>
+					<Chinese>基本武器（Venezuela）</Chinese>
+					<French>Armes de base [Venezuela]</French>
+					<Spanish>Armas básicas [Venezuela]</Spanish>
+					<Italian>Armi di base [Venezuela]</Italian>
+					<Polish>Broń podstawowa [Venezuela]</Polish>
+					<Russian>Основное оружие [Venezuela]</Russian>
+					<German>Standardwaffen [Venezuela]</German>
+					<Czech>Základní zbraně [Venezuela]</Czech>
+					<English>Basic Weapons [Venezuela]</English>
+					<Portuguese>Armas básicas [Venezuela]</Portuguese>
+					<Korean>기본무기[Venezuela]</Korean>
+					<Chinesesimp>基本武器 [Venezuela]</Chinesesimp>
+					<Japanese>基本武器[Venezuela]</Japanese>
+					<Turkish>Temel Silahlar [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_VZ_Ammo_F0">
+					<Original>Basic Ammo [Venezuela]</Original>
+					<Chinese>基本彈藥（Venezuela）</Chinese>
+					<French>Munitions de base [Venezuela]</French>
+					<Spanish>Munición básica [Venezuela]</Spanish>
+					<Italian>Munizioni di base [Venezuela]</Italian>
+					<Polish>Amunicja podstawowa [Venezuela]</Polish>
+					<Russian>Основные боеприпасы [Venezuela]</Russian>
+					<German>Standardmunition [Venezuela]</German>
+					<Czech>Základní munice [Venezuela]</Czech>
+					<English>Basic Ammo [Venezuela]</English>
+					<Portuguese>Munição básica [Venezuela]</Portuguese>
+					<Korean>기본 탄약[Venezuela]</Korean>
+					<Chinesesimp>基本弹药 [Venezuela]</Chinesesimp>
+					<Japanese>基本弾薬[Venezuela]</Japanese>
+					<Turkish>Temel Mühimmat [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_VZ_WpsLaunch_F0">
+					<Original>Launchers [Venezuela]</Original>
+					<Chinese>發射器（Venezuela）</Chinese>
+					<French>Lanceurs [Venezuela]</French>
+					<Spanish>Lanzadores [Venezuela]</Spanish>
+					<Italian>Lanciatori [Venezuela]</Italian>
+					<Polish>Wyrzutnie [Venezuela]</Polish>
+					<Russian>Пусковые установки [Venezuela]</Russian>
+					<German>Werfer [Venezuela]</German>
+					<Czech>Raketomety [Venezuela]</Czech>
+					<English>Launchers [Venezuela]</English>
+					<Portuguese>Lançadores [Venezuela]</Portuguese>
+					<Korean>발사기[Venezuela]</Korean>
+					<Chinesesimp>发射器 [Venezuela]</Chinesesimp>
+					<Japanese>ランチャー[Venezuela]</Japanese>
+					<Turkish>Fırlatıcılar [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_O_VZ_supplyCrate_F0">
+					<Original>Supply Box [Venezuela]</Original>
+					<Chinese>補給盒（Venezuela）</Chinese>
+					<French>Caisse de ravitaillements [Venezuela]</French>
+					<Spanish>Caja de suministros [Venezuela]</Spanish>
+					<Italian>Scatola di rifornimenti [Venezuela]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [Venezuela]</Polish>
+					<Russian>Ящик с припасами [Venezuela]</Russian>
+					<German>Nachschubkiste [Venezuela]</German>
+					<Czech>Bedna se zásobami [Venezuela]</Czech>
+					<English>Supply Box [Venezuela]</English>
+					<Portuguese>Caixa de suprimentos [Venezuela]</Portuguese>
+					<Korean>보급상자[Venezuela]</Korean>
+					<Chinesesimp>供给箱 [Venezuela]</Chinesesimp>
+					<Japanese>物資箱[Venezuela]</Japanese>
+					<Turkish>İkmal Kutusu [Venezuela]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_I_UNO_supplyCrate_F0">
+					<Original>Supply Box [UNO Sahrani]</Original>
+					<Chinese>補給盒（UNO Sahrani）</Chinese>
+					<French>Caisse de ravitaillements [UNO Sahrani]</French>
+					<Spanish>Caja de suministros [UNO Sahrani]</Spanish>
+					<Italian>Scatola di rifornimenti [UNO Sahrani]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [UNO Sahrani]</Polish>
+					<Russian>Ящик с припасами [UNO Sahrani]</Russian>
+					<German>Nachschubkiste [UNO Sahrani]</German>
+					<Czech>Bedna se zásobami [UNO Sahrani]</Czech>
+					<English>Supply Box [UNO Sahrani]</English>
+					<Portuguese>Caixa de suprimentos [UNO Sahrani]</Portuguese>
+					<Korean>보급상자[UNO Sahrani]</Korean>
+					<Chinesesimp>供给箱 [UNO Sahrani]</Chinesesimp>
+					<Japanese>物資箱[UNO Sahrani]</Japanese>
+					<Turkish>İkmal Kutusu [UNO Sahrani]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_I_UNO_wdl_supplyCrate_F0">
+					<Original>Supply Box [UNO Chernarus]</Original>
+					<Chinese>補給盒（UNO Chernarus）</Chinese>
+					<French>Caisse de ravitaillements [UNO Chernarus]</French>
+					<Spanish>Caja de suministros [UNO Chernarus]</Spanish>
+					<Italian>Scatola di rifornimenti [UNO Chernarus]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [UNO Chernarus]</Polish>
+					<Russian>Ящик с припасами [UNO Chernarus]</Russian>
+					<German>Nachschubkiste [UNO Chernarus]</German>
+					<Czech>Bedna se zásobami [UNO Chernarus]</Czech>
+					<English>Supply Box [UNO Chernarus]</English>
+					<Portuguese>Caixa de suprimentos [UNO Chernarus]</Portuguese>
+					<Korean>보급상자[UNO Chernarus]</Korean>
+					<Chinesesimp>供给箱 [UNO Chernarus]</Chinesesimp>
+					<Japanese>物資箱[UNO Chernarus]</Japanese>
+					<Turkish>İkmal Kutusu [UNO Chernarus]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_Marar_Wps_F0">
+					<Original>Basic Weapons [Marar]</Original>
+					<Chinese>基本武器（Marar）</Chinese>
+					<French>Armes de base [Marar]</French>
+					<Spanish>Armas básicas [Marar]</Spanish>
+					<Italian>Armi di base [Marar]</Italian>
+					<Polish>Broń podstawowa [Marar]</Polish>
+					<Russian>Основное оружие [Marar]</Russian>
+					<German>Standardwaffen [Marar]</German>
+					<Czech>Základní zbraně [Marar]</Czech>
+					<English>Basic Weapons [Marar]</English>
+					<Portuguese>Armas básicas [Marar]</Portuguese>
+					<Korean>기본무기[Marar]</Korean>
+					<Chinesesimp>基本武器 [Marar]</Chinesesimp>
+					<Japanese>基本武器[Marar]</Japanese>
+					<Turkish>Temel Silahlar [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_Marar_Ammo_F0">
+					<Original>Basic Ammo [Marar]</Original>
+					<Chinese>基本彈藥（Marar）</Chinese>
+					<French>Munitions de base [Marar]</French>
+					<Spanish>Munición básica [Marar]</Spanish>
+					<Italian>Munizioni di base [Marar]</Italian>
+					<Polish>Amunicja podstawowa [Marar]</Polish>
+					<Russian>Основные боеприпасы [Marar]</Russian>
+					<German>Standardmunition [Marar]</German>
+					<Czech>Základní munice [Marar]</Czech>
+					<English>Basic Ammo [Marar]</English>
+					<Portuguese>Munição básica [Marar]</Portuguese>
+					<Korean>기본 탄약[Marar]</Korean>
+					<Chinesesimp>基本弹药 [Marar]</Chinesesimp>
+					<Japanese>基本弾薬[Marar]</Japanese>
+					<Turkish>Temel Mühimmat [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_Marar_WpsLaunch_F0">
+					<Original>Launchers [Marar]</Original>
+					<Chinese>發射器（Marar）</Chinese>
+					<French>Lanceurs [Marar]</French>
+					<Spanish>Lanzadores [Marar]</Spanish>
+					<Italian>Lanciatori [Marar]</Italian>
+					<Polish>Wyrzutnie [Marar]</Polish>
+					<Russian>Пусковые установки [Marar]</Russian>
+					<German>Werfer [Marar]</German>
+					<Czech>Raketomety [Marar]</Czech>
+					<English>Launchers [Marar]</English>
+					<Portuguese>Lançadores [Marar]</Portuguese>
+					<Korean>발사기[Marar]</Korean>
+					<Chinesesimp>发射器 [Marar]</Chinesesimp>
+					<Japanese>ランチャー[Marar]</Japanese>
+					<Turkish>Fırlatıcılar [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_M_supplyCrate_F0">
+					<Original>Supply Box [Marar]</Original>
+					<Chinese>補給盒（Marar）</Chinese>
+					<French>Caisse de ravitaillements [Marar]</French>
+					<Spanish>Caja de suministros [Marar]</Spanish>
+					<Italian>Scatola di rifornimenti [Marar]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [Marar]</Polish>
+					<Russian>Ящик с припасами [Marar]</Russian>
+					<German>Nachschubkiste [Marar]</German>
+					<Czech>Bedna se zásobami [Marar]</Czech>
+					<English>Supply Box [Marar]</English>
+					<Portuguese>Caixa de suprimentos [Marar]</Portuguese>
+					<Korean>보급상자[Marar]</Korean>
+					<Chinesesimp>供给箱 [Marar]</Chinesesimp>
+					<Japanese>物資箱[Marar]</Japanese>
+					<Turkish>İkmal Kutusu [Marar]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_ADF_Wps_F0">
+					<Original>Basic Weapons [ADF]</Original>
+					<Chinese>基本武器（ADF）</Chinese>
+					<French>Armes de base [ADF]</French>
+					<Spanish>Armas básicas [ADF]</Spanish>
+					<Italian>Armi di base [ADF]</Italian>
+					<Polish>Broń podstawowa [ADF]</Polish>
+					<Russian>Основное оружие [ADF]</Russian>
+					<German>Standardwaffen [ADF]</German>
+					<Czech>Základní zbraně [ADF]</Czech>
+					<English>Basic Weapons [ADF]</English>
+					<Portuguese>Armas básicas [ADF]</Portuguese>
+					<Korean>기본무기[ADF]</Korean>
+					<Chinesesimp>基本武器 [ADF]</Chinesesimp>
+					<Japanese>基本武器[ADF]</Japanese>
+					<Turkish>Temel Silahlar [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_ADF_Ammo_F0">
+					<Original>Basic Ammo [ADF]</Original>
+					<Chinese>基本彈藥（ADF）</Chinese>
+					<French>Munitions de base [ADF]</French>
+					<Spanish>Munición básica [ADF]</Spanish>
+					<Italian>Munizioni di base [ADF]</Italian>
+					<Polish>Amunicja podstawowa [ADF]</Polish>
+					<Russian>Основные боеприпасы [ADF]</Russian>
+					<German>Standardmunition [ADF]</German>
+					<Czech>Základní munice [ADF]</Czech>
+					<English>Basic Ammo [ADF]</English>
+					<Portuguese>Munição básica [ADF]</Portuguese>
+					<Korean>기본 탄약[ADF]</Korean>
+					<Chinesesimp>基本弹药 [ADF]</Chinesesimp>
+					<Japanese>基本弾薬[ADF]</Japanese>
+					<Turkish>Temel Mühimmat [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Box_ADF_WpsLaunch_F0">
+					<Original>Launchers [ADF]</Original>
+					<Chinese>發射器（ADF）</Chinese>
+					<French>Lanceurs [ADF]</French>
+					<Spanish>Lanzadores [ADF]</Spanish>
+					<Italian>Lanciatori [ADF]</Italian>
+					<Polish>Wyrzutnie [ADF]</Polish>
+					<Russian>Пусковые установки [ADF]</Russian>
+					<German>Werfer [ADF]</German>
+					<Czech>Raketomety [ADF]</Czech>
+					<English>Launchers [ADF]</English>
+					<Portuguese>Lançadores [ADF]</Portuguese>
+					<Korean>발사기[ADF]</Korean>
+					<Chinesesimp>发射器 [ADF]</Chinesesimp>
+					<Japanese>ランチャー[ADF]</Japanese>
+					<Turkish>Fırlatıcılar [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_A_supplyCrate_F0">
+					<Original>Supply Box [ADF]</Original>
+					<Chinese>補給盒（ADF）</Chinese>
+					<French>Caisse de ravitaillements [ADF]</French>
+					<Spanish>Caja de suministros [ADF]</Spanish>
+					<Italian>Scatola di rifornimenti [ADF]</Italian>
+					<Polish>Skrzynia z zaopatrzeniem [ADF]</Polish>
+					<Russian>Ящик с припасами [ADF]</Russian>
+					<German>Nachschubkiste [ADF]</German>
+					<Czech>Bedna se zásobami [ADF]</Czech>
+					<English>Supply Box [ADF]</English>
+					<Portuguese>Caixa de suprimentos [ADF]</Portuguese>
+					<Korean>보급상자[ADF]</Korean>
+					<Chinesesimp>供给箱 [ADF]</Chinesesimp>
+					<Japanese>物資箱[ADF]</Japanese>
+					<Turkish>İkmal Kutusu [ADF]</Turkish>
+				</Key>
 			</Container>
 			<Container name="Bags">
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_whex_F0">
@@ -3614,38 +5009,38 @@
 					<Turkish>Telsiz Paketi (Yarı Kurak) [CSAT]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_jungle_F0">
-					<Original>Radio Pack (Jungle) [HIMF]</Original>
-					<Chinese>無線電背包（叢林）（HIMF）</Chinese>
-					<French>Sac à dos radio (jungle) [HIMF]</French>
-					<Spanish>Mochila para radio (jungla) [HIMF]</Spanish>
-					<Italian>Zaino per radio (giungla) [HIMF]</Italian>
-					<Polish>Plecak z radiostacją (dżungla) [HIMF]</Polish>
-					<Russian>Ранец радиста (джунгли) [HIMF]</Russian>
-					<German>Funkrucksack (Urwald) [HIMF]</German>
-					<Czech>Batoh s vysílačkou (džungle) [HIMF]</Czech>
-					<English>Radio Pack (Jungle) [HIMF]</English>
-					<Portuguese>Pacote de rádio (selva) [HIMF]</Portuguese>
+					<Original>Radio Pack [HIMF] (Jungle)</Original>
+					<Chinese>無線電背包（HIMF）（叢林）</Chinese>
+					<French>Sac à dos radio [HIMF] (jungle)</French>
+					<Spanish>Mochila para radio [HIMF] (jungla)</Spanish>
+					<Italian>Zaino per radio [HIMF] (giungla)</Italian>
+					<Polish>Plecak z radiostacją [HIMF] (dżungla)</Polish>
+					<Russian>Ранец радиста [HIMF] (джунгли)</Russian>
+					<German>Funkrucksack [HIMF] (Urwald)</German>
+					<Czech>Batoh s vysílačkou [HIMF] (džungle)</Czech>
+					<English>Radio Pack [HIMF] (Jungle)</English>
+					<Portuguese>Pacote de rádio [HIMF] (selva)</Portuguese>
 					<Korean>무전 팩 (정글) [HIMF]</Korean>
 					<Chinesesimp>无线电包（丛林）[HIMF]</Chinesesimp>
 					<Japanese>無線機パック（ジャングル）[HIMF]</Japanese>
-					<Turkish>Telsiz Paketi (Orman) [HIMF]</Turkish>
+					<Turkish>Telsiz Paketi [HIMF] (Orman)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_commandos_F0">
-					<Original>Radio Pack (Jungle) [Commandos]</Original>
-					<Chinese>無線電背包（叢林）（Commandos）</Chinese>
-					<French>Sac à dos radio (jungle) [Commandos]</French>
-					<Spanish>Mochila para radio (jungla) [Commandos]</Spanish>
-					<Italian>Zaino per radio (giungla) [Commandos]</Italian>
-					<Polish>Plecak z radiostacją (dżungla) [Commandos]</Polish>
-					<Russian>Ранец радиста (джунгли) [Commandos]</Russian>
-					<German>Funkrucksack (Urwald) [Commandos]</German>
-					<Czech>Batoh s vysílačkou (džungle) [Commandos]</Czech>
-					<English>Radio Pack (Jungle) [Commandos]</English>
-					<Portuguese>Pacote de rádio (selva) [Commandos]</Portuguese>
-					<Korean>무전 팩 (정글) [Commandos]</Korean>
-					<Chinesesimp>无线电包（丛林）[Commandos]</Chinesesimp>
-					<Japanese>無線機パック（ジャングル）[Commandos]</Japanese>
-					<Turkish>Telsiz Paketi (Orman) [Commandos]</Turkish>
+					<Original>Radio Pack [HIMF-C] (Jungle)</Original>
+					<Chinese>無線電背包（HIMF-C）（叢林）</Chinese>
+					<French>Sac à dos radio [HIMF-C] (jungle)</French>
+					<Spanish>Mochila para radio [HIMF-C] (jungla)</Spanish>
+					<Italian>Zaino per radio [HIMF-C] (giungla)</Italian>
+					<Polish>Plecak z radiostacją [HIMF-C] (dżungla)</Polish>
+					<Russian>Ранец радиста [HIMF-C] (джунгли)</Russian>
+					<German>Funkrucksack [HIMF-C] (Urwald)</German>
+					<Czech>Batoh s vysílačkou [HIMF-C] (džungle)</Czech>
+					<English>Radio Pack [HIMF-C] (Jungle)</English>
+					<Portuguese>Pacote de rádio [HIMF-C] (selva)</Portuguese>
+					<Korean>무전 팩 (정글) [HIMF-C]</Korean>
+					<Chinesesimp>无线电包（丛林）[HIMF-C]</Chinesesimp>
+					<Japanese>無線機パック（ジャングル）[HIMF-C]</Japanese>
+					<Turkish>Telsiz Paketi [HIMF-C] (Orman)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_Marar_F0">
 					<Original>Radio Pack [Marar]</Original>
@@ -3697,6 +5092,57 @@
 					<Chinesesimp>手提袋 (Flecktarn)</Chinesesimp>
 					<Japanese>キットバッグ (Flecktarn)</Japanese>
 					<Turkish>Kitbag (Flecktarn)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_aucamo_F0">
+					<Original>Radio Pack [ADF]</Original>
+					<Chinese>無線電背包 [ADF]</Chinese>
+					<French>Sac à dos radio [ADF]</French>
+					<Spanish>Mochila para radio [ADF]</Spanish>
+					<Italian>Zaino per radio [ADF]</Italian>
+					<Polish>Plecak z radiostacją [ADF]</Polish>
+					<Russian>Ранец радиста [ADF]</Russian>
+					<German>Funkrucksack [ADF]</German>
+					<Czech>Batoh s vysílačkou [ADF]</Czech>
+					<English>Radio Pack [ADF]</English>
+					<Portuguese>Pacote de rádio [ADF]</Portuguese>
+					<Korean>무전 팩 (정글) [ADF]</Korean>
+					<Chinesesimp>无线电包 [ADF]</Chinesesimp>
+					<Japanese>無線機パック [ADF]</Japanese>
+					<Turkish>Telsiz Paketi [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_aucamo0">
+					<Original>Carryall Backpack [ADF]</Original>
+					<Chinese>全容量大背包 [ADF]</Chinese>
+					<French>Sac à dos multifonction [ADF]</French>
+					<Spanish>Bolsa de viaje [ADF]</Spanish>
+					<Italian>Zaino portatutto [ADF]</Italian>
+					<Polish>Plecak [ADF]</Polish>
+					<Russian>Рюкзак [ADF]</Russian>
+					<German>Großer Rucksack [ADF]</German>
+					<Czech>Torna [ADF]</Czech>
+					<English>Carryall Backpack [ADF]</English>
+					<Portuguese>Mochila de carga [ADF]</Portuguese>
+					<Korean>다용도배낭 [ADF]</Korean>
+					<Chinesesimp>大旅行包 [ADF]</Chinesesimp>
+					<Japanese>キャリーオールパック [ADF]</Japanese>
+					<Turkish>Büyük Sırt Çantası [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Kitbag_aucamo0">
+					<Original>Kitbag [ADF]</Original>
+					<Chinese>Kitbag [ADF]</Chinese>
+					<French>Kitbag [ADF]</French>
+					<Spanish>Kitbag [ADF]</Spanish>
+					<Italian>Kitbag [ADF]</Italian>
+					<Polish>Kitbag [ADF]</Polish>
+					<Russian>Kitbag [ADF]</Russian>
+					<German>Kitbag [ADF]</German>
+					<Czech>Kitbag [ADF]</Czech>
+					<English>Kitbag [ADF]</English>
+					<Portuguese>Kitbag [ADF]</Portuguese>
+					<Korean>Kitbag [ADF]</Korean>
+					<Chinesesimp>Kitbag [ADF]</Chinesesimp>
+					<Japanese>Kitbag [ADF]</Japanese>
+					<Turkish>Kitbag [ADF]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_owcamo0">
 					<Original>Carryall Backpack (Woodland Hex)</Original>
@@ -3960,22 +5406,22 @@
 				<Japanese>ベラルーシ</Japanese>
 				<Turkish>beyaz rusya</Turkish>
 			</Key>
-			<Key ID="STR_A3_A_CfgMarkers_flag_Israel">
-				<Original>Israel</Original>
-				<Chinese>Israel</Chinese>
-				<French>Israel</French>
-				<Spanish>Israel</Spanish>
-				<Italian>Israel</Italian>
-				<Polish>Israel</Polish>
-				<Russian>Israel</Russian>
-				<German>Israel</German>
-				<Czech>Israel</Czech>
-				<English>Israel</English>
-				<Portuguese>Israel</Portuguese>
-				<Korean>Israel</Korean>
-				<Chinesesimp>Israel</Chinesesimp>
-				<Japanese>Israel</Japanese>
-				<Turkish>Israel</Turkish>
+			<Key ID="STR_A3_A_CfgMarkers_flag_IDF">
+				<Original>IDF</Original>
+				<Chinese>IDF</Chinese>
+				<French>IDF</French>
+				<Spanish>IDF</Spanish>
+				<Italian>IDF</Italian>
+				<Polish>IDF</Polish>
+				<Russian>IDF</Russian>
+				<German>IDF</German>
+				<Czech>IDF</Czech>
+				<English>IDF</English>
+				<Portuguese>IDF</Portuguese>
+				<Korean>IDF</Korean>
+				<Chinesesimp>IDF</Chinesesimp>
+				<Japanese>IDF</Japanese>
+				<Turkish>IDF</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgMarkers_flag_Israel">
 				<Original>Israel</Original>
@@ -4193,6 +5639,40 @@
 						<Japanese>アサルトライフル&lt;br /&gt;口径：6.5x39 mm</Japanese>
 						<Turkish>Saldırı Tüfeği&lt;br /&gt;Kalibre: 6.5x39 mm</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15_base_F1">
+						<Original>Assault Rifle&lt;br /&gt;Caliber: 5.8x42 mm</Original>
+						<Chinese>突擊步槍&lt;br/&gt;口徑：5.8x42 mm</Chinese>
+						<French>Fusil d'assaut&lt;br /&gt;Calibre : 5,8x42 mm</French>
+						<Spanish>Fusil de asalto&lt;br /&gt;Calibre: 5,8x42 mm</Spanish>
+						<Italian>Fucile d'assalto&lt;br /&gt;Calibro: 5,8x42 mm</Italian>
+						<Polish>Karabin szturmowy&lt;br /&gt;Kaliber: 5,8x42 mm</Polish>
+						<Russian>Штурмовая винтовка&lt;br /&gt;Калибр: 5,8x42 мм</Russian>
+						<German>Sturmgewehr&lt;br /&gt;Kaliber: 5,8x42 mm</German>
+						<Czech>Útočná puška&lt;br /&gt;Ráže: 5,8x42 mm</Czech>
+						<English>Assault Rifle&lt;br /&gt;Caliber: 5.8x42 mm</English>
+						<Portuguese>Fuzil de assalto&lt;br /&gt;Calibre: 5,8 x 42 mm</Portuguese>
+						<Korean>돌격소총&lt;br /&gt;구경: 5.8x42mm</Korean>
+						<Chinesesimp>突击步枪&lt;br /&gt;口径：5.8x42 毫米</Chinesesimp>
+						<Japanese>アサルトライフル&lt;br /&gt;口径：5.8x42 mm</Japanese>
+						<Turkish>Saldırı Tüfeği&lt;br /&gt;Kalibre: 5.8x42 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT652_base_F1">
+						<Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm</Original>
+						<Chinese>突擊步槍&lt;br/&gt;口徑：5.8x42 mm</Chinese>
+						<French>Fusil d'assaut&lt;br /&gt;Calibre : 6.5x39 mm</French>
+						<Spanish>Fusil de asalto&lt;br /&gt;Calibre: 6.5x39 mm</Spanish>
+						<Italian>Fucile d'assalto&lt;br /&gt;Calibro: 6.5x39 mm</Italian>
+						<Polish>Karabin szturmowy&lt;br /&gt;Kaliber: 6.5x39 mm</Polish>
+						<Russian>Штурмовая винтовка&lt;br /&gt;Калибр: 6.5x39 мм</Russian>
+						<German>Sturmgewehr&lt;br /&gt;Kaliber: 6.5x39 mm</German>
+						<Czech>Útočná puška&lt;br /&gt;Ráže: 6.5x39 mm</Czech>
+						<English>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm</English>
+						<Portuguese>Fuzil de assalto&lt;br /&gt;Calibre: 6.5x39 mm</Portuguese>
+						<Korean>돌격소총&lt;br /&gt;구경: 5.8x42mm</Korean>
+						<Chinesesimp>突击步枪&lt;br /&gt;口径：6.5x39 毫米</Chinesesimp>
+						<Japanese>アサルトライフル&lt;br /&gt;口径：6.5x39 mm</Japanese>
+						<Turkish>Saldırı Tüfeği&lt;br /&gt;Kalibre: 6.5x39 mm</Turkish>
+					</Key>
 				</Container>
 				<Container name="DisplayName">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_AUG_F0">
@@ -4382,24 +5862,143 @@
 						<Japanese>GLM</Japanese>
 						<Turkish>GLM</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15_F0">
+						<Original>NCAR-15 5.8 mm</Original>
+						<Chinese>NCAR-15 5.8 mm</Chinese>
+						<French>NCAR-15 5,8 mm</French>
+						<Spanish>NCAR-15 5,8 mm</Spanish>
+						<Italian>NCAR-15 5,8 mm</Italian>
+						<Polish>NCAR-15 5,8 mm</Polish>
+						<Russian>NCAR-15 5,8 мм</Russian>
+						<German>NCAR-15 5.8 mm</German>
+						<Czech>NCAR-15 5,8 mm</Czech>
+						<English>NCAR-15 5.8 mm</English>
+						<Portuguese>NCAR-15 5.8 mm</Portuguese>
+						<Korean>NCAR-15 5.8 mm</Korean>
+						<Chinesesimp>NCAR-15 5.8 毫米</Chinesesimp>
+						<Japanese>NCAR-15 5.8 mm</Japanese>
+						<Turkish>NCAR-15 5.8 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT652_F0">
+						<Original>Fort-652 6.5 mm</Original>
+						<Chinese>Fort-652 6.5 mm</Chinese>
+						<French>Fort-652 6.5 mm</French>
+						<Spanish>Fort-652 6.5 mm</Spanish>
+						<Italian>Fort-652 6.5 mm</Italian>
+						<Polish>Fort-652 6.5 mm</Polish>
+						<Russian>Fort-652 6.5 mm</Russian>
+						<German>Fort-652 6.5 mm</German>
+						<Czech>Fort-652 6.5 mm</Czech>
+						<English>Fort-652 6.5 mm</English>
+						<Portuguese>Fort-652 6.5 mm</Portuguese>
+						<Korean>Fort-652 6.5 mm</Korean>
+						<Chinesesimp>Fort-652 6.5 mm</Chinesesimp>
+						<Japanese>Fort-652 6.5 mm</Japanese>
+						<Turkish>Fort-652 6.5 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT652_GL_F0">
+						<Original>Fort-652 GL 6.5 mm</Original>
+						<Chinese>Fort-652 GL 6.5 mm</Chinese>
+						<French>Fort-652 GL 6.5 mm</French>
+						<Spanish>Fort-652 GL 6.5 mm</Spanish>
+						<Italian>Fort-652 GL 6.5 mm</Italian>
+						<Polish>Fort-652 GL 6.5 mm</Polish>
+						<Russian>Fort-652 GL 6.5 mm</Russian>
+						<German>Fort-652 GL 6.5 mm</German>
+						<Czech>Fort-652 GL 6.5 mm</Czech>
+						<English>Fort-652 GL 6.5 mm</English>
+						<Portuguese>Fort-652 GL 6.5 mm</Portuguese>
+						<Korean>Fort-652 GL 6.5 mm</Korean>
+						<Chinesesimp>Fort-652 GL 6.5 mm</Chinesesimp>
+						<Japanese>Fort-652 GL 6.5 mm</Japanese>
+						<Turkish>Fort-652 GL 6.5 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT651_F0">
+						<Original>Fort-651 6.5 mm</Original>
+						<Chinese>Fort-651 6.5 mm</Chinese>
+						<French>Fort-651 6.5 mm</French>
+						<Spanish>Fort-651 6.5 mm</Spanish>
+						<Italian>Fort-651 6.5 mm</Italian>
+						<Polish>Fort-651 6.5 mm</Polish>
+						<Russian>Fort-651 6.5 mm</Russian>
+						<German>Fort-651 6.5 mm</German>
+						<Czech>Fort-651 6.5 mm</Czech>
+						<English>Fort-651 6.5 mm</English>
+						<Portuguese>Fort-651 6.5 mm</Portuguese>
+						<Korean>Fort-651 6.5 mm</Korean>
+						<Chinesesimp>Fort-651 6.5 mm</Chinesesimp>
+						<Japanese>Fort-651 6.5 mm</Japanese>
+						<Turkish>Fort-651 6.5 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15B_F0">
+						<Original>NCAR-15B 5.8 mm</Original>
+						<Chinese>NCAR-15B 5.8 mm</Chinese>
+						<French>NCAR-15B 5,8 mm</French>
+						<Spanish>NCAR-15B 5,8 mm</Spanish>
+						<Italian>NCAR-15B 5,8 mm</Italian>
+						<Polish>NCAR-15B 5,8 mm</Polish>
+						<Russian>NCAR-15B 5,8 мм</Russian>
+						<German>NCAR-15B 5.8 mm</German>
+						<Czech>NCAR-15B 5,8 mm</Czech>
+						<English>NCAR-15B 5.8 mm</English>
+						<Portuguese>NCAR-15B 5.8 mm</Portuguese>
+						<Korean>NCAR-15B 5.8 mm</Korean>
+						<Chinesesimp>NCAR-15B 5.8 毫米</Chinesesimp>
+						<Japanese>NCAR-15B 5.8 mm</Japanese>
+						<Turkish>NCAR-15B 5.8 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15_GL_F0">
+						<Original>NCAR-15 GL 5.8 mm</Original>
+						<Chinese>NCAR-15 GL 5.8 mm</Chinese>
+						<French>NCAR-15 GL 5,8 mm</French>
+						<Spanish>NCAR-15 GL 5,8 mm</Spanish>
+						<Italian>NCAR-15 GL 5,8 mm</Italian>
+						<Polish>NCAR-15 GL 5,8 mm</Polish>
+						<Russian>NCAR-15 GL 5,8 мм</Russian>
+						<German>NCAR-15 GL 5.8 mm</German>
+						<Czech>NCAR-15 GL 5,8 mm</Czech>
+						<English>NCAR-15 GL 5.8 mm</English>
+						<Portuguese>NCAR-15 GL 5.8 mm</Portuguese>
+						<Korean>NCAR-15 GL 5.8 mm</Korean>
+						<Chinesesimp>NCAR-15 GL 5.8 毫米</Chinesesimp>
+						<Japanese>NCAR-15 GL 5.8 mm</Japanese>
+						<Turkish>NCAR-15 GL 5.8 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15_MG_F0">
+						<Original>NCAR-15-1 5.8 mm</Original>
+						<Chinese>NCAR-15-1 5.8 mm</Chinese>
+						<French>NCAR-15-1 5,8 mm</French>
+						<Spanish>NCAR-15-1 5,8 mm</Spanish>
+						<Italian>NCAR-15-1 5,8 mm</Italian>
+						<Polish>NCAR-15-1 5,8 mm</Polish>
+						<Russian>NCAR-15-1 5,8 мм</Russian>
+						<German>NCAR-15-1 5.8 mm</German>
+						<Czech>NCAR-15-1 5,8 mm</Czech>
+						<English>NCAR-15-1 5.8 mm</English>
+						<Portuguese>NCAR-15-1 5.8 mm</Portuguese>
+						<Korean>NCAR-15-1 5.8 mm</Korean>
+						<Chinesesimp>NCAR-15-1 5.8 毫米</Chinesesimp>
+						<Japanese>NCAR-15-1 5.8 mm</Japanese>
+						<Turkish>NCAR-15-1 5.8 mm</Turkish>
+					</Key>
 				</Container>
 				<Container name="Library">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_AUG_base_F_Library0">
-						<Original>**TO TRANSLATE**</Original>
-						<Chinese>**TO TRANSLATE**</Chinese>
-						<French>**TO TRANSLATE**</French>
-						<Spanish>**TO TRANSLATE**</Spanish>
-						<Italian>**TO TRANSLATE**</Italian>
-						<Polish>**TO TRANSLATE**</Polish>
-						<Russian>**TO TRANSLATE**</Russian>
-						<German>**TO TRANSLATE**</German>
-						<Czech>**TO TRANSLATE**</Czech>
-						<English>**TO TRANSLATE**</English>
-						<Portuguese>**TO TRANSLATE**</Portuguese>
-						<Korean>**TO TRANSLATE**</Korean>
-						<Chinesesimp>**TO TRANSLATE**</Chinesesimp>
-						<Japanese>**TO TRANSLATE**</Japanese>
-						<Turkish>**TO TRANSLATE**</Turkish>
+						<Original>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Original>
+						<Chinese>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Chinese>
+						<French>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</French>
+						<Spanish>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Spanish>
+						<Italian>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Italian>
+						<Polish>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Polish>
+						<Russian>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Russian>
+						<German>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</German>
+						<Czech>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Czech>
+						<English>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</English>
+						<Portuguese>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Portuguese>
+						<Korean>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Korean>
+						<Chinesesimp>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Chinesesimp>
+						<Japanese>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Japanese>
+						<Turkish>The AUR 90 is a selective-fire, bullpup rifle with a gas-operated closed bolt originating from Austria, although Australia and Malaysia both produce it under license. It is the primary service rifle of the Australian Defence Force, but is widely exported and can be found in the hands of many nations and non-state actors. The AUR 90 remains chambered in 5.56x45 mm as it was deemed too costly for the platform to undergo a 6.5x39 mm upgrade. Like all modern rifles, it has a modular design that allows it to accommodate a variety of attachments, such as underslung grenade launchers or shotgun modules. There is also a compact model, the AUR 90C, which has a shorter barrel for better handling in cramped conditions, such as crewing a vehicle or engaging in CQB.</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_arifle_G36_base_F_Library0">
 						<Original>The G36K is a polymer, gas-operated rotating bolt, selective-fire carbine originating from Germany. It ultimately lost to the Promet in Livonian service, but remains in use with the German army among other European nations. It was rechambered for 6.5x39 mm caseless and its modular design makes it compatible with a variety of attachments, including underslung grenade launchers or shotgun modules. The G36C is a smaller, compact variant of the standard rifle, equipped with a shorter barrel which is better suited to close-quarters combat, cramped interiors, or special operations.</Original>
@@ -4417,6 +6016,40 @@
 						<Chinesesimp>The G36K is a polymer, gas-operated rotating bolt, selective-fire carbine originating from Germany. It ultimately lost to the Promet in Livonian service, but remains in use with the German army among other European nations. It was rechambered for 6.5x39 mm caseless and its modular design makes it compatible with a variety of attachments, including underslung grenade launchers or shotgun modules. The G36C is a smaller, compact variant of the standard rifle, equipped with a shorter barrel which is better suited to close-quarters combat, cramped interiors, or special operations.</Chinesesimp>
 						<Japanese>The G36K is a polymer, gas-operated rotating bolt, selective-fire carbine originating from Germany. It ultimately lost to the Promet in Livonian service, but remains in use with the German army among other European nations. It was rechambered for 6.5x39 mm caseless and its modular design makes it compatible with a variety of attachments, including underslung grenade launchers or shotgun modules. The G36C is a smaller, compact variant of the standard rifle, equipped with a shorter barrel which is better suited to close-quarters combat, cramped interiors, or special operations.</Japanese>
 						<Turkish>The G36K is a polymer, gas-operated rotating bolt, selective-fire carbine originating from Germany. It ultimately lost to the Promet in Livonian service, but remains in use with the German army among other European nations. It was rechambered for 6.5x39 mm caseless and its modular design makes it compatible with a variety of attachments, including underslung grenade launchers or shotgun modules. The G36C is a smaller, compact variant of the standard rifle, equipped with a shorter barrel which is better suited to close-quarters combat, cramped interiors, or special operations.</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_NCAR15_base_F_Library0">
+						<Original>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Original>
+						<Chinese>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Chinese>
+						<French>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</French>
+						<Spanish>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Spanish>
+						<Italian>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Italian>
+						<Polish>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Polish>
+						<Russian>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Russian>
+						<German>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</German>
+						<Czech>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Czech>
+						<English>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</English>
+						<Portuguese>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Portuguese>
+						<Korean>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Korean>
+						<Chinesesimp>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Chinesesimp>
+						<Japanese>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Japanese>
+						<Turkish>The NCAR-15 is an unlicensed variant of the Russian AK-15 rifle manufactured in China, primarily for export, since the late 2020’s. It boasts all the improvements of the original rifle over its legendary predecessor, the AK-74, but has been re-chambered in the Chinese 5.8x42 mm cartridge. It can also be fitted with an underslung grenade launcher, and a carbine variant with a shortened barrel exists for usage in tight quarters. Additionally, the RPK-12 has been adapted for the 5.8mm cartridge, and rebranded as the NCAR-15-1. Despite an ongoing legal dispute over the design and production of this rifle, which is prohibited from import into Russia, CSAT has exported the design widely - particularly to junior partners and associate members of the pact, such as Venezuela.</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_FORT650_base_F_Library0">
+						<Original>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Original>
+						<Chinese>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Chinese>
+						<French>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</French>
+						<Spanish>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Spanish>
+						<Italian>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Italian>
+						<Polish>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Polish>
+						<Russian>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Russian>
+						<German>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</German>
+						<Czech>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Czech>
+						<English>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</English>
+						<Portuguese>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Portuguese>
+						<Korean>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Korean>
+						<Chinesesimp>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Chinesesimp>
+						<Japanese>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Japanese>
+						<Turkish>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Turkish>
 					</Key>
 				</Container>
 			</Container>
@@ -4459,6 +6092,120 @@
 						<Turkish>IR El Bombası [Israel]</Turkish>
 					</Key>
 				</Container>
+			</Container>
+			<Container name="Launchers">
+				<Container name="DisplayName">
+					<Key ID="STR_A3_A_CfgWeapons_launch_B_Titan_coyote_F0">
+						<Original>Titan MPRL (Coyote)</Original>
+						<Chinese>Titan MPRL (Coyote)</Chinese>
+						<French>Titan MPRL (Coyote)</French>
+						<Spanish>Titan MPRL (Coyote)</Spanish>
+						<Italian>Titan MPRL (Coyote)</Italian>
+						<Polish>Titan MPRL (Coyote)</Polish>
+						<Russian>Titan MPRL (Coyote)</Russian>
+						<German>Titan MPRL (Coyote)</German>
+						<Czech>Titan MPRL (Coyote)</Czech>
+						<English>Titan MPRL (Coyote)</English>
+						<Portuguese>Titan MPRL (Coyote)</Portuguese>
+						<Korean>Titan MPRL (Coyote)</Korean>
+						<Chinesesimp>Titan MPRL (Coyote)</Chinesesimp>
+						<Japanese>Titan MPRL (Coyote)</Japanese>
+						<Turkish>Titan MPRL (Coyote)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_launch_MRAWS_coyote_F0">
+						<Original>MAAWS Mk4 Mod 1 (Coyote)</Original>
+						<Chinese>MAAWS Mk4 Mod 1 (Coyote)</Chinese>
+						<French>MAAWS Mk4 Mod 1 (Coyote)</French>
+						<Spanish>MAAWS Mk4 Mod 1 (Coyote)</Spanish>
+						<Italian>MAAWS Mk4 Mod 1 (Coyote)</Italian>
+						<Polish>MAAWS Mk4 Mod 1 (Coyote)</Polish>
+						<Russian>MAAWS Mk4 Mod 1 (Coyote)</Russian>
+						<German>MAAWS Mk4 Mod 1 (Coyote)</German>
+						<Czech>MAAWS Mk4 Mod 1 (Coyote)</Czech>
+						<English>MAAWS Mk4 Mod 1 (Coyote)</English>
+						<Portuguese>MAAWS Mk4 Mod 1 (Coyote)</Portuguese>
+						<Korean>MAAWS Mk4 Mod 1 (Coyote)</Korean>
+						<Chinesesimp>MAAWS Mk4 Mod 1 (Coyote)</Chinesesimp>
+						<Japanese>MAAWS Mk4 Mod 1 (Coyote)</Japanese>
+						<Turkish>MAAWS Mk4 Mod 1 (Coyote)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_launch_MRAWS_coyote_rail_F0">
+						<Original>MAAWS Mk4 Mod 0 (Coyote)</Original>
+						<Chinese>MAAWS Mk4 Mod 0 (Coyote)</Chinese>
+						<French>MAAWS Mk4 Mod 0 (Coyote)</French>
+						<Spanish>MAAWS Mk4 Mod 0 (Coyote)</Spanish>
+						<Italian>MAAWS Mk4 Mod 0 (Coyote)</Italian>
+						<Polish>MAAWS Mk4 Mod 0 (Coyote)</Polish>
+						<Russian>MAAWS Mk4 Mod 0 (Coyote)</Russian>
+						<German>MAAWS Mk4 Mod 0 (Coyote)</German>
+						<Czech>MAAWS Mk4 Mod 0 (Coyote)</Czech>
+						<English>MAAWS Mk4 Mod 0 (Coyote)</English>
+						<Portuguese>MAAWS Mk4 Mod 0 (Coyote)</Portuguese>
+						<Korean>MAAWS Mk4 Mod 0 (Coyote)</Korean>
+						<Chinesesimp>MAAWS Mk4 Mod 0 (Coyote)</Chinesesimp>
+						<Japanese>MAAWS Mk4 Mod 0 (Coyote)</Japanese>
+						<Turkish>MAAWS Mk4 Mod 0 (Coyote)</Turkish>
+					</Key>
+				</Container>
+			</Container>
+			<Container name="LongRangeRifles">
+				<Container name="DisplayName">
+					<Key ID="STR_A3_A_CfgWeapons_srifle_EBR_cbr_F0">
+						<Original>Mk18 ABR 7.62 mm (Coyote)</Original>
+						<Chinese>Mk18 ABR 7.62 mm (Coyote)</Chinese>
+						<French>Mk18 ABR 7.62 mm (Coyote)</French>
+						<Spanish>Mk18 ABR 7.62 mm (Coyote)</Spanish>
+						<Italian>Mk18 ABR 7.62 mm (Coyote)</Italian>
+						<Polish>Mk18 ABR 7.62 mm (Coyote)</Polish>
+						<Russian>Mk18 ABR 7.62 mm (Coyote)</Russian>
+						<German>Mk18 ABR 7.62 mm (Coyote)</German>
+						<Czech>Mk18 ABR 7.62 mm (Coyote)</Czech>
+						<English>Mk18 ABR 7.62 mm (Coyote)</English>
+						<Portuguese>Mk18 ABR 7.62 mm (Coyote)</Portuguese>
+						<Korean>Mk18 ABR 7.62 mm (Coyote)</Korean>
+						<Chinesesimp>Mk18 ABR 7.62 mm (Coyote)</Chinesesimp>
+						<Japanese>Mk18 ABR 7.62 mm (Coyote)</Japanese>
+						<Turkish>Mk18 ABR 7.62 mm (Coyote)</Turkish>
+					</Key>
+				</Container>
+			</Container>
+		</Container>
+		<Container name="Groups_F">
+			<Container name="Blufor Groups">
+					<Key ID="STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfSquad0">
+						<Original>Peacekeeper Squad</Original>
+						<Chinese>Peacekeeper Squad</Chinese>
+						<French>Peacekeeper Squad</French>
+						<Spanish>Peacekeeper Squad</Spanish>
+						<Italian>Peacekeeper Squad</Italian>
+						<Polish>Peacekeeper Squad</Polish>
+						<Russian>Peacekeeper Squad</Russian>
+						<German>Peacekeeper Squad</German>
+						<Czech>Peacekeeper Squad</Czech>
+						<English>Peacekeeper Squad</English>
+						<Portuguese>Peacekeeper Squad</Portuguese>
+						<Korean>Peacekeeper Squad</Korean>
+						<Chinesesimp>Peacekeeper Squad</Chinesesimp>
+						<Japanese>Peacekeeper Squad</Japanese>
+						<Turkish>Peacekeeper Squad</Turkish>
+					</Key>
+					<Key ID="STR_A3_CfgGroups_West_BLU_F_Infantry_UNO_InfTeam0">
+						<Original>Peacekeeper Team</Original>
+						<Chinese>Peacekeeper Team</Chinese>
+						<French>Peacekeeper Team</French>
+						<Spanish>Peacekeeper Team</Spanish>
+						<Italian>Peacekeeper Team</Italian>
+						<Polish>Peacekeeper Team</Polish>
+						<Russian>Peacekeeper Team</Russian>
+						<German>Peacekeeper Team</German>
+						<Czech>Peacekeeper Team</Czech>
+						<English>Peacekeeper Team</English>
+						<Portuguese>Peacekeeper Team</Portuguese>
+						<Korean>Peacekeeper Team</Korean>
+						<Chinesesimp>Peacekeeper Team</Chinesesimp>
+						<Japanese>Peacekeeper Team</Japanese>
+						<Turkish>Peacekeeper Team</Turkish>
+					</Key>
 			</Container>
 		</Container>
 	</Package>

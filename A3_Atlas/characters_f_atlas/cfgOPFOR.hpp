@@ -1758,7 +1758,7 @@ class Atlas_O_W_Soldier_TL_F: O_Soldier_TL_F
         SmokeShell,
 		SMOKESHELLS_OPFOR,
         1Rnd_Smoke_Grenade_shell,
-		SOLDIER_SMOKE_GRENADES_OPFOR
+		SMOKEGRENADES_OPFOR
 	};
 	respawnMagazines[] =
 	{
@@ -1770,7 +1770,7 @@ class Atlas_O_W_Soldier_TL_F: O_Soldier_TL_F
         SmokeShell,
 		SMOKESHELLS_OPFOR,
         1Rnd_Smoke_Grenade_shell,
-		SOLDIER_SMOKE_GRENADES_OPFOR
+		SMOKEGRENADES_OPFOR
 	};
 	linkedItems[] =
 	{

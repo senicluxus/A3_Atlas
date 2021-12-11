@@ -1,13 +1,14 @@
-class B_O_Plane_Fighter_05_F: Plane_Fighter_05_Base_F
+class Atlas_B_A_Plane_Fighter_05_F: Plane_Fighter_05_Base_F
 {
 	author = $STR_A3_A_AveryTheKitty_and_OlliKoskelainen;
-	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_O_Plane_Fighter_05_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_Plane_Fighter_05_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TWest;
-	faction = BLU_O_F;
-	crew = B_O_Fighter_Pilot_F;
-	typicalCargo[] = {B_O_Fighter_Pilot_F};
+	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Base_F0;
+	faction = Atlas_BLU_A_F;
+	crew = Atlas_B_A_Fighter_Pilot_F;
+	typicalCargo[] = {Atlas_B_A_Fighter_Pilot_F};
 	textureList[] = {ADF,1};
 	hiddenSelectionsTextures[] =
 	{
@@ -21,19 +22,20 @@ class B_O_Plane_Fighter_05_F: Plane_Fighter_05_Base_F
 	};
 	class EjectionSystem: EjectionSystem
 	{
-		EjectionSeatClass = B_O_Ejection_Seat_Plane_Fighter_05_F;
+		EjectionSeatClass = Atlas_B_A_Ejection_Seat_Plane_Fighter_05_F;
 	};
 };
-class B_O_Plane_Fighter_05_Stealth_F: B_Plane_Fighter_05_Stealth_F
+class Atlas_B_A_Plane_Fighter_05_Stealth_F: B_Plane_Fighter_05_Stealth_F
 {
 	author = $STR_A3_A_AveryTheKitty_and_OlliKoskelainen;
-	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_O_Plane_Fighter_05_Stealth_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_Plane_Fighter_05_Stealth_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TWest;
-	faction = BLU_O_F;
-	crew = B_O_Fighter_Pilot_F;
-	typicalCargo[] = {B_O_Fighter_Pilot_F};
+	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Stealth_F0;
+	faction = Atlas_BLU_A_F;
+	crew = Atlas_B_A_Fighter_Pilot_F;
+	typicalCargo[] = {Atlas_B_A_Fighter_Pilot_F};
 	textureList[] = {ADF,1};
 	hiddenSelectionsTextures[] =
 	{
@@ -47,10 +49,10 @@ class B_O_Plane_Fighter_05_Stealth_F: B_Plane_Fighter_05_Stealth_F
 	};
 	class EjectionSystem: EjectionSystem
 	{
-		EjectionSeatClass = B_O_Ejection_Seat_Plane_Fighter_05_F;
+		EjectionSeatClass = Atlas_B_A_Ejection_Seat_Plane_Fighter_05_F;
 	};
 };
-class B_O_Ejection_Seat_Plane_Fighter_05_F: Ejection_Seat_Plane_Fighter_05_base_F
+class Atlas_B_A_Ejection_Seat_Plane_Fighter_05_F: Ejection_Seat_Plane_Fighter_05_base_F
 {
 	class SimpleObject
 	{
@@ -72,6 +74,26 @@ class B_O_Ejection_Seat_Plane_Fighter_05_F: Ejection_Seat_Plane_Fighter_05_base_
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
 	side = TWest;
-	faction = BLU_O_F;
-	crew = B_O_Fighter_Pilot_F;
+	faction = Atlas_BLU_A_F;
+	crew = Atlas_B_A_Fighter_Pilot_F;
+};
+
+/* ADF Arid */
+class Atlas_B_A_Plane_Fighter_05_ard_F: Atlas_B_A_Plane_Fighter_05_F
+{
+	faction = Atlas_BLU_A_ard_F;
+};
+class Atlas_B_A_Plane_Fighter_05_Stealth_ard_F: Atlas_B_A_Plane_Fighter_05_Stealth_F
+{
+	faction = Atlas_BLU_A_ard_F;
+};
+
+/* ADF Tropic */
+class Atlas_B_A_Plane_Fighter_05_trp_F: Atlas_B_A_Plane_Fighter_05_F
+{
+	faction = Atlas_BLU_A_trp_F;
+};
+class Atlas_B_A_Plane_Fighter_05_Stealth_trp_F: Atlas_B_A_Plane_Fighter_05_Stealth_F
+{
+	faction = Atlas_BLU_A_trp_F;
 };

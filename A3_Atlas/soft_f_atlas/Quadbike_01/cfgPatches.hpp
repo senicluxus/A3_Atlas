@@ -34,7 +34,10 @@ class CfgPatches
             Atlas_I_C_Quadbike_01_F,
         
             // IDF
-            Atlas_I_I_Quadbike_01_F
+            Atlas_I_I_Quadbike_01_F,
+
+            // Venezeula
+            Atlas_O_VZ_Quadbike_01_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

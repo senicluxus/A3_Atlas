@@ -11,7 +11,10 @@ class CfgPatches
             Atlas_O_W_Heli_Attack_02_dynamicLoadout_F,
 
             // Takistani Army
-            Atlas_O_T_Heli_Attack_02_dynamicLoadout_F
+            Atlas_O_T_Heli_Attack_02_dynamicLoadout_F,
+
+			//Venezuela
+			Atlas_O_VZ_Heli_Attack_02_dynamicLoadout_F
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

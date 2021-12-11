@@ -222,7 +222,7 @@ class Atlas_B_G_LT_01_cannon_F: LT_01_cannon_base_F
 	hiddenSelectionsTextures[] =
 	{
 		"\A3\Armor_F_Tank\LT_01\Data\LT_01_Main_olive_CO.paa",
-		"\A3\Armor_F_Tank\LT_01\Data\LT_01_AT_olive_CO.paa",
+		"\A3\Armor_F_Tank\LT_01\Data\LT_01_Cannon_olive_CO.paa",
 		"\A3\Armor_F\Data\camonet_NATO_Green_CO.paa",
 		"\A3\Armor_F\Data\cage_olive_CO.paa"
 	};

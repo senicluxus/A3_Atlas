@@ -85,8 +85,8 @@ class Atlas_O_VZ_LSV_02_armed_F: LSV_02_armed_base_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_LSV_02_armed_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_O_R_LSV_02_armed_F0;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
@@ -105,9 +105,9 @@ class Atlas_O_VZ_LSV_02_armed_F: LSV_02_armed_base_F
 	};
 	class TransportMagazines
 	{
-		mag_xx(30Rnd_545x39_AK12_Mag_F,16);
-		mag_xx(75Rnd_762x39_Mag_F,8);
-		mag_xx(HandGrenade_East,10);
+		mag_xx(30Rnd_580x42_Mag_F,12);
+		mag_xx(200Rnd_556x45_Box_Red_F,2);
+		mag_xx(HandGrenade_East,8);
 		mag_xx(SmokeShell,4);
 		mag_xx(SmokeShellRed,4);
 		mag_xx(SmokeShellOrange,4);
@@ -118,7 +118,7 @@ class Atlas_O_VZ_LSV_02_armed_F: LSV_02_armed_base_F
 		mag_xx(1Rnd_SmokeOrange_Grenade_shell,4);
 		mag_xx(1Rnd_SmokeYellow_Grenade_shell,4);
 		mag_xx(17Rnd_9x21_Mag,12);
-		mag_xx(RPG32_F,2);
+		mag_xx(RPG7_F,4);
 	};
 	class TransportItems
 	{
@@ -126,7 +126,7 @@ class Atlas_O_VZ_LSV_02_armed_F: LSV_02_armed_base_F
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_AK12_545_F,2);
+		weap_xx(arifle_NCAR15_F,2);
 	};
 };
 class Atlas_O_VZ_LSV_02_unarmed_F: LSV_02_unarmed_base_F
@@ -216,8 +216,8 @@ class Atlas_O_VZ_LSV_02_unarmed_F: LSV_02_unarmed_base_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_LSV_02_unarmed_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_O_R_LSV_02_unarmed_F0;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
@@ -236,9 +236,9 @@ class Atlas_O_VZ_LSV_02_unarmed_F: LSV_02_unarmed_base_F
 	};
 	class TransportMagazines
 	{
-		mag_xx(30Rnd_545x39_AK12_Mag_F,16);
-		mag_xx(75Rnd_762x39_Mag_F,8);
-		mag_xx(HandGrenade_East,10);
+		mag_xx(30Rnd_580x42_Mag_F,12);
+		mag_xx(200Rnd_556x45_Box_Red_F,2);
+		mag_xx(HandGrenade_East,8);
 		mag_xx(SmokeShell,4);
 		mag_xx(SmokeShellRed,4);
 		mag_xx(SmokeShellOrange,4);
@@ -249,7 +249,7 @@ class Atlas_O_VZ_LSV_02_unarmed_F: LSV_02_unarmed_base_F
 		mag_xx(1Rnd_SmokeOrange_Grenade_shell,4);
 		mag_xx(1Rnd_SmokeYellow_Grenade_shell,4);
 		mag_xx(17Rnd_9x21_Mag,12);
-		mag_xx(RPG32_F,2);
+		mag_xx(RPG7_F,4);
 	};
 	class TransportItems
 	{
@@ -257,7 +257,7 @@ class Atlas_O_VZ_LSV_02_unarmed_F: LSV_02_unarmed_base_F
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_AK12_545_F,2);
+		weap_xx(arifle_NCAR15_F,2);
 	};
 };
 class Atlas_O_VZ_LSV_02_AT_F: LSV_02_AT_base_F
@@ -345,8 +345,8 @@ class Atlas_O_VZ_LSV_02_AT_F: LSV_02_AT_base_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\O_W_LSV_02_AT_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_O_R_LSV_02_AT_F0;
 	side = TEast;
 	faction = Atlas_OPF_V_F;
@@ -367,9 +367,9 @@ class Atlas_O_VZ_LSV_02_AT_F: LSV_02_AT_base_F
 	};
 	class TransportMagazines
 	{
-		mag_xx(30Rnd_545x39_AK12_Mag_F,16);
-		mag_xx(75Rnd_762x39_Mag_F,8);
-		mag_xx(HandGrenade_East,10);
+		mag_xx(30Rnd_580x42_Mag_F,12);
+		mag_xx(200Rnd_556x45_Box_Red_F,2);
+		mag_xx(HandGrenade_East,8);
 		mag_xx(SmokeShell,4);
 		mag_xx(SmokeShellRed,4);
 		mag_xx(SmokeShellOrange,4);
@@ -380,7 +380,7 @@ class Atlas_O_VZ_LSV_02_AT_F: LSV_02_AT_base_F
 		mag_xx(1Rnd_SmokeOrange_Grenade_shell,4);
 		mag_xx(1Rnd_SmokeYellow_Grenade_shell,4);
 		mag_xx(17Rnd_9x21_Mag,12);
-		mag_xx(RPG32_F,2);
+		mag_xx(RPG7_F,4);
 	};
 	class TransportItems
 	{
@@ -388,7 +388,7 @@ class Atlas_O_VZ_LSV_02_AT_F: LSV_02_AT_base_F
 	};
 	class TransportWeapons
 	{
-		weap_xx(arifle_AK12_545_F,2);
+		weap_xx(arifle_NCAR15_F,2);
 	};
 };
 class Atlas_O_VZ_LSV_02_armed_viper_F: Atlas_O_W_LSV_02_armed_F

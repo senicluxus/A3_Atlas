@@ -1,8 +1,4 @@
 // Arma 3
-class B_Soldier_base_F: SoldierWB
-{
-	class EventHandlers;
-};
 class B_Soldier_F: B_Soldier_base_F{};
 // Arma 3 Atlas
 class Atlas_B_L_Man_Base_F: B_Soldier_F
@@ -1794,7 +1790,7 @@ class Atlas_B_L_Soldier_TL_F: Atlas_B_L_Soldier_base_F
         SmokeShell,
         SMOKESHELLS_BLUFOR,
         1Rnd_Smoke_Grenade_shell,
-		SOLDIER_SMOKE_GRENADES_BLUFOR
+		SMOKEGRENADES_BLUFOR
 	};
 	respawnMagazines[] =
 	{
@@ -1806,7 +1802,7 @@ class Atlas_B_L_Soldier_TL_F: Atlas_B_L_Soldier_base_F
         SmokeShell,
         SMOKESHELLS_BLUFOR,
         1Rnd_Smoke_Grenade_shell,
-		SOLDIER_SMOKE_GRENADES_BLUFOR
+		SMOKEGRENADES_BLUFOR
 	};
 	cost = 250000;
 	camouflage = 1.4;

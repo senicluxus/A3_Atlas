@@ -27,6 +27,8 @@ class CfgPatches
             Atlas_B_A_Mortar_01_F,
             Atlas_B_A_Mortar_01_support_F,
             Atlas_B_A_Mortar_01_weapon_F,
+            Atlas_B_A_Mortar_01_ard_F,
+            Atlas_B_A_Mortar_01_trp_F,
 
             // CDF
             Atlas_I_C_Mortar_01_F,

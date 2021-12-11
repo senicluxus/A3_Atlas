@@ -17,7 +17,26 @@ class CfgPatches
             Atlas_I_I_UAV_06_medical_backpack_F,
             Atlas_I_I_UAV_06_medical_F,
             Box_I_I_UAV_06_F,
-            Box_I_I_UAV_06_medical_F
+            Box_I_I_UAV_06_medical_F,
+
+            //UNO
+            Atlas_I_UNO_UAV_06_backpack_F,
+            Atlas_I_UNO_UAV_06_F,
+            Atlas_I_UNO_wdl_UAV_06_F,
+            Atlas_I_UNO_UAV_06_medical_backpack_F,
+            Atlas_I_UNO_UAV_06_medical_F,
+            Atlas_I_UNO_wdl_UAV_06_medical_F,
+            Box_I_UNO_UAV_06_F,
+            Box_I_UNO_UAV_06_medical_F,
+
+            //ADF
+            Atlas_B_A_UAV_06_backpack_F,
+            Atlas_B_A_UAV_06_F,
+            Atlas_B_A_UAV_06_medical_backpack_F,
+            Atlas_B_A_UAV_06_medical_F,
+            Box_B_A_UAV_06_F,
+            Box_B_A_UAV_06_medical_F
+
         };
 		weapons[] = {/* Auto-compiled by pboProject */};
 	};

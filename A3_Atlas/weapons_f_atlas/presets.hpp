@@ -147,6 +147,34 @@ class arifle_SPAR_01_GL_blk_LRCO_Pointer_Snds_F: arifle_SPAR_01_GL_blk_F
 		};
 	};
 };
+
+// SPAR-16 GL 5.56 mm (Black) + MRCO
+class arifle_SPAR_01_GL_blk_MRCO_F : arifle_SPAR_01_GL_blk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_MRCO;
+		};
+	};
+};
+
+// SPAR-16 5.56 mm (Black) + MRCO
+class arifle_SPAR_01_blk_MRCO_F : arifle_SPAR_01_blk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_MRCO;
+		};
+	};
+};
 // SPAR-16S 5.56 mm (Black) + LRCO + IR Laser Pointer + Bipod (Black) [NATO] + Sound Suppressor (5.56 mm)
 class arifle_SPAR_02_blk_LRCO_Pointer_Bipod_Snds_F: arifle_SPAR_02_blk_F
 {
@@ -1030,7 +1058,7 @@ class arifle_mk20_plain_holo_pointer_F: arifle_Mk20_plain_F
 		class LinkedItemsOptic
 		{
 			slot = CowsSlot;
-			item = optic_holosight;
+			item = acc_o_FMS;
 		};
 		class LinkedItemsAcc
 		{
@@ -1065,7 +1093,7 @@ class arifle_mk20_gl_plain_holo_pointer_F: arifle_Mk20_gl_plain_F
 		class LinkedItemsOptic
 		{
 			slot = CowsSlot;
-			item = optic_holosight;
+			item = acc_o_FMS;
 		};
 		class LinkedItemsAcc
 		{
@@ -1183,6 +1211,18 @@ class LMG_MK200_black_snds_F: LMG_MK200_black_F
 		};
 	};
 };
+class LMG_MK200_black_cdf_F: LMG_MK200_black_F
+{
+	author = "BranFlakes";
+	class LinkedItems
+	{
+		class LinkedItemsUnder
+		{
+			slot = UnderBarrelSlot;
+			item = bipod_01_F_blk;
+		};
+	};
+};
 class arifle_SPAR_03_blk_F;
 class arifle_SPAR_03_blk_ams_Pointer_Snds_F: arifle_SPAR_03_blk_F
 {
@@ -1206,7 +1246,48 @@ class arifle_SPAR_03_blk_ams_Pointer_Snds_F: arifle_SPAR_03_blk_F
 		};
 	};
 };
-/*
+class srifle_EBR_blk_F;
+class srifle_EBR_blk_MRCO_LP_BI_F: srifle_EBR_blk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_AMS;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+		class LinkedItemsUnder
+		{
+			slot = UnderBarrelSlot;
+			item = bipod_01_F_blk;
+		};
+	};
+};
+// Mk18 ABR 7.62 mm (Black) + AMS + Bipod [NATO]
+class srifle_EBR_blk_AMS_BI_F: srifle_EBR_blk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_AMS;
+		};
+		class LinkedItemsUnder
+		{
+			slot = UnderBarrelSlot;
+			item = bipod_01_F_blk;
+		};
+	};
+};
+
 // Mk18 ABR 7.62 mm (Coyote) + AMS (Sand) + IR Laser Pointer + Bipod [NATO] (Sand)
 class srifle_EBR_cbr_AMS_LP_BI_F: srifle_EBR_cbr_F
 {
@@ -1230,4 +1311,51 @@ class srifle_EBR_cbr_AMS_LP_BI_F: srifle_EBR_cbr_F
 		};
 	};
 };
-*/
+
+// TRG-21 5.56 mm + ACO
+class arifle_TRG21_F;
+class arifle_TRG21_ACO_F: arifle_TRG21_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_ACO;
+		};
+	};
+};
+// TRG-21 EGLM 5.56 mm + ACO
+class arifle_TRG21_GL_F;
+class arifle_TRG21_GL_ACO_F: arifle_TRG21_GL_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_ACO;
+		};
+	};
+};
+// Cyrus 9.3 mm (Black) + AMS + Bipod
+class srifle_DMR_05_blk_F;
+class srifle_DMR_05_blk_AMS_BI_F: srifle_DMR_05_blk_F
+{
+	author = $STR_A3_A_AveryTheKitty;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_AMS;
+		};
+		class LinkedItemsUnder
+		{
+			slot = UnderBarrelSlot;
+			item = bipod_01_F_blk;
+		};
+	};
+};

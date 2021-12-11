@@ -16,8 +16,27 @@ class CfgVehicles
 	class B_ViperHarness_base_F;
 	class B_ViperLightHarness_base_F;
 	class B_RadioBag_01_base_F;
-
+	class B_Carryall_cbr;
+	class B_AssaultPack_cbr;
+	class B_AssaultPack_rgr;
+	
     /* Arsenal */
+    class B_RadioBag_01_aucamo_F: B_RadioBag_01_base_F
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_aucamo_F0;
+		picture = "\a3\supplies_f_enoch\Bags\Data\UI\icon_B_RadioBag_01_wdl_F_ca.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\B_RadioBag_01_aucamo_CO.paa"};
+
+		/* TFAR */
+		tf_dialog = bussole_radio_dialog;
+		tf_dialogUpdate = "call TFAR_fnc_updateLRDialogToChannel;";
+		tf_encryptionCode = tf_west_radio_code;
+		tf_hasLRradio = true;
+		tf_range = 20000;
+		tf_subtype = digital_lr;
+	};
 	class B_RadioBag_01_whex_F: B_RadioBag_01_base_F
 	{
 		author = $STR_A3_A_AveryTheKitty;
@@ -39,7 +58,7 @@ class CfgVehicles
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
 		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_flecktarn_F0;
-		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_flecktarn_F_CA.paa";
+		picture = "\A3_Aegis\Supplies_F_Aegis\Bags\Data\UI\icon_B_RadioBag_01_taiga_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\B_RadioBag_01_flecktarn_CO.paa"};
 
 		/* TFAR */
@@ -84,10 +103,10 @@ class CfgVehicles
 	};
 	class B_RadioBag_01_marar_F: B_RadioBag_01_base_F
 	{
-		author = "BranFlakes";
+		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
 		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_Marar_F0;
-		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_flecktarn_F_CA.paa";
+		picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_semiarid_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\B_RadioBag_01_Marar_CO.paa"};
 
 		/* TFAR */
@@ -103,7 +122,7 @@ class CfgVehicles
 		author = "BranFlakes";
 		scope = public;
 		displayName = $STR_A3_A_CfgVehicles_B_RadioBag_01_commandos_F0;
-		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_jungle_F_CA.paa";
+		picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_RadioBag_01_jungle_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\B_RadioBag_01_commando_CO.paa"};
         
 		/* TFAR */
@@ -130,13 +149,13 @@ class CfgVehicles
 		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Kitbag_flecktarn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_fast_flecktarn_CO.paa"};
 	};
-	class B_Carryall_owcamo: B_Carryall_Base
+	class B_Kitbag_aucamo_F: B_Kitbag_Base
 	{
 		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = $STR_A3_A_CfgVehicles_B_Carryall_owcamo0;
-		picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Carryall_owcamo_CA.paa";
-		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_tortila_whex_CO.paa"};
+		displayName = $STR_A3_A_CfgVehicles_B_Kitbag_aucamo0;
+		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Kitbag_flecktarn_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_fast_aucamo_CO.paa"};
 	};
 	class B_Carryall_flecktarn: B_Carryall_Base
 	{
@@ -145,6 +164,22 @@ class CfgVehicles
 		displayName = $STR_A3_A_CfgVehicles_B_Carryall_flecktarn0;
 		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Carryall_flecktarn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_tortila_flecktarn_CO.paa"};
+	};
+	class B_Carryall_aucamo: B_Carryall_Base
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = $STR_A3_A_CfgVehicles_B_Carryall_aucamo0;
+		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Carryall_flecktarn_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_tortila_aucamo_CO.paa"};
+	};
+	class B_Carryall_owcamo: B_Carryall_Base
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = $STR_A3_A_CfgVehicles_B_Carryall_owcamo0;
+		picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_Carryall_owcamo_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_tortila_whex_CO.paa"};
 	};
 	class B_Carryall_semiarid: B_Carryall_Base
 	{
@@ -196,13 +231,20 @@ class CfgVehicles
 	};
 	class B_AssaultPack_marar: B_AssaultPack_Base
 	{
-		author = "BranFlakes";
+		author = $STR_A3_A_AveryTheKitty;
 		scope = public;
-		displayName = $STR_A3_A_CfgVehicles_B_AssaultPack_marar0;
+		displayName = "Assault Pack [Marar]";
 		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_AssaultPack_flecktarn_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_compact_marar_CO.paa"};
 	};
-
+	class B_AssaultPack_aucamo_F: B_AssaultPack_Base
+	{
+		author = $STR_A3_A_AveryTheKitty;
+		scope = public;
+		displayName = "Assault Pack [ADF]";
+		//picture = "\A3_Atlas\Supplies_F_Atlas\Bags\Data\UI\icon_B_AssaultPack_flecktarn_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Supplies_F_Atlas\Bags\Data\backpack_compact_aucamo_CO.paa"};
+	};
 	/* Factions */
     #include "cfgOPFOR.hpp"     // Belarus
 	#include "cfgViper.hpp"     // Viper
@@ -213,4 +255,6 @@ class CfgVehicles
 	#include "cfgIDF.hpp"       // IDF
 	#include "cfgVenezuela.hpp" //Venezuela
 	#include "cfgMarar.hpp"		//Marar
+	#include "cfgUNO.hpp"		//UNO
+	#include "cfgADF.hpp"		//Australia
 };

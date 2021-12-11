@@ -25,14 +25,14 @@ class Atlas_B_M_Soldier_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -75,14 +75,14 @@ class Atlas_B_M_TL_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_headset_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -133,14 +133,14 @@ class Atlas_B_M_GL_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -193,14 +193,14 @@ class Atlas_B_M_AR_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -248,14 +248,14 @@ class Atlas_B_M_M_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -299,14 +299,14 @@ class Atlas_B_M_medic_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -357,14 +357,14 @@ class Atlas_B_M_Soldier_LAT_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -412,14 +412,14 @@ class Atlas_B_M_A_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -613,14 +613,14 @@ class Atlas_B_M_SL_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_headset_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_headset_F,
+		H_MK7_Marar_F,
 		DefaultManLinkedItems,
 		NVgoggles
 	};
@@ -714,14 +714,14 @@ class Atlas_B_M_RadioOperator_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -765,14 +765,14 @@ class Atlas_B_M_Engineer_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -822,14 +822,14 @@ class Atlas_B_M_Soldier_unarmed_F: Atlas_B_M_Soldier_Base_F
     linkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
     respawnLinkedItems[] =
     {
         V_PlateCarrier2_snd,
-        H_HelmetSpecter_brown_F,
+        H_MK7_Marar_F,
         DefaultManLinkedItems,
         NVgoggles
     };
@@ -853,7 +853,7 @@ class Atlas_B_M_Soldier_CBRN_F: Atlas_B_M_Soldier_Base_F
 	linkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		G_AirPurifyingRespirator_01_F,
 		DefaultManCbrnLinkedItems,
 		NVgoggles
@@ -861,7 +861,7 @@ class Atlas_B_M_Soldier_CBRN_F: Atlas_B_M_Soldier_Base_F
 	respawnLinkedItems[] =
 	{
 		V_PlateCarrier2_snd,
-		H_HelmetSpecter_brown_F,
+		H_MK7_Marar_F,
 		G_AirPurifyingRespirator_01_F,
 		DefaultManCbrnLinkedItems,
 		NVgoggles
@@ -904,4 +904,48 @@ class Atlas_B_M_Soldier_CBRN_F: Atlas_B_M_Soldier_Base_F
 			init = "_this call bin_fnc_CBRNHoseInit;";
 		};
 	};
+};
+class Atlas_B_M_Fighter_Pilot_F: Atlas_B_M_Soldier_Base_F
+{
+    author = $STR_A3_A_BranFlakes;
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_Helipilot_F.jpg";
+    scope = public;
+    scopeCurator = public;
+    displayName = $STR_A3_B_Fighter_Pilot_name;
+    uniformClass = Atlas_U_B_M_Tank_Marar_F;
+    linkedItems[] =
+    {
+        V_TacVest_brn,
+        H_PilotHelmetFighter_I_E,
+        DefaultManLinkedItems,
+    };
+    respawnLinkedItems[] =
+    {
+        V_TacVest_brn,
+        H_PilotHelmetFighter_I_E,
+        DefaultManLinkedItems,
+    };
+    weapons[] =
+    {
+        hgun_G17_black_F,
+        DefaultManWeapons
+    };
+    respawnWeapons[] =
+    {
+        hgun_G17_black_F,
+        DefaultManWeapons
+    };
+    magazines[] =
+    {
+        mag_2(11Rnd_45ACP_Mag),
+        SMOKESHELLS_BLUFOR
+    };
+    respawnMagazines[] =
+    {
+        mag_2(11Rnd_45ACP_Mag),
+        SMOKESHELLS_BLUFOR
+    };
+    camouflage = 2;
+    cost = 160000;
+    role = Crewman;
 };
