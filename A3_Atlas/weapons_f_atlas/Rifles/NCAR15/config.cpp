@@ -88,7 +88,7 @@ class CfgWeapons
     {
         author = $STR_A3_A_Ravenholme;
         descriptionShort = $STR_A3_A_CfgWeapons_arifle_NCAR15_base_F1;
-        baseWeapon=arifle_NCAR15B_F;
+        baseWeapon = arifle_NCAR15B_F;
         scope=2;
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15B_F0;
         magazines[] = 
@@ -146,7 +146,7 @@ class CfgWeapons
     {
         author = $STR_A3_A_Ravenholme;
         descriptionShort = $STR_A3_A_CfgWeapons_arifle_NCAR15_base_F1;
-        baseWeapon =arifle_NCAR15_GL_F;
+        baseWeapon = arifle_NCAR15_GL_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_NCAR15_GL_F0;
         /*hiddenSelectionsTextures[] = 
