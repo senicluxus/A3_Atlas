@@ -1,0 +1,39 @@
+#include "\A3_Aegis\basicDefines_A3.hpp"
+#include "cfgPatches.hpp"
+#include "cfgVehicles.hpp"
+#include "\A3_Atlas\Weapons_F_Atlas\ASDG.hpp"
+class Mode_SemiAuto;
+class Mode_Burst;
+class Mode_FullAuto;
+class SlotInfo;
+class MuzzleSlot_58;
+class CowsSlot_Rail;
+class PointerSlot_Rail;
+class UnderBarrelSlot_rail;
+class CfgWeapons
+{
+    class arifle_AKM_F;
+    class arifle_AKM74_F: arifle_AKM_F
+    {
+        author = $STR_A3_A_Ravenholme;
+        descriptionShort = $STR_A3_A_CfgWeapons_arifle_AKM74_base_F1;
+        baseWeapon = arifle_AKM74_F;
+        scope = public;
+        displayName = $STR_A3_A_CfgWeapons_arifle_AKM74_F0;
+        magazines[]=
+		{
+			30Rnd_545x39_Mag_F,
+			30Rnd_545x39_Mag_Green_F,
+			30Rnd_545x39_Mag_Tracer_F,
+			30Rnd_545x39_Mag_Tracer_Green_F
+		};
+		magazineWell[]=
+		{
+			AK_545x39
+		};
+        class Library
+		{
+			libTextDesc = $STR_A3_A_CfgWeapons_arifle_AKM74_base_F_Library0;
+		};
+    };
+};

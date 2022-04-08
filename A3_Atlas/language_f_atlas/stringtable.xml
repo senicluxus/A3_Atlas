@@ -5673,6 +5673,23 @@
 						<Japanese>アサルトライフル&lt;br /&gt;口径：6.5x39 mm</Japanese>
 						<Turkish>Saldırı Tüfeği&lt;br /&gt;Kalibre: 6.5x39 mm</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_AKM74_base_F1">
+						<Original>Assault Rifle&lt;br /&gt;Caliber: 5.45x39 mm</Original>
+						<Chinese>突擊步槍&lt;br/&gt;口徑：5.45x39 mm</Chinese>
+						<French>Fusil d'assaut&lt;br /&gt;Calibre : 5,45x39 mm</French>
+						<Spanish>Fusil de asalto&lt;br /&gt;Calibre: 5,45x39 mm</Spanish>
+						<Italian>Fucile d'assalto&lt;br /&gt;Calibro: 5,45x39 mm</Italian>
+						<Polish>Karabin szturmowy&lt;br /&gt;Kaliber: 5,45x39 mm</Polish>
+						<Russian>Штурмовая винтовка&lt;br /&gt;Калибр: 5,45x39 мм</Russian>
+						<German>Sturmgewehr&lt;br /&gt;Kaliber: 5,45x39 mm</German>
+						<Czech>Útočná puška&lt;br /&gt;Ráže: 5,45x39 mm</Czech>
+						<English>Assault Rifle&lt;br /&gt;Caliber: 5.45x39 mm</English>
+						<Portuguese>Fuzil de assalto&lt;br /&gt;Calibre: 5,45 x 39 mm</Portuguese>
+						<Korean>돌격소총&lt;br /&gt;구경: 5.45x39mm</Korean>
+						<Chinesesimp>突击步枪&lt;br /&gt;口径：5.45x39 毫米</Chinesesimp>
+						<Japanese>アサルトライフル&lt;br /&gt;口径：5.45x39 mm</Japanese>
+						<Turkish>Saldırı Tüfeği&lt;br /&gt;Kalibre: 5.45x39 mm</Turkish>
+					</Key>
 				</Container>
 				<Container name="DisplayName">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_AUG_F0">
@@ -5981,6 +5998,23 @@
 						<Japanese>NCAR-15-1 5.8 mm</Japanese>
 						<Turkish>NCAR-15-1 5.8 mm</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_AKM74_F0">
+						<Original>AK-74 5.45 mm</Original>
+						<Chinese>AK-74 5.45 mm</Chinese>
+						<French>AK-74 5,45 mm</French>
+						<Spanish>AK-74 5,45 mm</Spanish>
+						<Italian>AK-74 5,45 mm</Italian>
+						<Polish>AK-74 5,45 mm</Polish>
+						<Russian>AK-74 5,45 мм</Russian>
+						<German>AK-74 5.45 mm</German>
+						<Czech>AK-74 5,45 mm</Czech>
+						<English>AK-74 5.45 mm</English>
+						<Portuguese>AK-74 5.45 mm</Portuguese>
+						<Korean>AK-74 5.45 mm</Korean>
+						<Chinesesimp>AK-74 5.45 毫米</Chinesesimp>
+						<Japanese>AK-74 5.45 mm</Japanese>
+						<Turkish>AK-74 5.45 mm</Turkish>
+					</Key>
 				</Container>
 				<Container name="Library">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_AUG_base_F_Library0">
@@ -6050,6 +6084,23 @@
 						<Chinesesimp>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Chinesesimp>
 						<Japanese>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Japanese>
 						<Turkish>The Fort 650 series of rifles are licensed versions of the Israeli TRG rifles produced by the Chernarusian manufacturer CER Fort, based out of Novigrad, Chernarus. This version of the TRG is chambered in the 6.5x39 mm NATO standard catridge. The Fort-650 series is manufactured in a full length barrel variant, the Fort-652; a shortened barrel variant, the Fort 651; and a variant with an underslung grenade launcher. The Fort-650 series has replaced the AK-74 as the standard issue rifle of the Chernarusian Defense Forces.</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_AKM74_base_F_Library0">
+						<Original>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Original>
+						<Chinese>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Chinese>
+						<French>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</French>
+						<Spanish>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Spanish>
+						<Italian>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Italian>
+						<Polish>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Polish>
+						<Russian>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Russian>
+						<German>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</German>
+						<Czech>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Czech>
+						<English>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</English>
+						<Portuguese>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Portuguese>
+						<Korean>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Korean>
+						<Chinesesimp>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Chinesesimp>
+						<Japanese>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Japanese>
+						<Turkish>The AK-74 is an assault rifle designed by Mikhail Kalashnikov in the 1970s, chambered in the 5.45 x 39 mm round that replaced the 7.62 x 39 mm used in earlier rifles. The rifle first saw service in the Soviet-Afghan war, and remains widely used across the world in the hands of militaries and insurgents both, and in a variety of license-produced forms.</Turkish>
 					</Key>
 				</Container>
 			</Container>
