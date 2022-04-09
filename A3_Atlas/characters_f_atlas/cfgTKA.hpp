@@ -1186,13 +1186,15 @@ class Atlas_O_T_soldier_SL_conscript_F: Atlas_O_T_soldier_SL_F
     {
         mag_8(20Rnd_762x51_slr_lxWS),
         mag_2(10Rnd_9x21_Mag),
-        mag_2(HandGrenade_Guer)
+        mag_2(HandGrenade_Guer),
+        mag_2(SmokeShell)
     };
     respawnMagazines[] =
     {
         mag_8(20Rnd_762x51_slr_lxWS),
         mag_2(10Rnd_9x21_Mag),
-        mag_2(HandGrenade_Guer)
+        mag_2(HandGrenade_Guer),
+        mag_2(SmokeShell)
     };
     editorSubcategory = EdSubcat_Personnel_Conscripts;
 };
@@ -1235,6 +1237,7 @@ class Atlas_O_T_soldier_TL_conscript_F: Atlas_O_T_soldier_TL_F
         mag_6(20Rnd_762x51_slr_lxWS),
         mag_2(10Rnd_9x21_Mag),
         mag_2(HandGrenade_Guer),
+        SmokeShell,
         mag_3(1Rnd_40mm_HE_lxWS),
         mag_2(1Rnd_58mm_AT_lxWS),
         1Rnd_50mm_Smoke_lxWS
@@ -1283,14 +1286,14 @@ class Atlas_O_T_medic_conscript_F: Atlas_O_T_medic_F
     {
         mag_6(30Rnd_545x39_black_Mag_F),
         mag_2(HandGrenade_Guer),
-        SmokeShell,
+        mag_2(SmokeShell),
         SMOKESHELLS_MEDIC
     };
     respawnMagazines[] =
     {
         mag_6(30Rnd_545x39_black_Mag_F),
         mag_2(HandGrenade_Guer),
-        SmokeShell,
+        mag_2(SmokeShell),
         SMOKESHELLS_MEDIC
     };
     editorSubcategory = EdSubcat_Personnel_Conscripts;
@@ -1557,6 +1560,53 @@ class Atlas_O_T_RadioOperator_conscript_F: Atlas_O_T_RadioOperator_F
     {
         mag_8(30Rnd_545x39_black_Mag_F),
         mag_2(HandGrenade_Guer)
+    };
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class Atlas_O_T_Soldier_GL_Conscript_F: Atlas_O_T_soldier_GL_F
+{
+    author = $STR_A3_A_Heliotrope;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_TL_conscript_F.jpg";
+	scope = public;
+    linkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        G_shemag_white,
+		DefaultManLinkedItems
+    };
+    respawnLinkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        G_shemag_white,
+		DefaultManLinkedItems
+    };
+    weapons[] =
+    {
+        arifle_SLR_V_GL_lxWS,
+        DefaultManWeapons
+    };
+    respawnWeapons[] =
+    {
+        arifle_SLR_V_GL_lxWS,
+        DefaultManWeapons
+    };
+    magazines[] =
+    {
+        mag_6(20Rnd_762x51_slr_lxWS),
+        mag_2(HandGrenade_Guer),
+        mag_3(1Rnd_40mm_HE_lxWS),
+        mag_2(1Rnd_58mm_AT_lxWS),
+        1Rnd_50mm_Smoke_lxWS
+    };
+    respawnMagazines[] =
+    {
+        mag_6(20Rnd_762x51_slr_lxWS),
+        mag_2(HandGrenade_Guer),
+        mag_3(1Rnd_40mm_HE_lxWS),
+        mag_2(1Rnd_58mm_AT_lxWS),
+        1Rnd_50mm_Smoke_lxWS
     };
     editorSubcategory = EdSubcat_Personnel_Conscripts;
 };
