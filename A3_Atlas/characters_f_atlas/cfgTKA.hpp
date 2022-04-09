@@ -1425,12 +1425,12 @@ class Atlas_O_T_soldier_M_conscript: Atlas_O_T_soldier_M_F
     };
     weapons[] =
     {
-        arifle_SLR_V_KHS_old_lxWS,
+        arifle_SLR_KHS_old_lxWS,
         DefaultManWeapons
     };
     respawnWeapons[] =
     {
-        arifle_SLR_V_KHS_old_lxWS,
+        arifle_SLR_KHS_old_lxWS,
         DefaultManWeapons
     };
     magazines[] =
