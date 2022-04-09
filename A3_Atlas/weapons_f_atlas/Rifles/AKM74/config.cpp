@@ -23,11 +23,15 @@ class CfgWeapons
         baseWeapon = arifle_AKM74_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_AKM74_F0;
+<<<<<<< Updated upstream
 		hiddenSelections[] = {"camo_1","camo_2","camo_3"};
 		hiddenSelectionsTextures[] = {"A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_01_wood_CO.paa","A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_02_wood_CO.paa","\A3\Weapons_F_Exp\Rifles\AKM\Data\akm_steel_mag_co.paa"};
+=======
+        hiddenSelectionsMaterials[] = {"A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\akm74.rvmat","A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\akm74_wood.rvmat"};
+>>>>>>> Stashed changes
 		recoil = "recoil_aks";
 		inertia = 0.5;
-        magazines[]=
+		magazines[]=
 		{
 			30Rnd_545x39_Mag_F,
 			30Rnd_545x39_Mag_Green_F,
@@ -57,6 +61,34 @@ class CfgWeapons
         class Library
 		{
 			libTextDesc = $STR_A3_A_CfgWeapons_arifle_AKM74_base_F_Library0;
+		};
+
+		drySound[] = {"A3\Sounds_F_Exp\arsenal\weapons\Rifles\Rifle_AK74\AK74_dry",0.17782794,1,10};
+		reloadMagazineSound[] = {"A3\Sounds_F_Exp\arsenal\weapons\Rifles\Rifle_AK74\AK74_reload",1.0,1,10};
+		changeFiremodeSound[] = {"A3\Sounds_F_Exp\arsenal\weapons\Rifles\Rifle_AK74\AK74_firemode",0.17782794,1,5};
+		class Single: Mode_SemiAuto
+		{
+			class BaseSoundModeType;
+			class StandardSound: BaseSoundModeType
+			{
+				soundSetShot[] = {"AK74_Shot_SoundSet","AK74_Tail_SoundSet","AK74_InteriorTail_SoundSet"};
+			};
+			class SilencedSound: BaseSoundModeType
+			{
+				SoundSetShot[] = {"AK12_silencerShot_SoundSet","AK12_silencerTail_SoundSet","AK12_silencerInteriorTail_SoundSet"};
+			};
+		};
+		class FullAuto: Mode_FullAuto
+		{
+			class BaseSoundModeType;
+			class StandardSound: BaseSoundModeType
+			{
+				soundSetShot[] = {"AK74_Shot_SoundSet","AK74_Tail_SoundSet","AK74_InteriorTail_SoundSet"};
+			};
+			class SilencedSound: BaseSoundModeType
+			{
+				SoundSetShot[] = {"AK12_silencerShot_SoundSet","AK12_silencerTail_SoundSet","AK12_silencerInteriorTail_SoundSet"};
+			};
 		};
     };
 	class arifle_AKM74_polymer: arifle_AKM74_F

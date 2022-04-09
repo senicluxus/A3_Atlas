@@ -1,3 +1,5 @@
+class arifle_SLR_V_lxWS;
+
 // Rahim 7.62 mm + ARCO + Bipod (Hex) [CSAT]
 class srifle_DMR_01_ARCO_BI_F: srifle_DMR_01_F
 {
