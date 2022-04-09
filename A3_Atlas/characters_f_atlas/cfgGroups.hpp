@@ -1238,14 +1238,14 @@ class CfgGroups
 					side = TEast;
 					faction = Atlas_OPF_T_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_inf.paa";
-					GROUP_UNIT(0,TEast,Atlas_O_T_soldier_SL_conscript,CORPORAL,0,0)
-					GROUP_UNIT(1,TEast,Atlas_O_T_soldier_2_conscript,PRIVATE,5,-5)
-					GROUP_UNIT(2,TEast,Atlas_O_T_soldier_LAT_conscript,PRIVATE,-5,-5)
-					GROUP_UNIT(3,TEast,Atlas_O_T_soldier_M_conscript,PRIVATE,10,-10)
-					GROUP_UNIT(4,TEast,Atlas_O_T_soldier_TL_conscript,CORPORAL,-10,-10)
-					GROUP_UNIT(5,TEast,Atlas_O_T_soldier_AR_conscript,PRIVATE,15,-15)
-					GROUP_UNIT(6,TEast,Atlas_O_T_soldier_1_conscript,PRIVATE,-15,-15)
-					GROUP_UNIT(7,TEast,Atlas_O_T_medic_conscript,PRIVATE,20,-20)
+					GROUP_UNIT(0,TEast,Atlas_O_T_soldier_SL_conscript_F,CORPORAL,0,0)
+					GROUP_UNIT(1,TEast,Atlas_O_T_soldier_2_conscript_F,PRIVATE,5,-5)
+					GROUP_UNIT(2,TEast,Atlas_O_T_soldier_LAT_conscript_F,PRIVATE,-5,-5)
+					GROUP_UNIT(3,TEast,Atlas_O_T_soldier_M_conscript_F,PRIVATE,10,-10)
+					GROUP_UNIT(4,TEast,Atlas_O_T_soldier_TL_conscript_F,CORPORAL,-10,-10)
+					GROUP_UNIT(5,TEast,Atlas_O_T_soldier_AR_conscript_F,PRIVATE,15,-15)
+					GROUP_UNIT(6,TEast,Atlas_O_T_soldier_1_conscript_F,PRIVATE,-15,-15)
+					GROUP_UNIT(7,TEast,Atlas_O_T_medic_conscript_F,PRIVATE,20,-20)
 				};
 				class O_C_InfSquad_Weapons
 				{

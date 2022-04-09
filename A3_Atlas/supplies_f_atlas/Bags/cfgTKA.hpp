@@ -60,3 +60,12 @@ class B_FieldPack_semiarid_LAT_F: B_FieldPack_semiarid
 		mag_xx(RPG32_HE_F,1);
 	};
 };
+class B_FieldPack_semiarid_LAT_conscript: B_FieldPack_semiarid
+{
+	author = $STR_A3_A_Heliotrope;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(RPG7_F,3);
+	};
+};
