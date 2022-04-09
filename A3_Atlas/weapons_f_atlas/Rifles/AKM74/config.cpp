@@ -91,6 +91,11 @@ class CfgWeapons
 	{
 		author = "Grave";
 		baseWeapon = arifle_AKM74_polymer;
+		magazines[]=
+		{
+			30Rnd_545x39_Black_Mag_F,
+			30Rnd_545x39_Black_Mag_Tracer_F
+		};
 		scope = public;
 		hiddenSelections[] = {"camo_1","camo_2","camo_3"};
 		displayName = $STR_A3_A_CfgWeapons_arifle_AKM74_polymer_F0;
