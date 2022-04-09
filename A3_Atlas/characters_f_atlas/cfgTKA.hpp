@@ -1152,7 +1152,7 @@ class Atlas_O_T_RadioOperator_F: Atlas_O_T_soldier_F
 class Atlas_O_T_soldier_SL_conscript_F: Atlas_O_T_soldier_SL_F
 {
 	author = $STR_A3_A_Heliotrope;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_SL_conscript_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_SL_conscript_F.jpg";
 	scope = public;
     linkedItems[] =
     {
@@ -1202,7 +1202,7 @@ class Atlas_O_T_soldier_SL_conscript_F: Atlas_O_T_soldier_SL_F
 class Atlas_O_T_soldier_TL_conscript_F: Atlas_O_T_soldier_TL_F
 {
 	author = $STR_A3_A_Heliotrope;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_TL_conscript_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_TL_conscript_F.jpg";
 	scope = public;
     linkedItems[] =
     {
@@ -1257,7 +1257,7 @@ class Atlas_O_T_soldier_TL_conscript_F: Atlas_O_T_soldier_TL_F
 class Atlas_O_T_medic_conscript_F: Atlas_O_T_medic_F
 {
 	author = $STR_A3_A_Heliotrope;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_medic_conscript_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_medic_conscript_F.jpg";
 	linkedItems[] =
     {
         V_HarnessO_tan,
@@ -1302,7 +1302,7 @@ class Atlas_O_T_medic_conscript_F: Atlas_O_T_medic_F
 class Atlas_O_T_soldier_1_conscript_F: Atlas_O_T_soldier_F
 {
 	author = $STR_A3_A_Heliotrope;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_1_conscript_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_1_conscript_F.jpg";
 	scope = public;
 	displayName = "Rifleman (AK-74)";
     linkedItems[] =
@@ -1344,7 +1344,7 @@ class Atlas_O_T_soldier_1_conscript_F: Atlas_O_T_soldier_F
 class Atlas_O_T_soldier_2_conscript_F: Atlas_O_T_soldier_F
 {
 	author = $STR_A3_A_Heliotrope;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_2_conscript_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_2_conscript_F.jpg";
 	scope = public;
 	displayName = "Rifleman (SLR)";
     linkedItems[] =
@@ -1386,7 +1386,7 @@ class Atlas_O_T_soldier_2_conscript_F: Atlas_O_T_soldier_F
 class Atlas_O_T_soldier_LAT_conscript_F: Atlas_O_T_soldier_LAT_F
 {
 	author = $STR_A3_A_Heliotrope;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_LAT_conscript_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_LAT_conscript_F.jpg";
 	scope = public;
     linkedItems[] =
     {
@@ -1432,7 +1432,7 @@ class Atlas_O_T_soldier_LAT_conscript_F: Atlas_O_T_soldier_LAT_F
 class Atlas_O_T_soldier_M_conscript_F: Atlas_O_T_soldier_M_F
 {
 	author = $STR_A3_A_Heliotrope;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_M_conscript_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_M_conscript_F.jpg";
     linkedItems[] =
     {
         V_HarnessO_tan,
@@ -1488,7 +1488,7 @@ class Atlas_O_T_soldier_AR_conscript_F: Atlas_O_T_soldier_base_F
 	icon = iconManMG;
 	role = MachineGunner;
 	cost = 220000;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_AR_conscript_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_AR_conscript_F.jpg";
     linkedItems[] =
     {
         V_HarnessO_tan,
@@ -1526,7 +1526,7 @@ class Atlas_O_T_soldier_AR_conscript_F: Atlas_O_T_soldier_base_F
 class Atlas_O_T_RadioOperator_conscript_F: Atlas_O_T_RadioOperator_F
 {
     author = $STR_A3_A_Heliotrope;
-    //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_RadioOperator_conscript_F.jpg";
+    editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_RadioOperator_conscript_F.jpg";
     linkedItems[] =
     {
         V_HarnessO_tan,
@@ -1566,7 +1566,7 @@ class Atlas_O_T_RadioOperator_conscript_F: Atlas_O_T_RadioOperator_F
 class Atlas_O_T_Soldier_GL_Conscript_F: Atlas_O_T_soldier_GL_F
 {
     author = $STR_A3_A_Heliotrope;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_TL_conscript_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_Soldier_GL_Conscript_F.jpg";
 	scope = public;
     linkedItems[] =
     {

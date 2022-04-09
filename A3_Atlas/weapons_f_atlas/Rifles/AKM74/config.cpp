@@ -23,6 +23,7 @@ class CfgWeapons
         baseWeapon = arifle_AKM74_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_AKM74_F0;
+		picture = "\A3_Atlas\Weapons_F_Atlas\Rifles\AKM74\Data\UI\icon_arifle_AK74_F_ca.paa";
 		hiddenSelectionsTextures[] = {"A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_01_wood_CO.paa","A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_02_wood_CO.paa","\A3\Weapons_F_Exp\Rifles\AKM\Data\akm_steel_mag_co.paa"};
         hiddenSelectionsMaterials[] = {"A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\akm74.rvmat","A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\akm74_wood.rvmat"};
 		recoil = "recoil_aks";
@@ -91,6 +92,7 @@ class CfgWeapons
 	{
 		author = "Grave";
 		baseWeapon = arifle_AKM74_polymer;
+		picture = "\A3_Atlas\Weapons_F_Atlas\Rifles\AKM74\Data\UI\icon_arifle_AK74_polymer_F_ca.paa";
 		magazines[]=
 		{
 			30Rnd_545x39_Black_Mag_F,
@@ -105,6 +107,7 @@ class CfgWeapons
 	{
 		author = "Grave";
 		baseWeapon = arifle_AKM74_polymer_alt;
+		picture = "\A3_Atlas\Weapons_F_Atlas\Rifles\AKM74\Data\UI\icon_arifle_AK74_polymer_alt_F_ca.paa";
 		scope = public;
 		hiddenSelections[] = {"camo_1","camo_2","camo_3"};
 		displayName = $STR_A3_A_CfgWeapons_arifle_AKM74_polymer_alt_F0;
