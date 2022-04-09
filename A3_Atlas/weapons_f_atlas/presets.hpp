@@ -1,4 +1,7 @@
 class arifle_SLR_V_lxWS;
+class arifle_SCAR_L_F;
+class arifle_SCAR_L_GL_F;
+class arifle_SCAR_L_Short_F;
 
 // Rahim 7.62 mm + ARCO + Bipod (Hex) [CSAT]
 class srifle_DMR_01_ARCO_BI_F: srifle_DMR_01_F
@@ -1370,8 +1373,147 @@ class atlas_arifle_SLR_V_KHS_old_lxWS: arifle_SLR_V_lxWS
     {
         class LinkedItemsOptic
         {
-            slot="CowsSlot";
-            item="optic_KHS_old";
+            slot = CowsSlot;
+            item = optic_KHS_old;
         };
     };
+};
+
+// MK16 5.56 mm (Sand) + Flashlight
+
+class atlas_arifle_SCAR_L_FL_F: arifle_SCAR_L_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_flashlight;
+		};
+	};
+};
+
+// MK16 5.56 mm (Sand) + Holo + Flashlight
+class atlas_arifle_SCAR_L_Holo_FL_F: arifle_SCAR_L_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_holosight;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_flashlight;
+		};
+	};
+};
+
+// MK16 5.56 mm (Sand) + ARCO + Flashlight
+class atlas_arifle_SCAR_L_ARCO_FL_F: arifle_SCAR_L_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_Arco;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_flashlight;
+		};
+	};
+};
+
+// MK16 5.56 mm (Sand) GL + Holo + Flashlight
+class atlas_arifle_SCAR_L_GL_Holo_FL_F: arifle_SCAR_L_GL_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_holosight;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_flashlight;
+		};
+	};
+};
+
+// MK16 5.56 mm (Sand) GL + ARCO + Flashlight
+class atlas_arifle_SCAR_L_GL_ARCO_FL_F: arifle_SCAR_L_GL_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_Arco;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_flashlight;
+		};
+	};
+};
+
+// MK16C 5.56 mm (Sand) + Flashlight
+
+class atlas_arifle_SCAR_L_Short_FL_F: arifle_SCAR_L_Short_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_flashlight;
+		};
+	};
+};
+
+// MK17 7.62 mm (Sand) + ARCO + Bipod
+class atlas_arifle_SCAR_ARCO_BI_F: arifle_SCAR_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_Arco;
+		};
+		class LinkedItemsUnder
+		{
+			slot = UnderBarrelSlot;
+			item = bipod_02_F_tan;
+		};
+	};
+};
+
+// LIM-85 5.56 + Holo (Black)
+class atlas_LMG_03_Holo_blk_F: LMG_03_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_holosight_blk_F;
+		};
+	};
 };
