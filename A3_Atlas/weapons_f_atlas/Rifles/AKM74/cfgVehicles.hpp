@@ -24,5 +24,5 @@ class CfgVehicles
 	class Weapon_Base_F;
 	WEAPON_HOLDER(arifle_AKM74_F,$STR_A3_A_CfgWeapons_arifle_AKM74_F0,EdSubcat_AssaultRifles,30Rnd_545x39_Mag_F)
 	WEAPON_HOLDER(arifle_AKM74_polymer,$STR_A3_A_CfgWeapons_arifle_AKM74_F0,EdSubcat_AssaultRifles,30Rnd_545x39_Mag_F)
-	WEAPON_HOLDER(arifle_AKM74_polymer_2,$STR_A3_A_CfgWeapons_arifle_AKM74_F0,EdSubcat_AssaultRifles,30Rnd_545x39_Mag_F)
+	WEAPON_HOLDER(arifle_AKM74_polymer_alt,$STR_A3_A_CfgWeapons_arifle_AKM74_F0,EdSubcat_AssaultRifles,30Rnd_545x39_Mag_F)
 };
