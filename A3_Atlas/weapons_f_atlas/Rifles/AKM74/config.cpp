@@ -57,4 +57,20 @@ class CfgWeapons
 			libTextDesc = $STR_A3_A_CfgWeapons_arifle_AKM74_base_F_Library0;
 		};
     };
+	class arifle_AKM74_polymer: arifle_AKM74_F
+	{
+		author = "Grave";
+		baseWeapon = arifle_AKM74_polymer;
+		scope = public;
+		displayName = $STR_A3_A_CfgWeapons_arifle_AKM74_polymer_F0;
+		hiddenSelectionsTextures[] = {"A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_01_black_CO.paa","A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_01_wood_CO.paa","\A3\Weapons_F_Exp\Rifles\AKM\Data\akm_steel_mag_co.paa"};
+	};
+	class arifle_AKM74_polymer_alt: arifle_AKM74_F
+	{
+		author = "Grave";
+		baseWeapon = arifle_AKM74_polymer_alt;
+		scope = public;
+		displayName = $STR_A3_A_CfgWeapons_arifle_AKM74_polymer_alt_F0;
+		hiddenSelectionsTextures[] = {"A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_02_black_CO.paa","A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_02_wood_CO.paa","\A3\Weapons_F_Exp\Rifles\AKM\Data\akm_steel_mag_co.paa"};
+	};
 };

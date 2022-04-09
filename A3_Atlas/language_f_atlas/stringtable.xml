@@ -6015,6 +6015,40 @@
 						<Japanese>AK-74 5.45 mm</Japanese>
 						<Turkish>AK-74 5.45 mm</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_AKM74_polymer_F0">
+						<Original>AK-74 5.45 mm (Polymer)</Original>
+						<Chinese>AK-74 5.45 mm (Polymer)</Chinese>
+						<French>AK-74 5,45 mm</French>
+						<Spanish>AK-74 5,45 mm</Spanish>
+						<Italian>AK-74 5,45 mm</Italian>
+						<Polish>AK-74 5,45 mm</Polish>
+						<Russian>AK-74 5,45 мм</Russian>
+						<German>AK-74 5.45 mm (Polymer)</German>
+						<Czech>AK-74 5,45 mm</Czech>
+						<English>AK-74 5.45 mm (Polymer)</English>
+						<Portuguese>AK-74 5.45 mm (Polymer)</Portuguese>
+						<Korean>AK-74 5.45 mm (Polymer)</Korean>
+						<Chinesesimp>AK-74 5.45 毫米</Chinesesimp>
+						<Japanese>AK-74 5.45 mm (Polymer)</Japanese>
+						<Turkish>AK-74 5.45 mm (Polymer)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_AKM74_polymer_alt_F0">
+						<Original>AK-74 5.45 mm (Polymer, Alt)</Original>
+						<Chinese>AK-74 5.45 mm (Polymer, Alt)</Chinese>
+						<French>AK-74 5,45 mm</French>
+						<Spanish>AK-74 5,45 mm</Spanish>
+						<Italian>AK-74 5,45 mm</Italian>
+						<Polish>AK-74 5,45 mm</Polish>
+						<Russian>AK-74 5,45 мм</Russian>
+						<German>AK-74 5.45 mm (Polymer, Alt)</German>
+						<Czech>AK-74 5,45 mm</Czech>
+						<English>AK-74 5.45 mm (Polymer, Alt)</English>
+						<Portuguese>AK-74 5.45 mm (Polymer, Alt)</Portuguese>
+						<Korean>AK-74 5.45 mm (Polymer, Alt)</Korean>
+						<Chinesesimp>AK-74 5.45 毫米</Chinesesimp>
+						<Japanese>AK-74 5.45 mm (Polymer, Alt)</Japanese>
+						<Turkish>AK-74 5.45 mm (Polymer, Alt)</Turkish>
+					</Key>
 				</Container>
 				<Container name="Library">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_AUG_base_F_Library0">
