@@ -27,6 +27,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] = {"A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_01_wood_CO.paa","A3_Atlas\weapons_f_atlas\Rifles\AKM74\Data\arifle_AK74_02_wood_CO.paa","\A3\Weapons_F_Exp\Rifles\AKM\Data\akm_steel_mag_co.paa"};
 		recoil = "recoil_aks";
 		inertia = 0.5;
+		magazines[]=
 		{
 			30Rnd_545x39_Mag_F,
 			30Rnd_545x39_Mag_Green_F,
