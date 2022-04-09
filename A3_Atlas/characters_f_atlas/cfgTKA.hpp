@@ -3,7 +3,6 @@ class Atlas_O_T_soldier_base_F: O_officer_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = private;
-	model = "\A3\Characters_F_Gamma\Guerrilla\IG_Leader.p3d";
 	modelSides[] = {TFriendly};
 	side = TEast;
     faction = Atlas_OPF_T_F;
@@ -17,21 +16,13 @@ class Atlas_O_T_soldier_base_F: O_officer_F
         Head_TK,
         G_IRAN_default
     };
-    hiddenSelections[] =
-    {
-        camo1,
-        camo2,
-        insignia
-    };
     hiddenSelectionsTextures[] =
     {
-        "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\Officer_noinsignia_semiarid_CO.paa",
-        "\A3\Characters_F_Gamma\Civil\Data\c_cloth1_black.paa"
+        "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\Officer_noinsignia_semiarid_CO.paa"
     };
     hiddenSelectionsMaterials[] =
     {
-        "\A3\Characters_F\OPFOR\Data\Officer_noInsignia.rvmat",
-        "\A3\Characters_F\Civil\Data\c_cloth1.rvmat"
+        "\A3\Characters_F\OPFOR\Data\Officer_noInsignia.rvmat"
     };
     items[] = {FirstAidKit};
 	respawnItems[] = {FirstAidKit};
