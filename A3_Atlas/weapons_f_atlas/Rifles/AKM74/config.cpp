@@ -45,7 +45,7 @@ class CfgWeapons
 				iconPosition[] = {0.55,0.38};
 				iconScale = 0.2;
 			};
-			class MuzzleSlot: MuzzleSlot_545R
+			class MuzzleSlot: asdg_MuzzleSlot_545R
 			{  
 				iconPosition[] = {-0.02,0.41};
 				iconScale = 0.2;
