@@ -1359,3 +1359,17 @@ class srifle_DMR_05_blk_AMS_BI_F: srifle_DMR_05_blk_F
 		};
 	};
 };
+
+// SLR 7.62 mm (Black) + Kahlia (Old)
+class atlas_arifle_SLR_V_KHS_old_lxWS: arifle_SLR_V_lxWS
+{
+    author=$STR_A3_A_Ravenholme;
+    class LinkedItems
+    {
+        class LinkedItemsOptic
+        {
+            slot="CowsSlot";
+            item="optic_KHS_old";
+        };
+    };
+};
