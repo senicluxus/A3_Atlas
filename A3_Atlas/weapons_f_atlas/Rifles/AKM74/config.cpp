@@ -7,9 +7,12 @@ class Mode_Burst;
 class Mode_FullAuto;
 class SlotInfo;
 class MuzzleSlot_58;
+class MuzzleSlot_545R;
 class CowsSlot_Rail;
+class CowsSlot_Dovetail;
 class PointerSlot_Rail;
 class UnderBarrelSlot_rail;
+class WeaponSlotsInfo;
 class CfgWeapons
 {
     class arifle_AKM_F;
@@ -20,6 +23,8 @@ class CfgWeapons
         baseWeapon = arifle_AKM74_F;
         scope = public;
         displayName = $STR_A3_A_CfgWeapons_arifle_AKM74_F0;
+		recoil = "recoil_aks";
+		inertia = 0.5;
         magazines[]=
 		{
 			30Rnd_545x39_Mag_F,
@@ -30,6 +35,22 @@ class CfgWeapons
 		magazineWell[]=
 		{
 			AK_545x39
+		};
+		class WeaponSlotsInfo: WeaponSlotsInfo
+		{
+			class CowsSlot: CowsSlot_Dovetail
+			{
+				iconPosition[] = {0.55,0.38};
+				iconScale = 0.2;
+			};
+			class MuzzleSlot: MuzzleSlot_545R
+			{  
+				iconPosition[] = {-0.02,0.41};
+				iconScale = 0.2;
+			};
+			class UnderBarrelSlot{};
+			class PointerSlot{};
+			mass = 100;
 		};
         class Library
 		{

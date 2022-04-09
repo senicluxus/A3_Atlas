@@ -1131,3 +1131,353 @@ class Atlas_O_T_RadioOperator_F: Atlas_O_T_soldier_F
 };
 
 /* Men (Conscripts) */
+
+class Atlas_O_T_soldier_SL_conscript: Atlas_O_T_soldier_SL_F
+{
+	author = $STR_A3_A_Heliotrope;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_SL_conscript.jpg";
+	scope = public;
+    linkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+		DefaultManLinkedItems
+    };
+    respawnLinkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+		DefaultManLinkedItems
+    };
+    weapons[] =
+    {
+        arifle_SLR_V_lxWS,
+        hgun_Pistol_01_F,
+        DefaultManWeapons,
+        Binocular
+    };
+    respawnWeapons[] =
+    {
+        arifle_SLR_V_lxWS,
+        hgun_Pistol_01_F,
+        DefaultManWeapons,
+        Binocular
+    };
+    magazines[] =
+    {
+        mag_8(20Rnd_762x51_slr_lxWS),
+        mag_2(10Rnd_9x21_Mag),
+        mag_2(HandGrenade_Guer)
+    };
+    respawnMagazines[] =
+    {
+        mag_8(20Rnd_762x51_slr_lxWS),
+        mag_2(10Rnd_9x21_Mag),
+        mag_2(HandGrenade_Guer)
+    };
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+
+class Atlas_O_T_soldier_TL_conscript: Atlas_O_T_soldier_TL_F
+{
+	author = $STR_A3_A_Heliotrope;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_TL_conscript.jpg";
+	scope = public;
+    linkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+		DefaultManLinkedItems
+    };
+    respawnLinkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+		DefaultManLinkedItems
+    };
+    weapons[] =
+    {
+        arifle_SLR_V_GL_lxWS,
+        hgun_Pistol_01_F,
+        DefaultManWeapons,
+        Binocular
+    };
+    respawnWeapons[] =
+    {
+        arifle_SLR_V_GL_lxWS,
+        hgun_Pistol_01_F,
+        DefaultManWeapons,
+        Binocular
+    };
+    magazines[] =
+    {
+        mag_6(20Rnd_762x51_slr_lxWS),
+        mag_2(10Rnd_9x21_Mag),
+        mag_2(HandGrenade_Guer),
+        mag_3(1Rnd_40mm_HE_lxWS),
+        mag_2(1Rnd_58mm_AT_lxWS),
+        1Rnd_50mm_Smoke_lxWS
+    };
+    respawnMagazines[] =
+    {
+        mag_6(20Rnd_762x51_slr_lxWS),
+        mag_2(10Rnd_9x21_Mag),
+        mag_2(HandGrenade_Guer),
+        mag_3(1Rnd_40mm_HE_lxWS),
+        mag_2(1Rnd_58mm_AT_lxWS),
+        1Rnd_50mm_Smoke_lxWS
+    };
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+
+class Atlas_O_T_medic_conscript: Atlas_O_T_medic_F
+{
+	author = $STR_A3_A_Heliotrope;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_medic_conscript.jpg";
+	linkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+	respawnLinkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+	weapons[] =
+	{
+		arifle_AKM74_F,
+		DefaultManWeapons
+	};
+	respawnWeapons[] =
+	{
+		arifle_AKM74_F,
+		DefaultManWeapons
+	};
+    magazines[] =
+    {
+        mag_6(30Rnd_545x39_Mag_F),
+        mag_2(HandGrenade_Guer),
+        SmokeShell,
+        SMOKESHELLS_MEDIC
+    };
+    respawnMagazines[] =
+    {
+        mag_6(30Rnd_545x39_Mag_F),
+        mag_2(HandGrenade_Guer),
+        SmokeShell,
+        SMOKESHELLS_MEDIC
+    };
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+	backpack = B_FieldPack_semiarid_Medic_F;
+};
+class Atlas_O_T_soldier_1_conscript: Atlas_O_T_soldier_F
+{
+	author = $STR_A3_A_Heliotrope;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_conscript.jpg";
+	scope = public;
+	displayName = "Rifleman (AK-74)";
+    linkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+	respawnLinkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+    weapons[] =
+    {
+        arifle_AKM74_F,
+        DefaultManWeapons
+    };
+    respawnWeapons[] =
+    {
+        arifle_AKM74_F,
+        DefaultManWeapons
+    };
+    magazines[] =
+    {
+        mag_10(30Rnd_545x39_Mag_F),
+        mag_2(HandGrenade_Guer)
+    };
+    respawnMagazines[] =
+    {
+        mag_10(30Rnd_545x39_Mag_F),
+        mag_2(HandGrenade_Guer)
+    };
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class Atlas_O_T_soldier_2_conscript: Atlas_O_T_soldier_F
+{
+	author = $STR_A3_A_Heliotrope;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_conscript.jpg";
+	scope = public;
+	displayName = "Rifleman (SLR)";
+    linkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+	respawnLinkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+    weapons[] =
+    {
+        arifle_SLR_V_lxWS,
+        DefaultManWeapons
+    };
+    respawnWeapons[] =
+    {
+        arifle_SLR_V_lxWS,
+        DefaultManWeapons
+    };
+    magazines[] =
+    {
+        mag_8(20Rnd_762x51_slr_lxWS),
+        mag_2(HandGrenade_Guer)
+    };
+    respawnMagazines[] =
+    {
+        mag_8(20Rnd_762x51_slr_lxWS),
+        mag_2(HandGrenade_Guer)
+    };
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class B_FieldPack_semiarid_LAT_F;
+class B_FieldPack_semiarid_LAT_conscript: B_FieldPack_semiarid_LAT_F
+{
+	author = $STR_A3_A_Heliotrope;
+	class TransportMagazines
+	{
+		mag_xx(RPG7_F,3);
+	};
+};
+
+class Atlas_O_T_soldier_LAT_conscript: Atlas_O_T_soldier_LAT_F
+{
+	author = $STR_A3_A_Heliotrope;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_AT_conscript.jpg";
+	scope = public;
+    linkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+	respawnLinkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+	weapons[] =
+    {
+        arifle_AKM74_F,
+        launch_RPG7_F,
+        DefaultManWeapons
+    };
+	respawnWeapons[] =
+    {
+        arifle_AKM74_F,
+        launch_RPG7_F,
+        DefaultManWeapons
+    };
+    magazines[] =
+    {
+        mag_6(30Rnd_545x39_Mag_F),
+        RPG7_F,
+        mag_2(HandGrenade_Guer)
+    };
+    respawnMagazines[] =
+    {
+        mag_6(30Rnd_545x39_Mag_F),
+        RPG7_F,
+        mag_2(HandGrenade_Guer)
+    };
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+	backpack = B_FieldPack_semiarid_LAT_conscript;
+};
+class Atlas_O_T_soldier_M_conscript: Atlas_O_T_soldier_M_F
+{
+	author = $STR_A3_A_Heliotrope;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_M_conscript.jpg";
+    linkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+	respawnLinkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+    weapons[] =
+    {
+        arifle_SLR_V_KHS_old_lxWS,
+        DefaultManWeapons
+    };
+    respawnWeapons[] =
+    {
+        arifle_SLR_V_KHS_old_lxWS,
+        DefaultManWeapons
+    };
+    magazines[] =
+    {
+        mag_8(20Rnd_762x51_slr_lxWS),
+        mag_2(HandGrenade_Guer)
+    };
+    respawnMagazines[] =
+    {
+        mag_8(20Rnd_762x51_slr_lxWS),
+        mag_2(HandGrenade_Guer)
+    };
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class Atlas_O_T_soldier_AR_conscript: Atlas_O_T_soldier_base_F
+{
+	author = $STR_A3_A_Heliotrope;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_soldier_AR_conscript.jpg";
+    linkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+	respawnLinkedItems[] =
+    {
+        V_HarnessO_tan,
+        lxWS_H_ssh40_green,
+        DefaultManLinkedItems
+    };
+	weapons[] =
+	{
+		arifle_RPK_F,
+		DefaultManWeapons
+	};
+	respawnWeapons[] =
+	{
+		arifle_RPK_F,
+		DefaultManWeapons
+	};
+    magazines[] =
+    {
+        mag_8(75Rnd_762x39_Mag_Green_F)
+    };
+    respawnMagazines[] =
+    {
+        mag_8(75Rnd_762x39_Mag_Green_F)
+    };
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
