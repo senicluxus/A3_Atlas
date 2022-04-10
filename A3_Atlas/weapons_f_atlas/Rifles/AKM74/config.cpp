@@ -18,7 +18,7 @@ class CfgWeapons
     class arifle_AKM_F;
     class arifle_AKM74_F: arifle_AKM_F
     {
-        author = $STR_A3_A_Ravenholme;
+        author = "Grave";
         descriptionShort = $STR_A3_A_CfgWeapons_arifle_AKM74_base_F1;
         baseWeapon = arifle_AKM74_F;
         scope = public;

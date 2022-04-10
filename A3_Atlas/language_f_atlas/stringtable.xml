@@ -6049,6 +6049,57 @@
 						<Japanese>AK-74M 5.45 mm (Plum)</Japanese>
 						<Turkish>AK-74M 5.45 mm (Plum)</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_AKS_alt_F0">
+						<Original>AKS-74U 5.45 mm (Oak)</Original>
+						<Chinese>AKS-74U 5.45 mm (Oak)</Chinese>
+						<French>AKS-74U 5,45 mm (Oak)</French>
+						<Spanish>AKS-74U 5,45 mm (Oak)</Spanish>
+						<Italian>AKS-74U 5,45 mm (Oak)</Italian>
+						<Polish>AKS-74U 5,45 mm (Oak)</Polish>
+						<Russian>AKS-74U 5,45 мм (Oak)</Russian>
+						<German>AKS-74U 5.45 m (Oak)</German>
+						<Czech>AKS-74U 5,45 mm (Oak)</Czech>
+						<English>AKS-74U 5.45 mm (Oak)</English>
+						<Portuguese>AKS-74U 5.45 mm (Oak)</Portuguese>
+						<Korean>AKS-74U 5.45 mm (Oak)</Korean>
+						<Chinesesimp>AKS-74U 5.45 毫米 (Oak)</Chinesesimp>
+						<Japanese>AKS-74U 5.45 mm (Oak)</Japanese>
+						<Turkish>AKS-74U 5.45 mm (Oak)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_AKSM_F0">
+						<Original>AKS-74MU 5.45 mm</Original>
+						<Chinese>AKS-74MU 5.45 mm</Chinese>
+						<French>AKS-74MU 5,45 mm</French>
+						<Spanish>AKS-74MU 5,45 mm</Spanish>
+						<Italian>AKS-74MU 5,45 mm</Italian>
+						<Polish>AKS-74MU 5,45 mm</Polish>
+						<Russian>AKS-74MU 5,45 мм</Russian>
+						<German>AKS-74MU 5.45 mm</German>
+						<Czech>AKS-74MU 5,45 mm</Czech>
+						<English>AKS-74MU 5.45 mm</English>
+						<Portuguese>AKS-74MU 5.45 mm</Portuguese>
+						<Korean>AKS-74MU 5.45 mm</Korean>
+						<Chinesesimp>AKS-74MU 5.45 毫米</Chinesesimp>
+						<Japanese>AKS-74MU 5.45 mm</Japanese>
+						<Turkish>AKS-74MU 5.45 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_AKSM_alt_F0">
+						<Original>AKS-74MU 5.45 mm (Plum)</Original>
+						<Chinese>AKS-74MU 5.45 mm (Plum)</Chinese>
+						<French>AKS-74MU 5,45 mm (Plum)</French>
+						<Spanish>AKS-74MU 5,45 mm (Plum)</Spanish>
+						<Italian>AKS-74MU 5,45 mm (Plum)</Italian>
+						<Polish>AKS-74MU 5,45 mm (Plum)</Polish>
+						<Russian>AKS-74MU 5,45 мм (Plum)</Russian>
+						<German>AKS-74MU 5.45 mm (Plum)</German>
+						<Czech>AKS-74MU 5,45 mm (Plum)</Czech>
+						<English>AKS-74MU 5.45 mm (Plum)</English>
+						<Portuguese>AKS-74MU 5.45 mm (Plum)</Portuguese>
+						<Korean>AKS-74MU 5.45 mm (Plum)</Korean>
+						<Chinesesimp>AKS-74MU 5.45 毫米 (Plum)</Chinesesimp>
+						<Japanese>AKS-74MU 5.45 mm (Plum)</Japanese>
+						<Turkish>AKS-74MU 5.45 mm (Plum)</Turkish>
+					</Key>
 				</Container>
 				<Container name="Library">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_AUG_base_F_Library0">
