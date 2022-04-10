@@ -65,7 +65,7 @@ class Atlas_O_T_soldier_A_F: Atlas_O_T_soldier_base_F
 	linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
         DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -73,7 +73,7 @@ class Atlas_O_T_soldier_A_F: Atlas_O_T_soldier_base_F
 	respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
         DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -125,7 +125,7 @@ class Atlas_O_T_soldier_AR_F: Atlas_O_T_soldier_base_F
 	linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
         DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -133,7 +133,7 @@ class Atlas_O_T_soldier_AR_F: Atlas_O_T_soldier_base_F
 	respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
         DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -185,7 +185,7 @@ class Atlas_O_T_medic_F: Atlas_O_T_soldier_base_F
 	linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
         DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -193,7 +193,7 @@ class Atlas_O_T_medic_F: Atlas_O_T_soldier_base_F
 	respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
         DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -312,7 +312,7 @@ class Atlas_O_T_engineer_F: Atlas_O_T_soldier_base_F
     linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -320,7 +320,7 @@ class Atlas_O_T_engineer_F: Atlas_O_T_soldier_base_F
     respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -373,7 +373,7 @@ class Atlas_O_T_soldier_GL_F: Atlas_O_T_soldier_base_F
     linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -381,7 +381,7 @@ class Atlas_O_T_soldier_GL_F: Atlas_O_T_soldier_base_F
     respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -553,7 +553,7 @@ class Atlas_O_T_soldier_M_F: Atlas_O_T_soldier_base_F
     linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -561,7 +561,7 @@ class Atlas_O_T_soldier_M_F: Atlas_O_T_soldier_base_F
     respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -616,7 +616,7 @@ class Atlas_O_T_soldier_AA_F: Atlas_O_T_soldier_base_F
     linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -624,7 +624,7 @@ class Atlas_O_T_soldier_AA_F: Atlas_O_T_soldier_base_F
     respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -682,7 +682,7 @@ class Atlas_O_T_soldier_AT_F: Atlas_O_T_soldier_base_F
     linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -690,7 +690,7 @@ class Atlas_O_T_soldier_AT_F: Atlas_O_T_soldier_base_F
     respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -790,7 +790,7 @@ class Atlas_O_T_soldier_F: Atlas_O_T_soldier_base_F
     linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -798,7 +798,7 @@ class Atlas_O_T_soldier_F: Atlas_O_T_soldier_base_F
     respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -851,7 +851,7 @@ class Atlas_O_T_soldier_LAT_F: Atlas_O_T_soldier_base_F
     linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -859,7 +859,7 @@ class Atlas_O_T_soldier_LAT_F: Atlas_O_T_soldier_base_F
     respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -914,7 +914,7 @@ class Atlas_O_T_soldier_SL_F: Atlas_O_T_soldier_base_F
    linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -922,7 +922,7 @@ class Atlas_O_T_soldier_SL_F: Atlas_O_T_soldier_base_F
     respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -983,7 +983,7 @@ class Atlas_O_T_soldier_TL_F: Atlas_O_T_soldier_base_F
     linkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -991,7 +991,7 @@ class Atlas_O_T_soldier_TL_F: Atlas_O_T_soldier_base_F
     respawnLinkedItems[] =
     {
         V_HarnessOSpec_tan,
-        H_PASGT_basic_olive_F,
+        H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -1108,7 +1108,7 @@ class Atlas_O_T_RadioOperator_F: Atlas_O_T_soldier_F
 	linkedItems[] =
 	{
 		V_HarnessOSpec_tan,
-		H_PASGT_basic_olive_F,
+		H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
@@ -1116,7 +1116,7 @@ class Atlas_O_T_RadioOperator_F: Atlas_O_T_soldier_F
 	respawnLinkedItems[] =
 	{
 		V_HarnessOSpec_tan,
-		H_PASGT_basic_olive_F,
+		H_O_Helmet_canvas_semiarid,
         G_shemag_white,
 		DefaultManLinkedItems,
         NVGoggles_OPFOR
