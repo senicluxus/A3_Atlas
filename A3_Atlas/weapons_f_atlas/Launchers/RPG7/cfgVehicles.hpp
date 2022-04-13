@@ -22,5 +22,5 @@ class CfgVehicles
 {
 	// editor weapons
 	class Weapon_Base_F;
-	WEAPON_HOLDER(launch_RPG7M_F,$STR_A3_A_CfgWeapons_launch_RPG7M_F0,EdSubcat_Launchers,RPG7_F)
+	WEAPON_HOLDER(Atlas_launch_RPG7M_F,$STR_A3_A_CfgWeapons_launch_RPG7M_F0,EdSubcat_Launchers,RPG7_F)
 };
