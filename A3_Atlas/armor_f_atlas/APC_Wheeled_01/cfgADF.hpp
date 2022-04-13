@@ -263,7 +263,7 @@ class Atlas_B_A_APC_Wheeled_01_command_lxWS: APC_Wheeled_01_command_base_lxWS
 		"\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_tows_ADF_CO.paa",
             "\A3\Armor_f\Data\camonet_CSAT_Stripe_Desert_CO.paa",
             "\A3\Armor_F\Data\cage_sand_CO.paa",
-            "lxws\vehicles_f_lxws\data\APC_Wheeled_01\APC_Wheeled_01_lxws_CO.paa"
+            "\A3_Atlas\Armor_f_Atlas\APC_Wheeled_01\Data\APC_Wheeled_01_lxws_adf_co.paa"
       };
       textureList[] = {ADF, 1};
        /* Inventory */
