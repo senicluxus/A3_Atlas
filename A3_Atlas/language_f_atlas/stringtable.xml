@@ -3508,21 +3508,21 @@
 					<Turkish>Italy</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_OPF_T_F1">
-                    <Original>Takistani Army</Original>
-                    <Chinese>Takistani Army</Chinese>
-                    <French>Takistani Army</French>
-                    <Spanish>Takistani Army</Spanish>
-                    <Italian>Takistani Army</Italian>
-                    <Polish>Takistani Army</Polish>
-                    <Russian>Takistani Army</Russian>
-                    <German>Takistani Army</German>
-                    <Czech>Takistani Army</Czech>
-                    <English>Takistani Army</English>
-                    <Portuguese>Takistani Army</Portuguese>
-                    <Korean>Takistani Army</Korean>
-                    <Chinesesimp>Takistani Army</Chinesesimp>
-                    <Japanese>Takistani Army</Japanese>
-                    <Turkish>Takistani Army</Turkish>
+                    <Original>Takistan</Original>
+                    <Chinese>Takistan</Chinese>
+                    <French>Takistan</French>
+                    <Spanish>Takistan</Spanish>
+                    <Italian>Takistan</Italian>
+                    <Polish>Takistan</Polish>
+                    <Russian>Takistan</Russian>
+                    <German>Takistan</German>
+                    <Czech>Takistan</Czech>
+                    <English>Takistan</English>
+                    <Portuguese>Takistan</Portuguese>
+                    <Korean>Takistan</Korean>
+                    <Chinesesimp>Takistan</Chinesesimp>
+                    <Japanese>Takistan</Japanese>
+                    <Turkish>Takistan</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_OPF_V_F0">
                     <Original>Venezuela</Original>
