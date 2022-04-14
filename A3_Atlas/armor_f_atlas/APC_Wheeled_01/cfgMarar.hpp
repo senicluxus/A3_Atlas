@@ -1,6 +1,6 @@
 class Atlas_B_M_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 {
-	author = "BranFlakes";
+	author = $STR_A3_A_BranFlakes;
 	class SimpleObject
 	{
 		eden = true;
@@ -252,6 +252,7 @@ class Atlas_B_M_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 };
 class Atlas_B_M_APC_Wheeled_01_command_lxWS: APC_Wheeled_01_command_base_lxWS
 {
+    author = $STR_A3_A_BranFlakes;
     //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_APC_Wheeled_01_command_lxWS.jpg"; 
     side = TWest;
 	faction = Atlas_BLU_M_F;
@@ -297,6 +298,7 @@ class Atlas_B_M_APC_Wheeled_01_command_lxWS: APC_Wheeled_01_command_base_lxWS
 };
 class Atlas_B_M_APC_Wheeled_01_mortar_lxWS: APC_Wheeled_01_mortar_base_lxWS
 {
+    author = $STR_A3_A_BranFlakes;
     //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_APC_Wheeled_01_mortar_lxWS.jpg"; 
     side = TWest;
 	faction = Atlas_BLU_M_F;
@@ -342,6 +344,7 @@ class Atlas_B_M_APC_Wheeled_01_mortar_lxWS: APC_Wheeled_01_mortar_base_lxWS
 };
 class Atlas_B_M_APC_Wheeled_01_atgm_v2: APC_Wheeled_01_atgm_base_v2
 {
+    author = $STR_A3_A_BranFlakes;
     scope = public;
     scopeCurator = public;
     //editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_M_APC_Wheeled_01_atgm_v2.jpg"; 
