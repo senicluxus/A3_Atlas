@@ -716,3 +716,28 @@ class Atlas_O_T_Truck_02_flatbed_F: Truck_02_flatbed_base_lxWS
 	"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 	};
 };
+class Atlas_O_T_Truck_02_aa_lxWS: Truck_02_aa_base_lxWS
+{
+	author = $STR_A3_A_Ravenholme;
+	scope = public;
+	scopeCurator = public;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_Truck_02_aa_lxWS.jpg";
+	side = TEast;
+	faction = Atlas_OPF_T_F;
+	crew = Atlas_O_T_soldier_F;
+	typicalCargo[] = {Atlas_O_T_soldier_F};
+	textureList[] = {Opfor,1};
+	animationList[] = {"hideSpareWheel",0.5, "hideBumper",1, "hideWindowProtector",0, "hideCrates",0, "shield_hide", 1};
+};
+class O_Truck_02_MRL_F;
+class Atlas_O_T_Truck_02_MRL_F: O_Truck_02_MRL_F
+{
+	author = $STR_A3_A_Ravenholme;
+	scope = public;
+	scopeCurator = public;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_O_T_Truck_02_MRL_F.jpg";
+	side = TEast;
+	faction = Atlas_OPF_T_F;
+	crew = Atlas_O_T_soldier_F;
+	typicalCargo[] = {Atlas_O_T_soldier_F};
+};

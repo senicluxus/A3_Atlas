@@ -374,6 +374,7 @@ class CfgVehicles
 			};
 		};
 	};*/
+	class Truck_02_aa_base_lxWS;
 
 	class O_Truck_02_covered_F;
     class O_Truck_02_transport_F;
