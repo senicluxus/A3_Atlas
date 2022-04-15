@@ -184,6 +184,16 @@ class CfgPatches
             Atlas_O_T_soldier_M_F,
             Atlas_O_T_soldier_SL_F,
             Atlas_O_T_soldier_TL_F,
+            Atlas_O_T_soldier_SL_conscript_F,
+            Atlas_O_T_soldier_TL_conscript_F,
+            Atlas_O_T_medic_conscript_F,
+            Atlas_O_T_soldier_1_conscript_F,
+            Atlas_O_T_soldier_2_conscript_F,
+            Atlas_O_T_soldier_LAT_conscript_F,
+            Atlas_O_T_soldier_M_conscript_F,
+            Atlas_O_T_soldier_AR_conscript_F,
+            Atlas_O_T_RadioOperator_conscript_F,
+            Atlas_O_T_Soldier_GL_Conscript_F,
 
             // HIMF
             Atlas_B_H_Crew_F,
