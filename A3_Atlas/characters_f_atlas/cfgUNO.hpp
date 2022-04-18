@@ -933,13 +933,13 @@ class Atlas_I_UNO_wdl_Soldier_A_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIA2_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIA2_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -991,13 +991,13 @@ class Atlas_I_UNO_wdl_Soldier_AR_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIA2_grn,
+		V_CF_CarrierRig_MG_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIA2_grn,
+		V_CF_CarrierRig_MG_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1053,13 +1053,13 @@ class Atlas_I_UNO_wdl_Medic_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIA2_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIA2_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1105,13 +1105,13 @@ class Atlas_I_UNO_wdl_Engineer_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIAGL_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIAGL_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1153,13 +1153,13 @@ class Atlas_I_UNO_wdl_Soldier_GL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIAGL_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIAGL_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1358,13 +1358,13 @@ class Atlas_I_UNO_wdl_soldier_M_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1462,13 +1462,13 @@ class Atlas_I_UNO_wdl_Soldier_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1525,13 +1525,13 @@ class Atlas_I_UNO_wdl_Soldier_LAT_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIA2_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIA2_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1582,13 +1582,13 @@ class Atlas_I_UNO_wdl_Soldier_SL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1644,13 +1644,13 @@ class Atlas_I_UNO_wdl_Soldier_TL_F: Atlas_I_UNO_wdl_Soldier_Base_F
 	};
 	linkedItems[] =
 	{
-		V_PlateCarrierIAGL_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIAGL_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1686,13 +1686,13 @@ class Atlas_I_UNO_wdl_RadioOperator_F: Atlas_I_UNO_wdl_Soldier_F
     };
 	linkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_F,
 		H_HelmetSpecter_cover_UNO_F,
 		DefaultManLinkedItems
 	};
@@ -1732,14 +1732,14 @@ class Atlas_I_UNO_wdl_Soldier_UAV_F: Atlas_I_UNO_wdl_Soldier_Base_F
     };
 	linkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		I_UavTerminal,
 		DefaultManLinkedItems
 	};
 	respawnLinkedItems[] =
 	{
-		V_PlateCarrierIA1_grn,
+		V_CF_CarrierRig_Lite_F,
 		H_HelmetSpecter_cover_UNO_F,
 		I_UavTerminal,
 		DefaultManLinkedItems
