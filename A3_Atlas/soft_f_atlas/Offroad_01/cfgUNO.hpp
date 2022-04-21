@@ -2,7 +2,7 @@
 class Atlas_I_UNO_Offroad_01_F: I_G_Offroad_01_F
 {
     author = $STR_A3_A_Ravenholme;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Offroad_01_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Offroad_01_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TGuerrila;
@@ -39,7 +39,7 @@ class Atlas_I_UNO_Offroad_01_F: I_G_Offroad_01_F
 class Atlas_I_UNO_Offroad_armed_01_F: Offroad_01_armed_base_F
 {
     author = $STR_A3_A_Ravenholme;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Offroad_armed_01_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Offroad_armed_01_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TGuerrila;
@@ -76,7 +76,7 @@ class Atlas_I_UNO_Offroad_armed_01_F: Offroad_01_armed_base_F
 class Atlas_I_UNO_Offroad_01_covered_F: Offroad_01_military_covered_base_F
 {
 	author = $STR_A3_A_Ravenholme;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Offroad_covered_01_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Offroad_01_covered_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	accuracy = 1.25;
@@ -120,7 +120,7 @@ class Atlas_I_UNO_Offroad_01_covered_F: Offroad_01_military_covered_base_F
 class Atlas_I_UNO_Offroad_01_comms_F: Offroad_01_military_comms_base_F
 {
 	author = $STR_A3_A_Ravenholme;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Offroad_comms_01_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Offroad_01_comms_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	accuracy = 1.25;

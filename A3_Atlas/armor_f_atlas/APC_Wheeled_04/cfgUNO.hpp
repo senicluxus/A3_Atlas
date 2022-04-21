@@ -1,7 +1,7 @@
 class Atlas_I_UNO_APC_Wheeled_04_cannon_F: O_R_APC_Wheeled_04_cannon_F
 {
     author = $STR_A3_A_AveryTheKitty_and_Lakarak;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_APC_Wheeled_04_cannon_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_APC_Wheeled_04_cannon_F.jpg";
 	scope = public;
 	scopeCurator = public;
     forceInGarage = false;

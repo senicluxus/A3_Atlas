@@ -3,7 +3,7 @@
 class Atlas_I_UNO_Heli_Light_02_dynamicLoadout_F: O_Heli_Light_02_dynamicLoadout_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_UNO_Heli_Light_02_dynamicLoadout_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Heli_Light_02_dynamicLoadout_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TGuerrila;
@@ -26,7 +26,7 @@ class Atlas_I_UNO_Heli_Light_02_dynamicLoadout_F: O_Heli_Light_02_dynamicLoadout
 class Atlas_I_UNO_Heli_Light_02_unarmed_F: O_Heli_Light_02_unarmed_F
 {
 	author = $STR_A3_A_BranFlakes;
-	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\I_UNO_Heli_Light_02_unarmed_F.jpg";
+	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_I_UNO_Heli_Light_02_unarmed_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	scopeArsenal = private;
