@@ -407,6 +407,31 @@ class Atlas_I_I_CombatFatigues_01_RolledUp_olive_F: I_soldier_lite_F
 	uniformClass = Atlas_U_I_I_CombatUniform_shortsleeve_olive;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\I_I_Soldier_01_CO.paa"};
 };
+class Atlas_I_I_CombatFatigues_02_olive_F: B_Soldier_F
+{
+  	scope = protected;
+  	scopeCurator = private;
+	uniformClass = Atlas_U_I_I_SFUniform_olive ;
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_idfsf_CO.paa"};
+};
+class Atlas_I_I_CombatFatigues_02_RolledUp_olive_F: B_Soldier_SL_F
+{
+  	scope = protected;
+  	scopeCurator = private;
+	uniformClass = Atlas_U_I_I_CombatUniform_shortsleeve_olive;
+	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_idfsf_CO.paa"};
+};
+class Atlas_I_I_CombatFatigues_02_Tshirt_olive_F: B_Soldier_AR_F
+{
+  	scope = protected;
+  	scopeCurator = private;
+	uniformClass = Atlas_U_I_I_SFUniform_tee_olive;
+	hiddenSelectionsTextures[] =
+	{
+		"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_idfsf_CO.paa",
+		"a3\Characters_F_Enoch\Uniforms\Data\basicbody_wdl_co.paa"
+	};
+};
 class I_sniper_F;
 class Atlas_I_I_GhillieSuit_01_F: I_sniper_F
 {

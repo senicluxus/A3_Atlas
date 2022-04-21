@@ -105,6 +105,22 @@ class CfgWeapons
 	  	picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetSpecB_light_green_CA.paa";
 	  	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\equip1_green_CO.paa"};
 	};
+	class H_HelmetB_light_idfsf: H_HelmetB_light
+	{
+	  	author = $STR_A3_A_AveryTheKitty;
+		displayName = "IDF SF Helmet fuck yeah";
+	  	picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetB_light_green_CA.paa";
+	  	hiddenSelectionsMaterials[]	= {"\A3_atlas\Characters_F_atlas\Headgear\Data\H_OPSCORE.rvmat"};
+	  	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\idfsf_helmet_CO.paa"};
+	};
+	class H_HelmetSpecB_light_idfsf: H_HelmetSpecB_light
+	{
+	  	author = $STR_A3_A_AveryTheKitty;
+		displayName = "IDF SF Helmet fuck yeah 2";
+	  	picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetSpecB_light_green_CA.paa";
+	  	hiddenSelectionsMaterials[]	= {"\A3_atlas\Characters_F_atlas\Headgear\Data\H_OPSCORE.rvmat"};
+	  	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\idfsf_helmet_CO.paa"};
+	};
 	class H_O_Helmet_canvas_owcamo: H_HelmetIA
 	{
 	  	author = $STR_A3_A_AveryTheKitty;

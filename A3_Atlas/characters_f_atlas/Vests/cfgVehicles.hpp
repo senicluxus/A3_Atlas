@@ -32,6 +32,7 @@ class CfgVehicles
 	VEST_HOLDER(V_SmershVest_01_radio_khaki_F,$STR_A3_A_CfgWeapons_V_SmershVest_01_radio_khaki_F0)
 	VEST_HOLDER(V_SmershVest_01_olive_F,$STR_A3_A_CfgWeapons_V_SmershVest_01_olive_F0)
 	VEST_HOLDER(V_SmershVest_01_radio_olive_F,$STR_A3_A_CfgWeapons_V_SmershVest_01_radio_olive_F0)
+	VEST_HOLDER(V_CarrierRigKBT_01_light_idfsf_F,"Modular Carrier Light [IDF]")
     /*
 	VEST_HOLDER(V_RebreatherB_O,$STR_A3_A_CfgWeapons_V_RebreatherB_O0)
     */
