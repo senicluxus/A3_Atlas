@@ -253,7 +253,7 @@ class Atlas_B_G_APC_Wheeled_03_cannon_F: I_APC_Wheeled_03_cannon_F
 		mag_xx(SmokeShellGreen,8);
 		mag_xx(SmokeShellOrange,8);
 		mag_xx(SmokeShellBlue,8);
-		mag_xx(MRAWS_HEAT_F,5);
+		mag_xx(NLAW_F,4);
 		mag_xx(Titan_AT,2);
 		mag_xx(Titan_AP,2);
 		mag_xx(Titan_AA,2);

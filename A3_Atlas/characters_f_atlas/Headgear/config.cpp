@@ -108,7 +108,7 @@ class CfgWeapons
 	class H_HelmetB_light_idfsf: H_HelmetB_light
 	{
 	  	author = $STR_A3_A_AveryTheKitty;
-		displayName = "IDF SF Helmet fuck yeah";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetB_idfsf0;
 	  	picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetB_light_green_CA.paa";
 	  	hiddenSelectionsMaterials[]	= {"\A3_atlas\Characters_F_atlas\Headgear\Data\H_OPSCORE.rvmat"};
 	  	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\idfsf_helmet_CO.paa"};
@@ -116,7 +116,7 @@ class CfgWeapons
 	class H_HelmetSpecB_light_idfsf: H_HelmetSpecB_light
 	{
 	  	author = $STR_A3_A_AveryTheKitty;
-		displayName = "IDF SF Helmet fuck yeah 2";
+		displayName = $STR_A3_A_CfgWeapons_H_HelmetSpecB_light_idfsf0;
 	  	picture = "\A3_Atlas\Characters_F_Atlas\Headgear\Data\UI\icon_H_HelmetSpecB_light_green_CA.paa";
 	  	hiddenSelectionsMaterials[]	= {"\A3_atlas\Characters_F_atlas\Headgear\Data\H_OPSCORE.rvmat"};
 	  	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Headgear\Data\idfsf_helmet_CO.paa"};

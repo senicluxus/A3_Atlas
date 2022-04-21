@@ -41,7 +41,7 @@ class CfgWeapons
 	{
 		author = $STR_A3_A_BranFlakes;
 		scope = public;
-		displayName = "Modular Carrier Light [IDF]";
+		displayName = $STR_A3_A_CfgWeapons_V_CarrierRigKBT_01_light_idfsf_F0;
 		//picture = "\A3_Revolucion\Characters_F_Revolucion\Vests\Data\UI\V_CarrierRigKBT_01_light_ctrg_F_CA.paa";
 		hiddenSelectionsMaterials[] = {"\A3_Atlas\Characters_F_Atlas\vests\Data\vest_idfsf.rvmat"};
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\CarrierRigKBT_01_flag_CO.paa"};

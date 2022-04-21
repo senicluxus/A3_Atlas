@@ -126,7 +126,7 @@ class Atlas_U_I_I_SFUniform_olive: Uniform_Base
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = public;
-	displayName = "Operator Fatigues [IDF]";
+	displayName = $STR_A3_A_CfgWeapons_Atlas_U_I_I_SFUniform_olive0;
 	picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_I_CombatUniform_olive_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
@@ -143,7 +143,7 @@ class Atlas_U_I_I_SFUniform_shortsleeve_olive: Uniform_Base
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = public;
-	displayName = "Operator Fatigues [IDF, Rolled-up]";
+	displayName = $STR_A3_A_CfgWeapons_Atlas_U_I_I_SFUniform_shortsleeve_olive0;
 	picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_I_CombatUniform_shortsleeve_olive_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
@@ -160,7 +160,7 @@ class Atlas_U_I_I_SFUniform_tee_olive: Uniform_Base
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = public;
-	displayName = "Operator Fatigues [IDF, Tee]";
+	displayName = $STR_A3_A_CfgWeapons_Atlas_U_I_I_SFUniform_tee_olive0;
 	picture = "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\UI\icon_U_I_I_CombatUniform_shortsleeve_olive_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};

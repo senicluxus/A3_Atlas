@@ -36,7 +36,7 @@ class Atlas_B_G_MRAP_03_F: MRAP_03_base_F
 		weap_xx(arifle_G36_F,2);
 	};
 };
-class Atlas_B_G_MRAP_03_gmg_F: MRAP_03_hmg_base_F
+class Atlas_B_G_MRAP_03_hmg_F: MRAP_03_hmg_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_E_MRAP_03_hmg_F.jpg";
@@ -82,7 +82,7 @@ class Atlas_B_G_MRAP_03_gmg_F: MRAP_03_hmg_base_F
 		weap_xx(arifle_G36_F,2);
 	};
 };
-class Atlas_B_G_MRAP_03_hmg_F: MRAP_03_gmg_base_F
+class Atlas_B_G_MRAP_03_gmg_F: MRAP_03_gmg_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_E_MRAP_03_gmg_F.jpg";

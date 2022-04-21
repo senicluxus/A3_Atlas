@@ -2060,6 +2060,7 @@ class Atlas_I_I_Soldier_recon_base: Atlas_I_I_Soldier_Base_F
     textSingular = $STR_A3_nameSound_veh_infantry_SF_s;
     textPlural = $STR_A3_nameSound_veh_infantry_SF_p;
     nameSound = veh_infantry_SF_s;
+	uniformClass = Atlas_U_I_I_SFUniform_olive;
 	identityTypes[] =
 	{
 		LanguageGRE_F,
@@ -2091,7 +2092,7 @@ class Atlas_I_I_recon_AR_F: Atlas_I_I_Soldier_recon_base
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_A3_C_O_R_recon_AR_F0;
-	uniformClass = Atlas_U_I_I_CombatUniform_shortsleeve_olive;
+	uniformClass = Atlas_U_I_I_SFUniform_tee_olive;
 	items[] =
 	{
 		FirstAidKit,
@@ -2104,19 +2105,19 @@ class Atlas_I_I_recon_AR_F: Atlas_I_I_Soldier_recon_base
 	};
 	linkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
     {
@@ -2158,25 +2159,25 @@ class Atlas_I_I_recon_exp_F: Atlas_I_I_Soldier_recon_base
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_B_recon_exp_F0;
-	uniformClass = Atlas_U_I_I_CombatUniform_shortsleeve_olive;
+	uniformClass = Atlas_U_I_I_SFUniform_shortsleeve_olive;
 	backpack = B_Kitbag_blk_IIReconExp_F;
 	linkedItems[] =
 	{
-		V_TacVest_blk,
-		H_Watchcap_khk_hs,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetB_light_idfsf,
 		G_Shemag_tan,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
-		V_TacVest_blk,
-		H_Watchcap_khk_hs,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetB_light_idfsf,
 		G_Shemag_tan,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
     {
@@ -2223,19 +2224,19 @@ class Atlas_I_I_recon_GL_F: Atlas_I_I_Soldier_recon_base
 	displayName = $STR_A3_C_O_R_recon_GL_F0;
 	linkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetSpecB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetSpecB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
     {
@@ -2279,23 +2280,23 @@ class Atlas_I_I_recon_JTAC_F: Atlas_I_I_Soldier_recon_base
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_B_recon_JTAC_F0;
-	uniformClass = Atlas_U_I_I_CombatUniform_shortsleeve_olive;
+	uniformClass = Atlas_U_I_I_SFUniform_shortsleeve_olive;
 	backpack = B_RadioBag_01_black_F;
 	linkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetSpecB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetSpecB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
     {
@@ -2365,21 +2366,21 @@ class Atlas_I_I_recon_M_F: Atlas_I_I_Soldier_recon_base
 	};
 	linkedItems[] =
 	{
-		V_TacVest_blk,
+		V_CarrierRigKBT_01_light_idfsf_F,
 		H_Booniehat_mgrn_hs,
 		G_Bandanna_oli,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
-		V_TacVest_blk,
+		V_CarrierRigKBT_01_light_idfsf_F,
 		H_Booniehat_mgrn_hs,
 		G_Bandanna_oli,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
     {
@@ -2425,23 +2426,23 @@ class Atlas_I_I_recon_medic_F: Atlas_I_I_Soldier_recon_base
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_B_recon_medic_F0;
-	uniformClass = Atlas_U_I_I_CombatUniform_shortsleeve_olive;
+	uniformClass = Atlas_U_I_I_SFUniform_shortsleeve_olive;
 	backpack = B_AssaultPack_blk_IIReconMedic_F;
 	linkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
     {
@@ -2486,22 +2487,22 @@ class Atlas_I_I_recon_F: Atlas_I_I_Soldier_recon_base
     scope = public;
     scopeCurator = public;
     displayName = $STR_B_recon_F0;
-	uniformClass = Atlas_U_I_I_CombatUniform_shortsleeve_olive;
+	uniformClass = Atlas_U_I_I_SFUniform_shortsleeve_olive;
 	linkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetSpecB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetSpecB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
     {
@@ -2544,19 +2545,19 @@ class Atlas_I_I_recon_LAT_F: Atlas_I_I_Soldier_recon_base
 	backpack = B_AssaultPack_blk_IIReconLAT_F;
 	linkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
     {
@@ -2603,22 +2604,22 @@ class Atlas_I_I_recon_TL_F: Atlas_I_I_Soldier_recon_base
 	scope = public;
 	scopeCurator = public;
 	displayName = $STR_B_recon_TL_F0;
-	uniformClass = Atlas_U_I_I_CombatUniform_shortsleeve_olive;
+	uniformClass = Atlas_U_I_I_SFUniform_shortsleeve_olive;
 	linkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetSpecB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
-		V_TacVest_blk,
-		H_HelmetSpecter_black_headset_F,
+		V_CarrierRigKBT_01_light_idfsf_F,
+		H_HelmetSpecB_light_idfsf,
 		ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
     {
@@ -2733,14 +2734,14 @@ class Atlas_I_I_spotter_F: Atlas_I_I_Soldier_sniper_base
 		V_TacChestrig_oli_F,
         ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
 		V_TacChestrig_oli_F,
         ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
     weapons[] =
     {
@@ -2808,14 +2809,14 @@ class Atlas_I_I_sniper_F: Atlas_I_I_Soldier_sniper_base
 		V_TacChestrig_oli_F,
         ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	respawnLinkedItems[] =
 	{
 		V_TacChestrig_oli_F,
         ItemGPS,
 		DefaultManLinkedItems,
-		NVGoggles_OPFOR
+		NVGogglesB_grn_F
 	};
 	weapons[] =
 	{
