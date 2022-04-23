@@ -2717,6 +2717,57 @@
 					<Japanese>Operator Fatigues [IDF] (Tee)</Japanese>
 					<Turkish>Operator Fatigues [IDF] (Tee)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_GhillieSuit0">
+					<Original>Ghillie Suit [ADF]</Original>
+					<Chinese>偽裝服（ADF）</Chinese>
+					<French>Combinaison de camouflage [ADF]</French>
+					<Spanish>Traje de camuflaje [ADF]</Spanish>
+					<Italian>Mimetica da cecchino [ADF]</Italian>
+					<Polish>Ghillie [ADF]</Polish>
+					<Russian>Маскировочный костюм [ADF]</Russian>
+					<German>Ghillie-Anzug [ADF]</German>
+					<Czech>Hejkal [ADF]</Czech>
+					<English>Ghillie Suit [ADF]</English>
+					<Portuguese>Traje ghillie [ADF]</Portuguese>
+					<Korean>위장복[ADF]</Korean>
+					<Chinesesimp>吉利服[ADF]</Chinesesimp>
+					<Japanese>ギリースーツ[ADF]</Japanese>
+					<Turkish>Ghillie Kostümü [ADF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_GhillieSuit_Arid0">
+					<Original>Ghillie Suit [ADF] (Arid)</Original>
+					<Chinese>偽裝服（ADF）(Arid)</Chinese>
+					<French>Combinaison de camouflage [ADF] (Arid)</French>
+					<Spanish>Traje de camuflaje [ADF] (Arid)</Spanish>
+					<Italian>Mimetica da cecchino [ADF] (Arid)</Italian>
+					<Polish>Ghillie [ADF] (Arid)</Polish>
+					<Russian>Маскировочный костюм [ADF] (Arid)</Russian>
+					<German>Ghillie-Anzug [ADF] (Arid)</German>
+					<Czech>Hejkal [ADF] (Arid)</Czech>
+					<English>Ghillie Suit [ADF] (Arid)</English>
+					<Portuguese>Traje ghillie [ADF] (Arid)</Portuguese>
+					<Korean>위장복[ADF] (Arid)</Korean>
+					<Chinesesimp>吉利服[ADF] (Arid)</Chinesesimp>
+					<Japanese>ギリースーツ[ADF] (Arid)</Japanese>
+					<Turkish>Ghillie Kostümü [ADF] (Arid)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_A_GhillieSuit_Tropical0">
+					<Original>Ghillie Suit [ADF] (Tropic)</Original>
+					<Chinese>偽裝服（ADF）(Tropic)</Chinese>
+					<French>Combinaison de camouflage [ADF] (Tropic)</French>
+					<Spanish>Traje de camuflaje [ADF] (Tropic)</Spanish>
+					<Italian>Mimetica da cecchino [ADF] (Tropic)</Italian>
+					<Polish>Ghillie [ADF] (Tropic)</Polish>
+					<Russian>Маскировочный костюм [ADF] (Tropic)</Russian>
+					<German>Ghillie-Anzug [ADF] (Tropic)</German>
+					<Czech>Hejkal [ADF] (Tropic)</Czech>
+					<English>Ghillie Suit [ADF] (Tropic)</English>
+					<Portuguese>Traje ghillie [ADF] (Tropic)</Portuguese>
+					<Korean>위장복[ADF] (Tropic)</Korean>
+					<Chinesesimp>吉利服[ADF] (Tropic)</Chinesesimp>
+					<Japanese>ギリースーツ[ADF] (Tropic)</Japanese>
+					<Turkish>Ghillie Kostümü [ADF] (Tropic)</Turkish>
+				</Key>
 			</Container>
 			<Container name="Vests">
 				<Key ID="STR_A3_A_CfgWeapons_V_HarnessO_tan0">

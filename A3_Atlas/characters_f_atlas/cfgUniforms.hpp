@@ -1,3 +1,16 @@
+/* Base Classes from A3 + DLC */
+class I_sniper_F;
+class I_G_Soldier_M_F;
+class C_man_p_fugitive_F;
+class I_E_Uniform_01_F;
+class I_E_Uniform_01_tanktop_F;
+class I_E_Uniform_01_shortsleeve_F;
+class B_Soldier_04_f;
+class I_Story_Crew_F;
+class I_E_Uniform_01_officer_F;
+class I_officer_F;
+class I_diver_F;
+
 /* From "cfgCivil.hpp" */
 class Atlas_C_Uniform_01_shirt_base_F: Civilian_F
 {
@@ -51,7 +64,6 @@ class Atlas_C_Uniform_01_shirt_white_F: Atlas_C_Uniform_01_shirt_base_F
         "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\U_C_Uniform_01_shirt_white_F_2_CO.paa"
     };
 };
-class I_G_Soldier_M_F;
 class Atlas_C_CommonerJacket_01_marroon_F: I_G_Soldier_M_F
 {
 	scope = protected;
@@ -69,7 +81,6 @@ class Atlas_C_CommonerJacket_01_grey_F: Atlas_C_CommonerJacket_01_marroon_F
 	uniformClass = Atlas_U_C_CommonerJacket_01_grey_F;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\U_C_CommonerJacket_01_grey_F_CO.paa"};
 };
-class C_man_p_fugitive_F;
 class Atlas_C_Uniform_01_tshirt_white_F: C_man_p_fugitive_F
 {
 	scope = protected;
@@ -160,7 +171,6 @@ class Atlas_B_ReconFatigues_01_sage_F: B_Soldier_SL_F
 };
 
 /* From "cfgGER.hpp" */
-class I_E_Uniform_01_F;
 class Atlas_B_G_CombatFatigues_01_wdl_F: I_E_Uniform_01_F
 {
   	scope = protected;
@@ -174,7 +184,6 @@ class Atlas_B_G_CombatFatigues_01_wdl_F: I_E_Uniform_01_F
 		"\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa"
 	};
 };
-class I_E_Uniform_01_tanktop_F;
 class Atlas_B_G_CombatFatigues_01_Tshirt_wdl_F: I_E_Uniform_01_tanktop_F
 {
   	scope = protected;
@@ -189,7 +198,7 @@ class Atlas_B_G_CombatFatigues_01_Tshirt_wdl_F: I_E_Uniform_01_tanktop_F
 		"\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa"
 	};
 };
-class I_E_Uniform_01_shortsleeve_F;
+
 class Atlas_B_G_CombatFatigues_01_RolledUp_wdl_F: I_E_Uniform_01_shortsleeve_F
 {
   	scope = protected;
@@ -202,7 +211,7 @@ class Atlas_B_G_CombatFatigues_01_RolledUp_wdl_F: I_E_Uniform_01_shortsleeve_F
 		// "\A3_Aegis\Characters_F_Aegis\Uniforms\Data\clothing_mcam_wdl_CO.paa"
 	};
 };
-class B_Soldier_04_f;
+
 class Atlas_B_G_Coveralls_01_F: B_Soldier_04_f
 {
   	scope = protected;
@@ -210,7 +219,6 @@ class Atlas_B_G_Coveralls_01_F: B_Soldier_04_f
 	uniformClass = Atlas_U_B_G_HeliPilotCoveralls;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\coveralls_green_CO.paa"};
 };
-class I_Story_Crew_F;
 class Atlas_B_G_TankerCoveralls_01_F: I_Story_Crew_F
 {
   	scope = protected;
@@ -312,6 +320,57 @@ class Atlas_B_A_CBRN_Man_Oversuit_01_Aucamo_F: B_CBRN_Man_Oversuit_01_MTP_F
 	uniformClass = Atlas_U_B_A_CBRN_Suit_01_Aucamo_F;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\CBRN_Suit_01_Aucamo_CO.paa"};
 };
+class Atlas_B_A_GhillieSuit_01_F: I_sniper_F
+{
+  	scope = protected;
+  	scopeCurator = private;
+	uniformClass = Atlas_U_B_A_GhillieSuit;
+	hiddenSelections[] =
+    {
+		camo,
+		camo3,
+		insignia
+    };
+	hiddenSelectionsTextures[] =
+    {
+        "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_CO.paa",
+        "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\ghillie_olive_CO.paa"
+    };
+};
+class Atlas_B_A_GhillieSuit_01_ard_F: I_sniper_F
+{
+  	scope = protected;
+  	scopeCurator = private;
+	uniformClass = Atlas_U_B_A_GhillieSuit_arid;
+	hiddenSelections[] =
+    {
+		camo,
+		camo3,
+		insignia
+    };
+	hiddenSelectionsTextures[] =
+    {
+        "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_ard_CO.paa",
+        "\A3\characters_f\Common\Data\ghillie_desert_CO.paa"
+    };
+};
+class Atlas_B_A_GhillieSuit_01_trp_F: I_sniper_F
+{
+  	scope = protected;
+  	scopeCurator = private;
+	uniformClass = Atlas_U_B_A_GhillieSuit_tropical;
+	hiddenSelections[] =
+    {
+		camo,
+		camo3,
+		insignia
+    };
+	hiddenSelectionsTextures[] =
+    {
+        "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\B_A_Soldier_01_trp_CO.paa",
+        "\A3\characters_f_Exp\BLUFOR\Data\U_BT_sniper_F_tna_co.paa"
+    };
+};
 
 /* From "cfgHIMF.hpp" */
 class Atlas_B_H_CombatFatigues_01_jungle_F: I_E_Uniform_01_F
@@ -374,7 +433,6 @@ class Atlas_B_H_CombatFatigues_01_RolledUp_jungle_F: I_E_Uniform_01_shortsleeve_
 		"\A3\Characters_F_Beta\INDEP\Data\IA_Soldier_01_clothing.rvmat"
 	};
 };
-class I_E_Uniform_01_officer_F;
 class Atlas_B_H_OfficerFatigues_01_jungle_F: I_E_Uniform_01_officer_F
 {
   	scope = protected;
@@ -432,7 +490,6 @@ class Atlas_I_I_CombatFatigues_02_Tshirt_olive_F: B_Soldier_AR_F
 		"a3\Characters_F_Enoch\Uniforms\Data\basicbody_wdl_co.paa"
 	};
 };
-class I_sniper_F;
 class Atlas_I_I_GhillieSuit_01_F: I_sniper_F
 {
   	scope = protected;
@@ -450,7 +507,6 @@ class Atlas_I_I_GhillieSuit_01_F: I_sniper_F
         "\A3_Atlas\Characters_F_Atlas\Uniforms\Data\ghillie_olive_CO.paa"
     };
 };
-class I_officer_F;
 class Atlas_I_I_OfficerFatigues_01_F: I_officer_F
 {
   	scope = protected;
@@ -480,7 +536,6 @@ class Atlas_I_I_Coveralls_01_olive_F: I_Story_Crew_F
 	uniformClass = Atlas_U_Tank_olive_F;
 	hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\U_Tank_olive_CO.paa"};
 };
-class I_diver_F;
 class Atlas_I_I_Wetsuit_01_F: I_diver_F
 {
   	scope = protected;

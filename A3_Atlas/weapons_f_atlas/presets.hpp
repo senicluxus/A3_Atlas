@@ -1517,3 +1517,52 @@ class atlas_LMG_03_Holo_blk_F: LMG_03_F
 		};
 	};
 };
+
+// AUR-90 (Black) 5.56 mm + MRCO + Laser Pointer + Silencer
+class arifle_AUG_black_F;
+class arifle_AUG_black_MRCO_Snds_IR_F: arifle_AUG_black_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_MRCO;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+		class LinkedItemsMuzzle
+		{
+			slot = MuzzleSlot;
+			item = muzzle_snds_M;
+		};
+	};
+};
+// AUR-90 5.56 mm + MRCO + Laser Pointer + Silencer
+class arifle_AUG_F;
+class arifle_AUG_MRCO_Snds_IR_F: arifle_AUG_F
+{
+	author = $STR_A3_A_Ravenholme;
+	class LinkedItems
+	{
+		class LinkedItemsOptic
+		{
+			slot = CowsSlot;
+			item = optic_MRCO;
+		};
+		class LinkedItemsAcc
+		{
+			slot = PointerSlot;
+			item = acc_pointer_IR;
+		};
+		class LinkedItemsMuzzle
+		{
+			slot = MuzzleSlot;
+			item = muzzle_snds_M_snd_F;
+		};
+	};
+};

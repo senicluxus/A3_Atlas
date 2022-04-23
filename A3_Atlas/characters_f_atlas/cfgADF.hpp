@@ -2191,6 +2191,202 @@ class Atlas_B_A_diver_TL_F: Atlas_B_A_Soldier_diver_base
     cost = 430000;
 	icon = iconManLeader;
 };
+class Atlas_B_A_Soldier_sniper_base: Atlas_B_A_Soldier_Base_F
+{
+	author = $STR_A3_A_Ravenholme;
+    class SpeechVariants
+    {
+        class Default
+        {
+            speechSingular[] = {veh_infantry_sniper_s};
+            speechPlural[] = {veh_infantry_sniper_p};
+        };
+    };
+    textSingular = $STR_A3_nameSound_veh_infantry_sniper_s;
+    textPlural = $STR_A3_nameSound_veh_infantry_sniper_p;
+    nameSound = veh_infantry_sniper_s;
+	identityTypes[] =
+	{
+		LanguageENGB_F,
+		Head_Euro,
+		Head_Enoch,
+		Head_NZ,
+		G_NATO_sniper
+	};
+	uniformClass = Atlas_U_B_A_GhillieSuit;
+    vehicleClass = MenSniper;
+	editorSubcategory = EdSubcat_Personnel_SpecialForces;
+	items[] =
+	{
+		FirstAidKit,
+		optic_tws_sniper,
+        muzzle_snds_408_black
+	};
+	respawnItems[] =
+	{
+		FirstAidKit,
+		optic_tws_sniper,
+        muzzle_snds_408_black
+	};
+	canHideBodies = false;
+	role = Marksman;
+	primaryAmmoCoef = 0.2;
+	secondaryAmmoCoef = 0.05;
+	handgunAmmoCoef = 0.1;
+};
+class Atlas_B_A_spotter_F: Atlas_B_A_Soldier_sniper_base
+{
+	author = $STR_A3_A_Ravenholme;
+	class SpeechVariants
+	{
+		class Default
+		{
+			speechSingular[] = {veh_infantry_SF_s};
+			speechPlural[] = {veh_infantry_SF_p};
+		};
+	};
+	textSingular = $STR_A3_nameSound_veh_infantry_SF_s;
+	textPlural = $STR_A3_nameSound_veh_infantry_SF_p;
+	nameSound = veh_infantry_SF_s;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_spotter_F.jpg";
+	scope = public;
+	scopeCurator = public;
+	displayName = $STR_B_spotter_F0;
+	items[] =
+	{
+		FirstAidKit,
+		optic_tws
+	};
+	respawnItems[] =
+	{
+		FirstAidKit,
+		optic_tws
+	};
+	linkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles
+	};
+	respawnLinkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles
+	};
+    weapons[] =
+    {
+        arifle_AUG_MRCO_Snds_IR_F,
+        hgun_P07_snds_F,
+        DefaultManWeapons,
+        Laserdesignator_03
+    };
+    respawnWeapons[] =
+    {
+        arifle_AUG_MRCO_Snds_IR_F,
+        hgun_ACPC2_snds_F,
+        DefaultManWeapons,
+        Laserdesignator_03
+    };
+    magazines[] =
+    {
+        mag_6(30Rnd_556x45_AUG_Mag_F),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(MiniGrenade),
+        mag_2(B_IR_Grenade),
+        Laserbatteries,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+    respawnMagazines[] =
+    {
+        mag_6(30Rnd_556x45_AUG_Mag_F),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(MiniGrenade),
+        mag_2(B_IR_Grenade),
+        Laserbatteries,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+	cost = 100000;
+	camouflage = 0.6;
+	role = Marksman;
+	threat[] = {0.8,0.1,0.1};
+};
+class Atlas_B_A_sniper_F: Atlas_B_A_Soldier_sniper_base
+{
+	author = $STR_A3_A_Ravenholme;
+	class SpeechVariants
+	{
+		class Default
+		{
+			speechSingular[] = {veh_infantry_sniper_s};
+			speechPlural[] = {veh_infantry_sniper_p};
+		};
+	};
+	textSingular = $STR_A3_nameSound_veh_infantry_sniper_s;
+	textPlural = $STR_A3_nameSound_veh_infantry_sniper_p;
+	nameSound = veh_infantry_sniper_s;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_A_sniper_F.jpg";
+	scope = public;
+	scopeCurator = public;
+	displayName = $STR_B_sniper_F0;
+	linkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles
+	};
+	respawnLinkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles
+	};
+	weapons[] =
+	{
+		srifle_LRR_LRPS_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons,
+		Rangefinder
+	};
+	respawnWeapons[] =
+	{
+		srifle_LRR_LRPS_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons,
+		Rangefinder
+	};
+	magazines[] =
+	{
+        mag_6(7Rnd_408_Mag),
+        mag_2(5Rnd_127x108_APDS_Mag),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(7Rnd_408_Mag),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	camouflage = 0.6;
+	role = Marksman;
+};
 
 /* ADF Arid */
 
@@ -4133,6 +4329,202 @@ class Atlas_B_A_Soldier_universal_ard_F: Atlas_B_A_Soldier_ard_F
 		G_NATO_pilot
 	};
 }; */
+class Atlas_B_A_Soldier_sniper_ard_base: Atlas_B_A_Soldier_ard_base_F
+{
+	author = $STR_A3_A_Ravenholme;
+    class SpeechVariants
+    {
+        class Default
+        {
+            speechSingular[] = {veh_infantry_sniper_s};
+            speechPlural[] = {veh_infantry_sniper_p};
+        };
+    };
+    textSingular = $STR_A3_nameSound_veh_infantry_sniper_s;
+    textPlural = $STR_A3_nameSound_veh_infantry_sniper_p;
+    nameSound = veh_infantry_sniper_s;
+	identityTypes[] =
+	{
+		LanguageENGB_F,
+		Head_Euro,
+		Head_Enoch,
+		Head_NZ,
+		G_NATO_sniper
+	};
+	uniformClass = Atlas_U_B_A_GhillieSuit_Arid;
+    vehicleClass = MenSniper;
+	editorSubcategory = EdSubcat_Personnel_SpecialForces;
+	items[] =
+	{
+		FirstAidKit,
+		optic_tws_sniper,
+        muzzle_snds_408_black
+	};
+	respawnItems[] =
+	{
+		FirstAidKit,
+		optic_tws_sniper,
+        muzzle_snds_408_black
+	};
+	canHideBodies = false;
+	role = Marksman;
+	primaryAmmoCoef = 0.2;
+	secondaryAmmoCoef = 0.05;
+	handgunAmmoCoef = 0.1;
+};
+class Atlas_B_A_spotter_ard_F: Atlas_B_A_Soldier_sniper_ard_base
+{
+	author = $STR_A3_A_Ravenholme;
+	class SpeechVariants
+	{
+		class Default
+		{
+			speechSingular[] = {veh_infantry_SF_s};
+			speechPlural[] = {veh_infantry_SF_p};
+		};
+	};
+	textSingular = $STR_A3_nameSound_veh_infantry_SF_s;
+	textPlural = $STR_A3_nameSound_veh_infantry_SF_p;
+	nameSound = veh_infantry_SF_s;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_spotter_ard_F.jpg";
+	scope = public;
+	scopeCurator = public;
+	displayName = $STR_B_spotter_F0;
+	items[] =
+	{
+		FirstAidKit,
+		optic_tws
+	};
+	respawnItems[] =
+	{
+		FirstAidKit,
+		optic_tws
+	};
+	linkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles
+	};
+	respawnLinkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles
+	};
+    weapons[] =
+    {
+        arifle_AUG_MRCO_Snds_IR_F,
+        hgun_P07_snds_F,
+        DefaultManWeapons,
+        Laserdesignator_03
+    };
+    respawnWeapons[] =
+    {
+        arifle_AUG_MRCO_Snds_IR_F,
+        hgun_ACPC2_snds_F,
+        DefaultManWeapons,
+        Laserdesignator_03
+    };
+    magazines[] =
+    {
+        mag_6(30Rnd_556x45_AUG_Mag_F),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(MiniGrenade),
+        mag_2(B_IR_Grenade),
+        Laserbatteries,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+    respawnMagazines[] =
+    {
+        mag_6(30Rnd_556x45_AUG_Mag_F),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(MiniGrenade),
+        mag_2(B_IR_Grenade),
+        Laserbatteries,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+	cost = 100000;
+	camouflage = 0.6;
+	role = Marksman;
+	threat[] = {0.8,0.1,0.1};
+};
+class Atlas_B_A_sniper_ard_F: Atlas_B_A_Soldier_sniper_ard_base
+{
+	author = $STR_A3_A_Ravenholme;
+	class SpeechVariants
+	{
+		class Default
+		{
+			speechSingular[] = {veh_infantry_sniper_s};
+			speechPlural[] = {veh_infantry_sniper_p};
+		};
+	};
+	textSingular = $STR_A3_nameSound_veh_infantry_sniper_s;
+	textPlural = $STR_A3_nameSound_veh_infantry_sniper_p;
+	nameSound = veh_infantry_sniper_s;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_A_sniper_ard_F.jpg";
+	scope = public;
+	scopeCurator = public;
+	displayName = $STR_B_sniper_F0;
+	linkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles
+	};
+	respawnLinkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles
+	};
+	weapons[] =
+	{
+		srifle_LRR_LRPS_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons,
+		Rangefinder
+	};
+	respawnWeapons[] =
+	{
+		srifle_LRR_LRPS_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons,
+		Rangefinder
+	};
+	magazines[] =
+	{
+        mag_6(7Rnd_408_Mag),
+        mag_2(5Rnd_127x108_APDS_Mag),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(7Rnd_408_Mag),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	camouflage = 0.6;
+	role = Marksman;
+};
 
 /* ADF Tropic */
 
@@ -6013,4 +6405,200 @@ class Atlas_B_A_Soldier_universal_trp_F: Atlas_B_A_Soldier_trp_F
 	engineer = true;
 	canDeactivateMines = true;
 	role = Rifleman;
+};
+class Atlas_B_A_Soldier_sniper_trp_base: Atlas_B_A_Soldier_trp_base_F
+{
+	author = $STR_A3_A_Ravenholme;
+    class SpeechVariants
+    {
+        class Default
+        {
+            speechSingular[] = {veh_infantry_sniper_s};
+            speechPlural[] = {veh_infantry_sniper_p};
+        };
+    };
+    textSingular = $STR_A3_nameSound_veh_infantry_sniper_s;
+    textPlural = $STR_A3_nameSound_veh_infantry_sniper_p;
+    nameSound = veh_infantry_sniper_s;
+	identityTypes[] =
+	{
+		LanguageENGB_F,
+		Head_Euro,
+		Head_Enoch,
+		Head_NZ,
+		G_NATO_sniper
+	};
+	uniformClass = Atlas_U_B_A_GhillieSuit_Tropical;
+    vehicleClass = MenSniper;
+	editorSubcategory = EdSubcat_Personnel_SpecialForces;
+	items[] =
+	{
+		FirstAidKit,
+		optic_tws_sniper,
+        muzzle_snds_408_black
+	};
+	respawnItems[] =
+	{
+		FirstAidKit,
+		optic_tws_sniper,
+        muzzle_snds_408_black
+	};
+	canHideBodies = false;
+	role = Marksman;
+	primaryAmmoCoef = 0.2;
+	secondaryAmmoCoef = 0.05;
+	handgunAmmoCoef = 0.1;
+};
+class Atlas_B_A_spotter_trp_F: Atlas_B_A_Soldier_sniper_trp_base
+{
+	author = $STR_A3_A_Ravenholme;
+	class SpeechVariants
+	{
+		class Default
+		{
+			speechSingular[] = {veh_infantry_SF_s};
+			speechPlural[] = {veh_infantry_SF_p};
+		};
+	};
+	textSingular = $STR_A3_nameSound_veh_infantry_SF_s;
+	textPlural = $STR_A3_nameSound_veh_infantry_SF_p;
+	nameSound = veh_infantry_SF_s;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_spotter_trp_F.jpg";
+	scope = public;
+	scopeCurator = public;
+	displayName = $STR_B_spotter_F0;
+	items[] =
+	{
+		FirstAidKit,
+		optic_tws
+	};
+	respawnItems[] =
+	{
+		FirstAidKit,
+		optic_tws
+	};
+	linkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles_INDEP
+	};
+    weapons[] =
+    {
+        arifle_AUG_black_MRCO_Snds_IR_F,
+        hgun_P07_snds_F,
+        DefaultManWeapons,
+        Laserdesignator_03
+    };
+    respawnWeapons[] =
+    {
+        arifle_AUG_black_MRCO_Snds_IR_F,
+        hgun_ACPC2_snds_F,
+        DefaultManWeapons,
+        Laserdesignator_03
+    };
+    magazines[] =
+    {
+        mag_6(30Rnd_556x45_AUG_Mag_F),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(MiniGrenade),
+        mag_2(B_IR_Grenade),
+        Laserbatteries,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+    respawnMagazines[] =
+    {
+        mag_6(30Rnd_556x45_AUG_Mag_F),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(MiniGrenade),
+        mag_2(B_IR_Grenade),
+        Laserbatteries,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+	cost = 100000;
+	camouflage = 0.6;
+	role = Marksman;
+	threat[] = {0.8,0.1,0.1};
+};
+class Atlas_B_A_sniper_trp_F: Atlas_B_A_Soldier_sniper_trp_base
+{
+	author = $STR_A3_A_Ravenholme;
+	class SpeechVariants
+	{
+		class Default
+		{
+			speechSingular[] = {veh_infantry_sniper_s};
+			speechPlural[] = {veh_infantry_sniper_p};
+		};
+	};
+	textSingular = $STR_A3_nameSound_veh_infantry_sniper_s;
+	textPlural = $STR_A3_nameSound_veh_infantry_sniper_p;
+	nameSound = veh_infantry_sniper_s;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\B_A_sniper_trp_F.jpg";
+	scope = public;
+	scopeCurator = public;
+	displayName = $STR_B_sniper_F0;
+	linkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_TacChestrig_oli_F,
+        ItemGPS,
+		DefaultManLinkedItems,
+		NVGoggles_INDEP
+	};
+	weapons[] =
+	{
+		srifle_LRR_LRPS_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons,
+		Rangefinder
+	};
+	respawnWeapons[] =
+	{
+		srifle_LRR_LRPS_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons,
+		Rangefinder
+	};
+	magazines[] =
+	{
+        mag_6(7Rnd_408_Mag),
+        mag_2(5Rnd_127x108_APDS_Mag),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(7Rnd_408_Mag),
+        mag_2(16Rnd_9x21_Mag),
+        ClaymoreDirectionalMine_Remote_Mag,
+        APERSTripMine_Wire_Mag,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	camouflage = 0.6;
+	role = Marksman;
 };

@@ -93,6 +93,9 @@ class CfgVehicles
 	UNIFORM_HOLDER(Atlas_U_I_I_Wetsuit,$STR_A3_A_CfgWeapons_U_I_I_Wetsuit0)
 	UNIFORM_HOLDER(Atlas_U_Tank_olive_F,$STR_A3_A_CfgWeapons_U_Tank_olive_F0)
 	UNIFORM_HOLDER(Atlas_U_I_I_CBRN_Suit_01_Olive_F,$STR_A3_A_CfgWeapons_U_I_I_CBRN_Suit_01_Olive_F0)
+	UNIFORM_HOLDER(Atlas_U_B_A_GhillieSuit,$STR_A3_A_CfgWeapons_U_B_A_GhillieSuit0)
+	UNIFORM_HOLDER(Atlas_U_B_A_GhillieSuit_Arid,$STR_A3_A_CfgWeapons_U_B_A_GhillieSuit_Arid0)
+	UNIFORM_HOLDER(Atlas_U_B_A_GhillieSuit_Tropical,$STR_A3_A_CfgWeapons_U_B_A_GhillieSuit_Tropical0)
     // Deprecated classes
     DEPRECATED_CLASS(Item_U_O_V_Soldier_Viper_whex_F,Item_Atlas_U_O_V_Soldier_Viper_whex_F);
     DEPRECATED_CLASS(Item_U_O_W_CombatUniform_owcamo,Item_Atlas_U_O_W_CombatUniform_owcamo);
