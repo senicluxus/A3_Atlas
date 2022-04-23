@@ -2005,6 +2005,192 @@ class Atlas_B_A_Pilot_F: Atlas_B_A_Soldier_base_F
 		G_NATO_pilot
 	};
 };
+class Atlas_B_A_Soldier_diver_base: Atlas_B_A_Soldier_Base_F
+{
+    author = $STR_A3_A_Ravenholme;
+    class SpeechVariants
+    {
+        class Default
+        {
+            speechSingular[] = {veh_infantry_diver_s};
+            speechPlural[] = {veh_infantry_diver_p};
+        };
+    };
+    textSingular = $STR_A3_nameSound_veh_infantry_diver_s;
+    textPlural = $STR_A3_nameSound_veh_infantry_diver_p;
+    nameSound = veh_infantry_diver_s;
+	identityTypes[] =
+	{
+		LanguageENGB_F,
+		Head_Euro,
+		Head_Enoch,
+		Head_NZ,
+		G_NATO_diver
+	};
+	uniformClass = Atlas_U_B_A_Wetsuit;
+    vehicleClass = MenDiver;
+	editorSubcategory = EdSubcat_Personnel_SpecialForces;
+	role = SpecialOperative;
+	camouflage = 2;
+	canHideBodies = false;
+};
+class Atlas_B_A_diver_F: Atlas_B_A_Soldier_diver_base
+{
+	author = $STR_A3_A_Ravenholme;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_diver_F.jpg";
+    scope = public;
+    scopeCurator = public;
+    displayName = $STR_B_diver_F0;
+	linkedItems[] =
+	{
+		V_RebreatherB,
+		G_B_O_Diving,
+		DefaultManLinkedItems
+	};
+	respawnLinkedItems[] =
+	{
+		V_RebreatherB,
+		G_B_O_Diving,
+		DefaultManLinkedItems
+	};
+	weapons[] =
+	{
+		arifle_SDAR_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons
+	};
+	respawnWeapons[] =
+	{
+		arifle_SDAR_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons
+	};
+    magazines[] =
+    {
+        mag_3(20Rnd_556x45_Stanag),
+        mag_3(20Rnd_556x45_UW_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+    respawnMagazines[] =
+    {
+        mag_3(20Rnd_556x45_Stanag),
+        mag_3(20Rnd_556x45_UW_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+    cost = 70000;
+};
+class Atlas_B_A_diver_exp_F: Atlas_B_A_Soldier_diver_base
+{
+	author = $STR_A3_A_AveryTheKitty;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_diver_exp_F.jpg";
+    scope = public;
+    scopeCurator = public;
+    displayName = $STR_B_diver_exp_F0;
+	backpack = B_AssaultPack_blk_DiverExp;
+	linkedItems[] =
+	{
+		V_RebreatherB,
+		G_B_O_Diving,
+		DefaultManLinkedItems
+	};
+	respawnLinkedItems[] =
+	{
+		V_RebreatherB,
+		G_B_O_Diving,
+		DefaultManLinkedItems
+	};
+	weapons[] =
+	{
+		arifle_SDAR_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons
+	};
+	respawnWeapons[] =
+	{
+		arifle_SDAR_F,
+		hgun_P07_snds_F,
+		DefaultManWeapons
+	};
+    magazines[] =
+    {
+        mag_3(20Rnd_556x45_Stanag),
+        mag_3(20Rnd_556x45_UW_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+    respawnMagazines[] =
+    {
+        mag_3(20Rnd_556x45_Stanag),
+        mag_3(20Rnd_556x45_UW_mag),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+	canDeactivateMines = true;
+    cost = 90000;
+	icon = iconManExplosive;
+};
+class Atlas_B_A_diver_TL_F: Atlas_B_A_Soldier_diver_base
+{
+	author = $STR_A3_A_AveryTheKitty;
+	//editorPreview = "\A3_Atlas\EditorPreviews_F_Atlas\Data\CfgVehicles\Atlas_B_A_diver_TL_F.jpg";
+    scope = public;
+    scopeCurator = public;
+    displayName = $STR_B_diver_TL_F0;
+	linkedItems[] =
+	{
+		V_RebreatherB,
+		G_B_O_Diving,
+		ItemGPS,
+		DefaultManLinkedItems
+	};
+	respawnLinkedItems[] =
+	{
+		V_RebreatherB,
+		G_B_O_Diving,
+		ItemGPS,
+		DefaultManLinkedItems
+	};
+    weapons[] =
+    {
+        arifle_SDAR_F,
+        hgun_P07_snds_F,
+        DefaultManWeapons,
+        Binocular
+    };
+    respawnWeapons[] =
+    {
+        arifle_SDAR_F,
+        hgun_P07_snds_F,
+        DefaultManWeapons,
+        Binocular
+    };
+    magazines[] =
+    {
+        mag_3(20Rnd_556x45_Stanag),
+        mag_3(20Rnd_556x45_UW_mag),
+        mag_2(16Rnd_9x21_Mag),
+        SmokeShell,
+        SMOKESHELLS_BLUFOR,
+        mag_2(Chemlight_green)
+    };
+    respawnMagazines[] =
+    {
+        mag_3(20Rnd_556x45_Stanag),
+        mag_3(20Rnd_556x45_UW_mag),
+        mag_2(16Rnd_9x21_Mag),
+        SmokeShell,
+        SMOKESHELLS_BLUFOR,
+        mag_2(Chemlight_green)
+    };
+    cost = 430000;
+	icon = iconManLeader;
+};
 
 /* ADF Arid */
 
