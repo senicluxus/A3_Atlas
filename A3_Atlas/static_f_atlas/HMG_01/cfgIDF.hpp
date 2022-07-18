@@ -88,7 +88,7 @@ class Atlas_I_I_HMG_01_high_F: I_HMG_01_high_F
 		dissasembleTo[] =
 		{
             Atlas_I_I_HMG_01_high_weapon_F,
-            Atlas_I_I_HMG_01_support_F
+            Atlas_I_I_HMG_01_support_high_F
 		};
 	};
 };
