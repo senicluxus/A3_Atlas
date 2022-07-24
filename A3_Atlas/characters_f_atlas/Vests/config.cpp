@@ -18,6 +18,7 @@ class CfgWeapons
 	class V_RebreatherB;
 	class V_PlateCarrierGL_rgr;
 	class V_PlateCarrier1_rgr;
+	class VestItem;
 	class V_PlateCarrier2_rgr;
 	// Arma 3 Enoch
 	class V_CarrierRigKBT_01_base_F;
@@ -42,9 +43,33 @@ class CfgWeapons
 		author = $STR_A3_A_BranFlakes;
 		scope = public;
 		displayName = $STR_A3_A_CfgWeapons_V_CarrierRigKBT_01_light_idfsf_F0;
-		//picture = "\A3_Revolucion\Characters_F_Revolucion\Vests\Data\UI\V_CarrierRigKBT_01_light_ctrg_F_CA.paa";
+		//picture = "\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\V_CarrierRigKBT_01_light_ctrg_F_CA.paa";
 		hiddenSelectionsMaterials[] = {"\A3_Atlas\Characters_F_Atlas\vests\Data\vest_idfsf.rvmat"};
 		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\CarrierRigKBT_01_flag_CO.paa"};
+    };
+    class V_CarrierRigKBT_01_france_F: V_CarrierRigKBT_01_base_F
+	{
+		author = $STR_A3_A_BranFlakes;
+		scope = public;
+		displayName = "Modular Carrier Rig [France]";
+		//picture = "\A3_arachnae\Characters_F_arachnae\Vests\Data\UI\V_CarrierRigKBT_01_SK_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\CarrierRigKBT_01_france_CO.paa"};
+    };
+    class V_CarrierRigKBT_01_light_france_F: V_CarrierRigKBT_01_light_base_F
+	{
+		author = $STR_A3_A_BranFlakes;
+		scope = public;
+		displayName = "Modular Carrier Lite [France]";
+		//picture = "\A3_arachnae\Characters_F_arachnae\Vests\Data\UI\V_CarrierRigKBT_01_light_SK_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\CarrierRigKBT_01_france_CO.paa"};
+    };
+    class V_CarrierRigKBT_01_heavy_france_F: V_CarrierRigKBT_01_heavy_base_F
+	{
+		author = $STR_A3_A_BranFlakes;
+		scope = public;
+		displayName = "Modular Carrier GL Rig [France]";
+		//picture = "\A3_arachnae\Characters_F_arachnae\Vests\Data\UI\V_CarrierRigKBT_01_heavy_SK_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Atlas\Characters_F_Atlas\Vests\Data\CarrierRigKBT_01_france_CO.paa"};
     };
 	class V_HarnessOGL_tan: V_HarnessOGL_brn
 	{
@@ -369,6 +394,210 @@ class CfgWeapons
 			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\diver_equip_olive_CO.paa",
 			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\diver_equip_olive_CO.paa",
 			"\A3\Characters_F\Data\visors_CA.paa"
+		};
+	};
+	class V_EastCarrierRig_F: V_PlateCarrier1_rgr 
+	{
+		author = "Jamie";
+		scope = public;
+		scopeArsenal = public;
+		displayName = "Punisher Rig (Olive)";
+		//picture = "\jam_cdf_core\data\icon_ca.paa";
+        hiddenSelections[] = {camo}; 
+		hiddenSelectionsTextures[] = { "\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_6B43_CO.paa"};
+		model = "\A3_Atlas\Characters_F_Atlas\Vests\v_bel_vest_6b43_empty.p3d"; 
+		class ItemInfo : VestItem
+		{
+			uniformModel = "\A3_Atlas\Characters_F_Atlas\Vests\v_bel_vest_6b43_empty.p3d";
+			hiddenSelections[] = {camo};
+			hiddenSelectionsTextures[] = { "\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_6B43_CO.paa"};
+			containerClass = Supply60;
+			mass = 25;
+			class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					hitpointName	= "HitChest";
+					armor			= 12;
+					passThrough		= 0.1;
+				};
+				class Diaphragm
+				{
+					hitpointName	= "HitDiaphragm";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Abdomen
+				{
+					hitpointName	= "HitAbdomen";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Body
+				{
+					hitpointName	= "HitBody";
+					passThrough		= 0.1;
+				};
+			};
+		};
+	};
+	class V_EastCarrierRig_Lite_F: V_PlateCarrier1_rgr 
+	{
+		author = "Jamie";
+		scope = public;
+		scopeArsenal = public;
+		displayName = "Punisher Lite Rig (Olive)";
+		//picture = "\jam_cdf_core\data\icon_ca.paa";
+        hiddenSelections[] = {camo,camo1}; 
+		hiddenSelectionsTextures[] = 
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_6B43_CO.paa",
+			"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_Pouches_CO.paa"
+		};
+		model = "\A3_Atlas\Characters_F_Atlas\Vests\v_bel_vest_6b43_rifleman.p3d";
+		class ItemInfo : VestItem
+		{
+			uniformModel = "\A3_Atlas\Characters_F_Atlas\Vests\v_bel_vest_6b43_rifleman.p3d";
+			hiddenSelections[] = {camo,camo1};
+			hiddenSelectionsTextures[] = 
+			{
+				"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_6B43_CO.paa",
+				"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_Pouches_CO.paa"
+			};
+			containerClass = Supply140;
+			mass = 35;
+			class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					hitpointName	= "HitChest";
+					armor			= 12;
+					passThrough		= 0.1;
+				};
+				class Diaphragm
+				{
+					hitpointName	= "HitDiaphragm";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Abdomen
+				{
+					hitpointName	= "HitAbdomen";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Body
+				{
+					hitpointName	= "HitBody";
+					passThrough		= 0.1;
+				};
+			};
+		};
+	};
+	class V_EastCarrierRig_MG_F : V_PlateCarrier1_rgr 
+	{
+		author = "Jamie";
+		scope = public;
+		scopeArsenal = public;
+		displayName = "Punisher MG Rig (Olive)";
+		//picture = "\jam_cdf_core\data\icon_ca.paa";
+        hiddenSelections[] = {camo,camo1}; 
+		hiddenSelectionsTextures[] = 
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_6B43_CO.paa",
+			"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_Pouches_CO.paa"
+		};
+		model = "\A3_Atlas\Characters_F_Atlas\Vests\v_bel_vest_6b43_autorifleman.p3d";
+		class ItemInfo : VestItem
+		{
+			uniformModel = "\A3_Atlas\Characters_F_Atlas\Vests\v_bel_vest_6b43_autorifleman.p3d";
+			hiddenSelections[] = {camo,camo1};
+			hiddenSelectionsTextures[] = 
+			{
+				"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_6B43_CO.paa",
+				"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_Pouches_CO.paa"
+			};
+			containerClass = Supply160;
+			mass = 40;
+			class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					hitpointName	= "HitChest";
+					armor			= 12;
+					passThrough		= 0.1;
+				};
+				class Diaphragm
+				{
+					hitpointName	= "HitDiaphragm";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Abdomen
+				{
+					hitpointName	= "HitAbdomen";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Body
+				{
+					hitpointName	= "HitBody";
+					passThrough		= 0.1;
+				};
+			};
+		};
+	};
+	class V_EastCarrierRig_GL_F: V_PlateCarrier1_rgr 
+	{
+		author = "Jamie";
+		scope = public;
+		scopeArsenal = public;
+		displayName = "Punisher GL Rig (Woodland Hex)";
+		//picture = "\jam_cdf_core\data\icon_ca.paa";
+        hiddenSelections[] = {camo,camo1}; 
+		hiddenSelectionsTextures[] = 
+		{
+			"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_6B43_CO.paa",
+			"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_Pouches_CO.paa"
+		};
+		model = "\A3_Atlas\Characters_F_Atlas\Vests\v_bel_vest_6b43_rifleman_gl.p3d";
+		class ItemInfo : VestItem
+		{
+			uniformModel = "\A3_Atlas\Characters_F_Atlas\Vests\v_bel_vest_6b43_rifleman_gl.p3d";
+			hiddenSelections[] = {camo,camo1};
+			hiddenSelectionsTextures[] = 
+			{
+				"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_6B43_CO.paa",
+				"\A3_Atlas\Characters_F_Atlas\Vests\data\VZ_Pouches_CO.paa"
+			};
+			containerClass = Supply140;
+			mass = 35;
+			class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					hitpointName	= "HitChest";
+					armor			= 12;
+					passThrough		= 0.1;
+				};
+				class Diaphragm
+				{
+					hitpointName	= "HitDiaphragm";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Abdomen
+				{
+					hitpointName	= "HitAbdomen";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Body
+				{
+					hitpointName	= "HitBody";
+					passThrough		= 0.1;
+				};
+			};
 		};
 	};
 };
