@@ -308,6 +308,18 @@ class CfgWeapons
 			"\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetSpecter_cover_cdf_CO.paa"
 		};
 	};
+	class H_HelmetSpecter_cover_whex_CO: H_HelmetSpecter_cover_base_F
+    {
+        author = $STR_A3_A_AveryTheKitty_Deathstruck_and_Midnas;
+        scope = public;
+        displayName = "Raven Helmet (Cover W)";
+        //picture = "\A3_Revolucion\Characters_F_Revolucion\Headgear\Data\UI\rev_H_HelmetSpecter_cover_whex_CO_CA.paa";
+        hiddenSelectionsTextures[] =
+        {
+            "\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+            "\A3_Atlas\Characters_F_Atlas\Headgear\Data\H_HelmetSpecter_cover_whex_CO.paa"
+        };
+    };
 	class H_HelmetI_I_01_base_F: HelmetBase
 	{
 		author = $STR_A3_A_AveryTheKitty;
